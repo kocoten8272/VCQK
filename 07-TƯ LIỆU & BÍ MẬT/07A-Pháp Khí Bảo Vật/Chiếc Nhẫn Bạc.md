@@ -26,3 +26,10 @@ tags:
 
 - Nhân vật: [[Lâm Uyên]]
 - Bí ẩn: [[Hắc Quan]], [[Đời Thứ Chín]], [[Quy Khư]]
+
+## Danh xưng về sau
+
+Khi bí mật quanh vật này được mở thêm, chiếc nhẫn được gọi là **Hàn Ngân Giới**. Danh xưng chỉ mô tả tính chất lạnh lẽo và phản ứng của nó; chưa xác nhận nguồn gốc hay công dụng hoàn chỉnh.
+
+- Nhẫn chỉ cảnh báo Lâm Uyên khi hắn tới gần một nơi hoặc cấm chế liên quan nhân quả của mình.
+- Nó không tự mở khóa, không chỉ đường an toàn và không thay thế lựa chọn của Lâm Uyên.
