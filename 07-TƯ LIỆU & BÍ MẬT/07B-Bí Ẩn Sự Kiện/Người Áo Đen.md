@@ -28,3 +28,11 @@ tags:
 - Nhân vật: [[Lâm Uyên]], [[Tô Thanh Ly]]
 - Thuật ngữ: [[Quy Khư Quyết]], [[Cảnh Giới]]
 - Timeline: [[Đời Thứ Mười]]
+
+## Danh xưng và dấu vết
+
+Từ giai đoạn Hắc Phong Sơn, kẻ đứng đầu hoặc người xuất hiện riêng lẻ với áo choàng tối được gọi là **Huyền Bào Nhân**. Đây là danh xưng quan sát, không phải tên thật và không xác nhận Huyền Bào Nhân là cùng một người trong mọi lần xuất hiện.
+
+- **Hàn Tẫn:** tro lạnh lưu lại quanh dấu vết của hắn.
+- **Tử Huyết Ngân:** vệt máu tối, khó tan, có thể xuất hiện khi hắn bị thương.
+- Các dấu vết chỉ giúp nhận diện sự can thiệp; không được dùng để suy ra ngay thân phận hay phe phái.
