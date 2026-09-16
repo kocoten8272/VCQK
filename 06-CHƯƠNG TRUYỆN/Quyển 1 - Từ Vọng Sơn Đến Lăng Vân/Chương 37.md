@@ -9,211 +9,167 @@ tags:
 
 ## Chương 37: Cánh Cửa Phía Sau Bóng Tối
 
-Tiếng động vọng lên từ dưới lòng đất thêm một lần nữa rồi im bặt. Lâm Uyên vẫn đứng trước bức tường đá, bàn tay dừng giữa không trung, mảnh xương trong tay áo lạnh dần xuống. Tô Trạch không thúc giục hắn. Lão chỉ nhìn khe nhỏ giữa những đường vân xám bạc, như thể đang cân nhắc một cánh cửa không nên tùy tiện mở.
+Tiếng động vọng lên từ sâu dưới lòng đất thêm một lần nữa rồi im bặt. Lâm Uyên vẫn đứng trước bức tường đá, bàn tay dừng giữa không trung, không chạm vào khe nhỏ giữa những đường vân xám bạc. Sau lưng hắn, ánh sáng từ phù văn trong tay Tô Trạch lay động rất nhẹ, soi lên những gương mặt đang im lặng chờ đợi. Không ai biết tiếng *cạch* vừa rồi có ý nghĩa gì, nhưng từ lúc nghe thấy nó, cả gian hang dường như trở nên chật hơn.
 
-Tô Thanh Ly bước tới gần hơn, nhưng không đứng sát vào Lâm Uyên. Nàng nhìn bức tường một lúc rồi hỏi khẽ: *“Tiếng vừa rồi từ đâu truyền tới?”* Lâm Uyên lắc đầu. Hắn không biết. Điều hắn chắc chắn duy nhất là âm thanh ấy không đến từ phía sau bức tường trước mặt. Nó vọng lên từ sâu hơn, sâu đến mức ngay cả cảm giác chấn động cũng trở nên mơ hồ.
+Tô Thanh Ly bước đến gần bức tường, nhìn thật lâu rồi hỏi khẽ: *“Tiếng vừa rồi từ đâu truyền tới?”* Lâm Uyên lắc đầu. Hắn nghe rất rõ, nhưng không xác định được phương hướng; âm thanh ấy không giống tiếng đá chuyển động ngay bên cạnh, mà như vọng lên từ một nơi nằm sâu hơn, xa đến mức mặt đất chỉ truyền lại một phần rất nhỏ của nó.
 
-Tô Trạch đưa phù trong tay lên. Ánh sáng nhợt nhạt quét qua vách đá, soi rõ từng đường vân bạc chạy ngoằn ngoèo như rễ cây khô. Lão thử lại một lần, nhưng linh lực vừa chạm vào mặt đá đã tan mất. Không có phản chấn, cũng không có dấu hiệu chống cự. Chỉ đơn giản là không thể đi vào.
+Tô Trạch đưa phù trong tay lên cao. Ánh sáng nhợt nhạt lướt qua vách đá, soi rõ những đường vân bạc chạy ngoằn ngoèo như mạch cây đã khô. Lão thử dùng linh lực thăm dò. Luồng sáng vừa chạm vào mặt đá liền tản ra, không gặp phải phản chấn, cũng không có dấu hiệu bị hút mất. Nó chỉ đơn giản là không thể đi sâu thêm.
 
-Một đệ tử Chấp pháp nhìn khe nhỏ ở giữa tường, thấp giọng nói: *“Có khi nào đây là then cửa?”*
+Một đệ tử Chấp pháp nhìn khe đá, thấp giọng nói: *“Có khi nào đây là then cửa?”*
 
-Tô Trạch không trả lời ngay. Lão cúi xuống nhìn nền đá dưới chân rồi đi dọc theo bức tường. Những người khác cũng lần lượt theo sau. Lâm Uyên không động đậy. Ánh mắt hắn vẫn đặt trên khe nhỏ kia.
+Tô Trạch không đáp ngay. Lão cúi xuống, chậm rãi nhìn nền đá dưới chân rồi đi dọc theo bức tường. Sáu đệ tử cũng lần lượt tản ra tìm kiếm. Lâm Uyên vẫn đứng nguyên chỗ cũ. Ánh mắt hắn dừng trên khe nhỏ kia lâu hơn mức cần thiết.
 
-Chiếc nhẫn bạc trên tay hắn bỗng lạnh đến mức đầu ngón tay tê đi.
+Chiếc nhẫn bạc trên tay bỗng lạnh buốt.
 
-Hắn lập tức rút tay lại.
+Cảm giác ấy đến nhanh đến mức các đầu ngón tay hắn tê đi. Lâm Uyên lập tức rút tay về, nhưng chỉ một thoáng sau, mảnh xương giấu trong tay áo lại khẽ rung.
 
-Tô Thanh Ly quay đầu: *“Lâm Uyên?”*
+Hắn đưa tay giữ lấy nó.
 
-*“Không có gì.”*
+Một hình ảnh vụt qua trong đầu.
 
-Hắn nói vậy, nhưng ngay trong khoảnh khắc ấy, mảnh xương trong tay áo khẽ rung. Không mạnh, chỉ một lần rất nhẹ. Lâm Uyên đưa tay giữ nó lại, đồng thời cảm thấy một mảnh hình ảnh thoáng qua trong đầu.
-
-Một hành lang rất dài.
-
-Không có ánh sáng.
-
-Có người đi phía trước hắn, bóng lưng bị bóng tối nuốt gần hết. Người đó dừng lại trước một cánh cửa, rồi quay đầu.
+Một hành lang rất dài, tối đến mức không nhìn thấy điểm cuối. Có người đi phía trước hắn. Chỉ thấy một bóng lưng chìm trong bóng tối, bước chân chậm rãi, đều đặn, không phát ra tiếng. Người kia dừng lại trước một cánh cửa rồi quay đầu.
 
 Lâm Uyên không nhìn thấy mặt.
 
-Chỉ nghe một giọng nói rất xa: *“Đừng quay lại.”*
+Chỉ có một giọng nói rất xa vọng tới.
 
-Hình ảnh biến mất.
+*“Đừng quay lại.”*
 
-Lâm Uyên mở mắt. Mồ hôi lạnh đã ướt một lớp mỏng trên lòng bàn tay.
+Hình ảnh tắt đi.
 
-*“Ngươi nhớ ra gì sao?”* Tô Thanh Ly hỏi.
+Lâm Uyên mở mắt. Lòng bàn tay đã ướt mồ hôi.
 
-Lâm Uyên nhìn nàng, im lặng một thoáng rồi lắc đầu. *“Không rõ.”*
+Tô Thanh Ly đang nhìn hắn.
 
-Nàng không hỏi tiếp.
+*“Ngươi nhớ ra gì sao?”*
 
-Ở phía trước, Tô Trạch đã dừng lại. Lão chỉ vào nền đá ngay sát chân tường. Ở đó có một đường rãnh rất mảnh, bị đất và bụi che gần kín. Đường rãnh chạy từ mép tường sang bên phải, rồi mất hút dưới một phiến đá nhô cao.
+Lâm Uyên im lặng một lúc rồi lắc đầu. *“Không rõ.”*
 
-*“Tới đây.”* Tô Trạch nói.
+Nàng không hỏi tiếp. Chỉ khẽ dời mắt, để hắn có khoảng lặng của riêng mình.
 
-Lâm Uyên bước tới. Hắn nhìn đường rãnh rồi nhìn phiến đá, trong lòng chợt có một cảm giác khó chịu. Hắn không biết mình đã từng thấy thứ này ở đâu, nhưng bàn tay lại vô thức đưa về phía thanh tàn kiếm sau lưng.
+Ở phía trước, Tô Trạch đã tìm thấy một đường rãnh rất mảnh chạy sát chân tường. Lão dùng mũi giày gạt lớp bụi, để lộ thêm vài tấc đá nhẵn. Đường rãnh vòng sang bên phải rồi mất hút dưới một phiến đá hơi nhô lên.
 
-Tô Trạch nhận ra động tác ấy.
+*“Tới đây.”* Tô Trạch gọi.
 
-*“Kiếm của ngươi?”*
+Lâm Uyên bước tới. Hắn ngồi xuống nhìn đường rãnh. Không sâu, không giống vết nứt tự nhiên, càng nhìn càng thấy nó giống một bộ phận của cơ quan nào đó đã nằm im quá lâu.
 
-Lâm Uyên không trả lời. Hắn rút thanh kiếm rỉ sét ra khỏi vỏ. Ngay khi lưỡi kiếm xuất hiện, đường vân xám bạc trên mặt tường bỗng sáng lên rất nhạt.
+Tô Trạch chỉ vào thanh tàn kiếm phía sau lưng hắn. *“Có thể thử nó.”*
 
-Một tiếng rung nhỏ truyền qua nền đá.
+Lâm Uyên ngước lên.
 
-Tô Thanh Ly lập tức lùi nửa bước, trường kiếm đã nằm trong tay.
+*“Ngươi muốn ta rút kiếm?”*
 
-Nhưng không có gì tấn công.
+*“Nếu cánh cửa nhận kiếm, chúng ta sẽ biết.”*
 
-Chỉ có một đường sáng mảnh chạy dọc theo khe cửa, từ mặt đất lên cao rồi dừng lại ở giữa bức tường.
+Tô Thanh Ly nhìn hai người, rồi lùi sang một bên.
 
-Tô Trạch nhìn Lâm Uyên.
+Lâm Uyên đưa tay nắm chuôi kiếm.
 
-*“Đừng động.”*
+Thanh tàn kiếm rời khỏi vỏ với một tiếng ma sát khô khốc. Lưỡi kiếm rỉ sét không có ánh sáng, chỉ phản chiếu một vệt bạc nhợt từ lá phù của Tô Trạch.
 
-Lâm Uyên đứng yên.
+Ngay khi thân kiếm hoàn toàn lộ ra, những đường vân xám bạc trên bức tường bỗng sáng lên.
 
-Đường sáng chợt tắt.
+Một tia sáng mảnh chạy từ nền đá tới chân tường.
 
-Sau đó, từ rất sâu dưới lòng đất lại vang lên một tiếng.
+Tô Thanh Ly lập tức rút kiếm.
 
-*Cạch.*
+Sáu đệ tử phía sau cũng đồng loạt nghiêng người, nhưng không có thứ gì lao ra. Không một tiếng động bất thường nào vang lên. Chỉ có ánh sáng nhạt ấy men theo đường rãnh, bò dọc mặt đá rồi dừng lại ngay dưới khe cửa.
 
-Lần này rõ hơn trước.
+Tô Trạch không chớp mắt. *“Đứng yên.”*
 
-Một âm thanh khô khốc, giống tiếng một bộ phận đá cổ xưa vừa vận hành sau nhiều năm im lặng.
+Lâm Uyên giữ nguyên tư thế.
 
-Bức tường trước mặt không mở.
+Ánh sáng đứng im vài nhịp thở rồi tắt.
 
-Nhưng ở bên phải nó, phiến đá dưới chân Tô Trạch chậm rãi lún xuống.
+Cùng lúc đó, từ sâu dưới lòng đất vang lên một tiếng *cạch*.
 
-Một khe hẹp hiện ra.
+Không lớn, nhưng trầm và nặng hơn lần trước.
 
-Từ bên dưới tràn lên một luồng khí lạnh mang theo mùi đất ẩm và mùi kim loại rất nhạt.
+Phiến đá sát chân Tô Trạch chậm rãi hạ xuống.
 
-Không ai lên tiếng.
+Một khe tối mở ra.
 
-Tô Trạch cúi xuống nhìn.
+Khí lạnh từ bên dưới tràn lên, mang theo mùi đất ẩm và một thứ mùi kim loại rất nhạt. Tô Trạch cúi người nhìn xuống. Bên dưới là một cầu thang chìm trong bóng tối, những bậc đầu tiên còn nhìn thấy được, phần sâu hơn thì hoàn toàn không rõ.
 
-Phía dưới là một cầu thang.
+Một đệ tử Chấp pháp bước tới. *“Trưởng lão, để chúng ta xuống trước.”*
 
-Không giống cầu thang họ vừa đi qua. Những bậc đá bên dưới sẫm màu hơn, bề mặt nhẵn như bị vô số bàn chân giẫm lên, nhưng không có bụi.
+*“Không.”* Tô Trạch đáp.
 
-Lão nhìn sáu đệ tử Chấp pháp.
+Lão nhìn sáu người. *“Ở lại đây. Giữ lối ra.”*
 
-*“Ở lại đây.”*
-
-Một người lập tức nói: *“Trưởng lão, bên dưới có thể nguy hiểm.”*
-
-*“Ta biết.”*
-
-Tô Trạch ngừng một chút rồi nhìn sang Tô Thanh Ly và Lâm Uyên. *“Hai người theo ta.”*
+Người kia còn định nói, nhưng Tô Trạch đã quay sang Tô Thanh Ly và Lâm Uyên. *“Hai người theo ta.”*
 
 Tô Thanh Ly gật đầu.
 
-Lâm Uyên nhìn cầu thang.
-
-Hắn không muốn xuống.
-
-Không phải vì sợ.
-
-Mà vì nơi này khiến một phần nào đó trong hắn có cảm giác đã từng đi qua.
-
-Một cảm giác không thuộc về ký ức, nhưng cũng không hoàn toàn xa lạ.
+Lâm Uyên nhìn cầu thang rất lâu. Hắn không muốn xuống. Không phải vì sợ, mà vì ở nơi này có một cảm giác kỳ lạ đang kéo lấy hắn, như thể một phần nào đó trong thân thể đã biết con đường phía dưới từ trước.
 
 Hắn bước xuống bậc đầu tiên.
 
-Ngay khi bàn chân chạm đá, chiếc nhẫn bạc trên tay hắn nóng lên.
+Chiếc nhẫn bạc trên tay nóng lên.
 
-Mảnh xương trong tay áo cũng rung mạnh một lần.
+Mảnh xương trong tay áo cũng rung mạnh một lần rồi im bặt.
 
-Phía dưới, bóng tối dường như sâu hơn hẳn.
-
-Tô Thanh Ly đi phía sau hắn, nhỏ giọng nói: *“Nếu thấy điều gì bất thường, nói ngay.”*
+Tô Thanh Ly đi ngay phía sau. Nàng hạ giọng: *“Có gì bất thường thì nói ngay.”*
 
 Lâm Uyên khẽ gật.
 
-Ba người tiếp tục đi xuống.
+Ba người bắt đầu đi xuống.
 
-Sau lưng họ, khe đá từ từ khép lại.
+Sau lưng họ, phiến đá từ từ trở lại vị trí cũ. Một tiếng *cạch* rất nhẹ vang lên, rồi ánh sáng từ phía trên bị cắt thành một vệt mỏng.
 
-Một tiếng *cạch* rất nhẹ vang lên trong bóng tối.
+Không ai quay đầu.
 
-Nhưng không ai quay đầu.
+Cầu thang dài hơn họ tưởng.
 
-Cầu thang này dài hơn họ tưởng.
+Mới đầu, tiếng động của sáu đệ tử còn vọng xuống, nhưng đi thêm chừng mười bậc, mọi âm thanh phía trên đã trở nên mơ hồ. Chỉ còn tiếng bước chân của ba người dội lại trong khoảng không chật hẹp.
 
-Ban đầu vẫn còn thấy ánh sáng từ phía trên hắt xuống, chỉ vài trượng sau đã biến thành một vệt mờ trên bậc đá. Càng đi sâu, không khí càng lạnh. Không phải cái lạnh của nước hay gió, mà là thứ lạnh khô bám lên da, khiến người ta có cảm giác vừa bước vào một nơi đã rất lâu không còn hơi người.
+Không khí càng lúc càng lạnh. Không phải cái lạnh ẩm của hang đá có nước, mà là thứ lạnh khô bám vào da, khiến đầu ngón tay nhanh chóng mất cảm giác. Tô Trạch đi trước, ánh phù trong tay cháy bằng một ngọn lửa nhỏ. Ánh sáng chỉ soi được vài bậc phía dưới. Hai bên vẫn là bóng tối.
 
-Tô Trạch đi đầu, phù trong tay chỉ cháy bằng một ngọn lửa nhỏ. Ánh sáng đủ soi mặt bậc đá ngay trước chân nhưng không đủ xua tan bóng tối hai bên. Có vài đoạn tường đá nhô ra, trên đó còn lưu những dấu khắc cũ. Phần lớn đã mòn, chỉ còn những nét đứt quãng chạy ngang rồi chìm vào vách.
+Trên vách đá thỉnh thoảng xuất hiện những dấu khắc.
 
-Tô Thanh Ly đưa tay lướt qua một đoạn, nhưng chưa chạm vào đã dừng lại.
+Có chỗ chỉ còn một hai nét. Có chỗ lại kéo dài thành một đoạn nhưng đã bị mòn gần hết. Không có hình vẽ, không có tên người, cũng không thấy dấu tích của những lời cảnh báo mà các di tích thường lưu lại.
 
-*“Ở đây có chữ.”*
+Tô Thanh Ly chợt đưa tay lên.
 
-Tô Trạch quay đầu.
+*“Dừng.”*
 
-Lão nâng phù lên cao hơn. Ánh sáng nhợt nhạt rọi qua lớp bụi, để lộ vài nét khắc sâu trong đá. Không đủ để đọc thành câu. Chỉ có một ký hiệu lặp đi lặp lại, hình dáng giống với nét trên tấm thẻ gỗ dưới lòng đất.
+Tô Trạch lập tức dừng lại.
 
-Lâm Uyên nhìn nó rất lâu.
+Nàng chỉ vào vách đá. Dưới ánh phù, một ký hiệu mờ hiện ra giữa lớp bụi. Nó giống với dấu trên tấm thẻ gỗ mà họ từng nhìn thấy dưới lòng đất.
 
-Hắn không nhận ra.
+Lâm Uyên đứng trước ký hiệu đó.
 
-Nhưng ngón tay lại vô thức siết chặt chuôi kiếm.
+Hắn không nhớ đã gặp nó ở đâu.
 
-*“Ngươi từng thấy ký hiệu này?”* Tô Thanh Ly hỏi.
+Nhưng vừa nhìn thấy, ngực hắn đã thoáng nặng xuống.
 
-*“Có.”*
+Tô Thanh Ly hỏi: *“Ngươi nhận ra?”*
 
-*“Ở đâu?”*
+*“Không.”*
 
-Lâm Uyên nhìn về phía trước.
+Hắn dừng một chút rồi nói: *“Chỉ thấy quen.”*
 
-*“Trong kia.”*
-
-Nàng hiểu hắn đang nói đến Hắc Phong Sơn, nhưng không hỏi thêm.
+Tô Trạch nhìn hắn, không bình luận.
 
 Cả ba tiếp tục đi xuống.
 
-Không biết đã qua bao nhiêu bậc, Tô Trạch bỗng giơ tay.
+Không biết đã qua bao lâu, từ phía dưới truyền lên một âm thanh rất nhỏ.
 
-Ba người cùng dừng.
+Tí tách.
 
-Phía dưới có tiếng nước.
+Một giọt nước rơi vào đá.
 
-Rất nhỏ.
-
-Một giọt.
+Tí tách.
 
 Rồi một giọt nữa.
 
-Âm thanh vang trong lòng đất, kéo theo một tiếng vọng dài đến mức không thể xác định khoảng cách.
+Tô Trạch nâng tay ra hiệu. Cả ba dừng lại.
 
-Tô Trạch nhìn Lâm Uyên.
+Lâm Uyên nhắm mắt.
 
-*“Ngươi có nghe thấy không?”*
+Ngoài tiếng nước, còn có một âm thanh khác.
 
-Lâm Uyên gật đầu.
-
-Hắn không nghe tiếng nước.
-
-Thứ hắn nghe được là một âm thanh khác nằm sâu hơn dưới tiếng nhỏ giọt.
-
-Một tiếng kéo lê rất nhẹ.
-
-Giống như vật gì đó đang chậm rãi di chuyển trên nền đá.
-
-Lâm Uyên hạ giọng: *“Có thứ gì đó.”*
-
-Tô Thanh Ly lập tức đặt tay lên chuôi kiếm.
-
-Tô Trạch cũng không hỏi hắn có chắc hay không. Lão chỉ tắt bớt ánh phù trong tay, để ánh sáng co lại vừa đủ quanh ba người.
-
-Họ đi tiếp.
-
-Càng gần phía dưới, tiếng động kia càng rõ.
+Một tiếng gì đó cọ trên nền đá.
 
 Kéo.
 
@@ -221,400 +177,248 @@ Dừng.
 
 Rồi lại kéo.
 
-Không nhanh, cũng không gấp. Như thể vật phát ra âm thanh hoàn toàn không để ý đến việc bên trên có người đang tới gần.
+Không nhanh. Không gấp. Nó đều đặn đến mức khiến người nghe càng lâu càng khó chịu.
 
-Đến cuối cầu thang, trước mặt xuất hiện một nền đá rộng.
+Tô Thanh Ly đặt tay lên chuôi kiếm.
 
-Ở chính giữa nền đá có một vệt nước mảnh chảy từ trong bóng tối ra ngoài. Nước rất trong, nhưng không có nguồn sáng mà vẫn phản chiếu một thứ ánh bạc nhợt nhạt từ đâu đó trên cao.
+Tô Trạch nhìn xuống khoảng tối dưới chân rồi hỏi khẽ: *“Khoảng bao xa?”*
 
-Tô Trạch ngồi xuống, lấy ngón tay chạm nhẹ vào nước rồi lập tức thu về.
+Lâm Uyên lắc đầu. *“Không biết.”*
+
+*“Ngươi nghe thấy gì?”*
+
+*“Thứ gì đó đang di chuyển.”*
+
+Tô Trạch không hỏi thêm. Lão chỉ hạ thấp ánh phù, để mắt quen dần với bóng tối.
+
+Họ tiếp tục đi.
+
+Tiếng kéo lê không biến mất.
+
+Nó chỉ thay đổi theo khoảng cách.
+
+Có lúc rất gần, dường như ngay bên dưới bậc đá. Có lúc lại xa hẳn, chỉ còn một tiếng vọng mỏng như được truyền qua nhiều lớp đất.
+
+Đến cuối cầu thang, trước mặt mở ra một khoảng hang rộng.
+
+Một dòng nước nhỏ chạy qua nền đá.
+
+Nó trong đến mức có thể nhìn thấy những viên sỏi trắng dưới đáy, nhưng lạ ở chỗ nơi này gần như không có ánh sáng mà mặt nước vẫn phản chiếu một thứ màu bạc mờ nhạt.
+
+Tô Trạch cúi xuống chạm thử.
+
+Lão lập tức rút tay về.
 
 *“Không có độc.”*
 
-Lão dừng một thoáng.
+Tô Thanh Ly nhìn lão.
 
-*“Nhưng rất lạnh.”*
+*“Nhưng lạnh?”*
 
-Tô Thanh Ly nhìn dòng nước.
+Tô Trạch gật.
 
-*“Nó từ đâu chảy ra?”*
+Dòng nước không chảy từ trần hang xuống. Nó xuất hiện từ trong một khe tối bên trái, rồi men theo nền đá chạy sang phía đối diện.
 
-Không ai trả lời.
+Lâm Uyên ngồi xuống.
 
-Dòng nước đi tới chân bức tường đối diện rồi biến mất qua một khe nhỏ.
+Hắn không chạm vào nước.
 
-Ngay cạnh khe ấy có một thứ nằm nghiêng trên đá.
+Chỉ nhìn.
 
-Một mảnh kim loại đen.
+Bóng của hắn hiện trên mặt nước.
 
-Lâm Uyên bước tới gần hơn.
+Một thiếu niên áo xám.
 
-Mảnh kim loại chỉ dài bằng hai ngón tay, mép đã mòn, trên bề mặt phủ một lớp gỉ xám bạc. Không có linh lực. Không giống pháp khí. Nhưng vừa nhìn thấy nó, hắn đã dừng lại.
+Rồi một bóng người khác chậm rãi xuất hiện phía sau.
 
-Không phải vì nhận ra vật gì.
+Áo đen.
 
-Mà vì trong đầu hắn lại hiện lên một hình ảnh.
+Đứng cách hắn chưa tới một bước.
 
-Một bàn tay đặt trên mặt đá.
+Lâm Uyên quay phắt lại.
 
-Một ngón tay dính máu.
+Không có ai.
 
-Một mảnh kim loại đen rơi xuống.
+Tô Trạch đang đứng cách đó vài trượng. Tô Thanh Ly vẫn ở bên cạnh.
 
-Rồi một giọng nói rất xa.
+Hắn cúi xuống nhìn mặt nước lần nữa.
 
-*“Không phải ở đây.”*
+Bóng áo đen vẫn còn.
 
-Hình ảnh tan đi.
+Không thấy khuôn mặt.
 
-Lâm Uyên chớp mắt.
+Chỉ đứng bất động sau lưng hắn.
 
-Mảnh kim loại vẫn nằm trước mặt.
+Lâm Uyên không chớp mắt.
 
-Tô Thanh Ly nhìn hắn.
+Một nhịp.
 
-*“Lại thấy gì?”*
+Hai nhịp.
 
-*“Chỉ là một hình ảnh.”*
+Mặt nước khẽ gợn.
 
-*“Của ai?”*
+Bóng áo đen biến mất.
 
-Lâm Uyên lắc đầu.
+Chỉ còn lại hình ảnh của chính hắn.
 
-*“Không biết.”*
+*“Lâm Uyên.”* Tô Thanh Ly gọi.
 
-Tô Trạch không hỏi nữa. Lão chỉ dùng một mảnh vải phủ lên tay rồi nhặt mảnh kim loại lên, lật qua lật lại vài lần.
+Hắn đứng lên. *“Không sao.”*
 
-Ở mặt sau có một vết khắc.
+Nàng nhìn hắn một lúc, cuối cùng không hỏi.
 
-Không phải chữ.
+Tô Trạch cũng không nói gì. Lão chỉ nhìn dòng nước thêm một lát rồi ra hiệu tiếp tục.
 
-Chỉ là một đường cong bị cắt ngang ở giữa.
+Con đường phía trước hẹp lại.
 
-Lão nhìn nó một lúc rồi cất đi.
+Hai bên vách đá gần như chạm vào vai. Những đường vân xám bạc xuất hiện dày hơn, có chỗ đan vào nhau như mạng lưới. Lâm Uyên đưa ánh mắt theo chúng, càng nhìn càng thấy chúng không giống dấu tự nhiên.
 
-*“Mang về.”*
+Nhưng hắn không nói.
 
-Lâm Uyên không phản đối.
+Bởi hắn không biết chúng là thứ gì.
 
-Nhưng ngay khi mảnh kim loại rời khỏi nền đá, tiếng kéo lê trong bóng tối cũng dừng lại.
+Đi được một đoạn, Tô Trạch dừng trước một bức tường đá.
 
-Cả ba cùng ngẩng đầu.
+Lối đi đã hết.
 
-Phía trước là một hành lang khác.
+Giữa bức tường là một khe nhỏ, vừa đủ lọt một ngón tay.
 
-Rất hẹp.
+Tô Thanh Ly bước đến cạnh hắn. *“Lại là cửa?”*
 
-Vách hai bên gần như sát vai người.
+Tô Trạch đưa ánh phù sát mặt đá, nhưng linh lực vẫn tan đi như trước.
 
-Không còn tiếng nước.
+Lâm Uyên đứng phía sau.
 
-Không còn tiếng động.
+Chiếc nhẫn bạc lạnh buốt.
 
-Sự im lặng đến đột ngột khiến Tô Thanh Ly khẽ nhíu mày.
+Mảnh xương trong tay áo rung lên từng nhịp nhỏ.
 
-Nàng bước tới bên Lâm Uyên.
+Hắn đưa tay lấy mảnh xương ra.
 
-*“Nó đi rồi?”*
+Lần này nó không nóng, cũng không lạnh.
 
-Lâm Uyên lắc đầu.
+Nó chỉ rung.
 
-*“Không.”*
+Rất đều.
 
-*“Vậy tại sao không còn tiếng?”*
+Tô Thanh Ly nhìn thấy.
 
-Hắn nhìn sâu vào bóng tối.
+*“Nó đang phản ứng.”*
 
-*“Có lẽ nó biết chúng ta đang ở đây.”*
+Lâm Uyên gật đầu.
 
-Tô Thanh Ly không nói nữa.
+Hắn nhìn khe đá trước mặt. Một cảm giác quen thuộc lại thoáng qua, nhưng lần này không phải hình ảnh mà chỉ là một ý niệm mơ hồ, giống như một bàn tay vô hình vừa chạm lên ngực hắn rồi lập tức rút đi.
 
-Tô Trạch đưa tay ra hiệu cho cả hai đứng sau mình.
+Tô Trạch hỏi: *“Có cảm giác gì?”*
 
-Lão bước vào hành lang.
-
-Ba bước.
-
-Năm bước.
-
-Mười bước.
-
-Không có gì xảy ra.
-
-Chỉ đến khi đi ngang một đoạn vách đá, Tô Trạch mới dừng lại.
-
-Trên mặt đá có một dấu bàn tay.
-
-Không rõ là của người hay yêu thú.
-
-Năm ngón tay dài bất thường, nhưng không có móng vuốt. Xung quanh dấu tay không có bụi, như thể nó vừa mới được đặt lên đây.
-
-Tô Thanh Ly nhìn dấu tay, rồi nhìn Lâm Uyên.
-
-*“Cái này...”*
-
-Lâm Uyên không trả lời.
-
-Hắn đưa mắt xuống nền đá.
-
-Có thêm một dấu nữa.
-
-Nhưng dấu thứ hai không hướng về phía trước.
-
-Nó hướng ngược lại.
-
-Giống như thứ để lại dấu tay đã đứng ngay cạnh họ, rồi quay đầu nhìn lên cầu thang.
-
-Tô Trạch cũng nhận ra.
-
-Lão lập tức xoay người.
-
-Hành lang phía sau trống không.
-
-Cầu thang vẫn ở đó, nhưng ánh sáng từ phù đã bị bóng tối nuốt gần hết.
-
-Không có bóng người.
-
-Không có tiếng bước chân.
-
-Chỉ có một giọt nước rơi từ đâu đó xuống nền đá.
-
-*Tách.*
-
-Tô Thanh Ly nắm chặt chuôi kiếm.
-
-Tô Trạch chậm rãi nói: *“Tiếp tục.”*
-
-Lần này không ai hỏi vì sao.
-
-Hành lang càng đi càng hẹp, cho đến khi chỉ còn vừa đủ một người đi qua. Tô Trạch dẫn đầu, Lâm Uyên ở giữa, Tô Thanh Ly đi sau cùng. Mỗi bước chân đều vang thành một tiếng rất nhỏ rồi chìm mất.
-
-Lâm Uyên cố không nhìn sang hai bên.
-
-Nhưng hắn vẫn cảm thấy có thứ gì đó ở bên kia vách đá.
-
-Không phải tiếng thở.
-
-Không phải tiếng tim.
-
-Chỉ là cảm giác tồn tại.
-
-Một thứ không cần phát ra âm thanh vẫn khiến người ta biết nó ở đó.
-
-Chiếc nhẫn bạc trên tay hắn bắt đầu nóng dần.
-
-Mảnh xương trong tay áo cũng không còn rung nữa.
-
-Nó im lặng một cách khác thường.
-
-Lâm Uyên chợt nhận ra điều đó.
-
-Từ khi bước xuống đây, mảnh xương luôn có phản ứng mỗi khi đến gần thứ gì đó. Nhưng bây giờ, nó hoàn toàn tĩnh lặng.
-
-Giống như nó đang tránh một thứ gì.
-
-Ý nghĩ ấy vừa xuất hiện, một tiếng động đã vang lên phía trước.
-
-*Cạch.*
-
-Không lớn.
-
-Nhưng lần này không phải tiếng máy đá.
-
-Nó giống tiếng móng tay gõ lên mặt bàn.
-
-Một lần.
-
-Rồi hai lần.
-
-Tô Trạch đưa tay ra hiệu dừng lại.
-
-Ba người đứng yên.
-
-*Cạch.*
-
-Lại một tiếng.
-
-Từ phía trước.
-
-Ngay sau vách đá.
-
-Tô Trạch nhìn Lâm Uyên.
-
-*“Đường này còn đi được không?”*
-
-Lâm Uyên nhìn về phía bóng tối.
-
-Một lúc sau, hắn lắc đầu.
+Lâm Uyên suy nghĩ một lúc.
 
 *“Ta không biết.”*
 
-Tô Trạch không thất vọng.
+Lão nhìn hắn.
 
-Lão chỉ hỏi tiếp: *“Có muốn quay lại không?”*
+*“Không biết?”*
+
+*“Chỉ cảm thấy bên kia có thứ gì đó.”*
+
+*“Sống?”*
 
 Lâm Uyên im lặng.
 
-Hắn nghĩ đến cánh cửa phía trên.
+Hắn không thể trả lời.
 
-Nghĩ đến những dấu vết còn sót lại.
+Tô Trạch cũng không ép.
 
-Nghĩ đến câu nói của kẻ áo đen.
+Lão đang định thử tìm một cơ quan khác thì từ phía sau bức tường vang lên một tiếng rất khẽ.
 
-*Đợi ngươi ở Phế Tích Cũ.*
+Cộc.
 
-Rồi hắn nhìn mảnh kim loại trong tay Tô Trạch.
+Cả ba cùng đứng yên.
 
-*“Đi tiếp.”*
+Một lúc sau, lại một tiếng nữa.
 
-Tô Thanh Ly quay sang nhìn hắn.
+Cộc.
 
-Tô Trạch cũng nhìn hắn vài nhịp.
+Lần này gần hơn.
 
-Cuối cùng, lão gật đầu.
+Tô Thanh Ly chậm rãi rút kiếm.
 
-*“Được.”*
+Tô Trạch giơ tay ngăn nàng.
 
-Ba người tiếp tục bước vào bóng tối.
+Không ai nói gì.
 
-Chỉ có điều, ngay sau lưng họ, trên dấu bàn tay còn mới trên vách đá, một giọt nước từ trần hang chậm rãi rơi xuống.
+Tiếng động phía sau bức tường dừng lại.
 
-Nó rơi đúng vào giữa lòng bàn tay.
+Đường hầm trở về im lặng.
 
-Dòng nước không chảy xuống.
+Lâm Uyên nhìn khe đá, bất giác nhớ lại mảnh ký ức vừa rồi.
 
-Mà tản ra thành một vệt xám mỏng.
+Một hành lang.
 
-Rồi dấu tay từ từ biến mất.
+Một cánh cửa.
 
-Ở nơi nó từng tồn tại, vách đá trở lại nguyên trạng.
+Một giọng nói bảo hắn đừng quay lại.
 
-Không để lại bất kỳ dấu vết nào.
+Hắn không biết đó là ký ức của ai, cũng không biết cánh cửa trong đầu mình có phải chính cánh cửa trước mặt hay không.
 
-Phía trước, cuối hành lang dần hiện ra một vùng sáng rất nhạt.
+Nhưng lần đầu tiên hắn hiểu tại sao cơ thể lại không muốn hắn bước vào đây.
 
-Không phải ánh phù.
+Không phải vì phía sau có thứ gì đáng sợ.
 
-Cũng không phải ánh sáng của mặt đất.
+Mà vì có một chuyện nào đó đã từng xảy ra ở đây.
 
-Nó giống một màu trắng đã cũ, mờ đục, chỉ đủ để phân biệt nền đá với bóng tối.
+Một chuyện mà hắn không nhớ.
 
-Tô Trạch chậm rãi tiến lên.
+Tô Trạch bỗng quay đầu.
 
-Tô Thanh Ly theo sát phía sau.
+*“Lùi lại.”*
 
-Lâm Uyên bước cuối cùng.
+Lâm Uyên chưa kịp hỏi, mặt đất dưới chân đã rung nhẹ.
 
-Khi hắn vừa đi qua khỏi đoạn hẹp, chiếc nhẫn bạc trên tay đột nhiên nóng rực.
+Một đường nứt chạy qua nền đá.
 
-Cùng lúc đó, mảnh xương trong tay áo bật lên một tiếng rất nhỏ.
+Từ khe nứt, khí lạnh tràn ra từng đợt.
 
-Rắc.
+Tô Thanh Ly lập tức đứng sát bên Tô Trạch.
 
-Một vết nứt xuất hiện trên bề mặt.
+*“Cơ quan?”*
 
-Lâm Uyên lập tức đưa tay giữ lấy.
+*“Có thể.”*
 
-Hắn cúi xuống nhìn.
+Mặt đất lại rung.
 
-Bên trong đường nứt không có máu.
+Lần này mạnh hơn.
 
-Không có linh lực.
+Một tiếng ma sát sâu dưới lòng đất kéo dài, giống như một vật nặng đang chậm rãi chuyển động trong bóng tối.
 
-Chỉ có một tia sáng xám mỏng như sợi tóc, chớp lên rồi tắt.
+Tô Trạch nhìn về phía bức tường.
 
-Lâm Uyên chưa kịp nói gì thì phía trước đã vang lên tiếng Tô Thanh Ly.
+*“Không phải cánh cửa này.”*
 
-*“Lâm Uyên.”*
-
-Hắn ngẩng đầu.
-
-Tô Thanh Ly đang đứng trước một khoảng trống rất lớn.
-
-Tô Trạch ở phía trước nàng, không nói gì.
-
-Ánh phù trong tay lão đã được nâng lên cao.
-
-Ánh sáng lan ra.
-
-Phía trước không còn là hành lang.
-
-Mà là một gian điện đá chìm trong lòng đất.
-
-Cột đá cao đến mức ánh sáng không chạm tới đỉnh. Trên nền điện không có bụi. Ở chính giữa là một bệ đá thấp, trên đó chỉ đặt một vật duy nhất.
-
-Một cánh cửa đá nhỏ.
-
-Không phải cánh cửa dẫn vào đâu.
-
-Mà là một cánh cửa được đặt nằm ngang trên bệ, giống như nắp của một chiếc quan tài.
-
-Lâm Uyên đứng chết lặng.
-
-Không phải vì hình dáng của nó.
-
-Mà vì ngay khi nhìn thấy cánh cửa đá ấy, trong đầu hắn vang lên một tiếng rất khẽ.
+Lão vừa dứt lời, một âm thanh trầm thấp từ nơi sâu hơn vọng lên.
 
 *Cạch.*
 
-Giống hệt âm thanh họ vừa nghe trong bóng tối.
+Khe đá phía trước không mở.
 
-Rồi một câu nói từ nơi rất xa vọng lên.
+Nhưng ở một nơi nào đó bên dưới, thứ gì đó vừa dịch chuyển.
 
-*“Đừng mở.”*
+Lâm Uyên nhìn bóng tối dưới chân cầu thang.
 
-Lâm Uyên bước tới một bước.
+Trong tay hắn, mảnh xương bỗng ngừng rung.
 
-Tô Thanh Ly lập tức đưa tay chặn trước hắn.
+Hoàn toàn im lặng.
 
-*“Khoan.”*
+Ngay khoảnh khắc ấy, hắn nghe thấy một âm thanh rất khẽ.
 
-Lâm Uyên dừng lại.
+Như tiếng ai đó vừa đặt bàn tay lên mặt đá từ phía bên kia.
 
-Tô Trạch cúi xuống nhìn nền đá trước bệ.
+Rồi một giọng nói vọng qua bức tường.
 
-Ở đó có một vệt máu đã khô.
+Rất thấp.
 
-Chỉ vài giọt.
+Rất xa.
 
-Nhưng quanh những giọt máu là một lớp xám lạnh mỏng như tro.
+Nhưng rõ đến mức từng chữ đều lọt vào tai hắn.
 
-Lão nhìn nó rất lâu.
-
-Rồi chậm rãi nói:
-
-*“Kẻ áo đen đã tới đây.”*
-
-Không ai trả lời.
-
-Lâm Uyên nhìn cánh cửa đá nằm trên bệ.
-
-Chiếc nhẫn bạc trên tay hắn lại nóng lên.
-
-Mảnh xương trong tay áo rung rất nhẹ.
-
-Lần này, nó không hướng về cánh cửa.
-
-Nó hướng xuống nền điện.
-
-Lâm Uyên cúi đầu.
-
-Dưới lớp đá ngay nơi hắn đang đứng, có thứ gì đó vừa gõ một tiếng.
-
-*Cạch.*
-
-Hắn ngẩng lên.
-
-Cánh cửa đá trên bệ vẫn đóng.
-
-Nhưng bên dưới chân họ, trong lòng đất sâu hơn nữa, tiếng động lại vang lên lần thứ hai.
-
-*Cạch.*
-
-Rồi lần thứ ba.
-
-Nhịp gõ đều đặn.
-
-Chậm rãi.
-
-Như có thứ gì đó ở dưới kia đang kiên nhẫn chờ một người trả lời.
+*“Ngươi vẫn tới.”*
