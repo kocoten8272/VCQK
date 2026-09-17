@@ -45,11 +45,37 @@ tags:
 - **Immutable Foundation (Read-Only):** Ba tệp `01_CORE_CANON`, `02_WORLD_LORE`, `03_PLOT_STRUCTURE` là luật gốc tối cao, thuộc diện Read-Only tuyệt đối. AI không được tự ý sửa đổi, ghi đè, retcon hay tự lấp chỗ trống TBD.
 - **Canon Conflict Protocol:** Khi phát hiện mâu thuẫn giữa chương mới và Canon gốc, AI phải tạo báo cáo `[CANON CONFLICT]`, tuyệt đối không tự ý sửa Canon nền để làm khớp truyện.
 
-## 7. Liên kết
+## 7. Miêu tả có điểm nhìn và sức nặng
+
+- Miêu tả qua điều nhân vật đang nhìn, nghe, chạm hoặc cố tránh nhìn trong khoảnh khắc ấy. Một cảnh chỉ cần vài chi tiết đúng với tâm trạng và hành động, không cần kể hết cảnh vật.
+- Ưu tiên chi tiết cụ thể có thể trở lại về sau: bát cháo còn ấm, vệt bùn trên bậc cửa, áo khoác vẫn treo ở chỗ cũ. Khi hoàn cảnh thay đổi, cùng một chi tiết có thể mang nghĩa khác mà không cần lời bình.
+- Cảnh vật phải có quan hệ với biến cố. Gió, mưa, sương, tiếng chuông hay màu trời chỉ xuất hiện khi chúng tác động tới người trong cảnh hoặc giúp độc giả cảm nhận không gian; không bắt thiên nhiên buồn thay nhân vật.
+- Giữ độ rõ của hành động và địa điểm ngay cả trong đoạn giàu hình ảnh. Mỗi so sánh nên làm hình ảnh sắc hơn; nếu có thể bỏ mà cảnh vẫn nguyên nghĩa, hãy bỏ.
+- Đoạn văn liền mạch theo nhịp tiểu thuyết. Dùng câu dài để người đọc ở lại với một quan sát hoặc ký ức, câu ngắn khi một hành động hay nhận thức cần rơi xuống. Không tách mỗi câu thành một dòng chỉ để tạo vẻ trầm trọng.
+
+## 8. Sắc thái tang thương trong cảnh khổ và mất mát
+
+- Nỗi đau cần một đối tượng cụ thể: một người, một thói quen, một lời hứa, một nơi chốn hoặc một khả năng sống đã mất. Cho độc giả biết điều ấy từng có ý nghĩa gì trước khi viết sự mất đi.
+- Ở thời điểm biến cố, bám vào phản ứng có thể quan sát: một câu hỏi không ai trả lời, bàn tay vẫn giữ món đồ không còn cần dùng, người sống làm tiếp một việc quen thuộc rồi mới nhận ra người kia đã vắng mặt. Không vội gọi tên cảm xúc thay nhân vật.
+- Sau cú sốc, cho khoảng lặng và hậu quả tồn tại. Nỗi buồn có thể trở lại khi nhân vật ăn cơm, đi qua một lối cũ, nghe một cách gọi quen; nó cũng có thể làm họ lựa chọn sai, chậm lại hoặc đổi mục tiêu. Không kết thúc đau thương ngay khi cảnh khóc kết thúc.
+- Mỗi người chịu mất mát khác nhau. Có người nói nhiều, có người im, có người lo việc nhỏ, có người nổi giận hoặc tê dại. Giữ phản ứng đúng tính cách và quan hệ đã xây dựng; không dùng cùng một kiểu nước mắt cho mọi nhân vật.
+- Giữ một phần đời thường trong cảnh thê lương. Tiếng người rao hàng vẫn vang ngoài phố, nước trong ấm vẫn nguội, một người còn phải thu dọn căn phòng. Sự tiếp diễn bình thản của thế giới có thể làm sự vắng mặt hiện rõ hơn lời than dài.
+- Tiết chế từ ngữ như “đau đớn tột cùng”, “tuyệt vọng vô hạn”, “trái tim tan nát”; tránh chồng nhiều ẩn dụ, mưa gió, máu và tiếng gào vào cùng một đoạn. Một chi tiết chính xác thường đủ sức giữ nỗi đau.
+- Không biến thương vong thành lối tắt để tăng sức mạnh hay tạo cú sốc. Cảnh mất mát phải nối với quan hệ đã có, lựa chọn của người trong cuộc và những thay đổi còn nhìn thấy ở các chương sau.
+- Vẫn chừa chỗ cho hơi ấm, lòng tử tế hoặc một ý định sống tiếp. Sắc thái tang thương có sức nặng khi truyện còn cho thấy điều gì đáng được gìn giữ.
+
+## 9. Tự kiểm tra sau khi viết cảnh buồn
+
+- Nếu bỏ các câu trực tiếp gọi tên cảm xúc, người đọc còn nhận ra nhân vật đã mất gì không?
+- Chi tiết miêu tả nào chỉ thuộc về con người và hoàn cảnh của cảnh này? Chi tiết nào có thể xuất hiện trong bất kỳ cảnh buồn nào và nên cắt?
+- Sau cảnh này, hành vi, quan hệ hoặc lựa chọn của nhân vật đổi ra sao?
+- Nhịp văn đã cho người đọc thời gian cảm nhận chưa, hay đang thúc họ phải buồn bằng lời giải thích liên tiếp?
+
+## 10. Liên kết
 
 - Bảo vệ Canon: [[00_CANON_PROTECTION]]
 - Hướng dẫn viết gốc: [[04_WRITING_BIBLE]]
 - Quản lý Canon động: [[10_DYNAMIC_CANON_ENGINE]]
-- Khung truyện: [[04-KHUNG TRUYỆN/Luật Viết|Luật Viết]]
+- Khung truyện: [[04-KHUNG TRUYỆN/Luật Viết|Luật Viết]], [[Triết Lý Văn Học Và Nhịp Điệu Bi Kịch]]
 - Chương truyện: [[06-CHƯƠNG TRUYỆN/Quyển 1 - Từ Vọng Sơn Đến Lăng Vân/Chương 8|Chương 8]]
 - Menu chính: [[VẠN CỔ QUY KHƯ MENU]]
