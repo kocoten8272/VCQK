@@ -20,10 +20,12 @@ tags:
 
 | Quyển | Nội dung chính | Số chương dự kiến | Nhịp | Cột mốc cuối |
 | --- | --- | --- | --- | --- |
-| Quyển 1 | Vọng Sơn → Lăng Vân Thành | ~40–50 | Chậm–trung bình | Rời Vân Châu / bước vào Tiểu Vực |
-| Quyển 2 | Vân Châu → Tiểu Vực | ~45–55 | Trung bình | Đặt chân Đại Vực |
+| Quyển 1 | Vọng Sơn → Lăng Vân Thành, Hắc Phong Sơn | ~40–50 (tham khảo) | Chậm–trung bình | TBD; giải quyết hậu quả địa phương trước khi đổi tầng thế giới |
+| Quyển 2 | Vân Châu → Tiểu Vực (dự kiến) | ~45–55 (tham khảo) | Trung bình | TBD |
 | Quyển 3+ | Đại Vực → Cửu Thiên | TBD | Nhanh dần | TBD |
 | Quyển cuối | Quy Khư / Đạo Chủ | TBD | Nhanh, thắt nút | Kết truyện |
+
+Các mốc số chương chỉ là công cụ điều tiết, không phải lịch bắt buộc. Ở chương 39 nhóm vẫn trong phế tích; không ép rời Vân Châu để khớp bảng cũ.
 
 ## Nhịp trong một chương
 

@@ -24,6 +24,17 @@ tags:
 | **Trở thành nội viện đệ tử** (Chương 29–30) | Địa vị mới, tài nguyên nội viện; nhẫn bạc lộ diện khả năng chặn thần thức | Bị Đại trưởng lão dò hỏi; bị nhiều con mắt dòm ngó; trưởng lão công huấn cảnh báo "quên mất chính mình" |
 | **Chạm mảnh phù lục đen** (Chương 30) | Kích hoạt phản ứng của nhẫn bạc; xác nhận giấc mộng là thật | Giấc mộng Người Áo Đen biến mất hoàn toàn khỏi trí nhớ, chỉ còn câu "Cuối cùng... ngươi cũng đến" |
 
-## 3. Liên kết
+## 3. Mốc quan sát sau chương 39
+
+| Mốc | Tác dụng đã thấy | Giới hạn hoặc cái giá đã thấy | Chưa được kết luận |
+| --- | --- | --- | --- |
+| Chương 37–38, mảnh xương xám gần khe đá | Đường vân phản ứng khi ở trên người Lâm Uyên; có lúc soi ra bậc đá dưới khe | Không tự mở cửa và không phản ứng ổn định khi đổi người cầm | Nguồn gốc, ý định và quan hệ với tiếng gọi. |
+| Chương 38, nhẫn bạc | Đổi từ lạnh sang nóng gần khe sâu | Không chỉ lối an toàn, không giải thích người trên bậc thứ ba | Cơ chế phản ứng. |
+| Chương 39, mở lối xuống | Ba người tìm rãnh và chốt đá, dùng sức mở phiến đá; tàn kiếm thêm một vết mẻ | Đường trở lại chưa chắc đặt lại được; phù chiếu sáng của Tô Trạch yếu dần | Có thể thoát bằng đường cũ hay không. |
+| Chương 39, năng lực Lâm Uyên | Mảnh xương sáng thoáng qua khi gần khe | Không đột phá cảnh giới; chưa thấy tổn thất ký ức mới được xác nhận | Hình người trên bậc đá và lời cảnh báo sau cửa có đáng tin không. |
+
+Khi viết chương tiếp theo, chỉ ghi một cái giá mới sau khi nó thực sự xuất hiện trong chương. Không suy từ hình ảnh mơ hồ thành ký ức đời thứ chín hoặc một bí mật đã giải.
+
+## 4. Liên kết
 - Hệ thống: [[Quy Khư Quyết]], [[Tiến Trình Mất Mát Ký Ức]], [[Cái Giá Của Quy Khư Đạo (Ký Ức Và Mất Mát)]]
 - Khung truyện: [[Bi Kịch Và Nhân Quả Lâm Uyên]]

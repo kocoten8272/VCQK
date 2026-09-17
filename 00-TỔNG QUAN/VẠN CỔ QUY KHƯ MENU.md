@@ -8,10 +8,10 @@
 
 - **Tên truyện:** Vạn Cổ Quy Khư
 - **Nhân vật chính:** [[Lâm Uyên]]
-- **Địa điểm hiện tại:** [[Lăng Vân Thành]]
-- **Gia tộc hiện tại:** [[Tô Gia]]
-- **Chương hiện tại:** [[Chương 8]]
-- **Chương tiếp theo:** Chương 9 (dự kiến)
+- **Địa điểm ở cuối chương 39:** phế tích dưới Hắc Phong Sơn
+- **Thế lực gắn với arc hiện tại:** [[Tô Gia]]
+- **Chương mới nhất trên main:** [[Chương 39]] (nháp)
+- **Chương tiếp theo:** Chương 40 (dự kiến)
 - **Trạng thái:** Đang sáng tác
 
 ---
@@ -135,10 +135,43 @@
 - [[Chương 6]]
 - [[Chương 7]]
 - [[Chương 8]]
+- [[Chương 9]]
+- [[Chương 10]]
+- [[Chương 11]]
+- [[Chương 12]]
+- [[Chương 13]]
+- [[Chương 14]]
+- [[Chương 15]]
+- [[Chương 16]]
+- [[Chương 17]]
+- [[Chương 18]]
+- [[Chương 19]]
+- [[Chương 20]]
+- [[Chương 21]]
+- [[Chương 22]]
+- [[Chương 23]]
+- [[Chương 24]]
+- [[Chương 25]]
+- [[Chương 26]]
+- [[Chương 27]]
+- [[Chương 28]]
+- [[Chương 29]]
+- [[Chương 30]]
+- [[Chương 31]]
+- [[Chương 32]]
+- [[Chương 33]]
+- [[Chương 34]]
+- [[Chương 35]]
+- [[Chương 36]]
+- [[Chương 37]]
+- [[Chương 38]]
+- [[Chương 39]] — nháp mới
 
 ### Chuẩn bị
 
-- Chương 9 — sẵn sàng triển khai (xem [[Kết Chương]])
+- Chương 40 — kế hoạch gần trong [[Đường Dây Chương 40-48]].
+- [[Kết Chương]] — trạng thái từng chương, bao gồm các bản nháp và chương chưa có frontmatter.
+- [[Trạng Thái Truyện Sau Chương 39]] — vị trí, vật phẩm, thương thế và câu hỏi đang mở.
 
 ---
 

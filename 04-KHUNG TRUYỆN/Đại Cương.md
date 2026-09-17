@@ -22,6 +22,12 @@ tags:
 4. **Hội tụ:** bốn câu hỏi lớn dần dồn về [[Quy Khư]].
 5. **Endgame:** chưa khóa.
 
+## Chặng đang triển khai
+
+- Chương 33–39: Tàng Thư Các bị tập kích; đội điều tra đi xuống phế tích Hắc Phong Sơn và gặp lời cảnh báo chưa thể kiểm chứng.
+- Chương 40–48: [[Đường Dây Chương 40-48]] là kế hoạch gần, chưa phải sự kiện đã xảy ra. Ưu tiên hậu quả của vụ cháy, mạng sống đội điều tra, quyền giữ chứng cứ và lựa chọn của Lâm Uyên.
+- Các tầng thế giới xa hơn và kết truyện vẫn để mở theo canon nền tảng; không cần khóa lời giải để viết arc hiện tại.
+
 ## Liên kết
 
 - Khung truyện: [[Các Quyển]], [[Các Arc]], [[Cốt Truyện]]

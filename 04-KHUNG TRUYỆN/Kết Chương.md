@@ -12,14 +12,14 @@ tags:
 
 ## Trạng thái
 
-- ✅ **Đã viết** — hoàn thiện, đã rà soát
+- ✅ **Hoàn thiện** — theo trạng thái chương hoặc tracker đã có
 - 🔶 **Đang viết** — còn nháp, đang sửa
 - 🔵 **Dự kiến** — có outline, chưa viết
-- ⬜ **Trống** — chưa có kế hoạch
+- ⚪ **Chưa rõ trạng thái** — có tệp nhưng thiếu khai báo
 
 ## Quyển 1 — Từ Vọng Sơn Đến Lăng Vân
 
-| Chương | Trạng thái | Tiêu đề / Ghi chú | Ngày |
+| Chương | Trạng thái | Tiêu đề | Ghi chú |
 | --- | --- | --- | --- |
 | Chương 1 | ✅ | Cỗ Quan Tài Dưới Mộ Tổ | |
 | Chương 2 | ✅ | Ngọc Giản Trong Ngực Áo | |
@@ -46,39 +46,35 @@ tags:
 | Chương 23 | ✅ | Tông Sảnh Thẩm Vấn | |
 | Chương 24 | ✅ | Bóng Đêm Hắc Phong | |
 | Chương 25 | ✅ | Cấm Địa Hắc Phong | |
-| Chương 26 | 🔶 | Rừng Sâu Vực Thẳm (Drafts) | |
-| Chương 27 | ✅ | Phế Tích Trong Lòng Đất (Drafts) | |
-| Chương 28 | 🔶 | Thung Lũng Sương Mù (Drafts) | |
-| Chương 29 | 🔶 | Hoàng Hôn Ngày Thứ Ba (Drafts) | |
-| Chương 30 | 🔶 | Người Đến Từ Đêm (Drafts) | |
-| Chương 31 | 🔶 | Mảnh Phù Lục Cháy Dở (Drafts) | |
-| Chương 32 | 🔶 | Dấu Vết Từ Vọng Sơn (Drafts) | |
-| Chương 33 | 🔶 | Sóng Gió Phủ Vụ Sảnh (Drafts) | |
-| Chương 34 | 🔶 | Trở Lại Hắc Phong (Drafts) | |
-| Chương 35 | 🔶 | Huyết Tự Quy Khư (Drafts) | |
-| Chương 36 | 🔶 | Dưới Lớp Đất Sâu (Drafts) | |
-| Chương 37 | 🔶 | Vật Cũ Vạn Cổ (Drafts) | |
-| Chương 38 | 🔶 | Tro Tàn Vực Sâu (Drafts) | |
-| Chương 39 | 🔶 | Sóng Ngầm Lăng Vân (Drafts) | |
-| Chương 40 | 🔶 | Nghị Sự Điện Đối Chất (Drafts) | |
-| Chương 41 | 🔶 | Trước Lôi Đài (Drafts) | |
-| Chương 42 | 🔶 | Bóng Đêm Gõ Cửa (Drafts) | |
-| Chương 43 | 🔶 | Cửa Không Đáy (Drafts) | |
-| Chương 44 | 🔶 | Bia Đá Dưới Chân Vách (Drafts) | |
+| Chương 26 | ✅ | Rừng Sâu Vực Thẳm | `status: hoan-thien` |
+| Chương 27 | ✅ | Phế Tích Trong Lòng Đất | `status: hoan-thien` |
+| Chương 28 | ✅ | Thung Lũng Sương Mù | `status: hoan-thien` |
+| Chương 29 | ✅ | Hoàng Hôn Ngày Thứ Ba | `status: hoan-thien` |
+| Chương 30 | ✅ | Người Đến Từ Đêm | `status: hoan-thien` |
+| Chương 31 | ✅ | Mảnh Phù Lục Cháy Dở | `status: hoan-thien` |
+| Chương 32 | ✅ | Dấu Vết Từ Vọng Sơn | `status: hoan-thien` |
+| Chương 33 | 🔶 | Loạn Hỏa Tàng Thư | `status: nhap` |
+| Chương 34 | ✅ | Trở Lại Hắc Phong | `status: hoan-thien` |
+| Chương 35 | ⚪ | Cánh Cửa Đá | Có tệp, chưa có frontmatter trạng thái |
+| Chương 36 | 🔶 | Dưới Lớp Đất Sâu | `status: nhap` |
+| Chương 37 | 🔶 | Cánh Cửa Phía Sau Bóng Tối | `status: nhap` |
+| Chương 38 | 🔶 | Dưới Khe Nứt | `status: nhap` |
+| Chương 39 | 🔶 | Bậc Đá Thứ Ba | `status: nhap` |
 
-## Quyển 2 — Vân Châu → Tiểu Vực
+## Chương tiếp theo
 
-| Chương | Trạng thái | Tiêu đề / Ghi chú | Ngày |
-| --- | --- | --- | --- |
-| Chương 37+ | 🔵 | | |
+- Chương 40: dự kiến, chưa có tệp chương trên `main`.
+- Các ý tưởng cũ cho chương 39–44 trong hồ sơ hỗ trợ thuộc mạch trước bản Chương 37–38 hiện tại. Chỉ dùng làm chất liệu sau khi đối chiếu, không coi là sự kiện đã xảy ra.
 
 ## Tổng số
 
-- **Đã viết (hoàn thiện):** 26
-- **Đang viết (nháp):** 18 (Chương 26–44)
-- **Dự kiến:** Chương 45+
+- Có tệp chương 1–39 trên `main`: 39.
+- Hoàn thiện: 33 chương theo tracker cũ (1–25) và frontmatter đã kiểm tra (26–32, 34).
+- Nháp theo frontmatter: 5 chương (33, 36–39).
+- Chương 35 có tệp nhưng chưa khai báo trạng thái.
+- Chương 40 trở đi: chưa có tệp chương; các mốc tương lai giữ ở mức kế hoạch.
 
 ## Liên kết
 
 - Nhịp: [[Nhịp Truyện]]
-- Chương: [[Chương 1]] → [[Chương 44]]
+- Chương: [[Chương 1]] → [[Chương 39]]
