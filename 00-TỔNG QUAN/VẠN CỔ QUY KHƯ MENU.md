@@ -82,6 +82,7 @@
 - [[Địa Ký]] — dấu vết sự kiện thiên địa lưu giữ
 - [[Bí Cảnh]] — không gian đặc biệt tách biệt thế giới
 - [[Khoảng Trống]] — vùng thiên địa mất khả năng ghi nhận
+- [[Cổ Tộc Viễn Cổ (Đề Xuất)]] — đối lực nội sinh từ kỷ nguyên bị xóa, chờ chọn tên chính thức
 
 ---
 

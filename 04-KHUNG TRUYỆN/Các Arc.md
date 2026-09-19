@@ -22,7 +22,15 @@ tags:
 - Chương 33: Tàng Thư Các bị tập kích và thiêu hủy; động cơ thật chưa được xác nhận.
 - Chương 34–38: Tô Trạch dẫn Tô Thanh Ly, Lâm Uyên và sáu đệ tử trở lại Hắc Phong Sơn. Sáu đệ tử giữ lối phía trên từ chương 37; ba người đi sâu và cùng nghe tiếng gọi dưới khe ở cuối chương 38.
 - Chương 39: ba người tự mở lối xuống, tìm thấy dấu vết một người đi trước và nghe lời cảnh báo từ sau cửa đá. Lời cảnh báo là lời nhân vật, chưa phải sự thật đã được xác minh.
-- Chương 40–48: đường dây dự kiến trong [[Đường Dây Chương 40-48]]. Các mốc này chưa trở thành sự kiện truyện.
+- Chương 40: ba người kiểm tra lời cảnh báo, gặp Trần Dực và nhìn thấy bóng thứ tư dưới ánh đèn xám. Bản chất cái bóng chưa được xác nhận.
+- Chương 41–48: đường dây dự kiến trong [[Đường Dây Chương 40-48]]. Các mốc này chưa trở thành sự kiện truyện.
+
+## Trục cổ tộc dài hạn, đang đề xuất
+
+- [[Cổ Tộc Viễn Cổ (Đề Xuất)]] có thể trở thành đối lực trung gian giữa các thế lực địa phương và bí mật cấp thiên địa.
+- Dấu can thiệp đầu tiên có thể xuất hiện sau arc Hắc Phong Sơn dưới dạng vật chứng hoặc người trung gian. Không công bố tên tộc trong arc hiện tại.
+- Phe Phục Kỷ gây hại để khôi phục kỷ nguyên cũ; các phe Thủ Di và Dung Thế giữ cho chủng tộc có lịch sử, con người và lựa chọn riêng.
+- Tuyến này không thay thế [[Ngoại Sinh Linh]], [[Hệ Thống Khống Chế Thiên Địa]] hoặc bí mật [[Quy Khư]].
 
 ## Các arc xa hơn
 
