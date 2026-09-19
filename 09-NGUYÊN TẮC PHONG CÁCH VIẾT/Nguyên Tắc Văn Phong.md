@@ -53,6 +53,14 @@ tags:
 - Giữ độ rõ của hành động và địa điểm ngay cả trong đoạn giàu hình ảnh. Mỗi so sánh nên làm hình ảnh sắc hơn; nếu có thể bỏ mà cảnh vẫn nguyên nghĩa, hãy bỏ.
 - Đoạn văn liền mạch theo nhịp tiểu thuyết. Dùng câu dài để người đọc ở lại với một quan sát hoặc ký ức, câu ngắn khi một hành động hay nhận thức cần rơi xuống. Không tách mỗi câu thành một dòng chỉ để tạo vẻ trầm trọng.
 
+### Miêu tả nhân vật
+
+- Dùng [[Quy Tắc Miêu Tả Nhân Vật]] cho lần xuất hiện đầu, ngoại hình trong hành động, phục sức, biểu cảm, giọng nói, thương thế và sự thay đổi qua thời gian.
+- Mỗi nhân vật quan trọng cần một hoặc hai dấu hiệu cố định, một lớp thay đổi theo cảnh và cách hiện ra khác nhau qua từng điểm nhìn.
+- Với nữ chính, vẻ đẹp phải đi cùng mục tiêu, lựa chọn, năng lực và chi tiết đời sống; không dùng nhan sắc thay cho chiều sâu.
+- Không lặp các nhãn “tuyệt mỹ”, “thanh lãnh”, “cao quý” khi hành động và điểm chú ý có thể thể hiện khí chất.
+- Các nữ chính chưa xuất hiện không bị khóa ngoại hình chỉ bởi tên gọi; hoàn thành bảng nhận diện riêng trước khi đưa vào chương.
+
 ## 8. Sắc thái tang thương trong cảnh khổ và mất mát
 
 - Nỗi đau cần một đối tượng cụ thể: một người, một thói quen, một lời hứa, một nơi chốn hoặc một khả năng sống đã mất. Cho độc giả biết điều ấy từng có ý nghĩa gì trước khi viết sự mất đi.
@@ -75,6 +83,7 @@ tags:
 
 - Bảo vệ Canon: [[00_CANON_PROTECTION]]
 - Hướng dẫn viết gốc: [[04_WRITING_BIBLE]]
+- Miêu tả nhân vật: [[Quy Tắc Miêu Tả Nhân Vật]]
 - Quản lý Canon động: [[10_DYNAMIC_CANON_ENGINE]]
 - Khung truyện: [[04-KHUNG TRUYỆN/Luật Viết|Luật Viết]], [[Triết Lý Văn Học Và Nhịp Điệu Bi Kịch]]
 - Chương truyện: [[06-CHƯƠNG TRUYỆN/Quyển 1 - Từ Vọng Sơn Đến Lăng Vân/Chương 8|Chương 8]]

@@ -40,6 +40,10 @@ tags:
 
 ## Quy tắc nhân vật
 
+- Mọi lần giới thiệu hoặc tái miêu tả nhân vật phải tuân theo [[Quy Tắc Miêu Tả Nhân Vật]].
+- Nhân vật chính và nữ chính cần dấu hiệu nhận diện riêng qua chuyển động, giọng nói, điểm chú ý, phục sức có chức năng và lựa chọn trong cảnh.
+- Không dùng nhan sắc, khí chất hoặc danh xưng để thay cho tính cách và quyền chủ động.
+
 - Nhân vật có mục tiêu rõ ràng, đối lập rõ ràng (trực diện hay nền).
 - Không buff lực vô lý — mọi đột phá đều có giá và có cơ sở hệ thống (xem [[Cảnh Giới]]).
 - Cảnh giới không đồng nghĩa chiến lực tuyệt đối.

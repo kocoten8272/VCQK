@@ -217,6 +217,7 @@
 ## NGUYÊN TẮC PHONG CÁCH VIẾT (09)
 
 - [[Nguyên Tắc Văn Phong]] — quy chuẩn văn phong, nhịp câu và cách hành văn tự nhiên
+- [[Quy Tắc Miêu Tả Nhân Vật]] — ngoại hình, khí chất, chuyển động, điểm nhìn và cách xây dựng nữ chính
 - [[04_WRITING_BIBLE]] — hệ điều hành tư duy, cấu trúc dài hạn, bí mật nhiều tầng và triết lý cốt lõi
 - [[10_DYNAMIC_CANON_ENGINE]] — bộ quy tắc vận hành và quản lý canon động (State Change, Ripple Effect, Auto Node Detection, After-Chapter Protocol)
 
