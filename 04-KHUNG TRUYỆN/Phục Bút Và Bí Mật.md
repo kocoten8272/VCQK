@@ -24,7 +24,7 @@ tags:
 | Giấc mộng Người Áo Đen hóa hiện thực | Giấc mộng (Chương 7–9) → hiện thực (Chương 30) | Đang hé mở |
 | Chiếc nhẫn bạc phản ứng với Người Áo Đen | Chương 29–30 | Đang hé mở |
 | Giới hạn cảnh giới bị áp đặt | Chỉ trong canon (không hé lộ sớm) | Bí mật dài hạn |
-| Một cổ tộc nội sinh từng bị xóa khỏi lịch sử | Chưa cài vào chương; hồ sơ [[Cổ Tộc Viễn Cổ (Đề Xuất)]] chỉ là hướng thiết kế | Chờ chọn tên và vật chứng đầu tiên; không gắn với cái bóng chương 40 |
+| Một cổ tộc nội sinh từng bị xóa khỏi lịch sử | Chưa cài vào chương; hồ sơ [[Di Kỷ Tộc]] chỉ là hướng thiết kế | Tên Di Kỷ Tộc đã chốt; chờ vật chứng đầu tiên, không gắn với cái bóng chương 40 |
 | Tầng một thí luyện là bản sao Hắc Phong Sơn, tồn tại từ trước | Chương 43–44 | Mới cài — Hắc Phong Sơn thật chỉ là cái bóng của nó |
 | Vật khắc hai chữ Quy Khư là mục tiêu tầng một | Chương 43 | Mới cài — Tô Nguyên Chấn chọn đúng hai chữ này |
 | Kẻ không có bóng (Hắc Nha) biết về "người đeo nhẫn trước Lâm Uyên" | Chương 44 | Mới cài — chờ người đó trở về rất lâu |

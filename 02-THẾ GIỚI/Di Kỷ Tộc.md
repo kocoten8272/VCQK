@@ -1,18 +1,19 @@
 ---
 type: the-gioi
-status: de-xuat
+status: dang-phat-trien
 aliases:
+  - Cổ tộc viễn cổ
   - Cổ tộc chưa định danh
 tags:
   - the-gioi
   - co-toc
   - phan-dien
-  - de-xuat
+  - di-ky-toc
 ---
 
-# Cổ Tộc Viễn Cổ (Đề Xuất)
+# Di Kỷ Tộc
 
-> Hồ sơ thiết kế cho một cổ tộc nội sinh làm đối lực dài hạn. Nội dung này chưa sửa canon nền tảng và chưa xác nhận tên chính thức. Khi tên được chọn, cần đổi tên tệp và cập nhật các liên kết.
+> **Di Kỷ Tộc** là tên chính thức đã chốt cho cổ tộc nội sinh làm đối lực dài hạn. Nguồn gốc sâu, thủ phạm xóa lịch sử và quan hệ cuối cùng với Quy Khư vẫn đang phát triển, chưa sửa canon nền tảng.
 
 ## 1. Vai trò trong truyện
 
@@ -100,17 +101,12 @@ Không được viết toàn bộ cổ tộc là ác. Đối thủ chính là ph
 
 Chương 46 trong [[Đường Dây Chương 40-48]] có thể gieo dấu can thiệp đầu tiên, nhưng chỉ ở cấp người hoặc tổ chức trung gian. Không dùng một nhân vật đứng ra kể toàn bộ lịch sử.
 
-## 8. Phương án tên
+## 8. Danh xưng đã chốt
 
-| Tên | Sắc thái | Điểm mạnh | Lưu ý |
-| --- | --- | --- | --- |
-| **Di Kỷ Tộc** | Tàn dân của một kỷ nguyên bị bỏ lại | Trung tính, cổ kính, gắn trực tiếp chủ đề lịch sử bị xóa | Đề xuất ưu tiên |
-| **Tẫn Cổ Tộc** | Tro tàn của thời cổ | Âm u, mạnh, hợp tên do kẻ thù đặt | Dễ khiến cả tộc bị hiểu là tà ác |
-| **Vong Kỷ Tộc** | Kỷ nguyên bị quên | Bi thương, hợp tuyến ký ức và mất mát | Có thể bị hiểu là chính họ mất trí nhớ |
-| **Tàng Kỷ Tộc** | Kỷ nguyên ẩn giấu | Nhấn âm mưu và thâm nhập | Ít chất bi kịch hơn |
-| **Hồi Nguyên Tộc** | Trở về nguồn gốc | Hợp tên tự xưng của phe Phục Kỷ | Bộc lộ mục tiêu khá sớm |
-
-Có thể dùng hai tầng tên: họ tự xưng **Di Kỷ Tộc**, trong khi sử sách hoặc kẻ thù gọi họ là **Tẫn Cổ Tộc**. Chỉ áp dụng sau khi tên chính thức được tác giả chọn.
+- **Tên chính thức:** Di Kỷ Tộc.
+- **Ý nghĩa:** những hậu duệ còn sót lại từ một kỷ nguyên bị xóa hoặc bỏ lại.
+- Tên gọi giữ sắc thái trung tính và bi thương, không mặc định toàn bộ huyết mạch là tà ác.
+- **Tẫn Cổ Tộc** có thể được cân nhắc về sau như một miệt danh trong sử sách của phe chiến thắng, nhưng chưa phải canon.
 
 ## 9. Quy tắc bảo vệ mạch truyện
 
@@ -119,7 +115,7 @@ Có thể dùng hai tầng tên: họ tự xưng **Di Kỷ Tộc**, trong khi s�
 - Không cho họ biết toàn bộ sự thật về Quy Khư hoặc Ngoại Sinh Linh.
 - Mỗi âm mưu phải có nguồn lực, người thực hiện, giới hạn và hậu quả cụ thể.
 - Mỗi thành viên được định nghĩa bằng lựa chọn và phe phái, không chỉ bằng huyết mạch.
-- Mọi nội dung trong hồ sơ này giữ trạng thái đề xuất cho tới khi tên và quan hệ với canon nền tảng được chốt.
+- Tên Di Kỷ Tộc đã được chốt. Các quan hệ sâu với canon nền tảng chỉ được xác nhận khi có chương truyện hoặc quyết định riêng của tác giả.
 
 ## Liên kết
 

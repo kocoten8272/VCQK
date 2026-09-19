@@ -25,9 +25,9 @@ tags:
 - Chương 40: ba người kiểm tra lời cảnh báo, gặp Trần Dực và nhìn thấy bóng thứ tư dưới ánh đèn xám. Bản chất cái bóng chưa được xác nhận.
 - Chương 41–48: đường dây dự kiến trong [[Đường Dây Chương 40-48]]. Các mốc này chưa trở thành sự kiện truyện.
 
-## Trục cổ tộc dài hạn, đang đề xuất
+## Trục Di Kỷ Tộc dài hạn
 
-- [[Cổ Tộc Viễn Cổ (Đề Xuất)]] có thể trở thành đối lực trung gian giữa các thế lực địa phương và bí mật cấp thiên địa.
+- [[Di Kỷ Tộc]] có thể trở thành đối lực trung gian giữa các thế lực địa phương và bí mật cấp thiên địa.
 - Dấu can thiệp đầu tiên có thể xuất hiện sau arc Hắc Phong Sơn dưới dạng vật chứng hoặc người trung gian. Không công bố tên tộc trong arc hiện tại.
 - Phe Phục Kỷ gây hại để khôi phục kỷ nguyên cũ; các phe Thủ Di và Dung Thế giữ cho chủng tộc có lịch sử, con người và lựa chọn riêng.
 - Tuyến này không thay thế [[Ngoại Sinh Linh]], [[Hệ Thống Khống Chế Thiên Địa]] hoặc bí mật [[Quy Khư]].
