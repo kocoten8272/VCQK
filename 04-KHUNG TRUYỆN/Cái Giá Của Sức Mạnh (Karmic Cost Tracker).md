@@ -35,6 +35,10 @@ tags:
 
 Khi viết chương tiếp theo, chỉ ghi một cái giá mới sau khi nó thực sự xuất hiện trong chương. Không suy từ hình ảnh mơ hồ thành ký ức đời thứ chín hoặc một bí mật đã giải.
 
+| Chương 40, kiểm tra dấu chân và vào phòng | Nhẫn bạc nóng mạnh khi Lâm Uyên đi về phía ngọn đèn; mảnh xương rung một lần và khiến lửa chuyển xám | Lòng bàn tay bị quai đèn làm bỏng rát; chưa xác nhận mất ký ức hay tổn thương kinh mạch | Vì sao ánh lửa xám làm lộ bóng thứ tư và bóng ấy có thật hay không. |
+
+Không ghi nhận đột phá hoặc năng lực điều khiển mới ở chương 40. Lâm Uyên chỉ dùng quan sát, phép thử tại chỗ và chấp nhận nguy hiểm để lấy nguồn sáng.
+
 ## 4. Liên kết
 - Hệ thống: [[Quy Khư Quyết]], [[Tiến Trình Mất Mát Ký Ức]], [[Cái Giá Của Quy Khư Đạo (Ký Ức Và Mất Mát)]]
 - Khung truyện: [[Bi Kịch Và Nhân Quả Lâm Uyên]]

@@ -60,21 +60,22 @@ tags:
 | Chương 37 | 🔶 | Cánh Cửa Phía Sau Bóng Tối | `status: nhap` |
 | Chương 38 | 🔶 | Dưới Khe Nứt | `status: nhap` |
 | Chương 39 | 🔶 | Bậc Đá Thứ Ba | `status: nhap` |
+| Chương 40 | 🔶 | Dấu Chân Thứ Tư | `status: nhap` |
 
 ## Chương tiếp theo
 
-- Chương 40: dự kiến, chưa có tệp chương trên `main`.
+- Chương 41: dự kiến theo [[Đường Dây Chương 40-48]], chưa có tệp chương trên `main`.
 - Các ý tưởng cũ cho chương 39–44 trong hồ sơ hỗ trợ thuộc mạch trước bản Chương 37–38 hiện tại. Chỉ dùng làm chất liệu sau khi đối chiếu, không coi là sự kiện đã xảy ra.
 
 ## Tổng số
 
-- Có tệp chương 1–39 trên `main`: 39.
+- Có tệp chương 1–40 trên `main`: 40.
 - Hoàn thiện: 33 chương theo tracker cũ (1–25) và frontmatter đã kiểm tra (26–32, 34).
-- Nháp theo frontmatter: 5 chương (33, 36–39).
+- Nháp theo frontmatter: 6 chương (33, 36–40).
 - Chương 35 có tệp nhưng chưa khai báo trạng thái.
-- Chương 40 trở đi: chưa có tệp chương; các mốc tương lai giữ ở mức kế hoạch.
+- Chương 41 trở đi: chưa có tệp chương; các mốc tương lai giữ ở mức kế hoạch.
 
 ## Liên kết
 
 - Nhịp: [[Nhịp Truyện]]
-- Chương: [[Chương 1]] → [[Chương 39]]
+- Chương: [[Chương 1]] → [[Chương 40]]
