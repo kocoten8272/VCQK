@@ -39,6 +39,10 @@ Khi viết chương tiếp theo, chỉ ghi một cái giá mới sau khi nó th�
 
 Không ghi nhận đột phá hoặc năng lực điều khiển mới ở chương 40. Lâm Uyên chỉ dùng quan sát, phép thử tại chỗ và chấp nhận nguy hiểm để lấy nguồn sáng.
 
+| Chương 41, đưa Trần Dực qua cửa | Nhẫn bạc nóng khi cái bóng vươn tới; mảnh xương rung và xuất hiện ý muốn “ở lại” khi Lâm Uyên gần cửa | Bàn tay phải rách lớp da bỏng; mất tàn kiếm; phải bỏ lại đèn xám, chưa xác nhận mất ký ức hoặc tổn thương kinh mạch | Ý muốn “ở lại” đến từ mảnh xương, căn phòng hay chính cái bóng. |
+
+Chương 41 không có đột phá hoặc năng lực điều khiển mới. Việc thoát khỏi phòng dựa vào quan sát độ trễ của bóng, cắt áo để đưa người qua khe và lựa chọn bỏ vật đang giữ.
+
 ## 4. Liên kết
 - Hệ thống: [[Quy Khư Quyết]], [[Tiến Trình Mất Mát Ký Ức]], [[Cái Giá Của Quy Khư Đạo (Ký Ức Và Mất Mát)]]
 - Khung truyện: [[Bi Kịch Và Nhân Quả Lâm Uyên]]

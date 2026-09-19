@@ -9,7 +9,7 @@ tags:
 
 # Đường Dây Chương 40–48
 
-> Kế hoạch làm việc sau bản nháp [[Chương 39]]. Chương 40 đã được triển khai thành bản nháp; các chương 41–48 vẫn là hướng đề xuất, không phải sự kiện đã xảy ra hoặc canon nền tảng.
+> Kế hoạch làm việc sau bản nháp [[Chương 39]]. Chương 40–41 đã được triển khai thành bản nháp; các chương 42–48 vẫn là hướng đề xuất, không phải sự kiện đã xảy ra hoặc canon nền tảng.
 
 ## Lời hứa của arc
 
@@ -27,7 +27,7 @@ Ba người xuống phế tích để điều tra dấu vết sau vụ cháy Tà
 | Chương | Việc chính | Áp lực và lựa chọn | Kết quả cần đạt, chưa khóa cách thực hiện |
 | --- | --- | --- | --- |
 | 40 | **Đã viết nháp:** kiểm chứng lời người sau cửa | Ba người thử từng bước chân, xác nhận dấu lõm lạ xuất hiện nhưng không quy kết ai giả dạng; họ mở cửa có kiểm soát để cứu Trần Dực | Lá phù tắt; đèn trong phòng cho thấy bóng thứ tư bám trên lưng Trần Dực. Đây vẫn là điều được nhìn thấy trong ánh đèn, chưa xác nhận bản chất. |
-| 41 | Đối diện người hoặc dấu vết sau cửa | Cứu người có thể mất thời gian, tài nguyên và đường lui | Một lựa chọn của Lâm Uyên làm thay đổi mức tin cậy giữa ba người; thân phận người lạ vẫn có thể chưa rõ. |
+| 41 | **Đã viết nháp:** đưa Trần Dực qua cửa | Lâm Uyên bỏ tàn kiếm và để lại đèn xám để cứu người; Tô Trạch tiêu hao sức giữ cửa | Cái bóng bị chặn tạm thời, thân phận Trần Dực chỉ được hỗ trợ một phần; ống truyền âm dẫn tới tín hiệu đáng ngờ của đội phía trên. |
 | 42 | Tìm đường liên lạc với sáu đệ tử ở tầng trên | Đường đá biến đổi, tín hiệu âm thanh không đáng tin | Xác nhận họ còn an toàn hay nguy cấp bằng dấu hiệu có thể kiểm chứng; không dựa vào giọng nói đơn độc. |
 | 43 | Khép chuyến điều tra phế tích | Phải chọn giữ người, giữ chứng cứ hay theo manh mối sâu hơn | Ít nhất một tổn thất hoặc nghĩa vụ còn lại khi rời phế tích; chưa giải thích bí mật Quy Khư. |
 | 44 | Hậu quả tại Tô gia | Vụ cháy Tàng Thư Các và tình trạng đội điều tra tạo áp lực chính trị | Mỗi người thuật lại phần mình biết; lời kể của họ có thể khác nhau mà không tự biến thành canon. |
@@ -51,4 +51,4 @@ Arc chỉ khép khi nhóm xử lý được nguy hiểm trực tiếp ở Hắc 
 
 ## Liên kết
 
-- [[Các Arc]], [[Kết Chương]], [[MỐI QUAN HỆ]], [[Trạng Thái Truyện Sau Chương 40]]
+- [[Các Arc]], [[Kết Chương]], [[MỐI QUAN HỆ]], [[Trạng Thái Truyện Sau Chương 41]]

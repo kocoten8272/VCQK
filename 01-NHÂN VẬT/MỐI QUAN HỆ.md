@@ -13,19 +13,19 @@ tags:
 ## Chú giải
 
 - ✅ thân thiết; 🔶 phức tạp; ❌ đối đầu; ⚪ chưa rõ.
-- Mốc kiểm tra: hết [[Chương 39]] (nháp). Các lời nói bí ẩn chưa được xác nhận là sự thật.
+- Mốc kiểm tra: hết [[Chương 41]] (nháp). Các lời nói bí ẩn chưa được xác nhận là sự thật.
 
 ## Quan hệ đã xuất hiện hoặc được xác lập
 
 | Nhân vật | Quan hệ với Lâm Uyên | Trạng thái | Căn cứ và giới hạn |
 | --- | --- | --- | --- |
-| [[Tô Thanh Ly]] | Người đưa hắn ra khỏi Vọng Sơn; đồng hành và nhiều lần bảo vệ | ✅/🔶 | Đang ở cùng Lâm Uyên trong phế tích Hắc Phong Sơn; chương 39 cùng hắn chọn cách mở lối và kiểm tra tiếng nói sau cửa. Vẫn chưa biết toàn bộ bí mật của hắn. |
+| [[Tô Thanh Ly]] | Người đưa hắn ra khỏi Vọng Sơn; đồng hành và nhiều lần bảo vệ | ✅/🔶 | Ở chương 40–41, nàng tin cảnh báo của Lâm Uyên về cái bóng, cùng hắn cứu Trần Dực và kéo hắn khỏi cửa đúng lúc. Vẫn chưa biết toàn bộ bí mật của hắn. |
 | [[Lão Đầu]] | Người giữ sổ mộ, trí giả ở Vọng Sơn | ✅ | Đã qua đời; ảnh hưởng của ông còn trong ký ức và lựa chọn của Lâm Uyên. |
 | [[Lâm Chinh]] | Cha của Lâm Uyên | ⚪ | Sự thật về mộ và cái chết chưa rõ. Lâm Chinh là tên cha đã chốt. |
 | [[Người Áo Đen]] | Kẻ từng đối đầu, để lại dấu vết liên quan phế tích | ❌ | Chưa xác nhận người để lại mọi dấu vết là cùng một kẻ hay cùng phe. |
 | [[Tô Thanh Dương]] | Người thuộc Tô gia | 🔶 | Mức đối đầu hiện tại cần đối chiếu từng chương; không dựa vào bản nháp chương 39 cũ. |
 | [[Tô Bách]] | Trưởng bối Tô gia | 🔶 | Quan hệ còn thay đổi theo tình thế trong gia tộc. |
-| [[Tô Trạch]] | Trưởng lão Chấp pháp, nghi ngờ và gây áp lực lên Lâm Uyên | ❌/🔶 | Chính lão dẫn Lâm Uyên và Tô Thanh Ly xuống phế tích ở chương 34–39; cả ba đang phải phối hợp để sống sót. Chưa có phán quyết cách chức sau chuyến đi này. |
+| [[Tô Trạch]] | Trưởng lão Chấp pháp, nghi ngờ và gây áp lực lên Lâm Uyên | ❌/🔶 | Chương 40–41 cho thấy lão vẫn nghi ngờ nhưng chấp nhận phối hợp bằng phép thử và quy tắc rõ ràng; lão chờ đủ ba nhịp để Lâm Uyên thoát qua cửa. Chưa có phán quyết cách chức sau chuyến đi này. |
 | [[Tô Huyền Sơn]] | Gia chủ Tô gia | ⚪ | Chưa có phán quyết về biến cố Hắc Phong Sơn hiện tại trong các chương đến 38. |
 | [[Tô Nguyên Chấn]] | Đại trưởng lão Tô gia | ⚪ | Động cơ và vai trò trong một đại hội tương lai chưa được chứng thực bằng chương đã có. |
 | [[Lão Bán Pháp Khí]] | Người bán pháp khí cũ từng giúp Lâm Uyên | ✅ | Mối quan hệ đời thường có thể trở lại về sau, chưa dùng làm lời giải cho bí mật. |
@@ -58,6 +58,6 @@ tags:
 
 ## Liên kết
 
-- Trạng thái hiện tại: [[Trạng Thái Truyện Sau Chương 39]]
+- Trạng thái hiện tại: [[Trạng Thái Truyện Sau Chương 41]]
 - Nhân vật: [[Lâm Uyên]]
 - Bí ẩn: [[Hắc Quan]], [[Di Cốt]], [[Ngọc Giản Quy Khư]]

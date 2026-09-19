@@ -8,10 +8,10 @@
 
 - **Tên truyện:** Vạn Cổ Quy Khư
 - **Nhân vật chính:** [[Lâm Uyên]]
-- **Địa điểm ở cuối chương 40:** phế tích dưới Hắc Phong Sơn
+- **Địa điểm ở cuối chương 41:** phế tích dưới Hắc Phong Sơn
 - **Thế lực gắn với arc hiện tại:** [[Tô Gia]]
-- **Chương mới nhất trên main:** [[Chương 40]] (nháp)
-- **Chương tiếp theo:** Chương 41 (dự kiến)
+- **Chương mới nhất trên main:** [[Chương 41]] (nháp)
+- **Chương tiếp theo:** Chương 42 (dự kiến)
 - **Trạng thái:** Đang sáng tác
 
 ---
@@ -167,13 +167,14 @@
 - [[Chương 37]]
 - [[Chương 38]]
 - [[Chương 39]]
-- [[Chương 40]] — nháp mới
+- [[Chương 40]]
+- [[Chương 41]] — nháp mới
 
 ### Chuẩn bị
 
-- Chương 41 — kế hoạch gần trong [[Đường Dây Chương 40-48]].
+- Chương 42 — kế hoạch gần trong [[Đường Dây Chương 40-48]].
 - [[Kết Chương]] — trạng thái từng chương, bao gồm các bản nháp và chương chưa có frontmatter.
-- [[Trạng Thái Truyện Sau Chương 40]] — vị trí, vật phẩm, thương thế và câu hỏi đang mở.
+- [[Trạng Thái Truyện Sau Chương 41]] — vị trí, vật phẩm, thương thế và câu hỏi đang mở.
 
 ---
 
