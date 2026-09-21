@@ -43,6 +43,10 @@ Không ghi nhận đột phá hoặc năng lực điều khiển mới ở chư�
 
 Chương 41 không có đột phá hoặc năng lực điều khiển mới. Việc thoát khỏi phòng dựa vào quan sát độ trễ của bóng, cắt áo để đưa người qua khe và lựa chọn bỏ vật đang giữ.
 
+| Chương 42, truy mạng ống truyền âm | Không sử dụng Quy Khư Quyết; nhẫn bạc và mảnh xương không tạo phản ứng mới | Vết bỏng tay phải tiếp tục hạn chế cách đỡ người; Tô Trạch hao sức tay, cắt áo làm nhiên liệu; dầu chỉ còn chưa đầy một phần ba | Không ghi thêm năng lực hoặc tổn thất ký ức khi không có biểu hiện trực tiếp. |
+
+Chương 42 giải quyết trở ngại bằng quan sát luồng khói, cơ quan, nửa thẻ và phản ứng vật lý ở đầu dây. Không chuyển kỹ năng suy luận thành năng lực siêu nhiên.
+
 ## 4. Liên kết
 - Hệ thống: [[Quy Khư Quyết]], [[Tiến Trình Mất Mát Ký Ức]], [[Cái Giá Của Quy Khư Đạo (Ký Ức Và Mất Mát)]]
 - Khung truyện: [[Bi Kịch Và Nhân Quả Lâm Uyên]]

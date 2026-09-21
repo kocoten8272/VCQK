@@ -62,21 +62,22 @@ tags:
 | Chương 39 | 🔶 | Bậc Đá Thứ Ba | `status: nhap` |
 | Chương 40 | 🔶 | Dấu Chân Thứ Tư | `status: nhap` |
 | Chương 41 | 🔶 | Cái Bóng Trên Lưng | `status: nhap` |
+| Chương 42 | 🔶 | Nửa Nhịp Sai | `status: nhap` |
 
 ## Chương tiếp theo
 
-- Chương 42: dự kiến theo [[Đường Dây Chương 40-48]], chưa có tệp chương trên `main`.
+- Chương 43: dự kiến theo [[Đường Dây Chương 40-48]], chưa có tệp chương trên `main`.
 - Các ý tưởng cũ cho chương 39–44 trong hồ sơ hỗ trợ thuộc mạch trước bản Chương 37–38 hiện tại. Chỉ dùng làm chất liệu sau khi đối chiếu, không coi là sự kiện đã xảy ra.
 
 ## Tổng số
 
-- Có tệp chương 1–41 trên `main`: 41.
+- Có tệp chương 1–42 trên `main`: 42.
 - Hoàn thiện: 33 chương theo tracker cũ (1–25) và frontmatter đã kiểm tra (26–32, 34).
-- Nháp theo frontmatter: 7 chương (33, 36–41).
+- Nháp theo frontmatter: 8 chương (33, 36–42).
 - Chương 35 có tệp nhưng chưa khai báo trạng thái.
-- Chương 42 trở đi: chưa có tệp chương; các mốc tương lai giữ ở mức kế hoạch.
+- Chương 43 trở đi: chưa có tệp chương; các mốc tương lai giữ ở mức kế hoạch.
 
 ## Liên kết
 
 - Nhịp: [[Nhịp Truyện]]
-- Chương: [[Chương 1]] → [[Chương 41]]
+- Chương: [[Chương 1]] → [[Chương 42]]

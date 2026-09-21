@@ -24,7 +24,8 @@ tags:
 - Chương 39: ba người tự mở lối xuống, tìm thấy dấu vết một người đi trước và nghe lời cảnh báo từ sau cửa đá. Lời cảnh báo là lời nhân vật, chưa phải sự thật đã được xác minh.
 - Chương 40: ba người kiểm tra lời cảnh báo, gặp Trần Dực và nhìn thấy bóng thứ tư dưới ánh đèn xám. Bản chất cái bóng chưa được xác nhận.
 - Chương 41: nhóm đưa Trần Dực qua cửa, phải bỏ lại đèn xám và tàn kiếm; cuối chương nhận tín hiệu đáng ngờ qua ống truyền âm, tự nhận đội phía trên chỉ còn năm người.
-- Chương 42–48: đường dây dự kiến trong [[Đường Dây Chương 40-48]]. Các mốc này chưa trở thành sự kiện truyện.
+- Chương 42: nhóm kiểm chứng tín hiệu bằng nửa thẻ Chấp pháp và lần theo mạng ống tới giếng đá; xác nhận có bốn nguồn đáp phía trên và một người gặp nạn phía dưới, người thứ sáu chưa rõ.
+- Chương 43–48: đường dây dự kiến trong [[Đường Dây Chương 40-48]]. Các mốc này chưa trở thành sự kiện truyện.
 
 ## Trục Di Kỷ Tộc dài hạn
 
