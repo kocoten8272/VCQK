@@ -63,21 +63,22 @@ tags:
 | Chương 40 | 🔶 | Dấu Chân Thứ Tư | `status: nhap` |
 | Chương 41 | 🔶 | Cái Bóng Trên Lưng | `status: nhap` |
 | Chương 42 | 🔶 | Nửa Nhịp Sai | `status: nhap` |
+| Chương 43 | 🔶 | Người Ở Lại Dưới Giếng | `status: nhap` |
 
 ## Chương tiếp theo
 
-- Chương 43: dự kiến theo [[Đường Dây Chương 40-48]], chưa có tệp chương trên `main`.
+- Chương 44: dự kiến theo [[Đường Dây Chương 40-48]], chưa có tệp chương trên `main`.
 - Các ý tưởng cũ cho chương 39–44 trong hồ sơ hỗ trợ thuộc mạch trước bản Chương 37–38 hiện tại. Chỉ dùng làm chất liệu sau khi đối chiếu, không coi là sự kiện đã xảy ra.
 
 ## Tổng số
 
-- Có tệp chương 1–42 trên `main`: 42.
+- Có tệp chương 1–43 trên `main`: 43.
 - Hoàn thiện: 33 chương theo tracker cũ (1–25) và frontmatter đã kiểm tra (26–32, 34).
-- Nháp theo frontmatter: 8 chương (33, 36–42).
+- Nháp theo frontmatter: 9 chương (33, 36–43).
 - Chương 35 có tệp nhưng chưa khai báo trạng thái.
-- Chương 43 trở đi: chưa có tệp chương; các mốc tương lai giữ ở mức kế hoạch.
+- Chương 44 trở đi: chưa có tệp chương; các mốc tương lai giữ ở mức kế hoạch.
 
 ## Liên kết
 
 - Nhịp: [[Nhịp Truyện]]
-- Chương: [[Chương 1]] → [[Chương 42]]
+- Chương: [[Chương 1]] → [[Chương 43]]
