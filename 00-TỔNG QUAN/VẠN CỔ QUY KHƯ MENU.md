@@ -8,10 +8,10 @@
 
 - **Tên truyện:** Vạn Cổ Quy Khư
 - **Nhân vật chính:** [[Lâm Uyên]]
-- **Địa điểm ở cuối chương 43:** sườn bắc Hắc Phong Sơn, trên đường trở về Lăng Vân Thành
+- **Địa điểm ở cuối chương 44:** nội viện Tô gia tại Lăng Vân Thành
 - **Thế lực gắn với arc hiện tại:** [[Tô Gia]]
-- **Chương mới nhất trên main:** [[Chương 43]] (nháp)
-- **Chương tiếp theo:** Chương 44 (dự kiến)
+- **Chương mới nhất trên main:** [[Chương 44]] (nháp)
+- **Chương tiếp theo:** Chương 45 (dự kiến)
 - **Trạng thái:** Đang sáng tác
 
 ---
@@ -170,13 +170,14 @@
 - [[Chương 40]]
 - [[Chương 41]]
 - [[Chương 42]]
-- [[Chương 43]] — nháp mới
+- [[Chương 43]]
+- [[Chương 44]] — nháp mới
 
 ### Chuẩn bị
 
-- Chương 44 — kế hoạch gần trong [[Đường Dây Chương 40-48]].
+- Chương 45 — kế hoạch gần trong [[Đường Dây Chương 40-48]].
 - [[Kết Chương]] — trạng thái từng chương, bao gồm các bản nháp và chương chưa có frontmatter.
-- [[Trạng Thái Truyện Sau Chương 43]] — vị trí, vật phẩm, thương thế và câu hỏi đang mở.
+- [[Trạng Thái Truyện Sau Chương 44]] — vị trí, vật phẩm, thương thế và câu hỏi đang mở.
 
 ---
 
