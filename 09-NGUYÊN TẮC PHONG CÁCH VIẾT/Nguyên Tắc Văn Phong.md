@@ -84,6 +84,7 @@ tags:
 - Bảo vệ Canon: [[00_CANON_PROTECTION]]
 - Hướng dẫn viết gốc: [[04_WRITING_BIBLE]]
 - Miêu tả nhân vật: [[Quy Tắc Miêu Tả Nhân Vật]]
+- Đặt tên và thuật ngữ: [[Quy Tắc Đặt Tên Và Thuật Ngữ]]
 - Quản lý Canon động: [[10_DYNAMIC_CANON_ENGINE]]
 - Khung truyện: [[04-KHUNG TRUYỆN/Luật Viết|Luật Viết]], [[Triết Lý Văn Học Và Nhịp Điệu Bi Kịch]]
 - Chương truyện: [[06-CHƯƠNG TRUYỆN/Quyển 1 - Từ Vọng Sơn Đến Lăng Vân/Chương 8|Chương 8]]
