@@ -55,6 +55,10 @@ Chương 43 đặt cái giá vào lựa chọn cứu người: Tô Lạc và v�
 
 Chương 44 không dùng sức mạnh để vượt trở ngại. Cái giá trực tiếp là thương thế cần thời gian hồi phục, quyền tự do bị hạn chế và các vật riêng trở thành đối tượng giám sát.
 
+| Chương 45, Dược Khế và cứu chữa Trần Dực | Không sử dụng Quy Khư Quyết; nhẫn bạc và mảnh xương không tạo phản ứng mới | Tay phải vẫn đau khi vận khí tới gần vai; Lâm Uyên bị quản thúc và gánh sáu tháng nguyệt lệ tương lai. Tô Thanh Ly gánh ba tháng nguyệt lệ, kiếm trở thành vật bảo chứng | Không ghi thêm năng lực, đột phá hoặc tổn thất ký ức. Nhẫn bạc và mảnh xương vẫn do Lâm Uyên giữ. |
+
+Chương 45 đặt cái giá vào tài nguyên tu luyện và quyền tự do. Việc cứu Trần Dực dựa vào Dược Khế, thủ tục án chứng và thuốc hữu hạn, không dựa vào năng lực mới.
+
 ## 4. Liên kết
 - Hệ thống: [[Quy Khư Quyết]], [[Tiến Trình Mất Mát Ký Ức]], [[Cái Giá Của Quy Khư Đạo (Ký Ức Và Mất Mát)]]
 - Khung truyện: [[Bi Kịch Và Nhân Quả Lâm Uyên]]
