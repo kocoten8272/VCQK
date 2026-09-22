@@ -51,6 +51,10 @@ Chương 42 giải quyết trở ngại bằng quan sát luồng khói, cơ quan
 
 Chương 43 đặt cái giá vào lựa chọn cứu người: Tô Lạc và vật chứng ở lại dưới giếng, Tô Trạch gánh lời hứa quay lại. Đây là hậu quả nhân sự và điều tra, không phải phản phệ của Quy Khư Quyết.
 
+| Chương 44, trở về Tô gia và đối chiếu lời khai | Không sử dụng Quy Khư Quyết; nhẫn bạc và mảnh xương không phản ứng trong Tông Sảnh | Bàn tay phải phải nghỉ vận lực bảy ngày; tay trái và vai trái quá sức. Lâm Uyên bị hạn chế rời nội viện và phải báo mọi phản ứng của hai vật | Không ghi thêm năng lực, đột phá hoặc tổn thất ký ức. Áp lực chuyển sang quyền giữ vật và nghi vấn chính trị. |
+
+Chương 44 không dùng sức mạnh để vượt trở ngại. Cái giá trực tiếp là thương thế cần thời gian hồi phục, quyền tự do bị hạn chế và các vật riêng trở thành đối tượng giám sát.
+
 ## 4. Liên kết
 - Hệ thống: [[Quy Khư Quyết]], [[Tiến Trình Mất Mát Ký Ức]], [[Cái Giá Của Quy Khư Đạo (Ký Ức Và Mất Mát)]]
 - Khung truyện: [[Bi Kịch Và Nhân Quả Lâm Uyên]]
