@@ -10,8 +10,8 @@
 - **Nhân vật chính:** [[Lâm Uyên]]
 - **Địa điểm ở cuối chương 42:** phế tích dưới Hắc Phong Sơn
 - **Thế lực gắn với arc hiện tại:** [[Tô Gia]]
-- **Chương mới nhất trên main:** [[Chương 42]] (nháp)
-- **Chương tiếp theo:** Chương 43 (dự kiến)
+- **Chương mới nhất trên main:** [[Chương 43]] (nháp)
+- **Chương tiếp theo:** Chương 44 (dự kiến)
 - **Trạng thái:** Đang sáng tác
 
 ---
@@ -169,13 +169,14 @@
 - [[Chương 39]]
 - [[Chương 40]]
 - [[Chương 41]]
-- [[Chương 42]] — nháp mới
+- [[Chương 42]]
+- [[Chương 43]] — nháp mới
 
 ### Chuẩn bị
 
-- Chương 43 — kế hoạch gần trong [[Đường Dây Chương 40-48]].
+- Chương 44 — kế hoạch gần trong [[Đường Dây Chương 40-48]].
 - [[Kết Chương]] — trạng thái từng chương, bao gồm các bản nháp và chương chưa có frontmatter.
-- [[Trạng Thái Truyện Sau Chương 42]] — vị trí, vật phẩm, thương thế và câu hỏi đang mở.
+- [[Trạng Thái Truyện Sau Chương 43]] — vị trí, vật phẩm, thương thế và câu hỏi đang mở.
 
 ---
 
