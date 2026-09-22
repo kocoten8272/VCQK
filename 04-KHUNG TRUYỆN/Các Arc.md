@@ -27,7 +27,8 @@ tags:
 - Chương 42: nhóm kiểm chứng tín hiệu bằng nửa thẻ Chấp pháp và lần theo mạng ống tới giếng đá; xác nhận có bốn nguồn đáp phía trên và một người gặp nạn phía dưới, người thứ sáu chưa rõ.
 - Chương 43: nhóm cứu Tô Tín, xác nhận Tô Lạc đã chết và rời phế tích qua cửa sườn bắc. Tô Trạch bỏ miếng đồng dưới giếng để cứu người, để lại thẻ Chấp pháp cùng lời hứa quay lại.
 - Chương 44: năm lời khai được đối chiếu tại Tông Sảnh; vụ Hắc Phong Sơn và vụ cháy Tàng Thư Các được gộp thành một án. Tô Trạch bị thu quyền ngoại tuần, Lâm Uyên và Tô Thanh Ly bị quản thúc, trang ghi chép cũ bị phát hiện đã mất.
-- Chương 45–48: đường dây dự kiến trong [[Đường Dây Chương 40-48]]. Các mốc này chưa trở thành sự kiện truyện.
+- Chương 45: Lâm Uyên và Tô Thanh Ly ký Dược Khế để giữ mạng Trần Dực; Trần được nhập làm án chứng. Xích Tủy Tán trong thành đã bị mua sạch từ trước khi đoàn rời núi, và dấu cắt trên linh thạch trùng với loại Tả tiên sinh từng dùng trả công theo lời Trần Dực.
+- Chương 46–48: đường dây dự kiến trong [[Đường Dây Chương 40-48]]. Các mốc này chưa trở thành sự kiện truyện.
 
 ## Trục Di Kỷ Tộc dài hạn
 
