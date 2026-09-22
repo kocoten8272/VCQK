@@ -8,7 +8,7 @@
 
 - **Tên truyện:** Vạn Cổ Quy Khư
 - **Nhân vật chính:** [[Lâm Uyên]]
-- **Địa điểm ở cuối chương 42:** phế tích dưới Hắc Phong Sơn
+- **Địa điểm ở cuối chương 43:** sườn bắc Hắc Phong Sơn, trên đường trở về Lăng Vân Thành
 - **Thế lực gắn với arc hiện tại:** [[Tô Gia]]
 - **Chương mới nhất trên main:** [[Chương 43]] (nháp)
 - **Chương tiếp theo:** Chương 44 (dự kiến)
