@@ -47,6 +47,10 @@ Chương 41 không có đột phá hoặc năng lực điều khiển mới. Vi�
 
 Chương 42 giải quyết trở ngại bằng quan sát luồng khói, cơ quan, nửa thẻ và phản ứng vật lý ở đầu dây. Không chuyển kỹ năng suy luận thành năng lực siêu nhiên.
 
+| Chương 43, cứu người khỏi giếng và rời phế tích | Không sử dụng Quy Khư Quyết; nhẫn bạc và mảnh xương không phản ứng khi cửa phế tích đóng | Bàn tay phải của Lâm Uyên tiếp tục bị hạn chế; vai và tay trái quá sức vì kéo, cõng Tô Tín; dầu cạn, nửa thẻ vỡ, đường xuống tầng sâu và miếng đồng bị bỏ lại | Không ghi thêm năng lực, đột phá hoặc tổn thất ký ức. Việc thoát dựa vào dây, thang, cơ quan và phối hợp. |
+
+Chương 43 đặt cái giá vào lựa chọn cứu người: Tô Lạc và vật chứng ở lại dưới giếng, Tô Trạch gánh lời hứa quay lại. Đây là hậu quả nhân sự và điều tra, không phải phản phệ của Quy Khư Quyết.
+
 ## 4. Liên kết
 - Hệ thống: [[Quy Khư Quyết]], [[Tiến Trình Mất Mát Ký Ức]], [[Cái Giá Của Quy Khư Đạo (Ký Ức Và Mất Mát)]]
 - Khung truyện: [[Bi Kịch Và Nhân Quả Lâm Uyên]]
