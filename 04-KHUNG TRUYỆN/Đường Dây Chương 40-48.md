@@ -9,7 +9,7 @@ tags:
 
 # Đường Dây Chương 40–48
 
-> Kế hoạch làm việc sau bản nháp [[Chương 39]]. Chương 40–42 đã được triển khai thành bản nháp; các chương 43–48 vẫn là hướng đề xuất, không phải sự kiện đã xảy ra hoặc canon nền tảng.
+> Kế hoạch làm việc sau bản nháp [[Chương 39]]. Chương 40–43 đã được triển khai thành bản nháp; các chương 44–48 vẫn là hướng đề xuất, không phải sự kiện đã xảy ra hoặc canon nền tảng.
 
 ## Lời hứa của arc
 
@@ -29,7 +29,7 @@ Ba người xuống phế tích để điều tra dấu vết sau vụ cháy Tà
 | 40 | **Đã viết nháp:** kiểm chứng lời người sau cửa | Ba người thử từng bước chân, xác nhận dấu lõm lạ xuất hiện nhưng không quy kết ai giả dạng; họ mở cửa có kiểm soát để cứu Trần Dực | Lá phù tắt; đèn trong phòng cho thấy bóng thứ tư bám trên lưng Trần Dực. Đây vẫn là điều được nhìn thấy trong ánh đèn, chưa xác nhận bản chất. |
 | 41 | **Đã viết nháp:** đưa Trần Dực qua cửa | Lâm Uyên bỏ tàn kiếm và để lại đèn xám để cứu người; Tô Trạch tiêu hao sức giữ cửa | Cái bóng bị chặn tạm thời, thân phận Trần Dực chỉ được hỗ trợ một phần; ống truyền âm dẫn tới tín hiệu đáng ngờ của đội phía trên. |
 | 42 | **Đã viết nháp:** kiểm chứng tín hiệu của đội phía trên | Nhóm tháo mạng ống, trao đổi nửa thẻ và truy lối bảo trì thay vì tin giọng nói | Có ít nhất bốn nguồn đáp phía trên và một tín hiệu trực tiếp dưới giếng; số phận người thứ sáu chưa rõ. |
-| 43 | Khép chuyến điều tra phế tích | Phải chọn giữ người, giữ chứng cứ hay theo manh mối sâu hơn | Ít nhất một tổn thất hoặc nghĩa vụ còn lại khi rời phế tích; chưa giải thích bí mật Quy Khư. |
+| 43 | **Đã viết nháp:** cứu người và rời phế tích | Tô Trạch phải chọn giữa Tô Tín còn sống và miếng đồng dưới thi thể Tô Lạc | Nhóm cứu được năm đệ tử còn sống, xác nhận Tô Lạc đã chết và để thi thể cùng vật chứng ở lại; cửa sườn bắc sập sau khi họ thoát. |
 | 44 | Hậu quả tại Tô gia | Vụ cháy Tàng Thư Các và tình trạng đội điều tra tạo áp lực chính trị | Mỗi người thuật lại phần mình biết; lời kể của họ có thể khác nhau mà không tự biến thành canon. |
 | 45 | Tài nguyên và quyền lực | Người bị thương cần chữa, vật chứng cần giữ, các phe cần biết tin | Làm rõ ai trả giá và ai có quyền giữ vật chứng; không phát bảo vật hoặc địa vị miễn phí. |
 | 46 | Dấu can thiệp từ thế lực khác | Tin tức về phế tích lan ra ngoài Tô gia | Một đối thủ có mục tiêu, phương tiện và giới hạn cụ thể xuất hiện; tránh thêm danh xưng lớn chỉ để nâng tầm nguy hiểm. |
@@ -51,4 +51,4 @@ Arc chỉ khép khi nhóm xử lý được nguy hiểm trực tiếp ở Hắc 
 
 ## Liên kết
 
-- [[Các Arc]], [[Kết Chương]], [[MỐI QUAN HỆ]], [[Trạng Thái Truyện Sau Chương 42]]
+- [[Các Arc]], [[Kết Chương]], [[MỐI QUAN HỆ]], [[Trạng Thái Truyện Sau Chương 43]]
