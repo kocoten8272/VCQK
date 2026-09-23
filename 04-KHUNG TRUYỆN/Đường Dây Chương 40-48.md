@@ -34,7 +34,25 @@ Ba người xuống phế tích để điều tra dấu vết sau vụ cháy Tà
 | 45 | **Đã viết nháp:** Dược Khế và quyền cứu chữa | Trần Dực cần thuốc, trong khi Tông Sảnh và các bộ phận Tô gia tranh quyền giữ người cùng vật chứng | Trần Dực được nhập làm án chứng; Lâm Uyên và Tô Thanh Ly gánh chín tháng nguyệt lệ; Xích Tủy Tán bị mua sạch trước khi đoàn trở về, để lộ dấu can thiệp có chuẩn bị. |
 | 46 | **Đã viết nháp:** người mua thuốc đặt giá lời khai | Người mua dùng ba hiệu thuốc, quầy Nam Phố và xe qua cổng nam để nắm Xích Tủy Tán; thư vô danh đòi đổi thuốc lấy bản chép lời khai | Tô gia lần được sổ giao hàng, hòm rỗng và giấy hẹn hai hòm tại bến nước. Lệnh kiểm tra mới chỉ tới cổng nam; thuốc còn thiếu và bến hẹn chưa kiểm chứng. |
 | 47 | **Đã viết nháp:** bến nước phía nam | Tô Thanh Ly nhận trách nhiệm Dược Khế để ra bến theo lệnh kiểm tra; nàng và Lâm Uyên phải nói thẳng về phong thư đòi lời khai | Đội Tô gia giữ hai hòm, một gói dùng được giúp Trần Dực qua thêm một chặng, gói còn lại có dấu sáp bất thường và phải niêm; ba người thống nhất ghi riêng điều mình biết để đối chiếu. |
-| 48 | Chốt arc và mở hướng mới | Một câu hỏi địa phương cần được trả lời trong khi bí mật dài hạn vẫn mở | Gặt một manh mối đã gieo, xác lập mục tiêu và đối lực cụ thể cho chặng sau. |
+| 48 | Chốt hậu quả Hắc Phong Sơn và mở hướng mới | Tìm liều an toàn cuối cho Trần Dực; xử lý thi thể Tô Lạc và vật chứng; không để người mua thuốc hay nghi án cũ bị giải bằng suy đoán | Trả lời một câu hỏi cục bộ bằng chứng cứ; xác lập mục tiêu do Lâm Uyên tự chọn. Có thể gặp một người giám dược của Tế Sinh Viện để học căn bản, nếu cảnh phát sinh tự nhiên. |
+
+
+## Ưu tiên tiếp diễn sau Chương 47 — hướng đề xuất
+
+> Đây là kế hoạch, chưa phải sự kiện đã xảy ra. Giữ trọng tâm ở hậu quả Hắc Phong Sơn; không mở bí ẩn cấp thế giới mới.
+
+- Giải quyết nhu cầu trước mắt bằng việc tìm hoặc xác nhận một liều Xích Tủy Tán an toàn cho Trần Dực. Phép thử của người có chuyên môn phải có giới hạn; không kết luận gói thứ hai là giả hay bị tráo trước khi có căn cứ.
+- Để Tô Tín chủ động theo đuổi việc đưa thi thể Tô Lạc về. Lâm Uyên cần lựa chọn cách giúp người sống và giữ vật chứng, không biến Tô Lạc thành một manh mối thuần túy.
+- Giữ các chi phí đang có: Dược Khế, thanh kiếm Tô Thanh Ly làm vật bảo chứng, thương thế của Lâm Uyên/Tô Thanh Ly/Tô Trạch và quyền hạn bị thu của Tô Trạch.
+- Cho Lâm Uyên chọn một mục tiêu mới từ điều anh vừa trải qua; hướng phù hợp là học một năng lực hữu dụng để bớt bất lực khi người bên cạnh cần cứu chữa, chứ không lập tức bước vào một tuyến báo thù.
+
+### Quý nhân đời thường / bán sư phụ — đề xuất, chưa canon
+
+- Có thể giới thiệu một người giám dược hoặc y sư của Tế Sinh Viện qua việc kiểm nghiệm hòm thuốc. Tên, tuổi, giới tính và tính cách cụ thể chưa chốt; chưa tạo hồ sơ nhân vật.
+- Lâm Uyên hiện chưa thể hiện trình độ dược lý đủ để tự nhận diện, phối chế hay kiểm định thuốc. Anh đã tiếp xúc với thuốc và biết theo dõi cái giá của Quy Khư Quyết, nhưng trong các chương hiện hành việc chẩn trị và phép thử do viện chủ/y sư đảm nhận.
+- Người này chỉ dạy một phần thực dụng: phân biệt dược liệu, bảo quản, liều lượng cơ bản, tương kỵ và cách lấy mẫu/đối chiếu nguồn thuốc. Có thể nhân đó giải thích quy trình kiểm nghiệm và sổ giao nhận ở Lăng Vân Thành, giúp thế giới vận hành hiện ra qua công việc.
+- Quan hệ hình thành bằng lao động và sự tin cậy nhỏ: Lâm Uyên ghi chép cẩn thận, tuân thủ an toàn hoặc giúp đối chiếu mẫu; người giám dược chỉ cho anh học việc có giới hạn. Không trao bí kíp, không chữa khỏi Trần Dực thay cốt truyện, không giải án hoặc mở một cơ chế siêu nhiên mới.
+- Có thể để nhân vật xuất hiện ngắn ở cuối chặng rồi trở lại khi cần; trước khi tạo hồ sơ chính thức cần chốt tên và định hướng nhân vật.
 
 ## Những việc phải kiểm tra khi viết
 
