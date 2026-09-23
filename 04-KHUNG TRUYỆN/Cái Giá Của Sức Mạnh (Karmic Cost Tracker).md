@@ -59,6 +59,10 @@ Chương 44 không dùng sức mạnh để vượt trở ngại. Cái giá tr�
 
 Chương 45 đặt cái giá vào tài nguyên tu luyện và quyền tự do. Việc cứu Trần Dực dựa vào Dược Khế, thủ tục án chứng và thuốc hữu hạn, không dựa vào năng lực mới.
 
+| Chương 46, truy thuốc qua Nam Phố | Không sử dụng Quy Khư Quyết; nhẫn bạc và mảnh xương không phản ứng | Tay phải Lâm Uyên vẫn không thể nắm chặt; quản thúc ngăn hắn trực tiếp ra thành. Gói Xích Tủy Tán cuối trong kho đã dùng cho Trần Dực, còn thiếu hai gói | Không ghi thêm năng lực, đột phá hoặc tổn thất ký ức. Cái giá điều tra là thông tin về án chứng sống bắt đầu lộ ra ngoài nội viện. |
+
+Chương 46 dùng lời khai có giới hạn, sổ giao hàng, dấu quầy và giấy phép để tiến lên; không giải quyết việc thiếu thuốc bằng sức mạnh mới.
+
 ## 4. Liên kết
 - Hệ thống: [[Quy Khư Quyết]], [[Tiến Trình Mất Mát Ký Ức]], [[Cái Giá Của Quy Khư Đạo (Ký Ức Và Mất Mát)]]
 - Khung truyện: [[Bi Kịch Và Nhân Quả Lâm Uyên]]
