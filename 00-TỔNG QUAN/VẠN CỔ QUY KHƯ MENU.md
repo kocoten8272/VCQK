@@ -8,10 +8,10 @@
 
 - **Tên truyện:** Vạn Cổ Quy Khư
 - **Nhân vật chính:** [[Lâm Uyên]]
-- **Địa điểm ở cuối chương 49:** Tế Sinh Viện, sau chuyến kiểm ba hiệu thuốc và Dược Phường Hòa Sinh
+- **Địa điểm ở cuối chương 50:** Tế Sinh Viện, sau khi Trần Dực nhận liều thuốc cuối đã kiểm
 - **Thế lực gắn với arc hiện tại:** [[Tô Gia]]
-- **Chương mới nhất trên main:** [[Chương 49]] (nháp)
-- **Chương tiếp theo:** Chương 50 (dự kiến)
+- **Chương mới nhất trên main:** [[Chương 50]] (nháp)
+- **Chương tiếp theo:** Chương 51 (dự kiến)
 - **Trạng thái:** Đang sáng tác
 
 ---
@@ -177,13 +177,14 @@
 - [[Chương 46]] — nháp
 - [[Chương 47]] — nháp
 - [[Chương 48]] — nháp
-- [[Chương 49]] — nháp mới
+- [[Chương 49]] — nháp
+- [[Chương 50]] — nháp mới
 
 ### Chuẩn bị
 
-- Chương 50 — hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 49]].
+- Chương 51 — hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 50]].
 - [[Kết Chương]] — trạng thái từng chương, bao gồm các bản nháp và chương chưa có frontmatter.
-- [[Trạng Thái Truyện Sau Chương 49]] — vị trí, vật phẩm, thương thế và câu hỏi đang mở.
+- [[Trạng Thái Truyện Sau Chương 50]] — vị trí, vật phẩm, thương thế và câu hỏi đang mở.
 
 ---
 
