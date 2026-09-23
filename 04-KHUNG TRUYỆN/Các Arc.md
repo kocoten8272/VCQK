@@ -29,7 +29,8 @@ tags:
 - Chương 44: năm lời khai được đối chiếu tại Tông Sảnh; vụ Hắc Phong Sơn và vụ cháy Tàng Thư Các được gộp thành một án. Tô Trạch bị thu quyền ngoại tuần, Lâm Uyên và Tô Thanh Ly bị quản thúc, trang ghi chép cũ bị phát hiện đã mất.
 - Chương 45: Lâm Uyên và Tô Thanh Ly ký Dược Khế để giữ mạng Trần Dực; Trần được nhập làm án chứng. Xích Tủy Tán trong thành đã bị mua sạch từ trước khi đoàn rời núi, và dấu cắt trên linh thạch trùng với loại Tả tiên sinh từng dùng trả công theo lời Trần Dực.
 - Chương 46: người mua thuốc đưa thư đòi đổi Xích Tủy Tán lấy bản chép lời khai. Tô gia lần theo ba hiệu thuốc tới quầy Nam Phố, xác nhận ba hòm qua cổng nam và thu được hòm rỗng cùng giấy hẹn hai hòm ở bến nước ngoài thành. Lâm Uyên chưa giao lời khai; lệnh kiểm tra chưa cho phép vượt cổng.
-- Chương 47–48: đường dây dự kiến trong [[Đường Dây Chương 40-48]]. Các mốc này chưa trở thành sự kiện truyện.
+- Chương 47: Tô Thanh Ly chịu nghĩa vụ bồi hoàn trong Dược Khế để theo đội kiểm tra bến nước ngoài cổng nam. Một gói Xích Tủy Tán được viện chủ kiểm và dùng cho Trần Dực; gói còn lại có dấu sáp bất thường, phải niêm riêng. Lâm Uyên, Tô Thanh Ly và Tô Trạch chọn đối chiếu phần mình biết thay vì giấu thông tin thay nhau.
+- Chương 48: đường dây dự kiến trong [[Đường Dây Chương 40-48]], chưa trở thành sự kiện truyện.
 
 ## Trục Di Kỷ Tộc dài hạn
 
