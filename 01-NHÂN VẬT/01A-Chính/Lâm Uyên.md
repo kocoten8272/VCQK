@@ -48,3 +48,4 @@ tags:
 - Thế giới: [[Vọng Sơn Trấn]], [[Lăng Vân Thành]], [[Tô Gia]]
 - Bí ẩn: [[Hắc Quan]], [[Ngọc Giản Quy Khư]], [[Vĩnh Sinh Môn]], [[Quy Khư]]
 - Xem thêm: [[01_CORE_CANON|Phần cốt lõi về Lâm Uyên]]
+- Khung truyện: [[Bố Cục Spoiler Sau Chương 50 - Biến Cố Mạnh Thanh Tễ]]
