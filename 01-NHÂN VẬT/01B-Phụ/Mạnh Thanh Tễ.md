@@ -37,14 +37,15 @@ tags:
 
 ## Quan hệ
 
-- **[[Lâm Uyên]]:** Gặp ở Chương 48. Mạnh dạy cách ghi điều tận mắt thấy, kiểm thuốc an toàn; ở Chương 49 ông sửa cách Lâm Uyên quấn băng quá chặt cho phu xe Lưu Định. Quan hệ thầy trò còn phải gây dựng qua nhiều lần làm việc.
+- **[[Lâm Uyên]]:** Gặp ở Chương 48. Mạnh dạy cách ghi điều tận mắt thấy, kiểm thuốc an toàn; ở Chương 49 ông sửa cách Lâm Uyên quấn băng quá chặt cho phu xe Lưu Định. Ở Chương 50 ông cho Lâm ghi và sửa số cân dược trước người chứng kiến. Quan hệ thầy trò còn phải gây dựng qua nhiều lần làm việc.
 - **Bách tính nghèo:** Ở Chương 48 ông bù tiền băng vải cho một đứa trẻ. Ở Chương 49 ông chữa cổ tay phu xe Lưu Định sau tai nạn xe vải, ghi đường tới trạm khám và nói rõ tiền thuốc còn phải xét.
 - **[[Tế Sinh Viện]]:** Giám dược dưới quyền viện chủ. Ông kiểm thuốc và ký phần dược kiểm cùng viện chủ, không tự quyết lệnh của Tông Sảnh.
 
 ## Liên tục
 
 - Xuất hiện lần đầu ở Chương 48 khi kiểm hòm thuốc và chăm người bệnh nghèo tại Tế Sinh Viện. Ông bỏ hai đồng của mình bù tiền băng vải cho một đứa trẻ.
-- Ở Chương 49 ông đi cùng Lâm Uyên và Tô Thanh Ly kiểm sổ ba hiệu thuốc, rồi tới Dược Phường Hòa Sinh sau khi có giấy bổ sung. Ông không nhận phần mẫu lưu chờ tái kiểm hay nguyên liệu cứu tế là liều dùng được. Biến cố qua đời vẫn thuộc tương lai, chưa có thời điểm cụ thể.
+- Ở Chương 49 ông đi cùng Lâm Uyên và Tô Thanh Ly kiểm sổ ba hiệu thuốc, rồi tới Dược Phường Hòa Sinh sau khi có giấy bổ sung. Ông không nhận phần mẫu lưu chờ tái kiểm hay nguyên liệu cứu tế là liều dùng được.
+- Ở Chương 50 ông chứng kiến mẫu lưu không đạt, kiểm lượng nguyên liệu cứu tế và cùng viện chủ phối, thử gói mới. Ông ghi tên trạm khám bị chậm phần dự trữ, không coi nghĩa vụ mua bù đã hoàn tất trước khi hàng tới tay họ. Biến cố qua đời vẫn thuộc tương lai, chưa có thời điểm cụ thể.
 - Hồ sơ hiện giữ phần đã được tác giả chốt; các chi tiết chưa xác nhận phải để mở.
 
 ## Liên kết
