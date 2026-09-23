@@ -57,18 +57,33 @@ Ba người xuống phế tích để điều tra dấu vết sau vụ cháy Tà
 
 ### Sự kiện dự kiến sau Chương 47 — để tác giả duyệt
 
-> Đây là trình tự đề xuất, chưa phải diễn biến canon. Chương 48 trở đi chưa có tệp chương trên main.
+> Đây là trình tự đề xuất, chưa phải diễn biến canon. Chương 48 trở đi chưa có tệp chương trên main. Tuyến dược lý chạy song song với các hậu quả và chứng cứ Hắc Phong Sơn, không thay thế chúng.
 
-| Nhịp | Sự kiện dự kiến | Vai trò trong truyện |
+| Chặng | Sự kiện dự kiến | Các tuyến cần cùng tiến |
 | --- | --- | --- |
-| 1 | Lâm Uyên xin được tham gia tìm liều thuốc cuối cho Trần Dực. Vì đang bị quản thúc, cậu không lẻn khỏi Tô gia; Tế Sinh Viện xin giấy đi lại có giới hạn, có người hộ tống và ghi rõ trách nhiệm Dược Khế. | Giữ hợp lý quyền hạn hiện có, đồng thời cho Lâm Uyên chủ động chọn việc mình gánh. |
-| 2 | Tại Tế Sinh Viện, Mạnh Thanh Tễ được giới thiệu khi xem gói thuốc bị niêm. Ông giải thích phép thử cho thấy bột phản ứng khác, nhưng chưa đủ kết luận giả, ẩm hay bị tráo; ông yêu cầu giữ mẫu và ghi chuỗi bàn giao. | Gặp thầy qua nhu cầu đã gieo; phân biệt chứng cứ với suy đoán. |
-| 3 | Lâm Uyên theo Mạnh Thanh Tễ tới một điểm cấp dược liệu được phép trong Lăng Vân Thành để tìm liều hoặc nguyên liệu thay thế đã kiểm định. Trên đường, Mạnh dừng lại chữa cho một người nghèo không đủ tiền; Lâm Uyên phải phụ việc trong phạm vi khả năng của mình. | Giới thiệu người thầy bằng hành động và mở cơ chế y dược bình thường, không thêm bí ẩn lớn. |
-| 4 | Trong lúc phụ giúp, Lâm Uyên mắc một lỗi nhỏ khi phân loại, cân hoặc bảo quản dược liệu. Mạnh sửa lỗi và dạy một nguyên tắc cụ thể; cậu ghi lại để không lặp lại. | Khởi đầu quá trình học có giới hạn, không biến Lâm Uyên thành thần y tức thì. |
-| 5 | Đối chiếu phiếu giao, dấu niêm và nguồn dược liệu giúp nhóm trả lời một câu hỏi cục bộ về đường đi của thuốc hoặc thời điểm gói bị biến đổi. Kết quả chỉ dừng ở điều chứng cứ chứng minh; chưa lộ người mua hay động cơ. | Khép một mắt xích của hậu quả Hắc Phong Sơn mà vẫn giữ bí ẩn lớn. |
-| 6 | Tế Sinh Viện xác nhận liều cuối an toàn từ nguồn có thể kiểm chứng; Trần Dực được cứu qua cơn nguy cấp nhưng cần hồi phục và có thể còn di chứng. | Đạt mục tiêu cấp bách mà không xóa cái giá đã trả. |
-| 7 | Tô Tín tiếp tục xin đưa thi thể Tô Lạc về. Sau khi Trần Dực ổn định, Lâm Uyên chọn giúp lập kế hoạch xin phép trở lại phế tích, cân nhắc cứu người, thu hồi thi thể và bảo toàn vật chứng. | Giữ nỗi đau và trách nhiệm với người đã mất ở trung tâm quyết định của Lâm Uyên. |
-| 8 | Qua nhiều lần gặp sau đó, Mạnh Thanh Tễ tiếp tục dạy Lâm Uyên và chữa cho dân nghèo. Một biến cố về sau khiến ông qua đời khi cứu người; trước biến cố phải có bệnh nhân, đồng nghiệp và những việc cụ thể để người đọc hiểu cộng đồng đang mất ai. | Tạo mất mát có gốc rễ và tiếng vọng tập thể, không phải cú sốc thoáng qua. Thời điểm và nguyên nhân để mở. |
+| Chương 48: xin đường đi | Lâm Uyên xin được tham gia tìm liều thuốc cuối. Vì đang bị quản thúc, cậu yêu cầu giấy đi lại có giới hạn và người hộ tống; không lẻn khỏi Tô gia. Tại Tế Sinh Viện, Mạnh Thanh Tễ được giới thiệu khi kiểm tra gói thuốc bị niêm và dạy cách ghi mẫu, bàn giao. | Tô Tín nộp đơn xin đưa Tô Lạc về; Tô Thanh Ly đưa bản ghi lại trang giấy mất tích và đánh dấu chỗ không chắc; Tô Trạch chỉ góp ý, không tự ý chỉ huy vì quyền ngoại tuần đã bị thu. Nhắc rõ Dược Khế, thanh kiếm cầm cố và thương thế. |
+| Chương 49: tìm thuốc có phép | Lâm Uyên đi cùng Mạnh Thanh Tễ và người hộ tống tới nơi cấp dược liệu trong Lăng Vân Thành. Mạnh chữa cho một bệnh nhân nghèo; Lâm Uyên phụ việc, mắc lỗi nhỏ rồi học một thao tác dược lý cụ thể. | Lấy phiếu giao và nguồn thuốc hợp lệ để đối chiếu hòm thứ hai; ghi nhận lời khai theo quy trình. Tô Thanh Ly tiếp tục yêu cầu Tông Sảnh đối chiếu bản ghi trí nhớ với sổ lưu trữ, nhưng không giả vờ rằng bản chép là trang gốc. |
+| Chương 50: thuốc và chứng cứ | Đối chiếu mẫu, dấu niêm và sổ giao giúp trả lời một câu hỏi cục bộ về đường đi hoặc thời điểm gói thuốc đổi trạng thái. Tế Sinh Viện xác nhận một liều cuối an toàn cho Trần Dực; thuốc chặn cơn nguy cấp nhưng không chữa khỏi ngay. | Vụ cháy Tàng Thư Các tiếp tục được Tông Sảnh điều tra qua lời khai và hồ sơ đang có; một bước thủ tục hoặc đối chiếu mới tạo tiến triển, nhưng chưa vạch mặt thủ phạm. Tô Tín nhận được câu trả lời cụ thể về việc xin người và lệnh để quay lại phế tích. |
+| Chương 51 trở đi: đưa người chết về | Nhóm được cấp phép khảo sát đường xuống Hắc Phong Sơn để đưa thi thể Tô Lạc về và thu miếng đồng nếu điều kiện an toàn cho phép. Nếu vật chứng chưa thể lấy, phải ghi rõ trở ngại và bước tiếp theo thay vì bỏ quên. | Lâm Uyên và Tô Thanh Ly cùng tham gia quyết định; Tô Tín là người chủ động yêu cầu. Tô Trạch hỗ trợ bằng kinh nghiệm và hồ sơ trong phạm vi quyền hạn hiện tại. |
+| Các lần gặp tiếp theo: học nghề | Mạnh Thanh Tễ tiếp tục dạy Lâm Uyên qua việc nhận biết, bảo quản, cân liều, tương kỵ, sơ cứu và ghi chép. Cậu tiến bộ từng chút, không lập tức thành thần y. | Mỗi lần gặp vẫn nối với bệnh nhân nghèo, giới hạn nguồn thuốc và những gì Lâm Uyên đang học về trách nhiệm cứu người. Chỉ về sau, sau khi quan hệ thầy trò và cộng đồng đã được gây dựng, một biến cố khiến Mạnh qua đời trong lúc cứu người. |
+
+#### Những tuyến không được để rơi
+
+- **Trần Dực:** tìm liều cuối và theo dõi hồi phục/di chứng; thuốc là việc cấp bách nhưng không xóa hết hậu quả.
+- **Tô Lạc và Tô Tín:** giữ lời xin đưa thi thể về, xử lý nỗi đau của người còn sống và tìm cách thu hồi miếng đồng.
+- **Trang giấy của Tô Thanh Ly:** bảo toàn bản ghi trí nhớ có chỗ không chắc, truy ai có quyền tiếp cận phòng/hồ sơ, không gán nội dung chưa nhớ thành sự thật.
+- **Tàng Thư Các:** duy trì điều tra của Tông Sảnh bằng lời khai, hồ sơ và vật chứng hiện có; không buộc vụ cháy phải được giải cùng lúc với vụ thuốc.
+- **Đường dây Xích Tủy Tán/Tả tiên sinh:** có thể xác định thêm một mắt xích giao nhận, nhưng chưa đồng nhất người mua, người coi hàng, Tả tiên sinh và kẻ đốt thư khố.
+- **Tô gia và cái giá:** tiếp tục thể hiện quản thúc của Lâm Uyên, Dược Khế và kiếm của Tô Thanh Ly bị giữ, quyền hạn của Tô Trạch cùng các thương tích; các ràng buộc này phải ảnh hưởng đến lựa chọn thực tế.
+- **Bí ẩn Hắc Phong Sơn:** giữ tiếng gọi, cái bóng và vật chứng đúng mức chứng cứ hiện có; không nối chúng với Di Kỷ Tộc, Ngoại Sinh Linh hay bí mật cấp thế giới.
+
+#### Mốc khép chặng gần
+
+- Trần Dực có liều thuốc an toàn và tình trạng được xác định rõ, dù chưa nhất thiết bình phục hoàn toàn.
+- Việc đưa Tô Lạc về được thực hiện hoặc có một kế hoạch thu hồi cụ thể, người chịu trách nhiệm và thời hạn tiếp theo.
+- Ít nhất một mắt xích địa phương về hòm thuốc được xác nhận bằng chứng cứ.
+- Vụ cháy, trang giấy và người mua thuốc tiếp tục tiến triển bằng hành động cụ thể; câu hỏi lớn nào chưa đủ chứng cứ thì ghi rõ đang chờ gì.
+- Mạnh Thanh Tễ được giới thiệu và có những cảnh đời thường đủ để mối quan hệ thầy trò bắt đầu, không đẩy nhanh biến cố qua đời.
 
 
 ## Những việc phải kiểm tra khi viết
