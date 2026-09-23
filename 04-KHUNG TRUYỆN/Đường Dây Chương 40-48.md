@@ -34,10 +34,10 @@ Ba người xuống phế tích để điều tra dấu vết sau vụ cháy Tà
 | 45 | **Đã viết nháp:** Dược Khế và quyền cứu chữa | Trần Dực cần thuốc, trong khi Tông Sảnh và các bộ phận Tô gia tranh quyền giữ người cùng vật chứng | Trần Dực được nhập làm án chứng; Lâm Uyên và Tô Thanh Ly gánh chín tháng nguyệt lệ; Xích Tủy Tán bị mua sạch trước khi đoàn trở về, để lộ dấu can thiệp có chuẩn bị. |
 | 46 | **Đã viết nháp:** người mua thuốc đặt giá lời khai | Người mua dùng ba hiệu thuốc, quầy Nam Phố và xe qua cổng nam để nắm Xích Tủy Tán; thư vô danh đòi đổi thuốc lấy bản chép lời khai | Tô gia lần được sổ giao hàng, hòm rỗng và giấy hẹn hai hòm tại bến nước. Lệnh kiểm tra mới chỉ tới cổng nam; thuốc còn thiếu và bến hẹn chưa kiểm chứng. |
 | 47 | **Đã viết nháp:** bến nước phía nam | Tô Thanh Ly nhận trách nhiệm Dược Khế để ra bến theo lệnh kiểm tra; nàng và Lâm Uyên phải nói thẳng về phong thư đòi lời khai | Đội Tô gia giữ hai hòm, một gói dùng được giúp Trần Dực qua thêm một chặng, gói còn lại có dấu sáp bất thường và phải niêm; ba người thống nhất ghi riêng điều mình biết để đối chiếu. |
-| 48 | Chốt hậu quả Hắc Phong Sơn và mở hướng mới | Tìm liều an toàn cuối cho Trần Dực; xử lý thi thể Tô Lạc và vật chứng; không để người mua thuốc hay nghi án cũ bị giải bằng suy đoán | Trả lời một câu hỏi cục bộ bằng chứng cứ; xác lập mục tiêu do Lâm Uyên tự chọn. Có thể gặp một người giám dược của Tế Sinh Viện để học căn bản, nếu cảnh phát sinh tự nhiên. |
+| 48 | **Đã viết nháp:** Trước Giờ Đóng Cửa | Mạnh Thanh Tễ kiểm hòm thuốc thứ hai; Tô Tín nộp đơn xin đưa Tô Lạc về; Lâm Uyên và Tô Thanh Ly xin lệnh tìm thuốc hợp lệ | Gói thứ hai không được dùng cho Trần Dực nhưng chưa rõ vì sao đổi trạng thái. Nhóm nhận giấy phép giới hạn đến ba hiệu thuốc trong thành; liều cuối và người mua vẫn chưa tìm được. |
 
 
-## Ưu tiên tiếp diễn sau Chương 47 — hướng đề xuất
+## Ưu tiên tiếp diễn sau Chương 48 — hướng đề xuất
 
 > Đây là kế hoạch, chưa phải sự kiện đã xảy ra. Giữ trọng tâm ở hậu quả Hắc Phong Sơn; không mở bí ẩn cấp thế giới mới.
 
@@ -66,7 +66,7 @@ Ba người xuống phế tích để điều tra dấu vết sau vụ cháy Tà
 
 ### Sự kiện dự kiến sau Chương 47 — hướng tổng thể đã chốt, chi tiết từng chương còn mở
 
-> Đây là trình tự đề xuất, chưa phải diễn biến canon. Hướng tăng nhịp đã được tác giả chốt; thứ tự và kết quả cụ thể của từng biến cố vẫn có thể điều chỉnh. Chương 48 trở đi chưa có tệp chương trên main. Tuyến dược lý chạy song song với các hậu quả và chứng cứ Hắc Phong Sơn, không thay thế chúng.
+> Đây là trình tự đề xuất, chưa phải diễn biến canon. Hướng tăng nhịp đã được tác giả chốt; thứ tự và kết quả cụ thể của từng biến cố vẫn có thể điều chỉnh. Chương 48 đã có bản nháp trên main; Chương 49 trở đi vẫn là kế hoạch. Tuyến dược lý chạy song song với các hậu quả và chứng cứ Hắc Phong Sơn, không thay thế chúng.
 
 | Chặng | Sự kiện dự kiến | Các tuyến cần cùng tiến |
 | --- | --- | --- |
@@ -110,4 +110,4 @@ Arc chỉ khép khi nhóm xử lý được nguy hiểm trực tiếp ở Hắc 
 
 ## Liên kết
 
-- [[Các Arc]], [[Kết Chương]], [[MỐI QUAN HỆ]], [[Trạng Thái Truyện Sau Chương 47]]
+- [[Các Arc]], [[Kết Chương]], [[MỐI QUAN HỆ]], [[Trạng Thái Truyện Sau Chương 48]]
