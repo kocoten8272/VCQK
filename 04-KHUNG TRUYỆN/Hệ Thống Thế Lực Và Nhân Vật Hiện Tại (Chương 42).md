@@ -1,6 +1,6 @@
 ---
 type: khung-truyen
-status: hoan-thien
+status: tham-khao-cu
 tags:
   - khung-truyen
   - the-luc
@@ -9,6 +9,9 @@ tags:
 ---
 
 # Hệ Thống Thế Lực Và Nhân Vật (Giai Đoạn Chương 42+)
+
+> **Tài liệu thiết kế cũ tại mốc Chương 42, không phải canon hiện hành.** Các dự kiến về Đại Hội Thí Luyện, tầng một Hắc Phong Sơn, những lần xuất hiện của Tô Nguyệt Dao, Hắc Nha, Vân Thiên Hạo và các quan hệ được nêu dưới đây không khớp với bản thảo Chương 43–50. Không dùng các chi tiết đó làm sự kiện đã xảy ra hoặc quan hệ đã xác nhận. Xem [[Trạng Thái Truyện Sau Chương 50]] và [[Kế Hoạch Làm Rõ Hai Mạng Lưới Sau Chương 50]] trước khi viết tiếp.
+
 
 > Bản thiết kế mở rộng mạng lưới thế lực chiều dọc – chiều ngang và bổ sung dàn nhân vật mới tại cột mốc **Chương 42** (Đại Hội Thí Luyện — Tầng Một Hắc Phong Sơn).
 
@@ -109,3 +112,8 @@ Trục ngang thể hiện sự cạnh tranh, liên minh ngầm và mưu tính gi
 2. **Biến Động Quy Mô Lớn (Về Sau):**
    - Mạng lưới liên kết chiều ngang (Hắc đạo - Tô Trạch - Gia tộc nhánh) sẽ sụp đổ từng mảng khi Lâm Uyên phá vỡ các tầng thí luyện.
    - Áp lực từ trục dọc (Chấn Châu Ti và Chấp Giới Sứ) bắt đầu rọi ánh mắt sát thương xuống Lâm Uyên khi cậu vượt qua giới hạn của một phàm nhân mở mạch.
+
+## Tài liệu hiện hành
+
+- [[Trạng Thái Truyện Sau Chương 50]]
+- [[Kế Hoạch Làm Rõ Hai Mạng Lưới Sau Chương 50]]
