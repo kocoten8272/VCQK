@@ -9,7 +9,7 @@ tags:
 
 # Đường Dây Chương 40–48
 
-> Kế hoạch làm việc sau bản nháp [[Chương 39]]. Chương 40–45 đã được triển khai thành bản nháp; các chương 46–48 vẫn là hướng đề xuất, không phải sự kiện đã xảy ra hoặc canon nền tảng.
+> Kế hoạch làm việc sau bản nháp [[Chương 39]]. Chương 40–46 đã được triển khai thành bản nháp; các chương 47–48 vẫn là hướng đề xuất, không phải sự kiện đã xảy ra hoặc canon nền tảng.
 
 ## Lời hứa của arc
 
@@ -32,7 +32,7 @@ Ba người xuống phế tích để điều tra dấu vết sau vụ cháy Tà
 | 43 | **Đã viết nháp:** cứu người và rời phế tích | Tô Trạch phải chọn giữa Tô Tín còn sống và miếng đồng dưới thi thể Tô Lạc | Nhóm cứu được năm đệ tử còn sống, xác nhận Tô Lạc đã chết và để thi thể cùng vật chứng ở lại; cửa sườn bắc sập sau khi họ thoát. |
 | 44 | **Đã viết nháp:** năm lời khai tại Tông Sảnh | Các nhân chứng chỉ được nói phần mình thấy; Tô Trạch chịu trách nhiệm về tổn thất và vật chứng | Hai vụ án được gộp; Tô Trạch mất quyền ngoại tuần, Lâm Uyên và Tô Thanh Ly bị quản thúc, trang ghi chép cũ được phát hiện đã bị tráo. |
 | 45 | **Đã viết nháp:** Dược Khế và quyền cứu chữa | Trần Dực cần thuốc, trong khi Tông Sảnh và các bộ phận Tô gia tranh quyền giữ người cùng vật chứng | Trần Dực được nhập làm án chứng; Lâm Uyên và Tô Thanh Ly gánh chín tháng nguyệt lệ; Xích Tủy Tán bị mua sạch trước khi đoàn trở về, để lộ dấu can thiệp có chuẩn bị. |
-| 46 | Dấu can thiệp từ thế lực khác | Tin tức về phế tích lan ra ngoài Tô gia | Một đối thủ có mục tiêu, phương tiện và giới hạn cụ thể xuất hiện; tránh thêm danh xưng lớn chỉ để nâng tầm nguy hiểm. |
+| 46 | **Đã viết nháp:** người mua thuốc đặt giá lời khai | Người mua dùng ba hiệu thuốc, quầy Nam Phố và xe qua cổng nam để nắm Xích Tủy Tán; thư vô danh đòi đổi thuốc lấy bản chép lời khai | Tô gia lần được sổ giao hàng, hòm rỗng và giấy hẹn hai hòm tại bến nước. Lệnh kiểm tra mới chỉ tới cổng nam; thuốc còn thiếu và bến hẹn chưa kiểm chứng. |
 | 47 | Quan hệ chịu thử thách | Giấu thông tin có thể bảo vệ một người nhưng hại người khác | Tô Thanh Ly, Tô Trạch và Lâm Uyên phải chọn lập trường bằng hành động, không chỉ bằng lời tuyên bố. |
 | 48 | Chốt arc và mở hướng mới | Một câu hỏi địa phương cần được trả lời trong khi bí mật dài hạn vẫn mở | Gặt một manh mối đã gieo, xác lập mục tiêu và đối lực cụ thể cho chặng sau. |
 
@@ -51,4 +51,4 @@ Arc chỉ khép khi nhóm xử lý được nguy hiểm trực tiếp ở Hắc 
 
 ## Liên kết
 
-- [[Các Arc]], [[Kết Chương]], [[MỐI QUAN HỆ]], [[Trạng Thái Truyện Sau Chương 45]]
+- [[Các Arc]], [[Kết Chương]], [[MỐI QUAN HỆ]], [[Trạng Thái Truyện Sau Chương 46]]
