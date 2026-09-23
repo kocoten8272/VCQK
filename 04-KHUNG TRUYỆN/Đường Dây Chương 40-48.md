@@ -46,13 +46,14 @@ Ba người xuống phế tích để điều tra dấu vết sau vụ cháy Tà
 - Giữ các chi phí đang có: Dược Khế, thanh kiếm Tô Thanh Ly làm vật bảo chứng, thương thế của Lâm Uyên/Tô Thanh Ly/Tô Trạch và quyền hạn bị thu của Tô Trạch.
 - Cho Lâm Uyên chọn một mục tiêu mới từ điều anh vừa trải qua; hướng phù hợp là học một năng lực hữu dụng để bớt bất lực khi người bên cạnh cần cứu chữa, chứ không lập tức bước vào một tuyến báo thù.
 
-### Quý nhân đời thường / bán sư phụ — đề xuất, chưa canon
+### Người hướng dẫn dược lý — hướng đã chốt, chi tiết còn mở
 
-- Có thể giới thiệu một người giám dược hoặc y sư của Tế Sinh Viện qua việc kiểm nghiệm hòm thuốc. Tên, tuổi, giới tính và tính cách cụ thể chưa chốt; chưa tạo hồ sơ nhân vật.
-- Lâm Uyên hiện chưa thể hiện trình độ dược lý đủ để tự nhận diện, phối chế hay kiểm định thuốc. Anh đã tiếp xúc với thuốc và biết theo dõi cái giá của Quy Khư Quyết, nhưng trong các chương hiện hành việc chẩn trị và phép thử do viện chủ/y sư đảm nhận.
-- Người này chỉ dạy một phần thực dụng: phân biệt dược liệu, bảo quản, liều lượng cơ bản, tương kỵ và cách lấy mẫu/đối chiếu nguồn thuốc. Có thể nhân đó giải thích quy trình kiểm nghiệm và sổ giao nhận ở Lăng Vân Thành, giúp thế giới vận hành hiện ra qua công việc.
-- Quan hệ hình thành bằng lao động và sự tin cậy nhỏ: Lâm Uyên ghi chép cẩn thận, tuân thủ an toàn hoặc giúp đối chiếu mẫu; người giám dược chỉ cho anh học việc có giới hạn. Không trao bí kíp, không chữa khỏi Trần Dực thay cốt truyện, không giải án hoặc mở một cơ chế siêu nhiên mới.
-- Có thể để nhân vật xuất hiện ngắn ở cuối chặng rồi trở lại khi cần; trước khi tạo hồ sơ chính thức cần chốt tên và định hướng nhân vật.
+- Lâm Uyên sẽ gặp một y sư/giám dược có tay nghề đời thường, không phải đại năng bí ẩn hay sư phụ truyền thừa. Người này cứu chữa nhiều bách tính nghèo, thường nhận bệnh nhân không đủ tiền và có uy tín nhờ việc làm cụ thể.
+- Người ấy dạy Lâm Uyên nền tảng dược lý qua việc phụ giúp: nhận biết và bảo quản dược liệu, liều lượng, tương kỵ, sơ cứu, kiểm nghiệm và ghi chép. Kiến thức cần tích lũy qua nhiều lần gặp; không biến Lâm Uyên thành thần y sau vài chương.
+- Quan hệ thầy trò phải có thời gian và sinh hoạt thường ngày để độc giả thấy người bệnh được cứu, người thầy có nguyên tắc và Lâm Uyên học bằng quan sát, lao động, sửa sai. Người thầy giúp mở một cơ chế bình thường của thế giới như chữa bệnh, giá thuốc và cách người nghèo tiếp cận y dược.
+- Về sau, một biến cố khiến người thầy qua đời. Cái chết cần phát sinh từ lựa chọn, hoàn cảnh và việc ông cứu người; không dùng như cú sốc bất ngờ hoặc cách đơn giản để thúc đẩy báo thù. Sự ra đi để lại nỗi đau cho Lâm Uyên, bệnh nhân, người trong Tế Sinh Viện và những bách tính từng được ông giúp.
+- Cái chết này là hướng cốt truyện đã chốt; thời điểm, nguyên nhân cụ thể, thủ phạm (nếu có) và cách thể hiện chưa chốt. Không đặt biến cố này vào Chương 48 khi tình thầy trò chưa được xây dựng.
+- Tên, tuổi, giới tính, quê quán và hồ sơ nhân vật còn chờ tác giả lựa chọn; chưa tạo nhân vật thành canon chi tiết. Người thầy không chữa thay toàn bộ vấn đề Trần Dực, không giải án Xích Tủy Tán và không mở bí ẩn cấp thế giới.
 
 ## Những việc phải kiểm tra khi viết
 
