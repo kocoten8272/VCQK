@@ -79,6 +79,8 @@ tags:
 - Không biến thương vong thành lối tắt để tăng sức mạnh hay tạo cú sốc. Cảnh mất mát phải nối với quan hệ đã có, lựa chọn của người trong cuộc và những thay đổi còn nhìn thấy ở các chương sau.
 - Vẫn chừa chỗ cho hơi ấm, lòng tử tế hoặc một ý định sống tiếp. Sắc thái tang thương có sức nặng khi truyện còn cho thấy điều gì đáng được gìn giữ.
 
+- Với cảnh mất mát, dùng [[Triết Lý Văn Học Và Nhịp Điệu Bi Kịch]]: gieo mối dây tình cảm trước biến cố, để phản ứng và hậu quả kéo dài qua sinh hoạt; giữ lựa chọn riêng của người mất và người sống. Cảm xúc cần đến từ điều cụ thể nhân vật không còn, không phải từ việc liên tục tăng thương vong.
+
 ## 9. Tự kiểm tra sau khi viết cảnh buồn
 
 - Nếu bỏ các câu trực tiếp gọi tên cảm xúc, người đọc còn nhận ra nhân vật đã mất gì không?
