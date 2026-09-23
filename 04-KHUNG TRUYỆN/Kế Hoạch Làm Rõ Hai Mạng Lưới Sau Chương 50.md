@@ -74,9 +74,9 @@ Không vội đặt tên tổ chức chung. Không gắn hai tuyến với Tô T
 
 ## Nhân vật cần chuẩn bị
 
-Các mô tả dưới đây là bản định hướng, chưa phải hồ sơ canon; tên riêng và thân phận cuối cùng cần được chốt trước khi tạo hồ sơ nhân vật.
+Tên [[Tạ Nghiên Chi]] và [[Kỷ Hành Chu]] đã được tác giả chốt và có hồ sơ riêng. Vai trò, lần xuất hiện đầu và manh mối của họ vẫn là đề xuất tương lai, chưa phải sự kiện đã xảy ra.
 
-### 1. Người giữ sổ trực hoặc hồ sơ Tô Gia — vai trò ngắn hạn
+### 1. [[Tạ Nghiên Chi]] — người giữ sổ trực Tô Gia, vai trò ngắn hạn
 
 - **Chức năng:** giúp đối chiếu lời kể của Tô Thanh Ly với sổ trực và quy trình ra vào, không tự mình giải được vụ mất trang.
 - **Nét tính cách:** cẩn thận, nhớ quy trình hơn nhớ mặt người; khi không chắc, sẵn sàng nói “không ghi nhận được” thay vì bịa một câu trả lời.
@@ -84,7 +84,7 @@ Các mô tả dưới đây là bản định hướng, chưa phải hồ sơ ca
 - **Giới hạn thông tin:** biết sổ được mở, chuyển hoặc bổ sung lúc nào; không biết ai đã lấy trang gốc nếu không có bằng chứng.
 - **Cách xuất hiện:** ở buổi mở sổ đã được Chương 50 chuẩn bị. Có thể trở thành nhân chứng lặp lại ngắn hạn nếu họ tự nguyện giữ lại bản sao hoặc ký xác nhận phần thiếu.
 
-### 2. Người quyết toán tuyến hàng Nam Phố — vai trò một arc
+### 2. [[Kỷ Hành Chu]] — người quyết toán tuyến hàng Nam Phố, vai trò một arc
 
 - **Chức năng:** giải thích hóa đơn, điểm trung chuyển và cách người đặt hàng giấu danh tính; không phải người mua cuối cùng hay chủ mưu.
 - **Nét tính cách:** thực tế, quan sát kỹ con dấu và số lượng; nói ít vì lời khai có thể làm mất kế sinh nhai của nhiều người làm thuê.
@@ -116,3 +116,5 @@ Các mô tả dưới đây là bản định hướng, chưa phải hồ sơ ca
 - [[Chương 48]]
 - [[Chương 49]]
 - [[Chương 50]]
+- [[Tạ Nghiên Chi]]
+- [[Kỷ Hành Chu]]
