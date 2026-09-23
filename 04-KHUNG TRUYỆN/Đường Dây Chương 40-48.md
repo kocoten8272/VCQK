@@ -55,9 +55,18 @@ Ba người xuống phế tích để điều tra dấu vết sau vụ cháy Tà
 - Tuổi, diện mạo, quê quán, nguyên tắc cụ thể và biến cố khiến ông qua đời vẫn chưa chốt. Không dùng cái chết chỉ làm cớ báo thù; không đặt biến cố đó vào Chương 48 trước khi độc giả hiểu ông.
 - Mạnh Thanh Tễ không chữa khỏi Trần Dực thay cốt truyện, không tự giải án Xích Tủy Tán và không mở bí ẩn cấp thế giới.
 
-### Sự kiện dự kiến sau Chương 47 — để tác giả duyệt
+### Hướng nhịp truyện sau Chương 47 — đã chốt
 
-> Đây là trình tự đề xuất, chưa phải diễn biến canon. Chương 48 trở đi chưa có tệp chương trên main. Tuyến dược lý chạy song song với các hậu quả và chứng cứ Hắc Phong Sơn, không thay thế chúng.
+- Tạo hạn chót bằng đánh giá y thuật có căn cứ về liều thuốc cuối của Trần Dực; không hù dọa bằng cái chết chắc chắn nếu truyện chưa chứng minh điều đó.
+- Dùng quản thúc, Dược Khế, việc giữ kiếm Tô Thanh Ly, quyền hạn bị thu của Tô Trạch và quy trình cấp phép làm cản trở thực tế cho hành động.
+- Đan xen thuốc, việc xin đưa Tô Lạc về, trang giấy mất tích, vụ cháy Tàng Thư Các và đường giao Xích Tủy Tán. Mỗi chương có một tuyến chính; các tuyến còn lại vẫn tiến thêm một bước.
+- Buộc lựa chọn để lại cái giá cụ thể như thời gian, tiền bạc, quyền hạn hoặc niềm tin; cho phép đạt mục tiêu một phần mà không giải quyết mọi thứ cùng lúc.
+- Dùng những lần Mạnh Thanh Tễ cứu bệnh nhân nghèo làm khoảng lặng ấm và xây quan hệ thầy trò trước biến cố qua đời về sau.
+- Không thêm phản diện lớn hay bí ẩn cấp thế giới chỉ để tạo kịch tính.
+
+### Sự kiện dự kiến sau Chương 47 — hướng tổng thể đã chốt, chi tiết từng chương còn mở
+
+> Đây là trình tự đề xuất, chưa phải diễn biến canon. Hướng tăng nhịp đã được tác giả chốt; thứ tự và kết quả cụ thể của từng biến cố vẫn có thể điều chỉnh. Chương 48 trở đi chưa có tệp chương trên main. Tuyến dược lý chạy song song với các hậu quả và chứng cứ Hắc Phong Sơn, không thay thế chúng.
 
 | Chặng | Sự kiện dự kiến | Các tuyến cần cùng tiến |
 | --- | --- | --- |
