@@ -46,14 +46,30 @@ Ba người xuống phế tích để điều tra dấu vết sau vụ cháy Tà
 - Giữ các chi phí đang có: Dược Khế, thanh kiếm Tô Thanh Ly làm vật bảo chứng, thương thế của Lâm Uyên/Tô Thanh Ly/Tô Trạch và quyền hạn bị thu của Tô Trạch.
 - Cho Lâm Uyên chọn một mục tiêu mới từ điều anh vừa trải qua; hướng phù hợp là học một năng lực hữu dụng để bớt bất lực khi người bên cạnh cần cứu chữa, chứ không lập tức bước vào một tuyến báo thù.
 
-### Người hướng dẫn dược lý — hướng đã chốt, chi tiết còn mở
+### Người hướng dẫn dược lý — Mạnh Thanh Tễ
 
-- Lâm Uyên sẽ gặp một y sư/giám dược có tay nghề đời thường, không phải đại năng bí ẩn hay sư phụ truyền thừa. Người này cứu chữa nhiều bách tính nghèo, thường nhận bệnh nhân không đủ tiền và có uy tín nhờ việc làm cụ thể.
-- Người ấy dạy Lâm Uyên nền tảng dược lý qua việc phụ giúp: nhận biết và bảo quản dược liệu, liều lượng, tương kỵ, sơ cứu, kiểm nghiệm và ghi chép. Kiến thức cần tích lũy qua nhiều lần gặp; không biến Lâm Uyên thành thần y sau vài chương.
-- Quan hệ thầy trò phải có thời gian và sinh hoạt thường ngày để độc giả thấy người bệnh được cứu, người thầy có nguyên tắc và Lâm Uyên học bằng quan sát, lao động, sửa sai. Người thầy giúp mở một cơ chế bình thường của thế giới như chữa bệnh, giá thuốc và cách người nghèo tiếp cận y dược.
-- Về sau, một biến cố khiến người thầy qua đời. Cái chết cần phát sinh từ lựa chọn, hoàn cảnh và việc ông cứu người; không dùng như cú sốc bất ngờ hoặc cách đơn giản để thúc đẩy báo thù. Sự ra đi để lại nỗi đau cho Lâm Uyên, bệnh nhân, người trong Tế Sinh Viện và những bách tính từng được ông giúp.
-- Cái chết này là hướng cốt truyện đã chốt; thời điểm, nguyên nhân cụ thể, thủ phạm (nếu có) và cách thể hiện chưa chốt. Không đặt biến cố này vào Chương 48 khi tình thầy trò chưa được xây dựng.
-- Tên, tuổi, giới tính, quê quán và hồ sơ nhân vật còn chờ tác giả lựa chọn; chưa tạo nhân vật thành canon chi tiết. Người thầy không chữa thay toàn bộ vấn đề Trần Dực, không giải án Xích Tủy Tán và không mở bí ẩn cấp thế giới.
+- **Đã chốt:** Mạnh Thanh Tễ là nam y sư/giám dược có tay nghề đời thường, cứu giúp nhiều bách tính nghèo và sẽ dạy Lâm Uyên căn bản dược lý. Không phải đại năng bí ẩn hay sư phụ truyền thừa.
+- Ông dạy qua việc phụ giúp và thực hành: nhận biết, sơ chế, bảo quản dược liệu, liều lượng, tương kỵ, sơ cứu, kiểm nghiệm và ghi chép. Lâm Uyên phải học từng bước qua thời gian.
+- Quan hệ thầy trò cần được gây dựng bằng những việc thường ngày: bệnh nhân được cứu, nguyên tắc nghề nghiệp của Mạnh Thanh Tễ, và việc Lâm Uyên quan sát, làm sai rồi sửa. Qua đó, truyện cho thấy giá thuốc, sổ giao nhận và cách người nghèo tiếp cận y dược.
+- **Đã chốt:** Về sau, một biến cố gắn với việc cứu người khiến Mạnh Thanh Tễ qua đời. Mất mát tác động tới Lâm Uyên, bệnh nhân, người trong Tế Sinh Viện và những bách tính từng được ông giúp.
+- Tuổi, diện mạo, quê quán, nguyên tắc cụ thể và biến cố khiến ông qua đời vẫn chưa chốt. Không dùng cái chết chỉ làm cớ báo thù; không đặt biến cố đó vào Chương 48 trước khi độc giả hiểu ông.
+- Mạnh Thanh Tễ không chữa khỏi Trần Dực thay cốt truyện, không tự giải án Xích Tủy Tán và không mở bí ẩn cấp thế giới.
+
+### Sự kiện dự kiến sau Chương 47 — để tác giả duyệt
+
+> Đây là trình tự đề xuất, chưa phải diễn biến canon. Chương 48 trở đi chưa có tệp chương trên main.
+
+| Nhịp | Sự kiện dự kiến | Vai trò trong truyện |
+| --- | --- | --- |
+| 1 | Lâm Uyên xin được tham gia tìm liều thuốc cuối cho Trần Dực. Vì đang bị quản thúc, cậu không lẻn khỏi Tô gia; Tế Sinh Viện xin giấy đi lại có giới hạn, có người hộ tống và ghi rõ trách nhiệm Dược Khế. | Giữ hợp lý quyền hạn hiện có, đồng thời cho Lâm Uyên chủ động chọn việc mình gánh. |
+| 2 | Tại Tế Sinh Viện, Mạnh Thanh Tễ được giới thiệu khi xem gói thuốc bị niêm. Ông giải thích phép thử cho thấy bột phản ứng khác, nhưng chưa đủ kết luận giả, ẩm hay bị tráo; ông yêu cầu giữ mẫu và ghi chuỗi bàn giao. | Gặp thầy qua nhu cầu đã gieo; phân biệt chứng cứ với suy đoán. |
+| 3 | Lâm Uyên theo Mạnh Thanh Tễ tới một điểm cấp dược liệu được phép trong Lăng Vân Thành để tìm liều hoặc nguyên liệu thay thế đã kiểm định. Trên đường, Mạnh dừng lại chữa cho một người nghèo không đủ tiền; Lâm Uyên phải phụ việc trong phạm vi khả năng của mình. | Giới thiệu người thầy bằng hành động và mở cơ chế y dược bình thường, không thêm bí ẩn lớn. |
+| 4 | Trong lúc phụ giúp, Lâm Uyên mắc một lỗi nhỏ khi phân loại, cân hoặc bảo quản dược liệu. Mạnh sửa lỗi và dạy một nguyên tắc cụ thể; cậu ghi lại để không lặp lại. | Khởi đầu quá trình học có giới hạn, không biến Lâm Uyên thành thần y tức thì. |
+| 5 | Đối chiếu phiếu giao, dấu niêm và nguồn dược liệu giúp nhóm trả lời một câu hỏi cục bộ về đường đi của thuốc hoặc thời điểm gói bị biến đổi. Kết quả chỉ dừng ở điều chứng cứ chứng minh; chưa lộ người mua hay động cơ. | Khép một mắt xích của hậu quả Hắc Phong Sơn mà vẫn giữ bí ẩn lớn. |
+| 6 | Tế Sinh Viện xác nhận liều cuối an toàn từ nguồn có thể kiểm chứng; Trần Dực được cứu qua cơn nguy cấp nhưng cần hồi phục và có thể còn di chứng. | Đạt mục tiêu cấp bách mà không xóa cái giá đã trả. |
+| 7 | Tô Tín tiếp tục xin đưa thi thể Tô Lạc về. Sau khi Trần Dực ổn định, Lâm Uyên chọn giúp lập kế hoạch xin phép trở lại phế tích, cân nhắc cứu người, thu hồi thi thể và bảo toàn vật chứng. | Giữ nỗi đau và trách nhiệm với người đã mất ở trung tâm quyết định của Lâm Uyên. |
+| 8 | Qua nhiều lần gặp sau đó, Mạnh Thanh Tễ tiếp tục dạy Lâm Uyên và chữa cho dân nghèo. Một biến cố về sau khiến ông qua đời khi cứu người; trước biến cố phải có bệnh nhân, đồng nghiệp và những việc cụ thể để người đọc hiểu cộng đồng đang mất ai. | Tạo mất mát có gốc rễ và tiếng vọng tập thể, không phải cú sốc thoáng qua. Thời điểm và nguyên nhân để mở. |
+
 
 ## Những việc phải kiểm tra khi viết
 
