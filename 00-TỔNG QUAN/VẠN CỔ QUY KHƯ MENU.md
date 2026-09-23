@@ -53,6 +53,7 @@
 - [[Liễu Nguyên Bá]] — đệ tử đích truyền Liễu Gia (Ảo Đạo)
 - [[Cửu Nương]] — môi giới tin tức Thính Phong Lâu
 - [[Diệp Trầm]] — Sưu Tróc Sứ Tầm Chân Ti (Chấn Châu Ti)
+- [[Mạnh Thanh Tễ]] — y sư/giám dược, người hướng dẫn dược lý dự kiến của Lâm Uyên
 
 ### Quan hệ
 
