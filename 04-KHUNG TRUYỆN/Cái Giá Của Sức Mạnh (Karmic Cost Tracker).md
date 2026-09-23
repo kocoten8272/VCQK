@@ -63,6 +63,10 @@ Chương 45 đặt cái giá vào tài nguyên tu luyện và quyền tự do. V
 
 Chương 46 dùng lời khai có giới hạn, sổ giao hàng, dấu quầy và giấy phép để tiến lên; không giải quyết việc thiếu thuốc bằng sức mạnh mới.
 
+| Chương 47, kiểm tra bến nước | Không sử dụng Quy Khư Quyết; nhẫn bạc và mảnh xương không phản ứng | Tay phải Lâm Uyên vẫn phải nghỉ; hắn không thể ra bến vì quản thúc. Tô Thanh Ly gánh trách nhiệm bồi hoàn mới theo Dược Khế, kiếm vẫn ở Tế Sinh Viện; tay phải đau tê khi chống cọc giữ thăng bằng | Không ghi thêm năng lực, đột phá hoặc tổn thất ký ức. Một gói thuốc đã dùng, gói còn lại chưa được phép dùng. |
+
+Chương 47 giải quyết một phần thiếu thuốc bằng giấy phép, quan sát tại bến và phép thử y dược. Chi phí có thể tăng theo kết luận bồi hoàn; chưa có số tiền xác định.
+
 ## 4. Liên kết
 - Hệ thống: [[Quy Khư Quyết]], [[Tiến Trình Mất Mát Ký Ức]], [[Cái Giá Của Quy Khư Đạo (Ký Ức Và Mất Mát)]]
 - Khung truyện: [[Bi Kịch Và Nhân Quả Lâm Uyên]]
