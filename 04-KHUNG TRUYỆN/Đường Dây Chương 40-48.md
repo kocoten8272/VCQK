@@ -37,7 +37,7 @@ Ba người xuống phế tích để điều tra dấu vết sau vụ cháy Tà
 | 48 | **Đã viết nháp:** Trước Giờ Đóng Cửa | Mạnh Thanh Tễ kiểm hòm thuốc thứ hai; Tô Tín nộp đơn xin đưa Tô Lạc về; Lâm Uyên và Tô Thanh Ly xin lệnh tìm thuốc hợp lệ | Gói thứ hai không được dùng cho Trần Dực nhưng chưa rõ vì sao đổi trạng thái. Nhóm nhận giấy phép giới hạn đến ba hiệu thuốc trong thành; liều cuối và người mua vẫn chưa tìm được. |
 
 
-## Ưu tiên tiếp diễn sau Chương 49 — hướng đề xuất
+## Ưu tiên tiếp diễn sau Chương 50 — hướng đề xuất
 
 > Đây là kế hoạch, chưa phải sự kiện đã xảy ra. Giữ trọng tâm ở hậu quả Hắc Phong Sơn; không mở bí ẩn cấp thế giới mới.
 
@@ -66,13 +66,13 @@ Ba người xuống phế tích để điều tra dấu vết sau vụ cháy Tà
 
 ### Sự kiện dự kiến sau Chương 47 — hướng tổng thể đã chốt, chi tiết từng chương còn mở
 
-> Đây là trình tự đề xuất, chưa phải diễn biến canon. Hướng tăng nhịp đã được tác giả chốt; thứ tự và kết quả cụ thể của từng biến cố vẫn có thể điều chỉnh. Chương 48–49 đã có bản nháp trên main; Chương 50 trở đi vẫn là kế hoạch. Tuyến dược lý chạy song song với các hậu quả và chứng cứ Hắc Phong Sơn, không thay thế chúng.
+> Đây là trình tự đề xuất, chưa phải diễn biến canon. Hướng tăng nhịp đã được tác giả chốt; thứ tự và kết quả cụ thể của từng biến cố vẫn có thể điều chỉnh. Chương 48–50 đã có bản nháp trên main; Chương 51 trở đi vẫn là kế hoạch. Tuyến dược lý chạy song song với các hậu quả và chứng cứ Hắc Phong Sơn, không thay thế chúng.
 
 | Chặng | Sự kiện dự kiến | Các tuyến cần cùng tiến |
 | --- | --- | --- |
 | Chương 48: xin đường đi | Lâm Uyên xin được tham gia tìm liều thuốc cuối. Vì đang bị quản thúc, cậu yêu cầu giấy đi lại có giới hạn và người hộ tống; không lẻn khỏi Tô gia. Tại Tế Sinh Viện, Mạnh Thanh Tễ được giới thiệu khi kiểm tra gói thuốc bị niêm và dạy cách ghi mẫu, bàn giao. | Tô Tín nộp đơn xin đưa Tô Lạc về; Tô Thanh Ly đưa bản ghi lại trang giấy mất tích và đánh dấu chỗ không chắc; Tô Trạch chỉ góp ý, không tự ý chỉ huy vì quyền ngoại tuần đã bị thu. Nhắc rõ Dược Khế, thanh kiếm cầm cố và thương thế. |
 | Chương 49: **đã viết nháp** | Đoàn kiểm phiếu ba hiệu thuốc, xin bổ sung giấy phép tới Dược Phường Hòa Sinh. Mạnh chữa phu xe Lưu Định, sửa cách Lâm Uyên quấn băng quá chặt. | Cả ba gói cùng một lô; phần mẫu lưu đang chờ tái kiểm, nguyên liệu còn lại thuộc kho cứu tế. Thanh Ly yêu cầu xét gấp theo giờ phát. Bản ghi trí nhớ về trang giấy mất tích vẫn chưa được đối chiếu thêm. |
-| Chương 50: thuốc và chứng cứ | Đối chiếu mẫu, dấu niêm và sổ giao giúp trả lời một câu hỏi cục bộ về đường đi hoặc thời điểm gói thuốc đổi trạng thái. Tế Sinh Viện xác nhận một liều cuối an toàn cho Trần Dực; thuốc chặn cơn nguy cấp nhưng không chữa khỏi ngay. | Vụ cháy Tàng Thư Các tiếp tục được Tông Sảnh điều tra qua lời khai và hồ sơ đang có; một bước thủ tục hoặc đối chiếu mới tạo tiến triển, nhưng chưa vạch mặt thủ phạm. Tô Tín nhận được câu trả lời cụ thể về việc xin người và lệnh để quay lại phế tích. |
+| Chương 50: **đã viết nháp** | Mẫu lưu cùng lô không đạt kiểm dù niêm nguyên; Tông Sảnh cho chuyển phần nguyên liệu cứu tế, bù phần thiếu từ Tế Sinh Viện để phối một gói mới đạt kiểm và dùng cho Trần Dực trước trưa. | Trần chỉ có cảm giác mờ trở lại ở một ngón tay, chưa hồi phục vận động. Tô gia phải mua bù cho trạm khám, Dược Khế mỗi người tăng một tháng. Tô Tín có lệnh khảo sát ngoài mép sườn bắc vào sáng hôm sau; Thanh Ly được hẹn đối chiếu sổ trực và hồ sơ vụ cháy. |
 | Chương 51 trở đi: đưa người chết về | Nhóm được cấp phép khảo sát đường xuống Hắc Phong Sơn để đưa thi thể Tô Lạc về và thu miếng đồng nếu điều kiện an toàn cho phép. Nếu vật chứng chưa thể lấy, phải ghi rõ trở ngại và bước tiếp theo thay vì bỏ quên. | Lâm Uyên và Tô Thanh Ly cùng tham gia quyết định; Tô Tín là người chủ động yêu cầu. Tô Trạch hỗ trợ bằng kinh nghiệm và hồ sơ trong phạm vi quyền hạn hiện tại. |
 | Các lần gặp tiếp theo: học nghề | Mạnh Thanh Tễ tiếp tục dạy Lâm Uyên qua việc nhận biết, bảo quản, cân liều, tương kỵ, sơ cứu và ghi chép. Cậu tiến bộ từng chút, không lập tức thành thần y. | Mỗi lần gặp vẫn nối với bệnh nhân nghèo, giới hạn nguồn thuốc và những gì Lâm Uyên đang học về trách nhiệm cứu người. Chỉ về sau, sau khi quan hệ thầy trò và cộng đồng đã được gây dựng, một biến cố khiến Mạnh qua đời trong lúc cứu người. |
 
@@ -110,4 +110,4 @@ Arc chỉ khép khi nhóm xử lý được nguy hiểm trực tiếp ở Hắc 
 
 ## Liên kết
 
-- [[Các Arc]], [[Kết Chương]], [[MỐI QUAN HỆ]], [[Trạng Thái Truyện Sau Chương 49]]
+- [[Các Arc]], [[Kết Chương]], [[MỐI QUAN HỆ]], [[Trạng Thái Truyện Sau Chương 50]]
