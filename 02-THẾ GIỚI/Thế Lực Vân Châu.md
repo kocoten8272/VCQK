@@ -23,6 +23,10 @@ tags:
 ## 4. Chấn Châu Ti (Thế lực chấp pháp công khai)
 - **Đặc trưng:** Cơ quan đại diện cho quyền lực tối cao của triều đình tu tiên cai quản toàn bộ Vân Châu. Mặc ngân giáp, cưỡi linh thú, hành xử theo luật pháp thiết huyết của thượng tầng, sẵn sàng san bằng bất kỳ gia tộc nào kháng lệnh.
 
+## Gia tộc nghề nghiệp tại Lăng Vân Thành
+
+- Ngoài cổ tộc và các thế lực cấp châu, Lăng Vân có thể có những thế gia địa phương nắm vận tải, dược liệu và công trình. Xem [[Các Gia Tộc Lăng Vân Thành]]; các họ trong tài liệu đó đang ở trạng thái đề xuất.
+
 ## 5. Liên kết
 - Thế giới: [[Vân Châu]], [[Lăng Vân Thành]], [[Tiểu Vực]]
 - Xem thêm: [[02_WORLD_LORE|World Lore]]
