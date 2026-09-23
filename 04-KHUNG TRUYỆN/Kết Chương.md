@@ -67,21 +67,22 @@ tags:
 | Chương 44 | 🔶 | Năm Lời Khai | `status: nhap` |
 | Chương 45 | 🔶 | Dược Khế | `status: nhap` |
 | Chương 46 | 🔶 | Người Mua Thuốc | `status: nhap` |
+| Chương 47 | 🔶 | Bến Nước Phía Nam | `status: nhap` |
 
 ## Chương tiếp theo
 
-- Chương 47: dự kiến theo [[Đường Dây Chương 40-48]], chưa có tệp chương trên `main`.
+- Chương 48: dự kiến theo [[Đường Dây Chương 40-48]], chưa có tệp chương trên `main`.
 - Các ý tưởng cũ cho chương 39–44 trong hồ sơ hỗ trợ thuộc mạch trước bản Chương 37–38 hiện tại. Chỉ dùng làm chất liệu sau khi đối chiếu, không coi là sự kiện đã xảy ra.
 
 ## Tổng số
 
-- Có tệp chương 1–46 trên `main`: 46.
+- Có tệp chương 1–47 trên `main`: 47.
 - Hoàn thiện: 33 chương theo tracker cũ (1–25) và frontmatter đã kiểm tra (26–32, 34).
-- Nháp theo frontmatter: 12 chương (33, 36–46).
+- Nháp theo frontmatter: 13 chương (33, 36–47).
 - Chương 35 có tệp nhưng chưa khai báo trạng thái.
-- Chương 47 trở đi: chưa có tệp chương; các mốc tương lai giữ ở mức kế hoạch.
+- Chương 48 trở đi: chưa có tệp chương; các mốc tương lai giữ ở mức kế hoạch.
 
 ## Liên kết
 
 - Nhịp: [[Nhịp Truyện]]
-- Chương: [[Chương 1]] → [[Chương 46]]
+- Chương: [[Chương 1]] → [[Chương 47]]
