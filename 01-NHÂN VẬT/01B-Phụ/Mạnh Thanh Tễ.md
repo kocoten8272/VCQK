@@ -1,7 +1,7 @@
 ---
 type: nhan-vat
 vai-tro: nhan-vat-phu
-status: chua-xuat-hien
+status: da-xuat-hien
 tags:
   - nhan-vat
   - te-sinh-vien
@@ -15,8 +15,8 @@ tags:
 
 ## Thông tin cơ bản
 
-- **Thân phận:** Y sư hoặc giám dược gắn với Tế Sinh Viện; chức danh cụ thể còn mở.
-- **Tuổi và diện mạo:** Chưa chốt.
+- **Thân phận:** Giám dược tại Tế Sinh Viện; được viện chủ giao kiểm hòm thuốc của Trần Dực ở Chương 48.
+- **Tuổi:** Chưa chốt. **Dấu nhận diện đã xuất hiện:** Vạt tay áo trái vá bằng chỉ khác màu, ngón cái dính màu thuốc.
 - **Giới tính:** Nam.
 - **Tính cách đã chốt:** Có lòng với bách tính khốn khó; cứu chữa nhiều người nghèo.
 - **Năng lực:** Hiểu dược liệu và cách dùng thuốc ở mức nghề nghiệp đời thường; không phải đại năng hay truyền thừa bí ẩn.
@@ -37,14 +37,14 @@ tags:
 
 ## Quan hệ
 
-- **[[Lâm Uyên]]:** Thầy trò dự kiến. Quan hệ cần được gây dựng qua nhiều lần học việc, sai sót, chăm sóc bệnh nhân và sự tin cậy.
+- **[[Lâm Uyên]]:** Gặp ở Chương 48. Mạnh bắt đầu dạy cách ghi điều tận mắt thấy và kiểm thuốc an toàn; quan hệ thầy trò còn phải gây dựng qua nhiều lần làm việc.
 - **Bách tính nghèo:** Những người được ông cứu chữa; cần có một vài cá nhân cụ thể để nỗi mất mát sau này mang gương mặt và ký ức.
-- **[[Tế Sinh Viện]]:** Nơi làm việc dự kiến; vị trí và quan hệ với viện chủ/y sư hiện có cần đối chiếu khi viết chương.
+- **[[Tế Sinh Viện]]:** Giám dược dưới quyền viện chủ. Ông kiểm thuốc và ký phần dược kiểm cùng viện chủ, không tự quyết lệnh của Tông Sảnh.
 
 ## Liên tục
 
-- Chưa xuất hiện trong các chương hiện hành; lần gặp đầu cần nảy sinh tự nhiên từ việc Lâm Uyên tìm thuốc sau Chương 47.
-- Không đặt biến cố qua đời vào Chương 48; độc giả cần thấy ông sống, làm việc và tạo quan hệ với người được giúp trước.
+- Xuất hiện lần đầu ở Chương 48 khi kiểm hòm thuốc và chăm người bệnh nghèo tại Tế Sinh Viện. Ông bỏ hai đồng của mình bù tiền băng vải cho một đứa trẻ.
+- Ông đi cùng Lâm Uyên và Tô Thanh Ly theo giấy phép giới hạn để kiểm sổ ba hiệu thuốc trong thành. Biến cố qua đời vẫn thuộc tương lai, chưa có thời điểm cụ thể.
 - Hồ sơ hiện giữ phần đã được tác giả chốt; các chi tiết chưa xác nhận phải để mở.
 
 ## Liên kết
