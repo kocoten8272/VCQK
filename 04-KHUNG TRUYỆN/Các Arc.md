@@ -31,6 +31,7 @@ tags:
 - Chương 46: người mua thuốc đưa thư đòi đổi Xích Tủy Tán lấy bản chép lời khai. Tô gia lần theo ba hiệu thuốc tới quầy Nam Phố, xác nhận ba hòm qua cổng nam và thu được hòm rỗng cùng giấy hẹn hai hòm ở bến nước ngoài thành. Lâm Uyên chưa giao lời khai; lệnh kiểm tra chưa cho phép vượt cổng.
 - Chương 47: Tô Thanh Ly chịu nghĩa vụ bồi hoàn trong Dược Khế để theo đội kiểm tra bến nước ngoài cổng nam. Một gói Xích Tủy Tán được viện chủ kiểm và dùng cho Trần Dực; gói còn lại có dấu sáp bất thường, phải niêm riêng. Lâm Uyên, Tô Thanh Ly và Tô Trạch chọn đối chiếu phần mình biết thay vì giấu thông tin thay nhau.
 - Chương 48: Mạnh Thanh Tễ kiểm lại hòm thuốc thứ hai và kết luận không thể dùng cho Trần Dực, nhưng chưa rõ bị ẩm, pha hay tráo. Trần cần liều cuối đạt phép kiểm trước trưa hôm sau để tránh tổn thương tay trái khó cứu. Tô Tín nộp đơn xin đưa thi thể Tô Lạc về; Lâm Uyên và Tô Thanh Ly được giấy phép giới hạn để cùng Mạnh kiểm sổ ba hiệu thuốc trong thành. Chưa tìm được liều cuối hay người mua.
+- Chương 49: Ba phiếu xuất dẫn tới Dược Phường Hòa Sinh. Sổ phối ghi một phần mẫu lưu đang chờ tái kiểm vì bột vón; phần nguyên liệu còn lại thuộc kho cứu tế, chưa chắc đủ một liều và chưa được phép đổi mục đích. Đoàn xin giấy bổ sung để tới dược phường, rồi về Tế Sinh Viện trước hạn. Mạnh chữa phu xe Lưu Định, sửa cách Lâm Uyên quấn băng. Tô Tín muốn bổ sung lời khai cho đơn đưa Tô Lạc về. Chưa có liều cuối hay kết luận vì sao hòm thuốc thứ hai đổi trạng thái.
 
 ## Trục Di Kỷ Tộc dài hạn
 
