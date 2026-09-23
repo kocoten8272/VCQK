@@ -46,6 +46,16 @@ tags:
 - Hệ quả tại Tô gia và Lăng Vân Thành phải phát sinh từ việc Tàng Thư Các cháy, đội điều tra mắc kẹt và những gì ba người thực sự mang về.
 - Vân Châu, Tiểu Vực, Đại Vực và Cửu Thiên vẫn là các tầng phát triển dài hạn. Chưa khóa địa điểm, đối thủ hoặc lời giải bí mật chỉ để lấp bảng quyển.
 
+## Hướng mở rộng tại Lăng Vân Thành — đề xuất
+
+> Các gia tộc dưới đây chưa xuất hiện trong Chương 1–50. Đây là hướng mở rộng, chưa phải sự kiện canon.
+
+- [[Hạ Gia]] đi vào qua sổ bến và tuyến vận chuyển đang cần đối chiếu; họ nắm luồng hàng nhưng không mặc định là người mua thuốc.
+- [[Thẩm Gia]] đi vào qua việc mua bù dược liệu cho trạm khám; tranh chấp về giá và bán chịu không đồng nghĩa có thuốc giả.
+- [[Bùi Gia]] đi vào qua biên nhận sửa chữa và an toàn công trình; nếu tác giả giữ phương án tai nạn ở khu dân nghèo cho tuyến Mạnh Thanh Tễ, hồ sơ của họ có thể được kiểm tra nhưng chưa kết luận họ có lỗi.
+- Phân bổ gợi ý: Hạ Gia khoảng Chương 51–54; Thẩm Gia khoảng 55–58; Bùi Gia khoảng 59–64; xung đột lợi ích giữa các nhà khoảng 65–72. Cao trào gia tộc nếu cần nên để sau khi các tuyến đã có nhân vật và chứng cứ, khoảng Chương 73 trở đi.
+- Tô Gia nên suy yếu và mất thế độc quyền từng phần trước khi tính tới tan rã; các nhà địa phương không lập một liên minh phản diện thống nhất.
+
 ## Nguyên tắc
 
 - Mỗi arc phải có mục tiêu rõ, đẩy nhận thức của [[Lâm Uyên]] lên một tầng mới.
