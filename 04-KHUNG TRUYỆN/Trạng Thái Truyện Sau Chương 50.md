@@ -47,4 +47,4 @@ tags:
 
 ## Liên kết
 
-- [[Chương 49]], [[Chương 50]], [[Kết Chương]], [[Các Arc]], [[Mạnh Thanh Tễ]]
+- [[Chương 49]], [[Chương 50]], [[Kết Chương]], [[Các Arc]], [[Mạnh Thanh Tễ]], [[Kế Hoạch Làm Rõ Hai Mạng Lưới Sau Chương 50]]
