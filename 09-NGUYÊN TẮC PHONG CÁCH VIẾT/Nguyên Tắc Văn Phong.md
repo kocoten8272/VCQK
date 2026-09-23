@@ -62,6 +62,12 @@ tags:
 - Không lặp các nhãn “tuyệt mỹ”, “thanh lãnh”, “cao quý” khi hành động và điểm chú ý có thể thể hiện khí chất.
 - Các nữ chính chưa xuất hiện không bị khóa ngoại hình chỉ bởi tên gọi; hoàn thành bảng nhận diện riêng trước khi đưa vào chương.
 
+### Mở rộng thế giới, bí ẩn và tuyến nhân vật
+
+- Dùng [[Quy Tắc Mở Rộng Thế Giới Và Mạch Bí Ẩn]] khi thiết kế thời đại, phân tầng xã hội, thế lực, tàn tích, câu hỏi dài hạn, nhân vật mới hoặc tầng thế giới mới.
+- Mở rộng từ vấn đề và nhân quả của arc hiện tại; tách canon, điều độc giả đã thấy, lời đồn và giả thuyết. Không thêm giới mới hay một chủ mưu bao trùm chỉ để tăng quy mô.
+- Mỗi thế lực, năng lực hoặc bí ẩn cần có giới hạn, cái giá và hậu quả cụ thể trong đời sống nhân vật.
+
 ## 8. Sắc thái tang thương trong cảnh khổ và mất mát
 
 - Nỗi đau cần một đối tượng cụ thể: một người, một thói quen, một lời hứa, một nơi chốn hoặc một khả năng sống đã mất. Cho độc giả biết điều ấy từng có ý nghĩa gì trước khi viết sự mất đi.
