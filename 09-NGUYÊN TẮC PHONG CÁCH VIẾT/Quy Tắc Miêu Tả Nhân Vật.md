@@ -278,7 +278,74 @@ Không dừng trận đấu để tả khuôn mặt hoàn chỉnh. Mỗi chi ti�
 
 Sau trận, giữ dấu vết trên người và trang phục sang các cảnh sau. Không để tóc áo sạch lại và vết thương biến mất nếu chưa có thời gian xử lý.
 
-## 14. Miêu tả trong cảnh buồn và thân mật
+## 14. Giới thiệu cảnh giới, cấp bậc, pháp khí và năng lực
+
+Thông tin sức mạnh phải giúp người đọc hiểu điều gì có thể xảy ra trong cảnh, vì sao nhân vật chọn hành động ấy và cái giá hoặc giới hạn của lựa chọn. Không đưa cấp bậc vào như bảng thống kê rời khỏi câu chuyện.
+
+### Phân biệt các thước đo
+
+- **Cảnh giới tu luyện** cho biết nhân vật đã đi đến đâu trên hệ thống tu hành.
+- **Chiến lực thực tế** cho biết nhân vật có thể làm gì trong tình trạng và hoàn cảnh hiện tại. Nó còn tùy công pháp, pháp kỹ, kinh nghiệm, thương thế, thể chất, khắc chế, địa hình, trợ lực và cái giá phải trả.
+- **Cấp pháp khí** là thang đánh giá năng lực hoặc phẩm chất của vật theo hệ thống đã được thiết lập.
+- **Nguồn gốc pháp khí** là dòng hình thành hoặc xuất xứ của vật. Nguồn gốc không tự động cho biết cấp chiến lực.
+- **Chức vị và địa vị** cho biết quyền hạn, nghĩa vụ và phạm vi ảnh hưởng trong một tổ chức. Chúng không đồng nghĩa với tu vi hay sức mạnh chiến đấu.
+
+Không dùng các thước đo này thay thế lẫn nhau. Người cảnh giới cao hơn không mặc nhiên thắng mọi trận; pháp khí hiếm không mặc nhiên dùng được hoặc mạnh hơn mọi vật cùng cấp; chức vị cao không đồng nghĩa người đó có thể tùy tiện thi hành quyền lực ở mọi nơi.
+
+### Khi giới thiệu nhân vật hoặc đối thủ
+
+Ở lần đầu thông tin này ảnh hưởng tới cảnh, cho người đọc biết vừa đủ:
+
+1. Điều gì đã được xác nhận: cảnh giới, chức vị, trường phái, vũ khí hoặc danh tiếng.
+2. Ai là người nhận ra và căn cứ vào đâu: dấu hiệu quan sát được, hồ sơ, lời người biết việc hay lời đồn.
+3. Thông tin đó làm đổi tình thế hiện tại thế nào: đối phương chặn được đường nào, nhân vật buộc phải dè chừng điều gì, hay quyền hạn nào có thể được dùng.
+4. Giới hạn nào đang tồn tại: thương tích, pháp khí không phù hợp, quyền hạn không bao trùm địa điểm, kỹ pháp cần thời gian hoặc cái giá phải trả.
+
+Dùng phản ứng, khoảng cách, lực tác động, lựa chọn và lời nói để cho thấy chênh lệch. Khi cần nêu tên cảnh giới, đặt nó cạnh một dấu hiệu hoặc hậu quả cụ thể để người đọc không phải nhớ một nhãn trống.
+
+Chỉ khẳng định cấp bậc chính xác khi nhân vật có căn cứ đáng tin. Nếu điểm nhìn chưa biết, dùng dấu hiệu và giữ sự bất định: khí tức mạnh hơn, linh lực không ổn định, pháp khí có dấu hiệu đã qua tay nhiều chủ. Nếu đó là lời đồn, ghi rõ ai truyền và vì sao có thể sai.
+
+Không liệt kê cảnh giới, tầng nhỏ, thể chất, huyết mạch, pháp khí và mọi chiến tích trong một lần nhân vật bước vào. Chọn phần đang ảnh hưởng đến quyết định hoặc mối nguy trước mắt; phần còn lại có thể hé lộ khi nó trở nên cần thiết.
+
+### Khi giới thiệu pháp khí, pháp kỹ và vật phẩm
+
+Với một vật có vai trò trong cảnh, chỉ giới thiệu các mặt đã biết và liên quan:
+
+- nó là vật gì, đang thuộc về ai hoặc ai có quyền giữ;
+- công dụng đã được thấy hoặc được nguồn đáng tin xác nhận;
+- tình trạng hiện tại: nguyên vẹn, hỏng, cạn linh lực, bị niêm phong, đang cầm cố;
+- giới hạn, cách kích hoạt, phạm vi hoặc cái giá nếu đã biết;
+- phần nào còn là suy đoán.
+
+Với pháp khí, phân biệt **tên mô tả**, **cấp bậc** và **nguồn gốc**. Không tự xếp nhẫn bạc, mảnh xương, tàn kiếm hay vật bí ẩn vào một cấp chỉ vì chúng có vẻ cổ hoặc phản ứng lạ. Không biến lời quảng cáo của người bán thành sự thật của người kể.
+
+Với pháp kỹ hoặc công pháp, giới thiệu theo hiệu quả thực tế: nó làm được gì trong lần dùng này, cần điều kiện nào, để lại hậu quả gì. Tên kỹ pháp không thay thế phần giải thích bằng hành động. Nếu cấp của pháp kỹ chưa được hệ thống xác nhận, ghi là chưa rõ thay vì tự ước lượng thành canon.
+
+### Khi giới thiệu chức vị và thế lực
+
+Nêu quyền hạn bằng một việc nhân vật có thể làm trong chính cảnh đó. Nếu một chấp sự có thể giữ vật chứng, một trưởng lão có thể đình nguyệt lệ, hay một sứ giả có thể đòi lời khai, cho thấy giấy lệnh, quy tắc hoặc người chịu thi hành. Đồng thời cho biết giới hạn: ai có thể bác lệnh, địa bàn nào nằm ngoài quyền hạn, và nghĩa vụ nào phát sinh khi họ hành động.
+
+Không giới thiệu thế lực chỉ bằng danh xưng lớn hoặc lời kể rằng họ đáng sợ. Cho thấy họ nắm thứ gì cụ thể như người, đường vận chuyển, kho thuốc, hồ sơ, quyền cấp phép hoặc truyền thừa; cho thấy thứ gì ngăn họ đạt mục tiêu ngay.
+
+### Nhịp hé lộ và điểm nhìn
+
+- Đặt thuật ngữ mới cạnh hành động, lời giải thích ngắn từ người biết việc hoặc hậu quả có thể thấy.
+- Mỗi cảnh chỉ cần một vài thông tin mới quan trọng. Nếu nhiều cấp bậc đều cần thiết, tách chúng theo lúc chúng tác động đến lựa chọn.
+- Điểm nhìn chỉ biết phần nhân vật đã học, từng thấy hoặc có thể suy ra. Không dùng lời kể để tiết lộ cấp thật, nguồn gốc hay giới hạn mà nhân vật chưa có căn cứ biết.
+- Khi thông tin cũ được nhắc lại, bổ sung điều đã đổi: cảnh giới tăng, pháp khí hỏng, quyền hạn bị thu, danh tiếng đổi hoặc nhân vật hiểu ra giới hạn mới.
+- Giữ đúng hệ thống trong [[Cảnh Giới]], [[Pháp Bảo]], [[Pháp Kỹ]] và canon đã chốt. Khi hồ sơ chưa đủ dữ kiện, dùng trạng thái chưa xác định, không tự lấp chỗ trống.
+
+### Khung ghi chú trước khi viết
+
+| Mục | Cần xác định |
+| --- | --- |
+| Thông tin đã biết | Cảnh giới, cấp vật, chức vị hoặc nguồn gốc nào đã được canon xác nhận? |
+| Nguồn nhận biết | Nhân vật biết điều đó từ đâu và có thể tin đến mức nào? |
+| Tác dụng trong cảnh | Thông tin này làm thay đổi lựa chọn, nguy cơ hoặc quan hệ nào? |
+| Giới hạn | Thương thế, điều kiện, phạm vi quyền hạn, khắc chế hoặc cái giá nào đang có? |
+| Điều chưa biết | Phần nào phải giữ là lời đồn, suy đoán hoặc bí ẩn? |
+
+## 15. Miêu tả trong cảnh buồn và thân mật
 
 Trong cảnh buồn, vẻ ngoài nên cho thấy điều nhân vật không còn đủ sức duy trì: búi tóc lệch, áo cài sai nút, thanh kiếm chưa lau, đôi tay làm một việc quen rồi dừng lại.
 
@@ -293,7 +360,7 @@ Trong cảnh thân mật, ưu tiên:
 
 Không dùng miêu tả thân thể thay cho tiến triển quan hệ.
 
-## 15. So sánh và hình ảnh
+## 16. So sánh và hình ảnh
 
 Một so sánh tốt phải làm nét riêng của nhân vật rõ hơn. Tránh so mọi nữ nhân với trăng, tuyết, hoa, ngọc và tiên tử.
 
@@ -301,7 +368,7 @@ Không xếp chồng nhiều hình ảnh trong cùng một câu. Nếu nhân v�
 
 Cảnh vật không được cúi đầu trước vẻ đẹp chỉ để nâng nhân vật. Gió, ánh sáng, tiếng động và đám đông chỉ phản ứng khi có nguyên nhân trong cảnh.
 
-## 16. Những lỗi phải tránh
+## 17. Những lỗi phải tránh
 
 - Liệt kê khuôn mặt từ trên xuống dưới.
 - Dùng “tuyệt mỹ”, “khuynh thành”, “không nhiễm bụi trần” thay cho chi tiết cụ thể.
@@ -316,7 +383,7 @@ Cảnh vật không được cúi đầu trước vẻ đẹp chỉ để nâng 
 - Dùng một biểu cảm cho mọi cảm xúc.
 - Để miêu tả báo trước toàn bộ bí mật của nhân vật.
 
-## 17. Mẫu hồ sơ miêu tả
+## 18. Mẫu hồ sơ miêu tả
 
 Khi chuẩn bị cho nhân vật quan trọng, ghi:
 
@@ -333,7 +400,7 @@ Khi chuẩn bị cho nhân vật quan trọng, ghi:
 | Điểm nhìn | Lâm Uyên thấy gì; người khác thấy gì |
 | Thay đổi dài hạn | Biến cố nào làm hình ảnh nhân vật đổi đi |
 
-## 18. Ví dụ ngắn
+## 19. Ví dụ ngắn
 
 ### Cách viết chung chung
 
@@ -353,7 +420,7 @@ Câu này có thể đặt cho nhiều nhân vật và chưa cho thấy nàng đ
 
 Sức hút đến từ việc hai người nhận ra điều nhỏ ở nhau, không cần dừng cảnh để xếp hạng nhan sắc.
 
-## 19. Kiểm tra trước khi hoàn thành chương
+## 20. Kiểm tra trước khi hoàn thành chương
 
 - Nhân vật mới có một dấu hiệu riêng hay chỉ mang những từ đẹp quen thuộc?
 - Miêu tả có đi qua điểm nhìn cụ thể không?
