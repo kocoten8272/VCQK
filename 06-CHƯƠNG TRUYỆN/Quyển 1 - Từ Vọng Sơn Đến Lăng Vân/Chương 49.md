@@ -84,7 +84,13 @@ Tại hiệu thứ ba, người giữ sổ đang khóa hộp phiếu. Lệnh có
 
 Dấu dược phường và số lô ở phiếu thứ ba trùng với hai phiếu trước. Điều khác nằm ở phần ghi khi giao: bên cạnh chữ đủ ba gói có một dấu móng tay đậm của người nhận, in qua tờ giấy lót xuống trang dưới. Người giữ sổ nhận đó là dấu của phu xe, không nhớ mặt. Lâm Uyên lấy tấm thẻ ghi lời này, rồi hỏi liệu dấu ấy có giúp tìm gói thứ ba đã rời bến không. Ông ta nói xe tới quầy Nam Phố, phần sau không thuộc việc của hiệu. Hắn dừng bút tại đó. Một câu hỏi không được trả lời vẫn là câu hỏi, không phải chỗ để tự điền.
 
-Ba bản sao được chấp sự buộc riêng bằng dây mới. Mạnh để nguyên phiếu gốc trong từng hiệu, chỉ lấy bản chép có chữ ký xác nhận. Ngoài phố, người bán cá lúc trước đã thu hết thúng. Ánh nắng tới gần mái chợ như Tô Trạch đoán. Dược Phường Hòa Sinh ở cuối con đường vòng qua giếng công; nếu đi ngay, họ còn kịp gặp người giữ sổ phối trước lúc chuyển ca.
+Ba bản sao được chấp sự buộc riêng bằng dây mới. Mạnh để nguyên phiếu gốc trong từng hiệu, chỉ lấy bản chép có chữ ký xác nhận. Ngoài phố, người bán cá lúc trước đã thu hết thúng. Ánh nắng tới gần mái chợ như Tô Trạch đoán. Dược Phường Hòa Sinh ở cuối con đường vòng qua giếng công, nhưng tờ lệnh chỉ ghi ba hiệu thuốc. Lâm Uyên vừa định rẽ, một chấp sự đã chặn lại.
+
+“Địa chỉ ấy chưa nằm trong giấy.”
+
+Tô Thanh Ly xem giờ trên thẻ của Lâm Uyên. Nàng bảo người chấp sự còn lại đem ba bản phiếu xuất tới Tông Sảnh, xin bổ sung dược phường vào phạm vi kiểm sổ và giữ nguyên hạn trở về. Họ chờ trước cửa hiệu thứ ba. Chủ hiệu đã khóa sổ, nhìn đoàn người đứng dưới mái mà chẳng biết nên mời vào hay đuổi đi. Mạnh tranh thủ đọc lại tên người cân trên từng phiếu; Lâm Uyên nhìn con đường qua giếng công, thấy nó gần đến mức càng khó đứng yên.
+
+Khi chấp sự trở lại, nắng đã chạm một mép mái. Dấu mới cho phép đoàn tới Dược Phường Hòa Sinh xem sổ phối, sổ tồn và phần mẫu lưu; không cho mở kho hoặc đổi mục đích thuốc. Hai chấp sự đổi vị trí, người vừa chạy giấy đi sau lấy hơi. Lâm Uyên ghi giờ được bổ sung lệnh vào thẻ rồi mới bước đi. Khoảng thời gian chờ ấy không trả về được, nhưng lần này đường họ đi có tên trên giấy.
 
 Dược phường không treo tấm biển mạ vàng nào. Một vách tường vôi ngả màu chạy dọc sân, phía trên phơi những nia dược liệu úp nghiêng để tránh bụi. Ở cổng, mùi nước sắc và than âm ỉ trộn với mùi lá khô. Hai người đang cân thuốc cho một trạm khám ngoài thành, mỗi mẻ đặt lên bàn xong đều phải chờ một người khác đánh dấu. Mạnh quen người giữ cân. Ông gọi hắn bằng tên, rồi đưa lệnh. Người kia đọc xong bảo phần mẫu lưu của Xích Tủy Tán ở kho kiểm, nhưng quyền vào kho thuộc một người đã sang phòng sổ.
 
