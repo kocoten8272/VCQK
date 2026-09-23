@@ -52,3 +52,4 @@ tags:
 
 - Nhân vật: [[Lâm Uyên]], [[Trần Dực]], [[Tô Tín]]
 - Địa điểm: [[Tế Sinh Viện]], [[Lăng Vân Thành]]
+- Khung truyện: [[Bố Cục Spoiler Sau Chương 50 - Biến Cố Mạnh Thanh Tễ]]
