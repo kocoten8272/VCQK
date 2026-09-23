@@ -8,10 +8,10 @@
 
 - **Tên truyện:** Vạn Cổ Quy Khư
 - **Nhân vật chính:** [[Lâm Uyên]]
-- **Địa điểm ở cuối chương 47:** Tế Sinh Viện trong nội viện Tô gia tại Lăng Vân Thành
+- **Địa điểm ở cuối chương 48:** Lâm Uyên, Tô Thanh Ly và Mạnh Thanh Tễ rời Tế Sinh Viện theo giấy phép để kiểm sổ thuốc trong Lăng Vân Thành
 - **Thế lực gắn với arc hiện tại:** [[Tô Gia]]
-- **Chương mới nhất trên main:** [[Chương 47]] (nháp)
-- **Chương tiếp theo:** Chương 48 (dự kiến)
+- **Chương mới nhất trên main:** [[Chương 48]] (nháp)
+- **Chương tiếp theo:** Chương 49 (dự kiến)
 - **Trạng thái:** Đang sáng tác
 
 ---
@@ -53,7 +53,7 @@
 - [[Liễu Nguyên Bá]] — đệ tử đích truyền Liễu Gia (Ảo Đạo)
 - [[Cửu Nương]] — môi giới tin tức Thính Phong Lâu
 - [[Diệp Trầm]] — Sưu Tróc Sứ Tầm Chân Ti (Chấn Châu Ti)
-- [[Mạnh Thanh Tễ]] — y sư/giám dược, người hướng dẫn dược lý dự kiến của Lâm Uyên
+- [[Mạnh Thanh Tễ]] — giám dược Tế Sinh Viện, gặp Lâm Uyên ở Chương 48
 
 ### Quan hệ
 
@@ -175,13 +175,14 @@
 - [[Chương 44]] — nháp
 - [[Chương 45]] — nháp
 - [[Chương 46]] — nháp
-- [[Chương 47]] — nháp mới
+- [[Chương 47]] — nháp
+- [[Chương 48]] — nháp mới
 
 ### Chuẩn bị
 
-- Chương 48 — kế hoạch gần trong [[Đường Dây Chương 40-48]].
+- Chương 49 — hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 48]].
 - [[Kết Chương]] — trạng thái từng chương, bao gồm các bản nháp và chương chưa có frontmatter.
-- [[Trạng Thái Truyện Sau Chương 47]] — vị trí, vật phẩm, thương thế và câu hỏi đang mở.
+- [[Trạng Thái Truyện Sau Chương 48]] — vị trí, vật phẩm, thương thế và câu hỏi đang mở.
 
 ---
 
