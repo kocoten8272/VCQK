@@ -70,21 +70,22 @@ tags:
 | Chương 47 | 🔶 | Bến Nước Phía Nam | `status: nhap` |
 | Chương 48 | 🔶 | Trước Giờ Đóng Cửa | `status: nhap` |
 | Chương 49 | 🔶 | Dòng Chữ Dưới Vết Mực | `status: nhap` |
+| Chương 50 | 🔶 | Phần Thuốc Để Lại | `status: nhap` |
 
 ## Chương tiếp theo
 
-- Chương 50: hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 49]], chưa có tệp chương trên `main`.
+- Chương 51: hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 50]], chưa có tệp chương trên `main`.
 - Các ý tưởng cũ cho chương 39–44 trong hồ sơ hỗ trợ thuộc mạch trước bản Chương 37–38 hiện tại. Chỉ dùng làm chất liệu sau khi đối chiếu, không coi là sự kiện đã xảy ra.
 
 ## Tổng số
 
-- Có tệp chương 1–49 trên `main`: 49.
+- Có tệp chương 1–50 trên `main`: 50.
 - Hoàn thiện: 33 chương theo tracker cũ (1–25) và frontmatter đã kiểm tra (26–32, 34).
-- Nháp theo frontmatter: 15 chương (33, 36–49).
+- Nháp theo frontmatter: 16 chương (33, 36–50).
 - Chương 35 có tệp nhưng chưa khai báo trạng thái.
-- Chương 50 trở đi: chưa có tệp chương; các mốc tương lai giữ ở mức kế hoạch.
+- Chương 51 trở đi: chưa có tệp chương; các mốc tương lai giữ ở mức kế hoạch.
 
 ## Liên kết
 
 - Nhịp: [[Nhịp Truyện]]
-- Chương: [[Chương 1]] → [[Chương 49]]
+- Chương: [[Chương 1]] → [[Chương 50]]
