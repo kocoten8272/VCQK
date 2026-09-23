@@ -15,6 +15,7 @@ tags:
 - Là một trong những địa điểm quan trọng của giai đoạn đầu truyện.
 - Có: tu sĩ, thế gia, tông môn, thương hội, thế lực ngầm, đấu trường, chợ tu sĩ, luyện khí sư, luyện đan sư, phù sư; khu vực dành riêng cho phàm nhân và tu sĩ.
 - Trụ sở của [[Tô Gia]]; nơi có [[Nghiệm Linh Đường]].
+- Có thể bổ sung các thế gia nghề nghiệp địa phương như [[Các Gia Tộc Lăng Vân Thành]]; danh sách Hạ Gia, Thẩm Gia và Bùi Gia hiện chỉ là đề xuất, chưa phải canon.
 
 ## Vai trò trong truyện
 
