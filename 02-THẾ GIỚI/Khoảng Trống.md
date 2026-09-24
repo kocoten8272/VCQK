@@ -39,3 +39,13 @@ Quan hệ giữa Khoảng Trống, [[Quy Khư]] và [[Ngoại Sinh Linh]] chưa 
 - Thế giới: [[Quy Khư]], [[Địa Ký]]
 - Bí ẩn: [[Ngoại Sinh Linh]]
 - Xem thêm: [[03_WORLD_LORE_EXPANSION]]
+
+## Hướng biểu hiện đã duyệt cho chặng sau
+
+Triển khai khó khăn trong việc giữ ký ức và ghi nhận về một nơi theo phạm vi có giới hạn. Chưa đưa hiện tượng này vào làm nguyên nhân của hồ sơ thiếu ở Lăng Vân Thành; quy luật chính xác, tác nhân và thời điểm xuất hiện còn mở.
+
+Trước khi viết một trường hợp, phải xác định điều gì bị ảnh hưởng và điều gì còn giữ được. Có thể khai thác bất đồng giữa người từng đến, người ở xa và các bản ghi được giữ ở nơi khác, nhưng không mặc định mọi tên tuổi, giấy tờ và vật chứng đều biến mất cùng lúc.
+
+Vật còn lại, dấu lao động và lời người bên ngoài cần có khả năng giúp người sống tiếp tục tìm kiếm. [[Thủ Danh Phường]] vì vậy có thể gặp một giới hạn mới của nghề, không có phép tự khôi phục toàn bộ tên người hoặc lịch sử đã mất.
+
+Bản thiết kế này không xác nhận nguyên nhân cuối cùng, không đồng nhất Khoảng Trống với [[Địa Ký]] hay Khuyết Ký, và không cho phép xóa bằng chứng để trì hoãn đáp án tùy ý.

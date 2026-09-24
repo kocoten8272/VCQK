@@ -30,3 +30,17 @@ tags:
 ## 5. Liên kết
 - Thế giới: [[Vân Châu]], [[Lăng Vân Thành]], [[Tiểu Vực]]
 - Xem thêm: [[02_WORLD_LORE|World Lore]]
+
+## Các hội, phường trong hướng Mạc Pháp đã duyệt
+
+Ba hồ sơ sau đã được tác giả cho triển khai trong thiết kế tương lai, chưa xuất hiện trong bản thảo đến hết Chương 50:
+
+| Thế lực | Công việc và lợi ích | Giới hạn |
+| --- | --- | --- |
+| [[Khảo Mạch Hội]] | Đo mạch, kiểm tra mức an toàn, giữ bản đồ và nhận công khảo sát | Không tự có quyền phong tỏa, bắt người hoặc kết luận bí mật thiên địa |
+| [[Thủ Danh Phường]] | Giúp nhận người chết, tìm thân nhân, lưu danh tính và vật tùy thân | Dữ liệu có thể thiếu; không gọi hồn, hồi sinh hoặc tự định tội |
+| [[Đoạn Mạch Hội]] | Can thiệp nhánh mạch họ cho là nguy hiểm, ưu tiên giữ vùng còn sống được | Mạng lưới nhỏ, dữ liệu và nguồn lực hữu hạn; lựa chọn có thể sai và làm hại vùng khác |
+
+Các tổ chức này mở thêm nghề nghiệp, nghĩa vụ và xung đột dân sinh. Chúng không thay ba gia tộc địa phương, Chấn Châu Ti, Tầm Chân Ti hay thương hội; cũng không mặc nhiên đứng sau hai mạng lưới đang điều tra.
+
+Thứ tự và điều kiện xuất hiện: [[Triển Khai Mạc Pháp Và Các Thế Lực Sau Chương 50]]. Trạng thái của [[Các Gia Tộc Lăng Vân Thành]] vẫn theo hồ sơ riêng.

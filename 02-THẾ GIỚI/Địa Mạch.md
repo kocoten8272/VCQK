@@ -56,3 +56,15 @@ Bản chất thật sự của hiện tượng này chưa xác định.
 - Thế giới: [[Quy Khư]], [[Bí Cảnh]], [[Địa Ký]]
 - Thuật ngữ: [[Mạc Pháp]]
 - Xem thêm: [[03_WORLD_LORE_EXPANSION]]
+
+## Kịch bản địa phương đã duyệt: trấn pháp chuyển hại
+
+Thiết kế tương lai cho một xung đột dân sinh: một trận thức bảo hộ có thể chuyển phần lực gây hại sang tuyến thoát đi qua khu dân cư ít được bảo vệ. Đây là cách can thiệp có điều kiện ở một nơi, không phải bản chất của mọi trận pháp hoặc toàn bộ Địa Mạch.
+
+Trước khi dùng trong chương, cần dựng đường dẫn, nguồn lực, điểm nhận hại, điều kiện quá tải, người biết thiết kế và người có quyền thay đổi. Nếu không có đường nối hoặc phần lực tương ứng, không được chuyển hại từ xa.
+
+Xung đột có thể đến từ thiết kế cũ, thay đổi dân cư, bảo trì thiếu hoặc quyết định cố ý. Muốn buộc tội phải có chứng cứ về việc làm và điều người quyết định đã biết. Một thợ sửa có thể nhận ra nguy hiểm nhưng chưa có vật liệu và quyền dừng công trình.
+
+[[Khảo Mạch Hội]] đánh giá kỹ thuật; đơn vị thi công xử lý công trình; cơ quan có thẩm quyền quyết định di dời. [[Đoạn Mạch Hội]] có thể muốn đóng tuyến, song chính việc đóng cũng có thể gây mất nguồn sống ở một nơi khác.
+
+Không tự gắn kịch bản này vào tai nạn dự kiến của Mạnh Thanh Tễ hoặc vụ thuốc Chương 50. Những tuyến ấy còn phải phát triển nguyên nhân riêng. Xem [[Triển Khai Mạc Pháp Và Các Thế Lực Sau Chương 50]].
