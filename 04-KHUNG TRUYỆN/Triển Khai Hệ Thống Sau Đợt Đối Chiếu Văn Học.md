@@ -10,7 +10,7 @@ tags:
 
 # Triển Khai Hệ Thống Sau Đợt Đối Chiếu Văn Học
 
-> Tác giả đã chốt các đề xuất W1–W6 và hướng hành văn ở đợt đối chiếu trước. Đây là bản thực hiện trong hồ sơ thiết kế; phần tương lai không được coi là sự kiện của chương 1–50. Mong muốn cả đời của Lâm Uyên được đề xuất riêng, chưa chốt.
+> Tác giả đã chốt các đề xuất W1–W6 và hướng hành văn ở đợt đối chiếu trước. Đây là bản thực hiện trong hồ sơ thiết kế; phần tương lai không được coi là sự kiện của chương 1–50. Mong muốn cả đời của Lâm Uyên đã được tác giả chốt ở lần cập nhật tiếp theo: [[Mong Muốn Cả Đời Lâm Uyên - Giữ Một Chốn Trở Về]].
 
 ## Các phần đã triển khai
 
@@ -33,7 +33,7 @@ Khi dùng một công pháp hay tài nguyên mới, chốt đủ thông tin củ
 - Cảnh giới chính xác chưa xác nhận của nhân vật; tên kỹ pháp, tuổi thọ, định lượng và các tầng cao.
 - Địa danh mới, công thức thuốc, giá và tỷ giá; thủ phạm vụ thuốc và quan hệ hai mạng lưới.
 - Gia đình, tuổi và kết cục của nhân vật chưa có dữ kiện.
-- Mốc và cơ chế tai nạn Mạnh Thanh Tễ; mục tiêu đời người và kết thúc của Lâm Uyên.
+- Mốc và cơ chế tai nạn Mạnh Thanh Tễ; kết thúc của Lâm Uyên. Mong muốn cả đời đã chốt, nhưng cách đạt được và kết quả vẫn mở.
 - Bản chất Quy Khư, Ngoại Sinh Linh và hệ thống khống chế thiên địa.
 
 ## Đồng bộ cần lưu ý

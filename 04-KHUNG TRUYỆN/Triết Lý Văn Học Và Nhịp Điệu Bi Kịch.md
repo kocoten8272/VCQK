@@ -159,4 +159,4 @@ Nguồn: [giới thiệu của Penguin Random House](https://www.penguinrandomho
 - Không để người kể kết luận thay mọi phía sau một cuộc tranh luận. Cho hành động tiếp theo thử giới hạn từng lập trường.
 - Giữ đoạn văn liền mạch, nhịp câu thay đổi. Khoảng lặng là hành động hoặc sự chờ có ý nghĩa, không phải tách từng câu ra một dòng.
 - Nỗi đau không mặc định đem lại ngộ đạo, tu vi hoặc tính đúng đắn đạo đức.
-- Một mục tiêu đời người cần lớn lên từ việc nhân vật đã tự chọn; chưa chốt mục tiêu cả đời của Lâm Uyên qua tài liệu này.
+- Mục tiêu đời người lớn lên từ việc nhân vật tự chọn. Với Lâm Uyên, hướng đã chốt là [[Mong Muốn Cả Đời Lâm Uyên - Giữ Một Chốn Trở Về]]: muốn có chỗ trở về và để người mình thương sống tiếp đời họ. Gieo qua hành động, giữ quyền lựa chọn của người khác; không coi nỗi sợ mất người là lý do đúng đắn cho mọi hành vi kiểm soát.

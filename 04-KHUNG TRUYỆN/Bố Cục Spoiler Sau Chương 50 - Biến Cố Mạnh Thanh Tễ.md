@@ -76,3 +76,11 @@ Các mốc chương dưới đây có thể dịch chuyển theo nhịp bản th
 - [[Lâm Uyên]]
 - [[Tạ Nghiên Chi]]
 - [[Kỷ Hành Chu]]
+
+## Liên hệ mong muốn cả đời đã chốt
+
+Theo [[Mong Muốn Cả Đời Lâm Uyên - Giữ Một Chốn Trở Về]], Mạnh góp phần khiến Lâm cảm thấy mình có thể thuộc về một đời sống bình thường: học nghề, làm sai rồi sửa, có việc chờ mình ngày mai. Tích lũy điều ấy qua công việc trước biến cố.
+
+Sau khi mất thầy, Lâm muốn giữ người bệnh và phần việc tốt còn lại. Cậu phải học tiếp, nhờ người có nghề và giữ quan hệ với người sống; không lập tức thay được Mạnh. Nỗi đau có thể thử niềm tin “mạnh hơn thì không mất ai”, rồi dẫn tới câu hỏi về giới hạn bảo vệ và quyền tự chọn của người khác.
+
+Ngôi nhà có sân phơi thuốc là ước mơ để gieo, chưa là tài sản đã có hoặc di sản Mạnh để lại. Hướng mục tiêu mới không chốt thêm nguyên nhân tai nạn, người chết, mốc chương hoặc kết truyện.

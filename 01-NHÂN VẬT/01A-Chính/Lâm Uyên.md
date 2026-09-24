@@ -62,6 +62,10 @@ tags:
 
 Lâm cần lựa chọn cách chia sức, thời gian và tài nguyên giữa học nghề, chữa thương, đưa người chết về và điều tra. Kết quả phải làm thay đổi đời sống của những người liên quan. Sự khác biệt Nạp Vô được đối chiếu với [[Tu Hành Ba Cảnh Giới Đầu]], không thay kỹ năng đã học.
 
-Mục tiêu tồn tại cả đời đang được đề xuất riêng với tác giả; chưa chốt lời thề, đích đến hoặc kết cục trong hồ sơ này.
+**Mong muốn cả đời đã chốt:** có một nơi để trở về, nơi những người hắn thương được sống tiếp cuộc đời của họ. Tên hướng phát triển: **Giữ một chốn trở về**.
+
+Ước mơ cụ thể để gieo là một gian nhà có sân phơi thuốc, bàn dưới mái và chỗ đón người quen; hiện hắn chưa có nhà hoặc đủ nghề tự nuôi mình. Niềm tin “đủ mạnh thì không mất thêm ai” có thể khiến hắn bảo vệ quá mức. Sự trưởng thành là học bảo vệ mà vẫn tôn trọng quyền chọn ở hay đi của người khác.
+
+Các chặng, cách gieo và giới hạn: [[Mong Muốn Cả Đời Lâm Uyên - Giữ Một Chốn Trở Về]]. Đây là hướng đã duyệt cho chương tương lai, chưa phải lời Lâm đã nói; kết cục vẫn mở.
 
 Nguồn trạng thái: [[Chương 43]], [[Chương 50]], [[Trạng Thái Truyện Sau Chương 50]].
