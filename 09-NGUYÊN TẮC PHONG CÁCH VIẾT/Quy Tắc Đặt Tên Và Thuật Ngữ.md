@@ -267,3 +267,11 @@ Mỗi khái niệm mới cần được ghi vào hồ sơ thích hợp với cá
 - [[Quy Tắc Miêu Tả Nhân Vật]]
 - [[04_WRITING_BIBLE]]
 - [[VẠN CỔ QUY KHƯ MENU]]
+
+## 12. Giọng riêng trong lời kể và lời thoại — bổ sung đã duyệt
+
+Tên công pháp, pháp khí, cơ chế và tổ chức quan trọng có sắc thái Hán Việt; câu văn xung quanh dùng tiếng Việt rõ, tự nhiên. Không đổi vật quen thành danh xưng cổ kính nếu chưa có lý do trong truyện.
+
+Mỗi người có vốn từ và nhịp nói phù hợp trải nghiệm. Thầy thuốc, người dẫn đường, trưởng lão và người giữ sổ không cùng nói bằng những câu ngắn bí hiểm hoặc châm ngôn nhân quả. Từ nghề nghiệp cần được hiểu qua việc đang làm.
+
+Khi một hồ sơ dùng thuật ngữ chưa rõ như “kháng chất”, cần xác định tác dụng muốn nói trước khi viết vào chương; không tự coi đó là khái niệm dược lý đã được người đọc biết. Ưu tiên mô tả kết quả quan sát được, tránh dùng một nhãn mơ hồ giải thích mọi thất bại.

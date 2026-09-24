@@ -5,43 +5,38 @@ status: dang-phat-trien
 tags:
   - nhan-vat
   - to-gia
-  - phan-dien
+  - chap-phap
 ---
 
 # Tô Trạch
 
-> Trưởng lão Chấp Pháp Đường của [[Tô Gia]], người đứng đầu chuyến thám hiểm [[Hắc Phong Sơn]], kẻ đối đầu trực diện với [[Lâm Uyên]].
+> Trưởng lão Chấp pháp Tô Gia, chỉ huy trong chuyến Hắc Phong Sơn. Hồ sơ đồng bộ theo Chương 40, 43 và 50; các ghi chú từ bố cục chương cũ không được dùng làm sự kiện hiện tại.
 
-## Thông tin cơ bản
+## Hành động đã có trong bản thảo
 
-- **Thân phận:** Trưởng lão Chấp Pháp Đường [[Tô Gia]] — tâm phúc trực tiếp của Đại trưởng lão [[Tô Nguyên Chấn]]
-- **Tu vi:** Nửa bước Linh Hải cảnh (khát khao bước qua cánh cửa Linh Hải suốt mấy chục năm, chưa đạt)
-- **Diện mạo:** Lão giả trường bào xám tro, râu tóc điểm bạc, ánh mắt sáng quắc như điện chớp
-- **Tính cách:** Nghiêm khắc, tinh tường, tàn nhẫn, độc đoán; bị lòng tham và sát ý chi phối khi đứng trước cơ duyên
-- **Pháp bảo:** Thanh xích kiếm hóa dải lửa đỏ dài ba trượng khi thi triển toàn lực
+- Chương 40 nghi ngờ lời Trần Dực, hỏi đối chiếu vật trong phòng, tổ chức thử dấu chân và cùng nhóm buộc dây để kiểm soát nguy hiểm. Lão giữ cửa cho Thanh Ly cứu người; vừa gây sức ép vừa phối hợp với Lâm Uyên.
+- Chương 43 hai cổ tay đã bị thương. Lão muốn lấy miếng đồng, nhưng khi biết phải đổi mạng Tô Tín thì ra lệnh cứu người. Lão phối hợp giữ dây, chặn cơ quan và kéo Thanh Ly qua cửa.
+- Trong sáu đệ tử giữ lối, bốn người gặp lại nhóm, Tô Tín được cứu, Tô Lạc đã chết. Lão để thẻ bên cửa đá và hứa quay lại.
+- Chương 50 cổ tay vẫn băng; hỗ trợ sơ đồ và vị trí có thể khảo sát từ ngoài, không tự dẫn đội xuống hầm. Việc khảo sát phải theo lệnh và giới hạn an toàn.
 
-## Vai trò trong truyện
+## Quan hệ hiện tại
 
-- **Chương 32–33:** Chủ trì buổi điều tra tại [[Phủ Vụ Sảnh]], ép hỏi [[Lâm Uyên]] về công pháp và thanh tàn kiếm; chỉ huy đội thám hiểm Hắc Phong Sơn.
-- **Chương 34–38:** Dẫn đầu đội tám người tiến vào [[Hắc Phong Sơn]]; phát hiện phế tích cổ và hai chữ cấm kỵ **Quy Khư**; vì nóng lòng đoạt bảo mà chủ động công kích [[Bóng Áo Đen|kẻ áo đen trên đài tế cổ]], bị một ngón tay đánh tan toàn lực, phản chấn tổn thương căn cơ; hất văng đệ tử để cướp đường thoát thân khi hang sụp; tám đệ tử chấp pháp tinh anh bỏ mạng.
-- **Chương 40:** Tại [[Nghị Sự Điện]], buộc tội Lâm Uyên cấu kết tà ma, đề nghị thuật Sưu Hồn; bị [[Tô Thanh Ly]] phản bác; bị Gia chủ [[Tô Huyền Sơn]] cách chức quản lý Chấp Pháp Đường ba tháng, bế quan trị thương.
-- **Chương 41–42 (bối cảnh):** Đệ tử của lão dự kiến tham gia [[Đại Hội Thí Luyện Ngoại Viện]] để quang minh chính đại phế bỏ hoặc lấy mạng Lâm Uyên.
+- **Lâm Uyên:** nghi ngờ, có bất đồng nhưng đã hợp tác để sống sót và cứu người. Không gắn một nhãn thù địch tuyệt đối cho mọi cảnh.
+- **Thanh Ly:** tranh luận về cách hành động, dựa vào khả năng của nhau trong cứu nạn.
+- **Tô Tín và Tô Lạc:** trách nhiệm người dẫn đội; lời hứa đưa người chết về còn dang dở.
+- **Trần Dực:** kiểm chứng lời khai, không mặc định đã tin mọi điều hoặc xác nhận tội.
+- **Tông Sảnh:** phải làm việc qua người có quyền cấp lệnh ở mốc hiện tại.
 
-## Mối quan hệ
+## Tu vi và thông tin cũ cần tái xác minh
 
-- **[[Lâm Uyên]]:** Thù địch — coi là nội gián thế lực tà đạo, nguồn gốc mọi thảm họa ở cấm địa; nuôi sát ý muốn trừ khử.
-- **[[Tô Thanh Ly]]:** Căng thẳng — nàng nhiều lần phản bác, bảo vệ Lâm Uyên; lão kiêng dè vị thế đặc biệt của nàng trong gia tộc.
-- **[[Tô Nguyên Chấn]]:** Tâm phúc trực tiếp của Đại trưởng lão.
-- **[[Tô Huyền Sơn]]:** Bề trên — bị phán quyết cách chức tạm thời.
+Hồ sơ trước từng ghi nửa bước Linh Hải, quan hệ tâm phúc với Tô Nguyên Chấn, xích kiếm hóa lửa và thương tổn đan điền. Các chi tiết này chưa được đối chiếu đầy đủ với chương nguồn trong lần đồng bộ này; không tự dùng chúng làm căn cứ thêm năng lực hay chính trị nội gia.
 
-## Bí mật / tiềm năng
+Các ghi chép cũ về tám đệ tử chết, phiên xử ở Nghị Sự Điện trong Chương 40, cách chức ba tháng và kế hoạch giết Lâm qua đại hội Chương 41–42 không khớp bản thảo hiện tại. Chương 40 vẫn ở dưới phế tích, Chương 43 có năm trong sáu đệ tử trở về. Chưa ghi một phán quyết cách chức mới hoặc âm mưu đại hội thay thế.
 
-- Lòng tham bước qua Linh Hải cảnh là động cơ sâu xa khiến lão liều lĩnh ở cấm địa — có thể là điểm yếu để khai thác sau này.
-- Sau trận phản chấn, căn cơ tổn thương, đan điền rạn nứt: khả năng thù hận tích tụ sẽ đẩy lão vào hành động liều lĩnh hơn.
-- Kẻ áo đen gọi đúng tên tuổi và thanh kiếm của lão — gợi ý tồn tại ấy biết về Tô gia nhiều hơn bề mặt.
+## Hướng khai thác
+
+Giữ mâu thuẫn giữa lợi ích tìm manh mối, quyền lực trưởng lão và trách nhiệm với người mình dẫn tới. Một lựa chọn cứu người không xóa những lần gây áp lực; việc từng nghi ngờ Lâm cũng không buộc lão phải luôn làm hại cậu. Cho quyết định mới dựa vào hoàn cảnh và hậu quả đã trải qua.
 
 ## Liên kết
 
-- Nhân vật: [[Lâm Uyên]], [[Tô Thanh Ly]], [[Tô Nguyên Chấn]], [[Tô Huyền Sơn]]
-- Thế giới: [[Tô Gia]], [[Hắc Phong Sơn]], [[Lăng Vân Thành]]
-- Bí ẩn: [[Bóng Áo Đen]], [[Quy Khư]]
+[[Lâm Uyên]] · [[Tô Thanh Ly]] · [[Tô Tín]] · [[Tô Lạc]] · [[Trần Dực]] · [[Chương 40]] · [[Chương 43]] · [[Chương 50]]

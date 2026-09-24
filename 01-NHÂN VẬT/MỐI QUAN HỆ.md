@@ -13,7 +13,7 @@ tags:
 ## Chú giải
 
 - ✅ thân thiết; 🔶 phức tạp; ❌ đối đầu; ⚪ chưa rõ.
-- Mốc kiểm tra: hết [[Chương 41]] (nháp). Các lời nói bí ẩn chưa được xác nhận là sự thật.
+- Các bảng đầu lưu mốc hết [[Chương 41]] (nháp); xem mục cập nhật cuối tài liệu để dùng trạng thái hết [[Chương 50]]. Các lời nói bí ẩn chưa được xác nhận là sự thật.
 
 ## Quan hệ đã xuất hiện hoặc được xác lập
 
@@ -61,3 +61,25 @@ tags:
 - Trạng thái hiện tại: [[Trạng Thái Truyện Sau Chương 41]]
 - Nhân vật: [[Lâm Uyên]]
 - Bí ẩn: [[Hắc Quan]], [[Di Cốt]], [[Ngọc Giản Quy Khư]]
+
+## Cập nhật quan hệ đến hết Chương 50
+
+Các bảng ở đầu tài liệu là ảnh chụp quan hệ đến Chương 41. Mốc dưới đây dùng cho chương tiếp theo; không lấy câu hỏi còn mở ở mốc 41 để phủ nhận kết quả đã có sau đó.
+
+| Các bên | Sự thay đổi đã thấy | Phần tiếp tục triển khai |
+| --- | --- | --- |
+| Lâm Uyên — Thanh Ly | Cùng chịu nghĩa vụ Dược Khế; nàng tự yêu cầu trách nhiệm giao bù trước khi ký | Quyền lựa chọn của mỗi người khi nợ và lợi ích gia tộc xung đột |
+| Lâm Uyên — Mạnh Thanh Tễ | Học ghi, kiểm và sửa số cân dưới giám sát | Quan hệ thầy trò cần thời gian và công việc; chưa thành dược sư |
+| Lâm Uyên — Trần Dực | Tham gia cứu chữa; thuốc mới giữ cơ hội chữa tiếp | Người được cứu có mục tiêu sinh kế và quyền từ chối |
+| Tô Tín — Tô Lạc | Tín kể được Lạc cắt dây cứu; thi thể Lạc được thấy dưới giếng | Lời hứa đưa về, hồi phục và cuộc sống của người còn sống |
+| Tô Trạch — đội | Chọn cứu Tín, bỏ miếng đồng; năm trong sáu đệ tử trở về | Trách nhiệm sau chuyến đi, chưa có phán quyết cách chức trong mạch đã kiểm |
+| Tô Tín — Trần Dực | Tín chăm ở cạnh giường trong Chương 50 | Chưa xác định quan hệ trước chuyến đi |
+| Thanh Ly — Tông Sảnh | Buổi đối chiếu sổ trực được hẹn ngày kế | Trang gốc còn mất, chưa xác định người lấy |
+
+## Quy tắc đa dạng quan hệ đã duyệt
+
+Mỗi nhân vật quan trọng có mục tiêu riêng, một quan hệ không qua Lâm, một việc ngoài điều tra và lựa chọn có thể khác cậu. Không cần mọi người có bí mật huyết thống. Người phụ một arc vẫn cần hậu quả sau khi rời điểm nhìn.
+
+Đại diện Khảo Mạch Hội, Thủ Danh Phường và Đoạn Mạch Hội chỉ bước vào khi có việc cụ thể. Tạ Nghiên Chi, Kỷ Hành Chu giữ vai trò đã chuẩn bị trong hồ sơ riêng; không tự chuyển tổ chức.
+
+Hồ sơ hiện tại: [[Trạng Thái Truyện Sau Chương 50]], [[Trần Dực]], [[Tô Tín]], [[Tô Lạc]], [[Tô Trạch]].

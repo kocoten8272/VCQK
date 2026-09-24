@@ -54,3 +54,7 @@ tags:
 - Thuật ngữ: [[Linh Căn]], [[Đại Đạo]], [[Đạo Tâm]]
 - Bí mật: [[Quy Khư]], [[Ngoại Sinh Linh]], [[Mạc Pháp]], [[Hệ Thống Khống Chế Thiên Địa]]
 - Xem thêm: [[01_CORE_CANON|Core Canon]], [[02_WORLD_LOR|World Lore]], [[03_PLOT_STRUCTURE|Cấu trúc cốt truyện]], [[03_WORLD_LORE_EXPANSION]]
+
+## Quy tắc triển khai ba cảnh giới đầu đã duyệt
+
+Xem [[Tu Hành Ba Cảnh Giới Đầu]] về biến đổi, luyện tập, điều kiện chuyển cảnh, nguồn hỗ trợ, thất bại và giới hạn của Luyện Thể, Khai Mạch, Linh Hải. Nội dung dùng chuẩn bị chương mới, không tự xác nhận tu vi của nhân vật qua biểu hiện mơ hồ. Các tầng cao và bí mật giới hạn cảnh giới vẫn giữ theo canon nền.

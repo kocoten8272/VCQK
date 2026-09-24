@@ -23,3 +23,7 @@ tags:
 
 - Tầng thế giới: [[Lăng Vân Thành]] → **Vân Châu** → [[Tiểu Vực]] → [[Đại Vực]] → [[Cửu Thiên]]
 - Xem thêm: [[02_WORLD_LOR|World Lore]]
+
+## Đa dạng vùng sống đã duyệt
+
+[[Sinh Kế Và Các Vùng Vân Châu]] triển khai bốn kiểu vùng: linh địa còn ổn định, vùng khai thác quá mức, cộng đồng sống nhờ công trình cổ và khu ven di tích nguy hiểm. Đây là khung để đặt địa điểm tương lai; tên, khoảng cách và lần xuất hiện cần kiểm khi viết. Các vùng phải có quan hệ trao đổi tài nguyên, đường đi, nghề nghiệp và đời sống riêng.

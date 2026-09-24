@@ -42,3 +42,15 @@ Các mốc số chương chỉ là công cụ điều tiết, không phải lị
 
 - Khung truyện: [[Các Quyển]], [[Các Arc]], [[Đại Cương]]
 - Tiến độ: [[Kết Chương]]
+
+## Điều tiết sau Chương 50 — hướng đã duyệt
+
+Chọn một việc đang dang dở để có kết quả gần: kiểm Trần Dực sau đêm, giao bù thuốc, khảo sát đường sập hoặc đối chiếu sổ. Mỗi cụm chương cần một câu hỏi được trả hoặc một trạng thái thay đổi thực, không chỉ thêm dấu và giấy tờ.
+
+Luân phiên dùng hành động có giới hạn: phép thử bác giả thuyết; kỹ pháp giúp qua trở ngại; vật được sửa hoặc nhận lại; đường mới mở; quan hệ đổi vì lựa chọn. Gieo khả năng và chi phí trước khi dùng.
+
+Thủ tục có giá trị khi bảo vệ người, chặn một hành vi hoặc buộc lựa chọn. Khi điều đó đã rõ, có thể lược những bước lặp và chuyển sang hậu quả. Không đặt tỷ lệ hành động hoặc lịch đột phá cứng; sức ép, khám phá, học nghề và đời thường phải cùng tiến.
+
+Không đưa đồng thời cả ba gia tộc và ba hội phường vào một chương. Việc bù thuốc và đưa người chết về tạo đường giới thiệu tự nhiên; tuyến học dược không đình các tuyến khác.
+
+Xem [[Triển Khai Hệ Thống Sau Đợt Đối Chiếu Văn Học]], [[Trạng Thái Truyện Sau Chương 50]].

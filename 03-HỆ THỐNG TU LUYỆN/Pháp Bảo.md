@@ -30,3 +30,15 @@ tags:
 ## 3. Liên kết
 - Tư liệu: [[07A-Pháp Khí Bảo Vật]], [[Vật Phẩm Mang Sinh Mệnh Và Tiếc Nuối]]
 - Hệ thống: [[Cảnh Giới]], [[Pháp Kỹ]]
+
+## Vòng đời và quyền sử dụng — bổ sung đã duyệt
+
+Một vật quan trọng cần có nguồn thông tin về xuất xứ, người chế tạo nếu biết, người đang giữ, quyền sở hữu hoặc cầm cố, cách kích hoạt, vật tư tiêu hao, người sửa được, hỏng hóc và giới hạn. Uy lực lúc mới tạo và uy lực hiện tại phải được phân biệt.
+
+Vật thường có thể đáng giữ vì người dùng quen tay, sửa được hoặc mang một lời hứa. Món cổ không tự mạnh hơn vật mới phù hợp hoàn cảnh.
+
+Bảng phân loại nguồn gốc bên trên không thay bằng chứng của từng hồ sơ. Nguồn gốc đầy đủ của [[Chiếc Nhẫn Bạc]] và [[Ngọc Giản Quy Khư]] vẫn theo hồ sơ bí ẩn; việc từng nêu chúng làm ví dụ Nghịch Thiên Khí không xác nhận chúng do chín đời trước chế tạo hoặc có toàn bộ công năng của dòng này.
+
+Đến Chương 50 kiếm của Thanh Ly đang làm bảo chứng ở viện. Không để nàng dùng kiếm ở cảnh khác trước khi việc nhận lại được thể hiện; không tự cấp vũ khí tương đương để xóa giá trị món nợ.
+
+Liên kết: [[Thiên Tài Địa Bảo]], [[Quy Tắc Miêu Tả Nhân Vật]].

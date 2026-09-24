@@ -131,3 +131,32 @@ Tham khảo cách tổ chức cảm xúc và hậu quả, không sao chép văn 
 - **Cầu Ma**, Nhĩ Căn: sự gắn bó, lời hứa và điều nhân vật quyết giữ làm lõi cho hành trình dài. Xem [giới thiệu và phân tích nhân vật](https://www.readnovel.com/baike/1y2jhj80z0ffs).
 - **Kẻ trộm sách**, Markus Zusak: hình ảnh và mô-típ lặp lại giúp nỗi đau tích tụ qua thời gian. Xem [phân tích mô-típ](https://www.sparknotes.com/lit/the-book-thief/motifs/).
 - **Những người khốn khổ**, Victor Hugo: nối đau khổ cá nhân với trật tự xã hội và cho lòng trắc ẩn tạo ra hệ quả. Xem [phân tích tác phẩm](https://www.sparknotes.com/lit/lesmis/plot-analysis/).
+
+## 10. Triết lý qua nghề nghiệp và lựa chọn — bổ sung đã duyệt
+
+### Lao động chăm sóc
+
+Từ cách tiếp cận trong *Dịch hạch* của Albert Camus, triển khai việc con người tiếp tục giảm khổ khi chưa hiểu tai họa. Mạnh có thể không giải thích được thiên đạo nhưng biết bệnh nhân nào cần xem lại. Cho thấy cả sự mệt mỏi, giới hạn và việc cần người khác giúp.
+
+Nguồn tham khảo: [giới thiệu tác phẩm của Penguin Random House](https://www.penguinrandomhouse.com/books/23472/the-plague-by-albert-camus/). Học nguyên lý tổ chức lựa chọn, không mô phỏng câu chữ.
+
+### Vật chất và đời sống sau cái chết
+
+Đoạn mở đầu *Cái chết của Ivan Ilyich* đặt tang sự cạnh đồ đạc, xã giao và suy tính người sống. Với VCQK, để việc mất người tác động vào hẹn tái khám, tiền công, dụng cụ và công việc chưa xong. Phản ứng không giống nhau không tự chứng minh người nào ít thương hơn.
+
+Nguồn: [đoạn đọc thử của nhà xuất bản](https://www.penguinrandomhouseretail.com/book/?isbn=9780553210354).
+
+### Nhiều lập trường cùng có tiếng nói
+
+Từ *Anh em nhà Karamazov*, học cách để tư tưởng gắn với quan hệ và lựa chọn cá nhân. Người khảo sát, thầy thuốc, dân mất đất và người giữ thành có thể bất đồng về việc đóng mạch. Mỗi lập luận phải gắn với điều họ biết, điều họ sợ mất và việc họ sẵn lòng làm.
+
+Nguồn: [giới thiệu của Penguin Random House](https://www.penguinrandomhouse.com/books/286344/the-brothers-karamazov-by-fyodor-dostoyevsky-translated-with-an-introduction-and-notes-by-david-mcduff-illustrated-by-coralie-bickford-smith/).
+
+### Quy tắc khi viết
+
+- Mạnh nói từ kinh nghiệm chăm người và giới hạn nghề; người khảo sát nói từ số đo, người dẫn đường từ đường đi và người đi cùng.
+- Một câu triết lý phải làm lộ tính cách, thay đổi quyết định hoặc đổi nghĩa một việc đã xảy ra. Nếu chỉ lặp chủ đề, bỏ.
+- Không để người kể kết luận thay mọi phía sau một cuộc tranh luận. Cho hành động tiếp theo thử giới hạn từng lập trường.
+- Giữ đoạn văn liền mạch, nhịp câu thay đổi. Khoảng lặng là hành động hoặc sự chờ có ý nghĩa, không phải tách từng câu ra một dòng.
+- Nỗi đau không mặc định đem lại ngộ đạo, tu vi hoặc tính đúng đắn đạo đức.
+- Một mục tiêu đời người cần lớn lên từ việc nhân vật đã tự chọn; chưa chốt mục tiêu cả đời của Lâm Uyên qua tài liệu này.

@@ -30,3 +30,12 @@ tags:
 ## 3. Liên kết
 - Hệ thống: [[Cảnh Giới]], [[Linh Căn]], [[Cái Giá Của Quy Khư Đạo (Ký Ức Và Mất Mát)]]
 - Tư liệu: [[Thiên Tài Địa Bảo]]
+
+## Hồ sơ thuốc hiện tại và giới hạn kiến thức
+
+- [[Chương 50]]: Xích Tủy Tán mới qua kiểm được dùng cho Trần Dực; ngón út tay trái có cảm giác mờ, vận động chưa hồi phục.
+- Không xếp thuốc này vào một cấp đan cụ thể khi chưa có xác nhận. Công thức và vị nguyên liệu bổ sung chưa được nêu đầy đủ.
+- Mẫu lưu nguyên niêm bị vón không tự chứng minh tráo thuốc; vết sáp ở bến vẫn cần điều tra riêng.
+- Lâm Uyên mới học ghi, cân dưới giám sát và nhận giới hạn của lời kết luận. Không được tự phối hoặc hiểu hết dược lý.
+
+Nguồn và đường hàng theo [[Thiên Tài Địa Bảo]]. Hồ sơ nghề nghiệp cần ghi thuốc giúp được gì, không giúp được gì, kiểm bằng cách nào và ai chịu chi phí.

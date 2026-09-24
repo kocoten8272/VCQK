@@ -53,3 +53,13 @@ tags:
 - Nhân vật: [[Lâm Uyên]], [[Trần Dực]], [[Tô Tín]]
 - Địa điểm: [[Tế Sinh Viện]], [[Lăng Vân Thành]]
 - Khung truyện: [[Bố Cục Spoiler Sau Chương 50 - Biến Cố Mạnh Thanh Tễ]]
+
+## Chiều sâu cần triển khai — đã duyệt về hướng
+
+Cho Mạnh một đời sống ngoài vai trò thầy của Lâm: quan hệ với người làm nghề, người bệnh quay lại và trách nhiệm ông chưa lo xong. Tuổi, gia đình, lời hứa riêng chưa chốt, không tự ghi thành sự kiện.
+
+Sự hữu hạn cần hiện trong công việc: có ca ông phải hỏi viện chủ, có khoản thiếu ông không thể bù mãi, có điều ông chưa biết. Ông có thể mệt, khó chịu hoặc sửa một quyết định của mình mà vẫn giữ lòng với người bệnh.
+
+Sau khi ông mất, mỗi người tiếp tục có nhu cầu và lập trường riêng. Người được cứu không mặc nhiên biết ơn Lâm hoặc đồng ý với mọi việc cậu làm. Cái chết không truyền công lực, không ban hiểu biết dược lý và không khóa đích đến cả đời của Lâm trước khi tác giả chọn.
+
+Xem [[Triết Lý Văn Học Và Nhịp Điệu Bi Kịch]], [[Triển Khai Hệ Thống Sau Đợt Đối Chiếu Văn Học]].
