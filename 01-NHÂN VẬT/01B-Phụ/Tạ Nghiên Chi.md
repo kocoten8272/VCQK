@@ -1,7 +1,7 @@
 ---
 type: nhan-vat
 vai-tro: nhan-vat-phu
-status: chua-xuat-hien
+status: da-xuat-hien
 tags:
   - nhan-vat
   - to-gia
@@ -11,15 +11,15 @@ tags:
 
 # Tạ Nghiên Chi
 
-> Thư lại cấp thấp dự kiến xuất hiện khi Tô Gia mở sổ trực và đối chiếu hồ sơ sau vụ cháy Tàng Thư Các.
+> Thư lại giữ sổ trực dãy phòng Tô Thanh Ly, xuất hiện lần đầu trong Chương 51 khi Tông Sảnh mở hồ sơ sau vụ cháy Tàng Thư Các.
 
 ## Thông tin cơ bản
 
-- **Thân phận dự kiến:** Người giữ và đối chiếu sổ trực dãy phòng; được giao hỗ trợ mở các hồ sơ có liên quan theo lệnh Tông Sảnh.
+- **Thân phận:** Người giữ sổ trực dãy phòng Tô Thanh Ly; được giao lấy các mục liên quan từ hồ sơ vụ cháy theo lệnh Tông Sảnh.
 - **Tuổi:** Chưa chốt.
-- **Giới tính:** Chưa chốt.
-- **Diện mạo:** Chưa xuất hiện; không khóa chi tiết ngoại hình trước cảnh ra mắt.
-- **Tính cách dự kiến:** Cẩn thận, kiệm lời, nhớ quy trình và số liệu tốt; khi không chắc sẽ nói rõ giới hạn thay vì đoán.
+- **Giới tính:** Nữ.
+- **Diện mạo khi ra mắt:** Áo vải màu tro nhạt, cổ tay áo xắn khỏi mực, ngón trỏ có vết mực dưới móng. Tuổi chưa được xác định.
+- **Tính cách đã thể hiện:** Cẩn thận, kiệm lời, nhớ quy trình; từ chối biến chỗ sổ không ghi thành lời khẳng định không ai vào phòng.
 - **Năng lực:** Nắm quy trình ghi, giao nhận và bổ sung sổ sách; không có năng lực chiến đấu hoặc quyền tự ý kết luận án.
 
 ## Vai trò trong truyện
@@ -31,8 +31,8 @@ tags:
 
 ## Động cơ, mâu thuẫn và giới hạn
 
-- **Động cơ dự kiến:** Giữ cho hồ sơ phản ánh đúng điều đã ghi nhận, đồng thời không để người làm dưới quyền bị kết tội chỉ vì một chỗ trống chưa được giải thích.
-- **Mâu thuẫn dự kiến:** Quy trình đòi hỏi ghi rõ thiếu sót, nhưng việc ghi tên người có thể khiến đồng nghiệp hoặc cấp dưới bị phạt. Nghiên Chi phải lựa chọn giữa an toàn nghề nghiệp và sự trung thực của hồ sơ.
+- **Động cơ đã thể hiện:** Giữ cho hồ sơ phản ánh đúng điều đã ghi nhận, không để người trực đêm cháy bị buộc tội chỉ vì ô giờ chưa được điền.
+- **Mâu thuẫn đã thể hiện:** Nghiên Chi sửa câu mẫu của Tông Sảnh theo đúng phạm vi sổ trước hai người chứng kiến, chịu sự không hài lòng của một người chứng kiến; việc xin lấy lời người nhận ca vẫn chờ lệnh.
 - **Giới hạn thông tin:** Chỉ biết điều bản thân ghi nhận, được bàn giao hoặc có thể xác minh từ sổ. Không biết danh tính nhóm áo đen, người mua thuốc, hay người lấy trang gốc nếu chưa có chứng cứ.
 - Không mặc định nàng là đồng phạm, người cung cấp tin bí mật hoặc thành viên của một thế lực lớn.
 
@@ -44,9 +44,9 @@ tags:
 
 ## Liên tục
 
-- Chưa xuất hiện trong bản thảo đến hết Chương 50.
-- Vai trò dự kiến nối trực tiếp việc Tông Sảnh đã hẹn mở sổ trực và hồ sơ vụ cháy sau Chương 50.
-- Tên Tạ Nghiên Chi đã được tác giả chốt; đơn vị trực thuộc, tuổi, ngoại hình và các chi tiết đời tư chưa chốt.
+- Xuất hiện lần đầu ở Chương 51, tại buổi mở sổ trực trước hai người chứng kiến.
+- Phiếu bổ sung sau đêm cháy không ghi giờ hai người gác trở lại. Nghiên Chi ghi rõ giới hạn ấy; chưa có chứng cứ ai vào phòng hoặc ai lấy trang giấy.
+- Tên Tạ Nghiên Chi đã được tác giả chốt. Chương 51 xác lập nàng là nữ và một số nét ngoại hình; tuổi, đơn vị cụ thể ngoài nhiệm vụ giữ sổ và đời tư còn để mở.
 - Mọi phát hiện của nàng phải dựa trên sổ hoặc vật chứng xuất hiện trong cảnh; không dùng nàng để giải thích thay toàn bộ vụ án.
 
 ## Liên kết
