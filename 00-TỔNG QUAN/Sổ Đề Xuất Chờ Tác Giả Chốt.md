@@ -18,7 +18,7 @@ tags:
 |---|---|---|
 | **DEC-001** | Gia đình Lâm Uyên chỉ nhận tin báo tử và làm tang cho cha là **Lâm Chinh**. Sinh tử thật tiếp tục **UNKNOWN** để có thể quay lại về sau. | Đã cập nhật ranh giới continuity. Không gọi Lâm Sơn là cha. |
 | **DEC-002** | Giữ cả ba gia tộc nghề nghiệp: Hạ Gia (bến/vận tải), Thẩm Gia (dược liệu), Bùi Gia (công trình/sửa chữa). | Được duyệt làm thiết kế Lăng Vân; chưa có nghĩa họ đã xuất hiện trong chương. |
-| **DEC-003** | Chốt toàn bộ dàn gia phả và hồ sơ nhân vật dự kiến hiện có cho các nhà. | Tên, tuổi, tính cách, quan hệ và chức năng đã được chấp nhận làm hồ sơ triển khai; không nhập họ vào sự kiện quá khứ. |
+| **DEC-003** | Chốt ba dàn gia phả Hạ Gia, Thẩm Gia, Bùi Gia và toàn bộ 18 hồ sơ thành viên đã lập cho ba nhà. Liễu Gia được duyệt làm thế lực, nhưng phả hệ mở rộng của Liễu Gia chưa chốt. | Tên, tuổi, tính cách, quan hệ và chức năng đã được chấp nhận làm hồ sơ triển khai; không nhập họ vào sự kiện quá khứ. |
 | **DEC-004** | Chốt các thế lực có hồ sơ: Kiếm Các, Thương Hội Hắc Đạo, Thính Phong Lâu, Liễu Gia, Tầm Chân Ti, Khảo Mạch Hội, Thủ Danh Phường, Đoạn Mạch Hội. | Được đưa vào kế hoạch dài hạn theo từng nhu cầu; Khảo Mạch Hội/Thủ Danh Phường đi trước, Đoạn Mạch Hội xuất hiện sau khi xung đột địa mạch có căn cứ. |
 | **DEC-005** | Di Kỷ Tộc giữ ba lập trường Phục Kỷ, Thủ Di, Dung Thế; không nối trực tiếp với Quy Khư. | Cổ tộc nội sinh, đối lực dài hạn; lịch sử nền đã nằm trong [[Thiết Kế Tác Giả Đã Chốt — Thế Giới, Lịch Sử Và Bí Mật]]. |
 | **DEC-006** | Duyệt vai trò Tạ Nghiên Chi giữ sổ trực và Kỷ Hành Chu quyết toán tuyến hàng. | Tên đã chốt; chức năng là kế hoạch nhân vật tương lai, triển khai theo nhịp arc. |
