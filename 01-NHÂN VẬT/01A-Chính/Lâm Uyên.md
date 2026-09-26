@@ -50,13 +50,15 @@ tags:
 - Xem thêm: [[01_CORE_CANON|Phần cốt lõi về Lâm Uyên]]
 - Khung truyện: [[Bố Cục Spoiler Sau Chương 50 - Biến Cố Mạnh Thanh Tễ]]
 
-## Trạng thái cập nhật đến hết Chương 50
+## Trạng thái cập nhật đến hết Chương 52
 
-- Đồng hành cùng Thanh Ly, Tô Trạch và những người sống sót rời Hắc Phong Sơn. Ở Chương 43, tham gia cứu Tô Tín; Tô Lạc còn nằm dưới phế tích.
-- Ở Tế Sinh Viện, tay phải còn bỏng, dùng tay trái ghi; lệnh quản thúc chưa được dỡ chỉ vì được cấp giấy ra ngoài.
-- Dược Khế tăng thêm một tháng nguyệt lệ ở Chương 50; tổng bảy tháng nếu các khoản trước không đổi. Thuốc cứu tế đã chuyển dùng cho Trần Dực còn nghĩa vụ mua bù, chưa giao xong.
-- Học việc với Mạnh Thanh Tễ: ghi điều tận mắt thấy, sửa số cân và hiểu giới hạn phép kiểm. Chưa tự phối thuốc hoặc có trình độ dược sư.
-- Cảnh giới chính xác ở mốc này chưa được hồ sơ cập nhật xác nhận. Không suy từ khả năng Nạp Vô hoặc một lần cứu người thành một cảnh giới mới.
+- Rời Hắc Phong Sơn cùng Thanh Ly, Tô Trạch và những người sống sót. Tô Tín được cứu; Tô Lạc đã chết và thi thể còn dưới phế tích.
+- Ở Chương 52, Lâm Uyên trở về Tế Sinh Viện sau chuyến giao thuốc bù tới trạm xóm lò ngói. Việc giao thuốc đã được xác nhận bằng cân, biên nhận và chữ ký; khoản chăm đứa trẻ chuyển viện vẫn chờ quyết toán.
+- Tay phải còn bỏng; chỗ bị kéo căng đỏ hơn sau chuyến đi. Viện chủ dặn ngày kế tiếp không giữ dây hoặc nâng vật nặng. Lâm Uyên dùng tay trái ghi và tiếp tục nhận lỗi khi ghi thiếu chi tiết.
+- Dược Khế hiện vẫn ở mức bảy tháng nguyệt lệ nếu các khoản trước không đổi; Chương 51–52 không ghi khoản tăng mới. Nghĩa vụ mua bù thuốc cho trạm đã hoàn tất, cần giữ riêng với khoản Dược Khế.
+- Tiếp tục học việc với Mạnh Thanh Tễ: ghi điều quan sát được, kiểm hàng, sửa sai và để ý giới hạn thông tin. Chưa tự phối thuốc, chưa là dược sư.
+- Cảnh giới hiện tại chưa được chương xác nhận; không suy từ Nạp Vô hay chiến tích thành cảnh giới mới.
+- Tuyến tiếp theo đã mở: ngày sau Tô Thanh Ly dự định dự buổi lấy lời khai riêng về đêm cháy nếu có giấy hộ tống; khảo sát sườn bắc chờ thợ xác nhận an toàn. Chưa biết kết quả.
 
 ## Hướng phát triển đã duyệt
 
@@ -68,4 +70,4 @@ Lâm cần lựa chọn cách chia sức, thời gian và tài nguyên giữa h�
 
 Các chặng, cách gieo và giới hạn: [[Mong Muốn Cả Đời Lâm Uyên - Giữ Một Chốn Trở Về]]. Đây là hướng đã duyệt cho chương tương lai, chưa phải lời Lâm đã nói; kết cục vẫn mở.
 
-Nguồn trạng thái: [[Chương 43]], [[Chương 50]], [[Trạng Thái Truyện Sau Chương 50]].
+Nguồn trạng thái: [[Chương 43]], [[Chương 50]], [[Chương 51]], [[Chương 52]], [[Trạng Thái Truyện Sau Chương 52]].
