@@ -1,35 +1,29 @@
 ---
 type: nhan-vat
-vai-tro: nhan-vat-phu
-status: dang-phat-trien
+vai-tro: nhan-vat-bi-an
+status: chua-xuat-hien
 tags:
   - nhan-vat
-  - vinh-sinh-mon
-  - sat-thu
+  - de-xuat
+  - the-luc-bi-an
 ---
 
 # Hắc Nha
 
-> Sát thủ / mật thám thuộc tàn dư của [[Vĩnh Sinh Môn]], trà trộn vào Lăng Vân Thành.
+> Bí danh nhân vật dự kiến, chưa xuất hiện trong Chương 1–52. Không dùng tên này làm lời giải cho các vụ áo đen hiện có.
 
-## Thông tin cơ bản
+## Hồ sơ dự kiến
 
-- **Thân phận:** Mật thám ngầm, giả dạng đệ tử chấp pháp hoặc tay sai ngoại vi trong đại hội.
-- **Tính cách:** Quỷ quyệt, lạnh lùng, hành động như bóng ma, trung thành tuyệt đối với tàn niệm cổ xưa.
-- **Võ học:** Thân pháp quỷ mị, sử dụng độc khí hắc ám và phù lục hủy diệt.
+- **Thân phận:** Có thể là mật thám hoặc người môi giới tin tức; liên hệ với Vĩnh Sinh Môn chưa được chứng minh.
+- **Tuổi, giới tính, diện mạo, cảnh giới:** Chưa xác định.
+- **Tính cách dự kiến:** Kiên nhẫn, kín tiếng, có thể phục vụ lợi ích riêng thay vì trung thành tuyệt đối với một thế lực.
+- **Mục tiêu:** Chưa chốt.
+- **Giới hạn:** Không tự gán thân pháp, độc khí, phù lục hoặc tri thức về chiếc nhẫn nếu chưa có cảnh xác nhận.
 
-## Vai trò trong truyện & Động cơ
+## Trạng thái
 
-- **Chương 43:** Bám theo [[Lâm Uyên]] từ lúc hắn rời khỏi chỗ [[Tô Nguyệt Dao]], ẩn mình trên một tán cây cao, quan sát từng bước chân của hắn khi hắn tiến về phía vách đá vôi.
-- **Chương 44:** Xuất hiện trực diện tại chân vách đá, nơi có bia đá khắc hai chữ Quy Khư. Kẻ này mang hình dạng một đệ tử chấp pháp Tô gia nhưng **không có bóng** dưới ánh sáng. Ngăn Lâm Uyên chạm vào khe cửa đá, tiết lộ rằng tầng thí luyện này vốn đã tồn tại từ trước, Hắc Phong Sơn thật chỉ là cái bóng của nó. Hắn muốn Lâm Uyên mở cánh cửa đá, nhưng không phải bây giờ, vì Lâm Uyên chưa đủ mạnh. Hắn nói chiếc nhẫn bạc không thuộc về Lâm Uyên mà thuộc về người đã đeo nó trước đó, kẻ mà hắn đã chờ trở về rất lâu. Trước khi biến mất, hắn cảnh báo sẽ có kẻ tới tìm Lâm Uyên khi mặt trời thứ nhất lặn (chính là [[Vân Thiên Hạo]]).
-
-## Khai thác tương lai
-
-- Là mắt xích trực tiếp kết nối Lâm Uyên với bí mật gốc gác của [[Vĩnh Sinh Môn]] và những đời trước.
-- Bí ẩn về thân phận thật (không có bóng, giọng đều đều như đọc thuộc lòng, biết về "người đeo nhẫn trước Lâm Uyên") sẽ được hé mở dần ở các tầng sâu hơn.
+Các mô tả cũ ghi Hắc Nha theo dõi Lâm Uyên ở Chương 43 và xuất hiện ở Chương 44; các sự kiện này không thuộc bản thảo hiện hành. Hắc Nha không phải tên thay thế của [[Người Áo Đen (chưa rõ danh tính)]].
 
 ## Liên kết
 
-- Nhân vật: [[Lâm Uyên]], [[Vân Thiên Hạo]]
-- Bí ẩn: [[Vĩnh Sinh Môn]], [[Chiếc Nhẫn Bạc]], [[Quy Khư]]
-- Thế giới: [[Đại Hội Thí Luyện]]
+[[Vĩnh Sinh Môn]] · [[Lâm Uyên]] · [[Người Áo Đen (chưa rõ danh tính)]]
