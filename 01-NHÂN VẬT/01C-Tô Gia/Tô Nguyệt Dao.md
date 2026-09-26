@@ -1,7 +1,7 @@
 ---
 type: nhan-vat
 vai-tro: nhan-vat-phu
-status: dang-phat-trien
+status: chua-xuat-hien
 tags:
   - nhan-vat
   - to-gia
@@ -10,26 +10,21 @@ tags:
 
 # Tô Nguyệt Dao
 
-> Nữ đệ tử xuất sắc nhất của các gia tộc dòng nhánh thuộc [[Tô Gia]].
+> Nhân vật dự kiến thuộc dòng nhánh Tô Gia. Những cảnh gán cho nàng ở Chương 43 trước đây không có trong bản thảo hiện hành.
 
-## Thông tin cơ bản
+## Hồ sơ dự kiến
 
-- **Thân phận:** Đệ tử thiên tài dòng nhánh Tô gia, chịu nhiều thiệt thòi và sự phân biệt đối xử từ dòng chính.
-- **Tính cách:** Kiên cường, tự lập, sắc sảo, khao khát khẳng định bản thân để đổi đời cho gia tộc nhánh.
-- **Võ học:** Luyện thể đại thành, thông thạo thương pháp sát phạt dứt khoát.
+- **Thân phận:** Nữ đệ tử dòng nhánh, có thể chịu bất bình đẳng về tài nguyên so với dòng chính.
+- **Tuổi, diện mạo, cảnh giới:** Chưa chốt.
+- **Tính cách dự kiến:** Kiên cường, tự lập, thực dụng; không mặc định nàng sẽ trở thành đồng minh của Lâm Uyên chỉ vì được giúp.
+- **Mục tiêu:** Muốn có chỗ đứng cho bản thân và nhánh nhà; con đường đạt mục tiêu còn để mở.
+- **Năng lực dự kiến:** Có thể dùng thương, nhưng chưa thành canon và chưa gán cảnh giới.
+- **Điểm yếu / giới hạn:** Không để năng lực chiến đấu thay thế mọi vấn đề về địa vị và sinh kế.
 
-## Vai trò trong truyện & Động cơ
+## Trạng thái và quan hệ
 
-- **Chương 43:** Xuất hiện chính thức tại tầng một [[Đại Hội Thí Luyện]] (bản sao Hắc Phong Sơn). Bị ba đệ tử dòng chính Tô gia vây đánh để cướp vật khắc chữ Quy Khư; [[Lâm Uyên]] ra tay giải vây. Nàng bị thương ở bắp tay, cây trường thương gãy mất phần mũi. Sau khi được Lâm Uyên cho thuốc cầm máu, nàng xưng danh và chắp tay từ biệt, men theo hướng khác rời đi.
-- **Động cơ:** Tham gia đại hội với quyết tâm khẳng định bản thân, tìm vật khắc chữ Quy Khư để qua tầng và đổi đời cho dòng nhánh.
-- **Tính cách thể hiện:** Cảnh giác, kiên cường, không khuất phục trước chèn ép; hiểu rõ quy tắc ngầm của đại hội nên không đồng hành quá lâu với kẻ mạnh hơn mình.
-
-## Khai thác tương lai
-
-- Trải qua sinh tử ở tầng một, nàng nhận ra sự tàn độc của phe dòng chính (như [[Tô Trạch]]) và dần trở thành đồng minh cốt lõi giúp Lâm Uyên lật ngược cục diện nội bộ Tô gia.
-- Mối quan hệ với Lâm Uyên bắt đầu từ một món nợ ân tình (thuốc cầm máu, mạng sống), sẽ được trả lại vào thời điểm quyết định.
+Chưa xuất hiện hoặc được gọi tên trong Chương 1–52. Chưa có món nợ ân tình hay tương tác với Lâm Uyên. Quan hệ với Tô Thanh Ly và các trưởng bối chưa xác nhận.
 
 ## Liên kết
 
-- Nhân vật: [[Lâm Uyên]], [[Tô Thanh Ly]], [[Tô Trạch]]
-- Thế giới: [[Tô Gia]], [[Lăng Vân Thành]], [[Đại Hội Thí Luyện]]
+[[Tô Gia]] · [[Lâm Uyên]] · [[Tô Thanh Ly]]
