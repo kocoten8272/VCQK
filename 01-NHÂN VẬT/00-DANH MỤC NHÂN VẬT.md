@@ -104,6 +104,7 @@ Giá trị được chép từ frontmatter các hồ sơ tại thời điểm l�
 
 ## Liên kết
 
+- [[Đánh Giá Và Đề Xuất Độ Sâu Hồ Sơ Nhân Vật]]
 - [[MỐI QUAN HỆ]]
 - [[Gia Phả Và Cơ Cấu Nhân Sự Các Thế Lực]]
 - [[VẠN CỔ QUY KHƯ MENU]]
