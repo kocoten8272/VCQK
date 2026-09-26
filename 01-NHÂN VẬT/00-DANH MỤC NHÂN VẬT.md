@@ -19,6 +19,21 @@ tags:
 4. Dùng trường `status` trong frontmatter để biết hồ sơ đã xuất hiện, đang phát triển hay chưa xuất hiện. Khi tình trạng thay đổi, cập nhật hồ sơ; không chuyển file.
 5. Nhân vật có nhiều vai trò chỉ có một bản hồ sơ. Đặt họ ở nơi/đơn vị gắn bó chính, ghi liên hệ phụ trong hồ sơ và mục lục.
 
+## Mục lục từng thư mục
+
+Mở một mục lục cục bộ khi đang duyệt thư mục để thấy đủ hồ sơ trong nhóm đó. Tất cả dùng cùng quy tắc trạng thái và đường dẫn về hồ sơ chính.
+
+| Nhóm | Nội dung | Mục lục |
+| --- | --- | --- |
+| 01A | Nhân vật chính và tuyến nữ chính | [Tra cứu 01A](01A-Ch%C3%ADnh/00-TRA%20C%E1%BB%A8U%20Nh%C3%A2n%20V%E1%BA%ADt.md) |
+| 01B | Vọng Sơn Trấn và gia đình Lâm Uyên | [Tra cứu 01B](01B-V%E1%BB%8Dng%20S%C6%A1n%20Tr%E1%BA%A5n/00-TRA%20C%E1%BB%A8U%20Nh%C3%A2n%20V%E1%BA%ADt.md) |
+| 01C | Tô Gia | [Tra cứu 01C](01C-T%C3%B4%20Gia/00-TRA%20C%E1%BB%A8U%20Nh%C3%A2n%20V%E1%BA%ADt.md) |
+| 01D | Lăng Vân Thành, Tế Sinh Viện và ba gia tộc nghề nghiệp | [Tra cứu 01D](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/00-TRA%20C%E1%BB%A8U%20Nh%C3%A2n%20V%E1%BA%ADt.md) |
+| 01E | Nhân vật cấp Vân Châu | [Tra cứu 01E](01E-V%C3%A2n%20Ch%C3%A2u/00-TRA%20C%E1%BB%A8U%20Nh%C3%A2n%20V%E1%BA%ADt.md) |
+| 01F | Nhân vật thuộc tuyến thế lực bí ẩn | [Tra cứu 01F](01F-Th%E1%BA%BF%20L%E1%BB%B1c%20B%C3%AD%20%E1%BA%A8n/00-TRA%20C%E1%BB%A8U%20Nh%C3%A2n%20V%E1%BA%ADt.md) |
+
+Mẫu dùng khi lập hồ sơ: [Mẫu Hồ Sơ Nhân Vật](M%E1%BA%AAU%20H%E1%BB%92%20S%C6%A0%20NH%C3%82N%20V%E1%BA%ACT.md).
+
 ## Bố cục thư mục
 
 | Thư mục | Dùng cho | Vị trí tương lai |
@@ -52,7 +67,7 @@ tags:
 
 - [Tô Bách](01C-T%C3%B4%20Gia/T%C3%B4%20B%C3%A1ch.md) — `da-xuat-hien`
 - [Tô Huyền Sơn](01C-T%C3%B4%20Gia/T%C3%B4%20Huy%E1%BB%81n%20S%C6%A1n.md) — `chua-xuat-hien`
-- [Tô Lạc](01C-T%C3%B4%20Gia/T%C3%B4%20L%E1%BA%A1c.md) — `da-xuat-hien`
+- [Tô Lạc](01C-T%C3%B4%20Gia/T%C3%B4%20L%E1%BA%A1c.md) — `da-qua-doi`
 - [Tô Mặc](01C-T%C3%B4%20Gia/T%C3%B4%20M%E1%BA%B7c.md) — `chua-xuat-hien`
 - [Tô Nguyên Chấn](01C-T%C3%B4%20Gia/T%C3%B4%20Nguy%C3%AAn%20Ch%E1%BA%A5n.md) — `da-xuat-hien`
 - [Tô Nguyệt Dao](01C-T%C3%B4%20Gia/T%C3%B4%20Nguy%E1%BB%87t%20Dao.md) — `chua-xuat-hien`
@@ -183,6 +198,7 @@ Trạng thái mỗi người nằm trong frontmatter của hồ sơ. Danh sách 
 ## Liên kết
 
 - [[Đánh Giá Và Đề Xuất Độ Sâu Hồ Sơ Nhân Vật]]
+- [[MẪU HỒ SƠ NHÂN VẬT]]
 - [[MỐI QUAN HỆ]]
 - [[Gia Phả Và Cơ Cấu Nhân Sự Các Thế Lực]]
 - [[VẠN CỔ QUY KHƯ MENU]]
