@@ -183,6 +183,86 @@ Bùi Khắc Thành (57) — gia chủ, nhận hợp đồng tu sửa
 - **Mâu thuẫn:** Phát hiện hai bảng cấp vật liệu lệch nhau, nhưng chưa đủ căn cứ xác định nhầm lẫn, thất thoát hay gian lận.
 - **Giới hạn:** Chỉ xác nhận bản phiếu đã cầm và người giao nhận; không tự kết luận ai ra lệnh làm sai.
 
+## Mở rộng gia phả các nhà — dàn nhân vật dự kiến
+
+> **Toàn bộ tên, tuổi, quan hệ và tiểu sử trong mục này là đề xuất để tác giả lựa chọn.** Những người đã có hồ sơ/chương riêng vẫn giữ trạng thái theo canon; nhân vật mới dưới đây chưa xuất hiện, chưa có hồ sơ riêng và không được xem là người đã tham gia các biến cố. Các nhánh được dựng để tạo xung đột về quyền kế thừa, nghề nghiệp, món nợ và trách nhiệm, không phải để biến cả họ thành một phe thống nhất.
+
+### Hạ Gia — ba nhánh trong một nhà vận tải
+
+```text
+Hạ Quế Lan (76) — trưởng bối, đã giao quyền điều hành
+├── Hạ Đình Vận (55) — gia chủ hiện tại
+│   ├── Hạ Nhược Châu (27) — giữ sổ chuyến
+│   └── Hạ Thừa Kha (24) — điều ghe và nhân công
+└── Hạ Đình Khôi (51) — em trai Đình Vận, quản kho trung chuyển
+    └── Hạ Minh Giang (26) — kiểm kê hàng của nhánh kho
+```
+
+- **Hạ Quế Lan — người nhớ món nợ cũ (76):** góa phụ của đời chủ trước, đã nhường quyền ký hợp đồng cho con trai nhưng vẫn nhớ nhà nào từng trả công cho phu thuyền đúng hạn. Điềm đạm, ít xuất hiện ở bến, thường hỏi người làm đã nhận tiền chưa trước khi hỏi chuyến hàng có lời không. Bà muốn các khoản nợ nhân công được ghi thành sổ riêng; sợ chính con cháu sẽ xóa món nợ ấy để làm đẹp sổ. Bà là tiếng nói đạo lý có trọng lượng, không còn trực tiếp điều phối ghe.
+- **Hạ Đình Khôi — người giữ kho (51):** em trai gia chủ, quản kho thuê và hàng trung chuyển, không sở hữu toàn bộ hàng hóa. Cẩn trọng, ngại thay đổi tuyến; muốn nhánh kho được tự quyết một phần thay vì mọi hợp đồng đều qua gia chủ. Ông tin cháu gái Nhược Châu quá tin vào chứng từ, còn con gái Minh Giang cho rằng cha giấu những lần thiếu hụt hàng. Ông biết hàng nào đã vào kho, không mặc nhiên biết chủ nhân cuối cùng.
+- **Hạ Minh Giang — người kiểm kê (26):** con gái Đình Khôi, phụ trách đối chiếu số kiện lúc nhập và lúc xuất. Nói chuyện mềm mỏng nhưng không chịu ký vào bảng chưa kiểm. Muốn chứng minh nhánh kho có thể tự quản; điểm yếu là thường giấu sai số nhỏ để tránh cha mất uy tín. Cô có thể tìm thấy chênh lệch số lượng hoặc dấu niêm, nhưng không thể từ một con số đơn lẻ suy ra âm mưu.
+
+### Thẩm Gia — ba nhánh giữa đất, hạt giống và công nợ
+
+```text
+Thẩm Chấn Nông (78) — trưởng bối giữ kho giống
+├── Thẩm Từ Nghi (53) — gia chủ
+│   ├── Thẩm Minh Châu (26) — chăm vườn, kiểm phẩm
+│   └── Thẩm Hoài Sinh (29) — kho giống, công nợ
+└── Thẩm Hương Dật (48) — em trai Từ Nghi, quản hợp đồng một khu vườn
+    └── Thẩm Vãn Đường (22) — học việc kiểm dược
+```
+
+- **Thẩm Chấn Nông — người giữ giống qua mùa mất (78):** cha của Từ Nghi và Hương Dật, đã rời việc quản lý hằng ngày. Ông hiểu đất, mùa và cách giữ hạt, nhưng không phải y sư hay luyện đan sư. Kín đáo, dè sẻn, sợ một vụ cứu tế làm cạn giống cho mùa sau. Ông muốn lập kho giống chung có sổ kiểm kê; mâu thuẫn với con gái về việc bao nhiêu tài nguyên nên dành cho người bệnh trước mắt.
+- **Thẩm Hương Dật — người giữ hợp đồng vườn (48):** em trai Từ Nghi, quản một vạt đất và thỏa thuận với người trồng thuê. Thẳng tính, giữ lời, không thích bán chịu kéo dài vì từng thấy công sức người làm bị quên sau một mùa. Ông muốn thanh toán đúng kỳ; có thể cứng rắn đến mức từ chối một đơn cứu tế chưa có người bảo lãnh. Là cậu của Minh Châu và Hoài Sinh, cha của Vãn Đường.
+- **Thẩm Vãn Đường — học việc kiểm dược (22):** con gái Hương Dật, từng theo Minh Châu học phân loại và bảo quản dược liệu. Nhạy với mùi, kiên nhẫn, muốn được đánh giá bằng tay nghề thay vì quan hệ trong nhà. Cô thương người bệnh nhưng đôi khi kết luận quá sớm từ một dấu hiệu cảm quan. Có thể giúp đối chiếu lô hàng và ghi lại cách bảo quản; không biết phương thuốc bí truyền và không tự chẩn bệnh.
+- **Mâu thuẫn liên nhánh:** Từ Nghi muốn giữ quyền quyết định về đất; Hương Dật muốn nhánh mình được quyết điều kiện bán; Chấn Nông lo cả hai quên kho giống. Minh Châu và Vãn Đường bất đồng về chuẩn kiểm phẩm, còn Hoài Sinh phải tính xem bán chịu có làm người trồng mất tiền công không. Không bên nào hoàn toàn vô lý.
+
+### Bùi Gia — ba nhánh giữa hợp đồng, tay nghề và tiếng nói thợ
+
+```text
+Bùi Khắc Vinh (62) — trưởng huynh, giữ đội khai thạch
+├── Bùi Nguyên Bảo (30) — thương lượng hợp đồng
+├── Bùi Khắc Thành (57) — gia chủ, nhận công trình
+│   └── Bùi Ninh Viễn (26) — khảo sát hiện trường
+└── Bùi Khánh Vân (51) — phụ trách bảng công nhân
+    └── Bùi Tố Vân (23) — giữ bảng công, biên nhận vật liệu
+```
+
+- **Bùi Khắc Vinh — người giữ đội khai thạch (62):** anh cả của Khắc Thành, quản nhân lực khai đá và cung ứng vật liệu. Trọng kinh nghiệm, khó chịu khi người trẻ yêu cầu dừng việc chỉ vì một vết nứt chưa đo đủ. Ông muốn giữ việc làm cho đội thợ; điểm mù là thường xem việc trì hoãn báo cáo như cách bảo vệ họ. Ông không có quyền ký nghiệm thu thay chủ công trình.
+- **Bùi Nguyên Bảo — người thương lượng (30):** con trai Khắc Vinh, anh họ của Ninh Viễn và Tố Vân. Giỏi hợp đồng, hiểu giá vật liệu và tiền công; tin rằng một báo cáo đúng nhưng đưa sai thời điểm có thể khiến cả đội mất việc. Muốn giữ hợp đồng dài hạn cho gia tộc. Xung đột với Ninh Viễn về lúc phải công bố số đo và với Tố Vân về việc khoản công nào cần ghi riêng. Không trực tiếp đo nền hoặc kết luận an toàn.
+- **Bùi Khánh Vân — người giữ tiếng nói của thợ (51):** em gái Khắc Thành, mẹ Tố Vân; làm bảng công và giải quyết tranh chấp giữa đội thợ với người nhận việc. Kiên nhẫn, nhớ tên từng người làm thời vụ, nhưng ghét phải đứng giữa anh em mình. Muốn bảng công không xóa người làm thuê ngắn hạn; đôi lúc giữ lại khiếu nại để tránh một hợp đồng bị hủy. Cô có thể cung cấp lời khai về nhân lực và thanh toán, không biết ai sửa kết cấu nếu không tận mắt thấy.
+- **Mâu thuẫn liên nhánh:** Khắc Vinh đặt sinh kế lên trước sự thận trọng, Khắc Thành muốn chịu trách nhiệm bàn giao, còn Khánh Vân quan tâm ai bị bỏ khỏi danh sách. Nguyên Bảo có thể giúp gia tộc tránh phá sản nhưng cũng có thể gây sức ép lên người ghi nhận sai sót.
+
+### Liễu Gia — dòng chính và nhánh hộ vệ
+
+```text
+Liễu Gia
+├── Chính mạch: Liễu Cảnh Thương (58) — gia chủ
+│   ├── phối ngẫu: Kỷ Dung Khanh (56)
+│   ├── Liễu Cảnh Chi (32) — trưởng tử
+│   ├── Liễu Nhược Anh (27) — trưởng nữ
+│   └── Liễu Nguyên Bá (~20) — đệ tử đích truyền đã có hồ sơ
+└── Nhánh hộ vệ: Liễu Cảnh Bạch (54) — em trai gia chủ
+    └── Liễu Thừa Hạo (24) — con trai, muốn được giao quyền ở biên mạch
+```
+
+- **Liễu Cảnh Thương — gia chủ (58):** đứng đầu nhà ở thành trì khác thuộc Vân Châu; phải cân bằng tranh chấp mạch linh khoáng với Tô Gia và nội bộ kế thừa. Kiệm lời, xem cam kết dài hạn quan trọng hơn thắng lợi trong một lần giao đấu. Muốn bảo toàn quyền khai thác nhưng không muốn chiến tranh công khai làm mất nguồn thu. Điểm yếu là trì hoãn quyết định đến khi các nhánh tự hành động. **Đề xuất, chưa canon.**
+- **Kỷ Dung Khanh — người giữ giao ước (56):** phối ngẫu của Cảnh Thương, xuất thân từ một gia đình không nắm binh lực nhưng có quan hệ với các nhà buôn dược. Tinh ý, nhớ rõ ai từng nhượng bộ trong mỗi lần hòa giải. Muốn duy trì các hôn ước như cầu nối, nhưng phản đối việc đem con gái đổi lấy một thỏa thuận mà nhà chồng không giữ. Bà hiểu mạng lưới giao thiệp, không nắm bí mật của các phe.
+- **Liễu Cảnh Chi — trưởng tử (32):** phụ trách sổ mạch khoáng, hợp đồng và phần đối thoại với người của Tô Gia. Điềm đạm, coi trọng tính toán; muốn giành quyền kế thừa bằng cách chứng minh có thể giữ nguồn lợi mà không khởi chiến. Điểm yếu là xem mọi thứ như con số và đánh giá thấp mối hận của người sống ở vùng biên. Có thể là đối thủ đàm phán của Lâm Uyên, không nhất thiết là địch thủ cá nhân.
+- **Liễu Nhược Anh — trưởng nữ (27):** học độc thuật và giải độc, có tay nghề quan sát phản ứng dược tính nhưng không nắm mọi loại độc trong thiên hạ. Thẳng thắn, ghét bị dùng làm quân cờ hôn nhân; muốn mở một viện dược nhỏ hoạt động độc lập với quyền thừa kế. Cô và Cảnh Chi bất đồng về việc giao dược liệu cho vùng tranh chấp trước hay giữ làm lợi thế thương lượng. Có thể vừa giúp một người bệnh vừa từ chối cung cấp phần dược liệu khan hiếm.
+- **Liễu Cảnh Bạch — nhánh hộ vệ (54):** em trai Cảnh Thương, điều đội hộ vệ bảo vệ đường vận chuyển và mốc giới. Trọng kỷ luật, tin rằng nhượng bộ ở biên mạch sẽ khiến đối thủ lấn thêm. Muốn nhận quyền chỉ huy rộng hơn; điểm yếu là dễ hiểu sự dè dặt của gia chủ thành yếu đuối. Không được gán cho ông quan hệ với nhóm áo đen hoặc mạng mua thuốc.
+- **Liễu Thừa Hạo — người muốn ra biên mạch (24):** con Cảnh Bạch, em họ của Cảnh Chi, Nhược Anh và Nguyên Bá. Có năng lực võ đạo vừa phải, gan lì, muốn lập công để nhánh cha không mãi đứng sau dòng chính. Dễ bị kích động khi bị gọi là người thừa; có thể gây một sự cố do nóng vội nhưng không phải phản bội mặc định.
+- **Liễu Nguyên Bá — vị trí hiện có:** hồ sơ hiện hành ghi tuổi khoảng 19–20, đệ tử đích truyền, được cử tới Lăng Vân Thành với danh nghĩa giao lưu và thực chất dò xét Tô Gia. Việc xem những người trên là cha mẹ, anh chị em hoặc chú bác của Nguyên Bá thuộc **đề xuất mới**, chưa được bản thảo xác nhận.
+
+## Quy tắc khi chọn và triển khai các nhánh mới
+
+- Có thể giữ nguyên từng nhân vật, gộp hai vai trò hoặc đổi tên; không cần đưa cả dàn vào cùng một arc.
+- Mỗi người phải có công việc và quan hệ không chỉ xoay quanh Lâm Uyên; các xung đột chính trước hết diễn ra giữa người thân, đồng nghiệp và người chịu hậu quả.
+- Khi một đề xuất được chọn, tạo hồ sơ riêng trong thư mục theo địa bàn hoặc gia tộc tại [[00-DANH MỤC NHÂN VẬT|Danh Mục Nhân Vật]], cập nhật gia phả và trường status. Trước khi chọn, chỉ dùng nội dung mục này như kho phương án.
+- Không lấy sự hiện diện của một người trong gia phả đề xuất làm bằng chứng họ đã xuất hiện, biết bí mật, tu luyện cảnh giới cụ thể hay có liên hệ với phe chưa được chứng minh.
+- Giữ riêng **huyết thống, hôn phối, chức vụ và lợi ích**; một người có thể gắn với nhiều mạng lưới nhưng không nên gộp chúng thành một phe duy nhất.
+
 ## Di Kỷ Tộc — nhánh tư tưởng, không phải ba dòng họ
 
 Hồ sơ Di Kỷ Tộc đã xác lập ba phe tư tưởng: **Phục Kỷ**, **Thủ Di** và **Dung Thế**. Đây không phải ba gia tộc, không đồng nghĩa mọi thành viên cùng huyết hệ hoặc cùng biết một bí mật.

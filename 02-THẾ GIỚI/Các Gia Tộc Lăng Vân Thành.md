@@ -73,15 +73,11 @@ Thế cân bằng này khiến Tô Gia có sức mạnh trực diện nhưng kh�
 4. **Chương 65–72 — Mâu thuẫn liên gia:** Ba nhà không họp thành một phe chống Tô. Một nhà cần Tô bảo hộ, một nhà muốn bán hàng theo giá thị trường, một nhà đòi thanh toán hợp đồng. Lâm phải nghe nhiều phía và không thể giải quyết bằng đánh bại một người.
 5. **Chương 73 trở đi — Khủng hoảng của Tô Gia:** Khi Tô Gia tìm cách bảo vệ phần Cổ Sử còn lại hoặc kiểm tra việc ra vào Tàng Thư Các, lợi ích của các nhà va vào nhau. Có thể xảy ra một hành động cưỡng ép giới hạn—giữ chứng từ, khóa kho, hoặc nhắm vào người mang lời khai—nhưng không biến thành chiến tranh tổng lực nếu chưa có setup đủ dài.
 
-## Nhân vật có thể cần tạo sau khi tác giả duyệt gia tộc
+## Dàn gia phả mở rộng
 
-Chưa tạo hồ sơ cá nhân để tránh khóa tên và thân phận trước khi bạn chọn hướng:
+Bản gia phả hiện có ba thành viên cho mỗi nhà. Để các nhà có nhiều lớp thế hệ và lợi ích nội bộ hơn, [[Gia Phả Và Cơ Cấu Nhân Sự Các Thế Lực]] đã bổ sung **ba nhân vật dự kiến cho mỗi gia tộc**: trưởng bối và nhánh kho ở Hạ Gia; trưởng bối cùng nhánh hợp đồng vườn ở Thẩm Gia; nhánh khai thạch và bảng công ở Bùi Gia. Toàn bộ tên và quan hệ mới vẫn là đề xuất, chưa xuất hiện trong truyện.
 
-- Một người giữ sổ của Hạ Gia, giỏi nhận diện tuyến hàng nhưng bị kẹt giữa gia tộc và người làm bến.
-- Một người trông vườn dược của Thẩm Gia, tin rằng giữ thuốc cho người có tiền là hợp lý cho đến khi gặp một bệnh nhân không thể trả.
-- Một thợ khảo sát trẻ của Bùi Gia, từng ghi nguy cơ công trình nhưng phải quyết định có dám ký tên làm chứng hay không.
-
-Những vai trò này có thể thay đổi hoặc gộp lại; không cần đưa cả ba nhân vật vào cùng một chương.
+Danh sách mở rộng kèm tuổi, tính cách, mục tiêu, mâu thuẫn và giới hạn hiểu biết nằm trong gia phả tổng hợp để tránh tạo nhiều bản chép hồ sơ. Chỉ tạo hồ sơ cá nhân riêng khi tác giả chọn nhân vật và mốc xuất hiện.
 
 ## Liên tục và điều chưa chốt
 
