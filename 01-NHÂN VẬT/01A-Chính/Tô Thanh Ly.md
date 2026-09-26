@@ -36,17 +36,18 @@ tags:
 - Nhân vật: [[Lâm Uyên]], [[Tô Thanh Dương]], [[Tô Bách]]
 - Thế giới: [[Lăng Vân Thành]], [[Tô Gia]], [[Vọng Sơn Trấn]]
 
-## Trạng thái cập nhật đến hết Chương 50
+## Trạng thái cập nhật đến hết Chương 52
 
-- Chương 43 xuống giếng cứu Tô Tín, chấp nhận bỏ lại miếng đồng khi không thể vừa lấy vừa cứu người. Tay phải bị dây đồng quất, kiếm mẻ gần mũi khi chém xích.
-- Sau Hắc Phong Sơn, tay phải còn sưng; kiếm ở viện làm vật bảo chứng. Chương 50 nàng cùng Lâm ra dược phường theo giấy mới, có chấp sự đi cùng, không mặc định đã hết quản thúc.
-- Dược Khế tăng thêm một tháng nguyệt lệ; tổng bốn tháng nếu khoản trước không đổi.
-- Trang ghi chép gốc bị mất. Bản viết lại từ trí nhớ có chỗ không chắc; buổi đối chiếu sổ trực và hồ sơ vụ cháy được hẹn vào ngày kế tiếp, chưa xác định người lấy.
-- Nàng yêu cầu ghi rõ người chịu trách nhiệm giao bù thuốc trước khi ký. Đây là lựa chọn chủ động về nghĩa vụ, không chỉ hỗ trợ Lâm.
-- Chưa xác nhận cảnh giới chính xác ở mốc này. Không tự cấp thanh kiếm thay thế hoặc xóa thương thế.
+- Ở Hắc Phong Sơn, Thanh Ly xuống giếng cứu Tô Tín và chấp nhận bỏ miếng đồng khi không thể vừa lấy vật chứng vừa cứu người. Tay phải bị dây đồng quất; kiếm sứt gần mũi khi chém xích.
+- Đến Chương 52, tay phải vẫn bị thương và nàng dùng tay trái cẩn thận. Chưa có xác nhận được trả kiếm hoặc được gỡ mọi hạn chế của Tô Gia.
+- Dược Khế vẫn là bốn tháng nguyệt lệ nếu khoản cũ không đổi; Chương 51–52 không ghi điều chỉnh mới.
+- Trang gốc liên quan vụ cháy vẫn mất. Tạ Nghiên Chi đã giúp mở sổ trực; ở cuối Chương 52, Thanh Ly nhận lệnh triệu người nhận ca và hai người gác đêm cháy trình lời riêng vào sáng hôm sau trước người chứng kiến. Chưa xác định người lấy trang hoặc nội dung lời khai.
+- Thanh Ly chủ động giới hạn câu hỏi để từng người kể trước khi nghe lời người khác; nàng chỉ tham gia nếu có giấy hộ tống. Đây là lựa chọn điều tra của riêng nàng.
+- Lâm Uyên đã hoàn tất giao thuốc bù tới trạm; việc đó không tự giải quyết Dược Khế hay khoản viện phí khác.
+- Cảnh giới chính xác chưa được chương xác nhận; không tự cấp kiếm thay thế hoặc xóa thương thế.
 
 ## Hướng phát triển đã duyệt
 
 Để nàng theo đuổi sự thật về trang giấy, quyền quyết định với món nợ và quan hệ với Tô Gia. Nàng có thể chọn cách khác Lâm khi lợi ích mâu thuẫn. Mục tiêu riêng không bị hòa hết vào tình cảm; mỗi lần bất đồng cần có điều nàng thực sự mất hoặc giữ được.
 
-Nguồn: [[Chương 43]], [[Chương 50]], [[Trạng Thái Truyện Sau Chương 50]].
+Nguồn: [[Chương 43]], [[Chương 50]], [[Chương 51]], [[Chương 52]], [[Trạng Thái Truyện Sau Chương 52]].
