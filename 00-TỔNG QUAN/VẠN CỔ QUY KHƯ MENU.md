@@ -8,10 +8,10 @@
 
 - **Tên truyện:** Vạn Cổ Quy Khư
 - **Nhân vật chính:** [[Lâm Uyên]]
-- **Địa điểm ở cuối chương 50:** Tế Sinh Viện, sau khi Trần Dực nhận liều thuốc cuối đã kiểm
+- **Địa điểm ở cuối Chương 52:** Tế Sinh Viện; Lâm Uyên chuẩn bị tiếp tục học việc vào sáng hôm sau
 - **Thế lực gắn với arc hiện tại:** [[Tô Gia]]
-- **Chương mới nhất trên main:** [[Chương 50]] (nháp)
-- **Chương tiếp theo:** Chương 51 (dự kiến)
+- **Chương mới nhất trên main:** [[Chương 52]] (nháp)
+- **Chương tiếp theo:** Chương 53 (dự kiến)
 - **Trạng thái:** Đang sáng tác
 
 ---
@@ -19,6 +19,7 @@
 ## BẢN ĐỒ & LUẬT
 
 - [[Bản Đồ Liên Kết]] — bản đồ tổng thể thế giới – nhân vật – bí ẩn
+- [[Cấu Trúc Kho Truyện]] — vai trò từng thư mục và quy tắc lưu tài liệu
 - [[Luật Viết]] — quy tắc vàng khi viết
 
 ---
@@ -147,13 +148,15 @@
 - [[Chương 47]] — nháp
 - [[Chương 48]] — nháp
 - [[Chương 49]] — nháp
-- [[Chương 50]] — nháp mới
+- [[Chương 50]] — nháp
+- [[Chương 51]] — nháp
+- [[Chương 52]] — nháp mới
 
 ### Chuẩn bị
 
-- Chương 51 — hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 50]].
+- Chương 53 — hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 52]].
 - [[Kết Chương]] — trạng thái từng chương, bao gồm các bản nháp và chương chưa có frontmatter.
-- [[Trạng Thái Truyện Sau Chương 50]] — vị trí, vật phẩm, thương thế và câu hỏi đang mở.
+- [[Trạng Thái Truyện Sau Chương 52]] — trạng thái continuity hiện hành; các bản sau chương trước đó là lưu vết lịch sử.
 
 ---
 
@@ -187,10 +190,6 @@
 
 - [[Nghiệm Linh Đường]] — đường nghiệm linh căn
 
-### Tham khảo (07D)
-
-- (trống — nguồn cảm hứng, tư liệu bên ngoài)
-
 ---
 
 ## NGUYÊN TẮC PHONG CÁCH VIẾT (09)
@@ -208,5 +207,5 @@
 
 - [[00_CANON_PROTECTION]] — quy chuẩn bảo vệ các file nền tảng (Immutable Foundation / Read-Only rule)
 - [[01_CORE_CANON]] — canon cốt lõi
-- [[02_WORLD_LOR]] — thế giới quan
+- [[02_WORLD_LOR|02_WORLD_LORE]] — thế giới quan (tên file nền tảng được giữ nguyên theo quy tắc canon)
 - [[03_PLOT_STRUCTURE]] — cấu trúc cốt truyện

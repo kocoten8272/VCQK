@@ -54,13 +54,15 @@ tags:
 
 ## Chỉ số cần theo dõi
 
-- Đã viết: 7 chương · Đang viết: Chương 8 → xem [[Kết Chương]]
+- Có 52 chương trên main: 33 hoàn thiện, 18 nháp, 1 chưa khai trạng thái → xem [[Kết Chương]].
+- Trạng thái continuity mới nhất: [[Trạng Thái Truyện Sau Chương 52]].
 - Cảnh giới lớn nhất đã lộ: TBD (xem [[Cảnh Giới]])
 - Phục bút đang treo: xem [[Phục Bút Và Bí Mật]]
 
 ## Liên kết
 
 - Menu chính: [[VẠN CỔ QUY KHƯ MENU]]
+- Cấu trúc thư mục: [[Cấu Trúc Kho Truyện]]
 - Danh mục hồ sơ nhân vật: [[00-DANH MỤC NHÂN VẬT]]
 - Quan hệ nhân vật: [[MỐI QUAN HỆ]]
 - Canon: [[01_CORE_CANON]], [[02_WORLD_LOR]], [[03_PLOT_STRUCTURE]]
