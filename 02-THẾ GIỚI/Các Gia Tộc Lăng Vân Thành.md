@@ -92,7 +92,7 @@ Những vai trò này có thể thay đổi hoặc gộp lại; không cần đ�
 - Tên các gia tộc và vai trò đều chờ tác giả duyệt trước khi tạo hồ sơ nhân vật hoặc đưa họ vào chương truyện.
 
 ## Liên kết
-
+- Gia phả và sơ đồ nhân sự: [[Gia Phả Và Cơ Cấu Nhân Sự Các Thế Lực]]
 - Địa điểm: [[Lăng Vân Thành]], [[Vân Châu]]
 - Thế lực: [[Tô Gia]], [[Thế Lực Vân Châu]], [[Liễu Gia]]
 - Nhân vật: [[Lâm Uyên]], [[Tô Thanh Ly]], [[Mạnh Thanh Tễ]], [[Tạ Nghiên Chi]], [[Kỷ Hành Chu]]

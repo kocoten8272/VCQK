@@ -98,5 +98,5 @@ Các tổ chức mới cần có khả năng làm điều hữu ích. Một lầ
 - Những bổ sung mới rút ra từ đợt so sánh văn học còn trình tác giả xem; chưa tự chốt chúng trong tài liệu này.
 
 ## Liên kết
-
+- Gia phả và sơ đồ nhân sự: [[Gia Phả Và Cơ Cấu Nhân Sự Các Thế Lực]]
 [[Thế Lực Vân Châu]] · [[Các Gia Tộc Lăng Vân Thành]] · [[Bố Cục Spoiler Sau Chương 50 - Biến Cố Mạnh Thanh Tễ]] · [[Triết Lý Văn Học Và Nhịp Điệu Bi Kịch]]

@@ -25,6 +25,6 @@ tags:
 - [[Đại Hội Thí Luyện]] là dịp tự nhiên để đệ tử Liễu Gia va chạm với [[Lâm Uyên]] (họ cử người đến "giao lưu học hỏi", thực chất dò xét Tô Gia).
 
 ## Liên kết
-
+- Gia phả và sơ đồ nhân sự: [[Gia Phả Và Cơ Cấu Nhân Sự Các Thế Lực]]
 - Thế giới: [[Vân Châu]], [[Thế Lực Vân Châu]], [[Tô Gia]]
 - Nhân vật: [[Liễu Nguyên Bá]], [[Lâm Uyên]]

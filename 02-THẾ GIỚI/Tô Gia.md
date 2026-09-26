@@ -33,7 +33,7 @@ tags:
 - Những gia tộc địa phương khác có thể tạo sức ép lên Tô Gia bằng hàng hóa, dược liệu và công trình chứ không cần mạnh hơn về tu vi. Xem đề xuất [[Các Gia Tộc Lăng Vân Thành]].
 
 ## Liên kết
-
+- Gia phả và sơ đồ nhân sự: [[Gia Phả Và Cơ Cấu Nhân Sự Các Thế Lực]]
 - Thế giới: [[Lăng Vân Thành]], [[Vân Châu]]
 - Bí ẩn: [[Vĩnh Sinh Môn]], [[Ngoại Sinh Linh]]
 - Xem thêm: [[03_PLOT_STRUCTURE|Cấu trúc cốt truyện]]

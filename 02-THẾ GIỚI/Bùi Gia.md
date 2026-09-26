@@ -44,7 +44,7 @@ Bùi Gia nhận hợp đồng sửa tường, cống, nền kho, đường lên 
 - Gia chủ, quân số, tu vi và tên nhân vật đại diện chưa chốt.
 
 ## Liên kết
-
+- Gia phả và sơ đồ nhân sự: [[Gia Phả Và Cơ Cấu Nhân Sự Các Thế Lực]]
 - Địa điểm: [[Lăng Vân Thành]], [[Vân Châu]], [[Nam Phố]]
 - Thế lực: [[Các Gia Tộc Lăng Vân Thành]], [[Tô Gia]], [[Hạ Gia]], [[Thẩm Gia]]
 - Nhân vật: Chưa tạo

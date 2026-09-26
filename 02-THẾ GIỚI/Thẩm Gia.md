@@ -43,7 +43,7 @@ Thẩm Gia canh tác một số vạt dược điền ngoài thành, phơi và s
 - Gia chủ, quy mô dược điền, tu vi và tên nhân vật đại diện chưa chốt.
 
 ## Liên kết
-
+- Gia phả và sơ đồ nhân sự: [[Gia Phả Và Cơ Cấu Nhân Sự Các Thế Lực]]
 - Địa điểm: [[Lăng Vân Thành]], [[Vân Châu]]
 - Thế lực: [[Các Gia Tộc Lăng Vân Thành]], [[Tô Gia]], [[Hạ Gia]], [[Bùi Gia]]
 - Nhân vật: [[Mạnh Thanh Tễ]], [[Lâm Uyên]]

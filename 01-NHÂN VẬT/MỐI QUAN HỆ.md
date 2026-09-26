@@ -57,7 +57,7 @@ tags:
 - Sáu đệ tử giữ lối phía trên sẽ làm gì nếu ba người không trở lại đúng lúc?
 
 ## Liên kết
-
+- Gia phả và sơ đồ nhân sự: [[Gia Phả Và Cơ Cấu Nhân Sự Các Thế Lực]]
 - Trạng thái hiện tại: [[Trạng Thái Truyện Sau Chương 41]]
 - Nhân vật: [[Lâm Uyên]]
 - Bí ẩn: [[Hắc Quan]], [[Di Cốt]], [[Ngọc Giản Quy Khư]]

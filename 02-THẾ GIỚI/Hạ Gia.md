@@ -43,7 +43,7 @@ Hạ Gia có nhiều đời làm chủ ghe, thuê phu thuyền và quản lý kh
 - Quyền chính thức về thu phí, cấp phép bến và chấp pháp của thành chưa xác định. Hạ Gia chỉ có ảnh hưởng nghề nghiệp trong đề xuất này.
 
 ## Liên kết
-
+- Gia phả và sơ đồ nhân sự: [[Gia Phả Và Cơ Cấu Nhân Sự Các Thế Lực]]
 - Địa điểm: [[Lăng Vân Thành]], [[Nam Phố]], [[Vân Châu]]
 - Thế lực: [[Các Gia Tộc Lăng Vân Thành]], [[Tô Gia]], [[Thẩm Gia]], [[Bùi Gia]]
 - Nhân vật: [[Kỷ Hành Chu]]

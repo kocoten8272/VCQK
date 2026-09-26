@@ -28,6 +28,7 @@ tags:
 - Ngoài cổ tộc và các thế lực cấp châu, Lăng Vân có thể có những thế gia địa phương nắm vận tải, dược liệu và công trình. Xem [[Các Gia Tộc Lăng Vân Thành]]; các họ trong tài liệu đó đang ở trạng thái đề xuất.
 
 ## 5. Liên kết
+- Gia phả và sơ đồ nhân sự: [[Gia Phả Và Cơ Cấu Nhân Sự Các Thế Lực]]
 - Thế giới: [[Vân Châu]], [[Lăng Vân Thành]], [[Tiểu Vực]]
 - Xem thêm: [[02_WORLD_LORE|World Lore]]
 
