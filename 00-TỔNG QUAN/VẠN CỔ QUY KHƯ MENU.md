@@ -18,6 +18,7 @@
 
 ## BẢN ĐỒ & LUẬT
 
+- [[Sổ Đề Xuất Chờ Tác Giả Chốt]] — các phương án chưa thành canon và điểm cần tác giả phân xử
 - [[Bản Đồ Liên Kết]] — bản đồ tổng thể thế giới – nhân vật – bí ẩn
 - [[Cấu Trúc Kho Truyện]] — vai trò từng thư mục và quy tắc lưu tài liệu
 - [[Luật Viết]] — quy tắc vàng khi viết
