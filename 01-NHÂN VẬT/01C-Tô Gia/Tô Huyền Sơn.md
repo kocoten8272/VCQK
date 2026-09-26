@@ -1,7 +1,7 @@
 ---
 type: nhan-vat
 vai-tro: nhan-vat-phu
-status: dang-phat-trien
+status: chua-xuat-hien
 tags:
   - nhan-vat
   - to-gia
@@ -9,37 +9,23 @@ tags:
 
 # Tô Huyền Sơn
 
-> Gia chủ đương nhiệm của [[Tô Gia]], người đưa ra phán quyết về [[Lâm Uyên]] tại [[Nghị Sự Điện]].
+> Hồ sơ dự kiến cho gia chủ Tô Gia. Tên và các chi tiết cá nhân dưới đây chưa được xác nhận trong Chương 1–52.
 
-## Thông tin cơ bản
+## Thông tin
 
-- **Thân phận:** Gia chủ đương nhiệm [[Tô Gia]]
-- **Tu vi:** Linh Hải cảnh trung kỳ
-- **Diện mạo:** Trung niên nhân khoác huyền bào thêu mây chỉ bạc, ánh mắt sắc như chim ưng
-- **Tính cách:** Trầm mặc, uy nghiêm, thâm trầm; nhìn thấu toan tính bên dưới nhưng không vội vạch trần; phán quyết dứt khoát, giữ uy nghiêm tuyệt đối của bậc bề trên
+- **Vai trò dự kiến:** Gia chủ đương nhiệm Tô Gia; trong bản thảo có những cuộc nghị sự với gia chủ nhưng chưa nêu đích danh người đó là Tô Huyền Sơn.
+- **Tuổi, cảnh giới, diện mạo:** Chưa xác nhận. Các mô tả và mức Linh Hải trung kỳ từng ghi ở bản hồ sơ trước không có căn cứ trong chương hiện hành.
+- **Tính cách dự kiến:** Trầm tĩnh, coi trọng ổn định của gia tộc; cần được thể hiện qua quyết định cụ thể thay vì lời giới thiệu.
+- **Mục tiêu / điểm mù:** Chưa chốt. Có thể phải cân bằng thanh danh gia tộc với công bằng cho người dưới quyền.
 
-## Vai trò trong truyện
+## Quan hệ và giới hạn
 
-- **Chương 40:** Chủ trì phiên xử tại [[Nghị Sự Điện]] sau sự cố [[Hắc Phong Sơn]]:
-  - Kết luận cấm địa sụp đổ là thiên ý và biến số thượng cổ, không quy kết cho một ai.
-  - Cách chức quản lý Chấp Pháp Đường của [[Tô Trạch]] ba tháng.
-  - Ra phán quyết với Lâm Uyên: vượt qua ba tầng thí luyện của [[Đại Hội Thí Luyện Ngoại Viện]] và vào top mười trong một tháng thì nghi ngờ được xóa bỏ, cấp tài nguyên nội viện; thất bại thì trục xuất vĩnh viễn khỏi Tô Gia.
-- **Chương 41–42 (bối cảnh):** Là người ủy quyền tổ chức đại hội; về phần bố trí ba tầng năm nay do đại trưởng lão [[Tô Nguyên Chấn]] tự tay xếp đặt.
+Quan hệ với Tô Trạch, Tô Nguyên Chấn, Tô Thanh Ly và Lâm Uyên cần được viết từ cảnh thực tế. Không gán cho nhân vật này các phán quyết từng dự kiến ở Chương 40 vì các cảnh đó không khớp bản thảo hiện hành.
 
-## Mối quan hệ
+## Trạng thái
 
-- **[[Lâm Uyên]]:** Thận trọng quan sát — nhận ra thiếu niên họ Lâm "tuyệt đối không phải kẻ tầm thường"; cho cơ hội nhưng đồng thời đặt ra thử thách sinh tử.
-- **[[Tô Trạch]]:** Bề trên — hiểu rõ toan tính che giấu tội trạng của lão, xử phạt vừa đủ để giữ thể diện gia tộc.
-- **[[Tô Nguyên Chấn]]:** Đại trưởng lão trong hàng ngũ hội đồng trưởng lão; mối quan hệ quyền lực cụ thể giữa gia chủ và đại trưởng lão: **chưa rõ**.
-- **[[Tô Thanh Ly]]:** Hậu bối nội viện có vị thế đặc biệt (nàng được phái đi điều tra dị thường Vọng Sơn).
-
-## Bí mật / tiềm năng
-
-- Lý do thật sự khiến ông tin một phán quyết sinh tử cho Lâm Uyên thay vì Sưu Hồn: **chưa rõ** — có thể vì muốn giữ thể diện, vì tò mò về thứ Lâm Uyên giấu, hoặc vì một tính toán sâu hơn.
-- Sự phân phối quyền lực giữa gia chủ và đại trưởng lão trong Tô Gia: **chưa được khai thác** — tiềm năng cho mâu thuẫn nội bộ về sau.
+Chưa trực tiếp xuất hiện dưới tên Tô Huyền Sơn đến hết Chương 52. Khi gia chủ vô danh xuất hiện, không tự động gắn người đó với hồ sơ này nếu truyện chưa xác nhận.
 
 ## Liên kết
 
-- Nhân vật: [[Lâm Uyên]], [[Tô Trạch]], [[Tô Thanh Ly]], [[Tô Nguyên Chấn]]
-- Thế giới: [[Tô Gia]], [[Nghị Sự Điện]], [[Lăng Vân Thành]]
-- Sự kiện: [[Đại Hội Thí Luyện Ngoại Viện]]
+[[Tô Gia]] · [[Tô Trạch]] · [[Tô Nguyên Chấn]] · [[Lâm Uyên]]
