@@ -1,7 +1,7 @@
 ---
 type: nhan-vat
 vai-tro: nhan-vat-phu
-status: dang-phat-trien
+status: chua-xuat-hien
 tags:
   - nhan-vat
   - to-gia
@@ -10,15 +10,20 @@ tags:
 
 # Tô Mặc
 
-> Đệ tử Chấp Pháp Đường của [[Tô Gia]], theo [[Tô Trạch]] vào phế tích Hắc Phong Sơn.
+> Nhân vật dự kiến thuộc Chấp Pháp Đường; tên này chưa được gọi trong Chương 1–52.
 
-## Vai trò
+## Hồ sơ dự kiến
 
-- Là một trong những người chứng kiến trực tiếp các dị tượng quanh [[Lâm Uyên]].
-- Kỷ luật, làm việc theo quy củ; không vội tin Lâm Uyên nhưng cũng không kết tội khi chưa có chứng cứ.
-- Giữ vai trò góc nhìn của một tu sĩ bình thường trước những việc không thể giải thích, để áp lực của cả đội không bị hòa lẫn thành một giọng.
+- **Thân phận:** Có thể là đệ tử Chấp Pháp Đường tham gia một chuyến điều tra của Tô Gia.
+- **Tuổi, ngoại hình, cảnh giới:** Chưa xác định.
+- **Tính cách dự kiến:** Làm việc theo quy củ, thận trọng trước điều chưa thể giải thích; không nên chỉ làm “người chứng kiến” vô danh.
+- **Mục tiêu / mâu thuẫn:** Chưa chốt. Nếu xuất hiện, cần có quan hệ và lựa chọn ngoài việc theo lệnh Tô Trạch.
+- **Giới hạn:** Không nắm bí mật Quy Khư hay tự phát hiện chân tướng khi chưa có bằng chứng.
 
-## Giới hạn
+## Liên tục
 
-- Không nắm bí mật về [[Quy Khư]], [[Hàn Ngân Giới]] hay [[Khư Cốt]].
-- Không tự biến thành người phát hiện chân tướng; giá trị của hắn nằm ở lựa chọn và phản ứng khi lòng trung thành với Chấp Pháp Đường va chạm với điều mắt thấy.
+Một hồ sơ cũ ghi Tô Mặc đã đi cùng Tô Trạch tới Hắc Phong Sơn, nhưng Chương 1–52 không gọi tên ông. Chưa thể xác nhận ông là một trong các thành viên không tên của đội; cần chờ văn bản xác lập trước khi tính vào người sống sót.
+
+## Liên kết
+
+[[Tô Trạch]] · [[Tô Gia]] · [[Hắc Phong Sơn]]
