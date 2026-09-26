@@ -48,13 +48,13 @@ tags:
 
 ### 01C-Tô Gia
 
-- [Tô Bách](01C-T%C3%B4%20Gia/T%C3%B4%20B%C3%A1ch.md) — `moi-xuat-hien`
+- [Tô Bách](01C-T%C3%B4%20Gia/T%C3%B4%20B%C3%A1ch.md) — `da-xuat-hien`
 - [Tô Huyền Sơn](01C-T%C3%B4%20Gia/T%C3%B4%20Huy%E1%BB%81n%20S%C6%A1n.md) — `dang-phat-trien`
 - [Tô Lạc](01C-T%C3%B4%20Gia/T%C3%B4%20L%E1%BA%A1c.md) — `da-xuat-hien`
 - [Tô Mặc](01C-T%C3%B4%20Gia/T%C3%B4%20M%E1%BA%B7c.md) — `dang-phat-trien`
-- [Tô Nguyên Chấn](01C-T%C3%B4%20Gia/T%C3%B4%20Nguy%C3%AAn%20Ch%E1%BA%A5n.md) — `dang-phat-trien`
+- [Tô Nguyên Chấn](01C-T%C3%B4%20Gia/T%C3%B4%20Nguy%C3%AAn%20Ch%E1%BA%A5n.md) — `da-xuat-hien`
 - [Tô Nguyệt Dao](01C-T%C3%B4%20Gia/T%C3%B4%20Nguy%E1%BB%87t%20Dao.md) — `dang-phat-trien`
-- [Tô Thanh Dương](01C-T%C3%B4%20Gia/T%C3%B4%20Thanh%20D%C6%B0%C6%A1ng.md) — `moi-xuat-hien`
+- [Tô Thanh Dương](01C-T%C3%B4%20Gia/T%C3%B4%20Thanh%20D%C6%B0%C6%A1ng.md) — `da-xuat-hien`
 - [Tô Trạch](01C-T%C3%B4%20Gia/T%C3%B4%20Tr%E1%BA%A1ch.md) — `dang-phat-trien`
 - [Tô Tín](01C-T%C3%B4%20Gia/T%C3%B4%20T%C3%ADn.md) — `da-xuat-hien`
 - [Tần Hạo](01C-T%C3%B4%20Gia/T%E1%BA%A7n%20H%E1%BA%A1o.md) — `dang-xuat-hien`
@@ -62,7 +62,7 @@ tags:
 ### 01D-Lăng Vân Thành
 
 - [Kỷ Hành Chu](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/K%E1%BB%B7%20H%C3%A0nh%20Chu.md) — `chua-xuat-hien`
-- [Lão Bán Pháp Khí](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/L%C3%A3o%20B%C3%A1n%20Ph%C3%A1p%20Kh%C3%AD.md) — `dang-phat-trien`
+- [Lão Bán Pháp Khí](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/L%C3%A3o%20B%C3%A1n%20Ph%C3%A1p%20Kh%C3%AD.md) — `da-xuat-hien`
 - [Mạnh Thanh Tễ](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/M%E1%BA%A1nh%20Thanh%20T%E1%BB%85.md) — `da-xuat-hien`
 - [Trần Dực](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Tr%E1%BA%A7n%20D%E1%BB%B1c.md) — `da-xuat-hien`
 - [Tạ Nghiên Chi](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/T%E1%BA%A1%20Nghi%C3%AAn%20Chi.md) — `da-xuat-hien`
@@ -103,21 +103,67 @@ tags:
 
 ### 01F-Thế Lực Bí Ẩn
 
+- [Tả Tiên Sinh (danh xưng, chưa rõ danh tính)](01F-Th%E1%BA%BF%20L%E1%BB%B1c%20B%C3%AD%20%E1%BA%A8n/T%E1%BA%A3%20Ti%C3%AAn%20Sinh%20%28danh%20x%C6%B0ng%2C%20ch%C6%B0a%20r%C3%B5%20danh%20t%C3%ADnh%29.md) — `duoc-nhac-den`
+- [Người Áo Đen (chưa rõ danh tính)](01F-Th%E1%BA%BF%20L%E1%BB%B1c%20B%C3%AD%20%E1%BA%A8n/Ng%C6%B0%E1%BB%9Di%20%C3%81o%20%C4%90en%20%28ch%C6%B0a%20r%C3%B5%20danh%20t%C3%ADnh%29.md) — `da-xuat-hien`
 - [Hắc Nha](01F-Th%E1%BA%BF%20L%E1%BB%B1c%20B%C3%AD%20%E1%BA%A8n/H%E1%BA%AFc%20Nha.md) — `dang-phat-trien`
+
+## Nhân vật đã xuất hiện trong truyện (đối chiếu đến hết Chương 52)
+
+> Danh sách này chỉ ghi người có mặt trong cảnh, được gọi tên trong lời kể/hồi ức có căn cứ, hoặc có vai trò cá nhân rõ. Nhân vật đề xuất và người chỉ được nhắc qua lời khai được tách riêng. Hồ sơ vẫn có thể ghi tuổi, cảnh giới hoặc quá khứ là “chưa nêu” nếu bản thảo chưa xác nhận.
+
+### Nhân vật chính và gia đình Lâm Uyên
+
+- [Lâm Uyên](01A-Chính/L%C3%A2m%20Uy%C3%AAn.md) — nhân vật chính; trạng thái hiện tại xem hồ sơ.
+- [Tô Thanh Ly](01A-Chính/T%C3%B4%20Thanh%20Ly.md) — đồng hành cùng tuyến chính.
+- [Lâm Chinh](01B-Vọng Sơn Trấn/L%C3%A2m%20Chinh.md) — cha Lâm Uyên, đã qua đời theo thông tin hiện có; bí ẩn về mộ chưa được giải.
+- [Mẹ Lâm Uyên (chưa rõ tên)](01B-Vọng Sơn Trấn/M%E1%BA%B9%20L%C3%A2m%20Uy%C3%AAn%20(ch%C6%B0a%20r%C3%B5%20t%C3%AAn).md) — mẹ Lâm Uyên, đã mất; tên riêng chưa nêu.
+- [Ông nội Lâm Uyên (chưa rõ tên)](01B-Vọng Sơn Trấn/%C3%94ng%20n%E1%BB%99i%20L%C3%A2m%20Uy%C3%AAn%20(ch%C6%B0a%20r%C3%B5%20t%C3%AAn).md) — ông nội đã mất; không đồng nhất với Lão Đầu.
+- [Lão Đầu](01B-Vọng Sơn Trấn/L%C3%A3o%20%C4%90%E1%BA%A7u.md) — người quản sổ mộ, đã mất.
+
+### Tô Gia và người trong tuyến Hắc Phong Sơn
+
+- [Tô Bách](01C-Tô Gia/T%C3%B4%20B%C3%A1ch.md)
+- [Tô Thanh Dương](01C-Tô Gia/T%C3%B4%20Thanh%20D%C6%B0%C6%A1ng.md)
+- [Tô Trạch](01C-Tô Gia/T%C3%B4%20Tr%E1%BA%A1ch.md)
+- [Tô Nguyên Chấn](01C-Tô Gia/T%C3%B4%20Nguy%C3%AAn%20Ch%E1%BA%A5n.md)
+- [Tô Tín](01C-Tô Gia/T%C3%B4%20T%C3%ADn.md)
+- [Tô Lạc](01C-Tô Gia/T%C3%B4%20L%E1%BA%A1c.md) — đã chết; thi thể chưa được đưa về ở mốc Chương 52.
+- [Vương Phúc](01C-Tô Gia/V%C6%B0%C6%A1ng%20Ph%C3%BAc.md) — quản sự ngoại viện; tình trạng hiện tại chưa được kể.
+
+### Lăng Vân Thành và Tế Sinh Viện
+
+- [Lão Bán Pháp Khí](01D-Lăng Vân Thành/L%C3%A3o%20B%C3%A1n%20Ph%C3%A1p%20Kh%C3%AD.md) — dùng biệt danh nghề nghiệp; tên thật chưa nêu.
+- [Mạnh Thanh Tễ](01D-Lăng Vân Thành/M%E1%BA%A1nh%20Thanh%20T%E1%BB%85.md)
+- [Trần Dực](01D-Lăng Vân Thành/Tr%E1%BA%A7n%20D%E1%BB%B1c.md)
+- [Tạ Nghiên Chi](01D-Lăng Vân Thành/T%E1%BA%A1%20Nghi%C3%AAn%20Chi.md)
+- [Tạ Hạnh](01D-Lăng Vân Thành/T%E1%BA%A1%20H%E1%BA%A1nh.md)
+- [Lưu Định](01D-Lăng Vân Thành/L%C6%B0u%20%C4%90%E1%BB%8Bnh.md)
+- [Viện Chủ Tế Sinh Viện (chưa rõ tên)](01D-Lăng Vân Thành/Vi%E1%BB%87n%20Ch%E1%BB%A7%20T%E1%BA%BF%20Sinh%20Vi%E1%BB%87n%20(ch%C6%B0a%20r%C3%B5%20t%C3%AAn).md) — chức danh, chưa rõ tên riêng.
+
+### Thế lực chưa rõ
+
+- [Người Áo Đen (chưa rõ danh tính)](01F-Thế Lực Bí Ẩn/Ng%C6%B0%E1%BB%9Di%20%C3%81o%20%C4%90en%20(ch%C6%B0a%20r%C3%B5%20danh%20t%C3%ADnh).md) — hồ sơ giữ riêng các lần xuất hiện, chưa kết luận là một tổ chức duy nhất.
+
+### Chỉ được nhắc đến, chưa trực tiếp xuất hiện
+
+- [Tả Tiên Sinh (danh xưng, chưa rõ danh tính)](01F-Thế Lực Bí Ẩn/T%E1%BA%A3%20Ti%C3%AAn%20Sinh%20(danh%20x%C6%B0ng%2C%20ch%C6%B0a%20r%C3%B5%20danh%20t%C3%ADnh).md) — được nhắc qua lời Trần Dực; chưa xác minh danh tính hoặc liên hệ với người mua thuốc.
+
+### Nhân vật thoáng qua chưa có tên riêng
+
+- [Nhân Vật Chưa Rõ Tên — Sổ Theo Dõi](01D-Lăng Vân Thành/Nh%C3%A2n%20V%E1%BA%ADt%20Ch%C6%B0a%20R%C3%B5%20T%C3%AAn%20%E2%80%94%20S%E1%BB%95%20Theo%20D%C3%B5i.md) ghi các cá nhân như người bệnh, người thân, người bán nước, nhân viên y tế, chấp sự, người chạy việc và đám đông. Tách thành hồ sơ độc lập khi họ có tên, vai trò lặp lại hoặc lựa chọn gây ảnh hưởng tiếp diễn.
 
 ## Theo dõi trạng thái hiện tại
 
-Giá trị được chép từ frontmatter các hồ sơ tại thời điểm lập mục lục. Đây là chỉ mục hỗ trợ, không thay thế trạng thái trong từng file.
+Trạng thái mỗi người nằm trong frontmatter của hồ sơ. Danh sách “đã xuất hiện” ở trên được đối chiếu trực tiếp với Chương 1–52. Những nhân vật mới được đặt hồ sơ tạm có thể chưa có tuổi, cảnh giới hoặc tên thật; không điền suy đoán thành canon.
 
-| Trạng thái | Số hồ sơ | Ghi chú |
-| --- | ---: | --- |
-| `chua-xuat-hien` | 8 | A Ly, Bạch Nhược Tuyết, Cơ Minh Nguyệt, Diệp Khuynh Thành, Kỷ Hành Chu, Cửu Nương, Diệp Trầm, Liễu Nguyên Bá |
-| `dang-phat-trien` | 13 | Lâm Uyên, Tô Thanh Ly, Tô Huyền Sơn, Tô Mặc, Tô Nguyên Chấn, Tô Nguyệt Dao, Tô Trạch, Lão Bán Pháp Khí, Cao Bất Ly, Cố Thanh Phong, Thạch Đầu, Vân Thiên Hạo, Hắc Nha |
-| `da-qua-doi` | 2 | Lâm Chinh, Lão Đầu |
-| `moi-xuat-hien` | 2 | Tô Bách, Tô Thanh Dương |
-| `da-xuat-hien` | 5 | Tô Lạc, Tô Tín, Mạnh Thanh Tễ, Trần Dực, Tạ Nghiên Chi |
-| `dang-xuat-hien` | 1 | Tần Hạo |
-| `de-xuat` | 18 | Sáu thành viên mỗi nhà: Hạ, Thẩm, Bùi; chưa xuất hiện trong truyện |
+| Trạng thái | Ý nghĩa |
+| --- | --- |
+| `da-xuat-hien` | Có mặt hoặc được xác định bằng tên/biệt danh trong diễn biến đã viết. |
+| `da-qua-doi` | Đã chết theo mốc truyện; hồ sơ vẫn được giữ để theo dõi hậu quả. |
+| `duoc-nhac-den` | Được một nhân vật nhắc tới, chưa trực tiếp xuất hiện và chưa xác minh độc lập. |
+| `chua-xuat-hien` | Có hồ sơ hoặc phương án nhân vật nhưng chưa có mặt trong bản thảo hiện hành. |
+| `de-xuat` | Phương án đang chờ chốt; tuyệt đối không coi là canon. |
+| `dang-phat-trien` | Nhân vật đã xuất hiện và còn tuyến diễn tiến; cần ghi mốc continuity gần nhất. |
 
 ## Quy tắc mở rộng
 
