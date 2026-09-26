@@ -10,14 +10,14 @@ tags:
 
 # Tô Trạch
 
-> Trưởng lão Chấp pháp Tô Gia, chỉ huy trong chuyến Hắc Phong Sơn. Hồ sơ đồng bộ theo Chương 40, 43 và 50; các ghi chú từ bố cục chương cũ không được dùng làm sự kiện hiện tại.
+> Trưởng lão Chấp pháp Tô Gia, chỉ huy trong chuyến Hắc Phong Sơn. Hồ sơ đồng bộ theo Chương 40, 43, 50 và 52; các ghi chú từ bố cục chương cũ không được dùng làm sự kiện hiện tại.
 
 ## Hành động đã có trong bản thảo
 
 - Chương 40 nghi ngờ lời Trần Dực, hỏi đối chiếu vật trong phòng, tổ chức thử dấu chân và cùng nhóm buộc dây để kiểm soát nguy hiểm. Lão giữ cửa cho Thanh Ly cứu người; vừa gây sức ép vừa phối hợp với Lâm Uyên.
 - Chương 43 hai cổ tay đã bị thương. Lão muốn lấy miếng đồng, nhưng khi biết phải đổi mạng Tô Tín thì ra lệnh cứu người. Lão phối hợp giữ dây, chặn cơ quan và kéo Thanh Ly qua cửa.
 - Trong sáu đệ tử giữ lối, bốn người gặp lại nhóm, Tô Tín được cứu, Tô Lạc đã chết. Lão để thẻ bên cửa đá và hứa quay lại.
-- Chương 50 cổ tay vẫn băng; hỗ trợ sơ đồ và vị trí có thể khảo sát từ ngoài, không tự dẫn đội xuống hầm. Việc khảo sát phải theo lệnh và giới hạn an toàn.
+- Chương 52: Tô Trạch cùng Tô Tín đọc bản đánh giá sơ bộ của thợ. Mép sườn bắc cần thử thêm hai điểm; chưa ai được qua cọc đánh dấu. Lão nhận phần tường trình về việc chưa biết thi thể Tô Lạc hiện ở đâu. Không có xác nhận cổ tay đã lành hoặc lão được phục chức.
 
 ## Quan hệ hiện tại
 
@@ -39,4 +39,4 @@ Giữ mâu thuẫn giữa lợi ích tìm manh mối, quyền lực trưởng l�
 
 ## Liên kết
 
-[[Lâm Uyên]] · [[Tô Thanh Ly]] · [[Tô Tín]] · [[Tô Lạc]] · [[Trần Dực]] · [[Chương 40]] · [[Chương 43]] · [[Chương 50]]
+[[Lâm Uyên]] · [[Tô Thanh Ly]] · [[Tô Tín]] · [[Tô Lạc]] · [[Trần Dực]] · [[Chương 40]] · [[Chương 43]] · [[Chương 52]]
