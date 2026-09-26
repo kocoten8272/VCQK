@@ -83,3 +83,38 @@ tags:
 4. Nếu nhân vật dùng năng lực mới, ghi điều kiện, giới hạn, giá phải trả và mốc chương; không tự suy ra sức mạnh từ danh xưng.
 5. Nếu phát hiện vi phạm canon nền hoặc mâu thuẫn giữa hồ sơ, ghi tại [[04-Báo Cáo Audit Lore]] và giữ nguyên nguồn cho tới khi tác giả quyết.
 
+
+
+## Định danh các đối tượng tu luyện
+
+Các ID dưới đây gắn với đối tượng lore, không thay ID SYS-... đã cấp cho 24 hồ sơ nguồn ở [[00-DANH MỤC LORE]]. Chi tiết chỉ có trong hồ sơ chuyên môn. ID được giữ cố định khi di chuyển hoặc đổi tên tài liệu.
+
+| ID | Loại | Tên chuẩn | Trạng thái dữ liệu |
+|---|---|---|---|
+| REALM-001 | Đại cảnh giới | Luyện Thể | Tên/thứ tự canon; cơ chế nền có thiết kế đã duyệt |
+| REALM-002 | Đại cảnh giới | Khai Mạch | Tên/thứ tự canon; cơ chế nền có thiết kế đã duyệt |
+| REALM-003 | Đại cảnh giới | Linh Hải | Tên/thứ tự canon; cơ chế nền có thiết kế đã duyệt |
+| REALM-004 | Đại cảnh giới | Kim Đan | Tên/thứ tự canon; cơ chế chi tiết UNKNOWN |
+| REALM-005 | Đại cảnh giới | Nguyên Anh | Tên/thứ tự canon; cơ chế chi tiết UNKNOWN |
+| REALM-006 | Đại cảnh giới | Hóa Thần | Tên/thứ tự canon; cơ chế chi tiết UNKNOWN |
+| REALM-007 | Đại cảnh giới | Động Hư | Tên/thứ tự canon; cơ chế chi tiết UNKNOWN |
+| REALM-008 | Đại cảnh giới | Độ Kiếp | Tên/thứ tự canon; thiên kiếp cụ thể UNKNOWN |
+| REALM-009 | Đại cảnh giới | Chân Tiên | Tên/thứ tự canon; cơ chế chi tiết UNKNOWN |
+| REALM-010 | Đại cảnh giới | Tiên Vương | Tên/thứ tự canon; cơ chế chi tiết UNKNOWN |
+| REALM-011 | Đại cảnh giới | Tiên Đế | Tên/thứ tự canon; cơ chế chi tiết UNKNOWN |
+| REALM-012 | Đại cảnh giới | Đạo Chủ | Được ghi ở vị trí 12; không xác nhận là cảnh giới cuối |
+| CULT-001 | Công pháp | Quy Khư Quyết | Có hồ sơ; thức sau Nạp Vô TBD |
+| CULT-002 | Công pháp | Tô Gia Dẫn Khí Quyết | Xuất hiện Ch9–16; Lâm Uyên đã thử nhưng không xác nhận tu thành |
+| FORM-001 | Thức của công pháp | Nạp Vô | Đệ nhất thức của CULT-001; Lâm Uyên tiếp nhận Ch2, vận hành rõ ở Ch4; không phải cảnh giới riêng |
+| SKILL-001 | Võ kỹ | Tô Gia Phá Sơn Chưởng | Ch19 gọi là võ kỹ trung cấp; không suy thang phẩm cấp |
+| SKILL-002 | Kiếm pháp | Thanh Phong Kiếm Quyết | Ch20; cấp bậc chưa nêu |
+| DAO-001 | Đại Đạo/đạo lộ | Quy Khư Đạo | Gắn với Lâm Uyên; không phải cảnh giới |
+
+Chưa cấp ID cho tiểu cảnh giới, pháp tắc, thể chất, huyết mạch, cấm thuật, thiên kiếp hay năng lực chưa được xác nhận. Khi có nguồn mới, cấp ID tiếp theo đúng namespace và không tái sử dụng ID cũ.
+
+## Điểm vào hệ thống vận hành
+
+- [[01-QUY TẮC VẬN HÀNH VÀ POWER SCALING]] — định nghĩa khác nhau giữa realm, tiến trình, feat và chiến lực; quy tắc cập nhật.
+- [[02-BÁO CÁO KIỂM TOÁN HỆ THỐNG TU LUYỆN]] — các mâu thuẫn, giới hạn và câu hỏi cần tác giả xem.
+- [[07-THỨ BẬC TU LUYỆN VÀ CHIẾN LỰC]] — bảng theo dõi nhân vật; không suy tu vi từ chiến tích.
+- [[Pháp Kỹ]] — hồ sơ các công pháp/kỹ pháp đã có tên và nguồn.

@@ -31,7 +31,9 @@
 - [[02-Bản Đồ Và Logic Không Gian]] — địa lý, cự ly và thời gian di chuyển còn mở
 - [[03-Sổ Nguồn Và Lớp Tri Thức]] — canon, nguồn và ai biết điều gì
 - [[04-Báo Cáo Audit Lore]] — xung đột, khoảng trống và mục cần tác giả xem
-- [[00-Danh Mục Hệ Thống Tu Luyện]] — mục lục hệ thống tu luyện
+- [[00-Danh Mục Hệ Thống Tu Luyện]] — mục lục cảnh giới, pháp môn và các hồ sơ tu luyện
+- [[01-QUY TẮC VẬN HÀNH VÀ POWER SCALING]] — phân biệt cảnh giới, tiến trình và chiến lực
+- [[02-BÁO CÁO KIỂM TOÁN HỆ THỐNG TU LUYỆN]] — giới hạn, unresolved rules và mục cần tác giả xem
 
 ## NHÂN VẬT
 
@@ -67,6 +69,10 @@
 ---
 
 ## HỆ THỐNG TU LUYỆN
+
+- [[00-Danh Mục Hệ Thống Tu Luyện]] — mục lục và ID cảnh giới/pháp môn
+- [[01-QUY TẮC VẬN HÀNH VÀ POWER SCALING]] — quy tắc tiến triển và so sánh chiến lực
+- [[02-BÁO CÁO KIỂM TOÁN HỆ THỐNG TU LUYỆN]] — phần đã rõ, giới hạn và cần tác giả quyết định
 
 - [[Quy Khư Quyết]] — công pháp chủ đạo
 - [[Quy Khư Đạo]] — con đường đại đạo

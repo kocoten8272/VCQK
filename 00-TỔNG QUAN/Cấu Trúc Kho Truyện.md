@@ -46,6 +46,8 @@ tags:
 - `03C-Tài Nguyên Và Pháp Khí`: đan dược, pháp bảo, thiên tài địa bảo và di vật.
 - `03D-Dị Thường Và Cái Giá`: Mạc Pháp, dị số, nhân quả thất lạc, luân hồi và tổn thất của Quy Khư Đạo.
 - [[00-Danh Mục Hệ Thống Tu Luyện]] là điểm vào cho 24 hồ sơ trong 03A–03D; trạng thái hồ sơ không đồng nghĩa trạng thái canon.
+- [[01-QUY TẮC VẬN HÀNH VÀ POWER SCALING]] tách cảnh giới, tiểu cảnh giới, tiến trình và chiến lực; [[02-BÁO CÁO KIỂM TOÁN HỆ THỐNG TU LUYỆN]] giữ các mâu thuẫn/UNKNOWN.
+- [[Pháp Kỹ]] là sổ pháp môn có ID và nguồn; [[07-THỨ BẬC TU LUYỆN VÀ CHIẾN LỰC]] giữ tiến trình nhân vật, không suy tu vi từ feat.
 
 ### `04-KHUNG TRUYỆN`
 

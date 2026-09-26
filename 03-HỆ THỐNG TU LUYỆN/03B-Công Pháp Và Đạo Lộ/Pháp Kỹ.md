@@ -17,11 +17,16 @@ tags:
 
 ## Bảng tổng
 
-| Pháp kỹ | Loại | Cấp | Nguồn gốc | Người luyện | Trạng thái |
-| --- | --- | --- | --- | --- | --- |
-| [[Quy Khư Quyết]] | Công pháp | Bí ẩn | Quy Khư | [[Lâm Uyên]] | Đã xuất hiện |
-| (thêm) | | | | | |
+| ID | Pháp môn | Loại | Cấp được ghi trong nguồn | Người sử dụng / tình trạng | Nguồn |
+|---|---|---|---|---|---|
+| CULT-001 | [[Quy Khư Quyết]] | Công pháp / cấm công trong hồ sơ | Phẩm cấp chuẩn hóa: UNKNOWN | Lâm Uyên; đã xuất hiện | Ch2 trở đi; [[Quy Khư Quyết]] |
+| CULT-002 | Tô Gia Dẫn Khí Quyết | Công pháp cơ bản nhất của Tô Gia theo Ch9 | Cơ bản theo mô tả Ch9; không phải thang phẩm cấp | Lâm Uyên được giao bản để đọc, thử vận hành bị xung khắc; chưa xác nhận tu thành | Ch9–10, 14, 16 |
+| FORM-001 | [[Nạp Vô]] | Đệ nhất thức của CULT-001 | Không áp phẩm cấp riêng | Lâm Uyên tiếp nhận Ch2; vận hành rõ Ch4 | Ch2, 4; hồ sơ Nạp Vô |
+| SKILL-001 | Tô Gia Phá Sơn Chưởng | Võ kỹ | Trung cấp theo Ch19 | Tô Bách; đã dùng | Ch19 |
+| SKILL-002 | Thanh Phong Kiếm Quyết | Kiếm pháp | UNKNOWN | Tô Bách; đã dùng | Ch20 |
 
+ID định danh từng đối tượng; không nhập ID kỹ pháp vào cảnh giới hoặc cấp chiến lực.
+ 
 ## Ghi chú
 
 - Hệ phổ Vọng Sơn tuyệt tích ngàn năm — nguồn gốc [[Quy Khư Quyết]] trùng mạch với bí mật [[Quy Khư]].
