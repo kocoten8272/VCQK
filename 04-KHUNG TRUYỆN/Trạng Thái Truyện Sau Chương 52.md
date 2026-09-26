@@ -20,11 +20,11 @@ tags:
 
 ## Phần dược liệu cứu tế đã bù
 
-- Lô nguyên liệu mới tới Dược Phường Hòa Sinh sáng Chương 52. Tông Sảnh cho cân tại dược phường và chở thẳng tới trạm, không bắt xe vòng qua kho nội viện. Mạnh, Lâm và hai chấp sự đi cùng theo lệnh; Lâm vẫn bị hạn chế đi lại và về trước giờ đóng cổng. Tô Thanh Ly ở lại làm việc với hồ sơ.
+- Lô nguyên liệu mới tới Dược Phường Hòa Sinh sáng Chương 52. Tông Sảnh cho cân tại dược phường và chở thẳng tới trạm, không bắt xe vòng qua kho nội viện. Mạnh Thanh Tễ, Lâm và hai chấp sự đi cùng theo lệnh; Lâm vẫn bị hạn chế đi lại và về trước giờ đóng cổng. Tô Thanh Ly ở lại làm việc với hồ sơ.
 - Một bó dưới cùng bị ẩm và có chấm mốc, được giữ tại dược phường, thay bằng bó đạt kiểm rồi cân lại. Việc này **không xác định nguyên nhân mẫu Xích Tủy Tán vón** trong Chương 49–50.
 - Bánh xe chở dược lún ở rãnh nước hỏng gần xóm lò ngói; người địa phương giúp kê ván và đưa hàng qua. Một bó mắc dưới xe được giữ khô, sau đó trạm mở kiểm và cân riêng. Chấp sự ghi vị trí rãnh để báo sửa; **đường chưa được sửa**.
-- Người giữ trạm đã so số thực nhận với phần trạm mất, ký đủ lượng dùng được. Chấp sự kho đóng dấu hoàn tất giao bù; trạm, người đánh xe và Tông Sảnh giữ các bản phiếu. Nghĩa vụ mua bù nêu cuối Chương 50 nay đã thực hiện. Trạm còn phải giữ dược liệu khỏi nền ẩm; Mạnh mới đề nghị hỏi viện chủ về gỗ kê, chưa hoàn thành việc đó.
-- Người thợ bỏng lò được y sư trạm khám trong ngày; Mạnh chỉ hỗ trợ hỏi bệnh và ghi mốc giờ gần đúng theo mẻ lò. Không cần biến ca này thành bí ẩn hoặc chứng bệnh lạ.
+- Người giữ trạm đã so số thực nhận với phần trạm mất, ký đủ lượng dùng được. Chấp sự kho đóng dấu hoàn tất giao bù; trạm, người đánh xe và Tông Sảnh giữ các bản phiếu. Nghĩa vụ mua bù nêu cuối Chương 50 nay đã thực hiện. Trạm còn phải giữ dược liệu khỏi nền ẩm; Mạnh Thanh Tễ mới đề nghị hỏi viện chủ về gỗ kê, chưa hoàn thành việc đó.
+- Người thợ bỏng lò được y sư trạm khám trong ngày; Mạnh Thanh Tễ chỉ hỗ trợ hỏi bệnh và ghi mốc giờ gần đúng theo mẻ lò. Không cần biến ca này thành bí ẩn hoặc chứng bệnh lạ.
 
 ## Trang giấy mất và vụ cháy
 
@@ -42,7 +42,7 @@ tags:
 1. Lấy lời riêng người gác và người nhận ca theo lệnh; phân biệt giờ nhớ được, giờ có chứng từ và điều chỉ là suy đoán. Cho Tạ Nghiên Chi giữ giới hạn nghề nghiệp.
 2. Theo dõi Trần Dực, đứa bé và khoản chăm sóc phát sinh; không biến việc giao bù thành chữa khỏi hoặc xóa nợ.
 3. Nếu tuyến xuống núi tiến triển, cần kết quả thử nền, phương án chống vách và lệnh vào hầm trước khi đưa người đi.
-4. Cho Lâm tiếp tục học việc thật, chịu giới hạn bàn tay và nguồn thuốc. Mạnh chưa trở thành người biết bí mật Quy Khư.
+4. Cho Lâm tiếp tục học việc thật, chịu giới hạn bàn tay và nguồn thuốc. Mạnh Thanh Tễ chưa trở thành người biết bí mật Quy Khư.
 5. Giữ các mạng lưới và bí ẩn địa phương tách biệt cho tới khi có bằng chứng độc lập.
 
 ## Liên kết

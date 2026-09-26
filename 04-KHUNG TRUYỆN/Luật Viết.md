@@ -41,6 +41,7 @@ tags:
 ## Quy tắc nhân vật
 
 - Mọi lần giới thiệu hoặc tái miêu tả nhân vật phải tuân theo [[Quy Tắc Miêu Tả Nhân Vật]].
+- Khi gọi tên trong lời kể, lời dẫn thoại hoặc xưng hô trực tiếp, dùng đầy đủ họ tên đã xác lập; không rút còn họ hay một phần tên như “Lâm” thay cho “Lâm Uyên”, hoặc “Mạnh” thay cho “Mạnh Thanh Tễ”. Có thể dùng đại từ khi chủ thể đã rõ để tránh lặp gượng; khi đổi chủ thể, đổi cảnh hoặc có nguy cơ nhầm lẫn, gọi lại đầy đủ họ tên.
 - Nhân vật chính và nữ chính cần dấu hiệu nhận diện riêng qua chuyển động, giọng nói, điểm chú ý, phục sức có chức năng và lựa chọn trong cảnh.
 - Không dùng nhan sắc, khí chất hoặc danh xưng để thay cho tính cách và quyền chủ động.
 

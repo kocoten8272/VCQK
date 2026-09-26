@@ -55,6 +55,7 @@ tags:
 
 ### Miêu tả nhân vật
 
+- **Gọi tên đầy đủ:** Trong lời kể, lời dẫn thoại và xưng hô trực tiếp, dùng đầy đủ họ tên đã xác lập; không rút còn họ hoặc một phần tên như “Lâm” thay cho “Lâm Uyên”, hay “Mạnh” thay cho “Mạnh Thanh Tễ”. Có thể dùng đại từ khi chủ thể đã rõ để nhịp văn tự nhiên; khi đổi chủ thể, đổi cảnh hoặc có nguy cơ nhầm lẫn, gọi lại đầy đủ họ tên.
 - Dùng [[Quy Tắc Miêu Tả Nhân Vật]] cho lần xuất hiện đầu, ngoại hình trong hành động, phục sức, biểu cảm, giọng nói, thương thế và sự thay đổi qua thời gian.
 - Khi giới thiệu cảnh giới, chiến lực, chức vị, pháp khí, pháp kỹ hoặc vật phẩm gắn với nhân vật, theo mục [[Quy Tắc Miêu Tả Nhân Vật#14. Giới thiệu cảnh giới, cấp bậc, pháp khí và năng lực]]: phân biệt thước đo, căn cứ nhận biết, tác dụng trong cảnh và giới hạn; không tự điền cấp bậc còn TBD.
 - Mỗi nhân vật quan trọng cần một hoặc hai dấu hiệu cố định, một lớp thay đổi theo cảnh và cách hiện ra khác nhau qua từng điểm nhìn.
