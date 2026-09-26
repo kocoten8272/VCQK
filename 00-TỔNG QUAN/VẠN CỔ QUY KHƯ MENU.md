@@ -24,6 +24,15 @@
 
 ---
 
+## WORLD LORE SYSTEM
+
+- [[00-DANH MỤC LORE]] — sổ node và ID lore ổn định
+- [[01-Cấu Trúc Vũ Trụ Và Tầng Thế Giới]] — phân tầng đã xác nhận và phần chưa biết
+- [[02-Bản Đồ Và Logic Không Gian]] — địa lý, cự ly và thời gian di chuyển còn mở
+- [[03-Sổ Nguồn Và Lớp Tri Thức]] — canon, nguồn và ai biết điều gì
+- [[04-Báo Cáo Audit Lore]] — xung đột, khoảng trống và mục cần tác giả xem
+- [[00-Danh Mục Hệ Thống Tu Luyện]] — mục lục hệ thống tu luyện
+
 ## NHÂN VẬT
 
 - [[00-DANH MỤC NHÂN VẬT]] — mục lục hồ sơ theo nhóm nhân vật, gia tộc, địa bàn và thế lực
@@ -39,21 +48,21 @@
 - [[Vân Châu]] — châu phủ
 - [[Tiểu Vực]] — khu vực gần
 - [[Đại Vực]] — trung tâm thế lực
-- [[Cửu Thiên]] — thượng giới
-- [[Ngoài Cửu Thiên]] — ngoại vực
+- [[Cửu Thiên]] — tầng thế giới lớn, không phải toàn bộ thế giới
+- [[Ngoài Cửu Thiên]] — bản chất chưa xác định
 - [[Quy Khư]] — bí mật trung tâm truyện
-- [[Vĩnh Sinh Môn]] — tông môn
+- [[Vĩnh Sinh Môn]] — cổng bí ẩn trong ký ức/cổ sử; bản chất chưa rõ
 - [[Đại Hội Thí Luyện]] — kỳ đại hội ngoại viện Tô Gia
-- [[Thương Hội Hắc Đạo]] — chợ đen di cốt, cấm dược
-- [[Kiếm Các]] — kiếm đạo tông phái độc lập
-- [[Thính Phong Lâu]] — guild tình báo trung lập
-- [[Liễu Gia]] — thế gia Ảo Đạo / độc thuật, hiềm khích với Tô Gia
-- [[Tầm Chân Ti - Đội Sưu Tróc Dị Số]] — phân đội Chấn Châu Ti truy lùng biến số
+- [[Thương Hội Hắc Đạo]] — hồ sơ thế lực phát triển; chưa xác nhận đã xuất hiện
+- [[Kiếm Các]] — hồ sơ tông phái dự kiến; chưa xác nhận đã xuất hiện
+- [[Thính Phong Lâu]] — hồ sơ tổ chức tình báo dự kiến; chưa xác nhận đã xuất hiện
+- [[Liễu Gia]] — thế lực dự kiến ở Vân Châu; chi tiết và lần xuất hiện còn mở
+- [[Tầm Chân Ti - Đội Sưu Tróc Dị Số]] — hồ sơ phân đội Chấn Châu Ti; mức triển khai còn mở
 - [[Địa Mạch]] — dòng vận hành vô hình của thiên địa
 - [[Địa Ký]] — dấu vết sự kiện thiên địa lưu giữ
 - [[Bí Cảnh]] — không gian đặc biệt tách biệt thế giới
 - [[Khoảng Trống]] — vùng thiên địa mất khả năng ghi nhận
-- [[Di Kỷ Tộc]] — cổ tộc nội sinh từ một kỷ nguyên bị xóa
+- [[Di Kỷ Tộc]] — tên cổ tộc đối lực dài hạn đã chốt; nguồn gốc sâu còn mở
 
 ---
 
@@ -181,10 +190,10 @@
 
 - [[Người Áo Đen]] — thế lực bí ẩn
 - [[Bóng Áo Đen]] — tồn tại trên đài tế cổ Hắc Phong Sơn
-- [[Ngoại Sinh Linh]] — linh thể dị chủng
+- [[Ngoại Sinh Linh]] — tồn tại không thuộc thiên địa theo canon nền
 - [[Di Cốt]] — di hài cổ xưa
-- [[Hệ Thống Khống Chế Thiên Địa]] — cỗ máy chi phối vô số sinh linh
-- [[Mạc Nhân]] — Chấp Giới Sứ
+- [[Hệ Thống Khống Chế Thiên Địa]] — hệ thống vô hình; bản chất chưa xác định
+- [[Mạc Nhân]] — hồ sơ đang phát triển; quan hệ với Ngoại Sinh Linh chưa xác nhận
 
 ### Địa điểm bí ẩn (07C)
 

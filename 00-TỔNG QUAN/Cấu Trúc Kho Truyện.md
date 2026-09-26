@@ -17,8 +17,8 @@ tags:
 | --- | --- | --- |
 | `00-TỔNG QUAN` | Menu, bản đồ liên kết và hướng dẫn cấu trúc | Điểm vào và tra cứu nhanh |
 | `01-NHÂN VẬT` | Hồ sơ nhân vật, danh mục và quan hệ | Dùng [[00-DANH MỤC NHÂN VẬT]] để tìm; hồ sơ có một thư mục chính ổn định |
-| `02-THẾ GIỚI` | Địa lý, xã hội, thế lực, di tích và hiện tượng | Quy định nơi chốn và cách thế giới vận hành |
-| `03-HỆ THỐNG TU LUYỆN` | Cảnh giới, đạo lộ, công pháp, tài nguyên và cái giá | Quy định cơ chế sức mạnh; không dùng thay cho sự kiện truyện |
+| `02-THẾ GIỚI` | Địa lý, xã hội, thế lực, di tích và hiện tượng | Dữ liệu nguồn; dùng [[00-DANH MỤC LORE|Danh Mục Lore]] và [[04-Báo Cáo Audit Lore]] để tra cứu, theo dõi canon |
+| `03-HỆ THỐNG TU LUYỆN` | Cảnh giới, đạo lộ, công pháp, tài nguyên và cái giá | Hồ sơ cơ chế sức mạnh; [[00-Danh Mục Hệ Thống Tu Luyện|Danh Mục Hệ Thống Tu Luyện]] là mục lục, không thay cho sự kiện truyện |
 | `04-KHUNG TRUYỆN` | Cốt truyện, nhịp kể, bí mật, kế hoạch và sổ theo dõi | Tài liệu biên tập; kế hoạch không phải canon đã xảy ra |
 | `05-TIMELINE` | Lịch sử và thứ tự thời gian của thế giới/nhân vật | Mốc lịch sử; timeline cốt truyện dự kiến nằm ở 04A |
 | `06-CHƯƠNG TRUYỆN` | Bản thảo theo quyển | Căn cứ xác định sự kiện đã thực sự xảy ra |
@@ -34,12 +34,18 @@ tags:
 - `02B-Thế Lực`: gia tộc, tông phái, cơ quan, hội nghề nghiệp và cơ cấu nhân sự.
 - `02C-Di Tích Và Hiện Tượng`: bí cảnh, Quy Khư, Địa Ký, Địa Mạch và Khoảng Trống.
 
+- [[00-DANH MỤC LORE|Danh Mục Lore]] là sổ node và ID; chi tiết chỉ sống tại hồ sơ nguồn.
+- [[01-Cấu Trúc Vũ Trụ Và Tầng Thế Giới]] và [[02-Bản Đồ Và Logic Không Gian]] tách quan hệ đã biết khỏi phần chưa xác nhận.
+- [[03-Sổ Nguồn Và Lớp Tri Thức]] quy định cách ghi canon, suy luận, lời đồn và tri thức nhân vật.
+- [[04-Báo Cáo Audit Lore]] ghi xung đột/UNKNOWN và yêu cầu tác giả xem; không sửa canon nền.
+
 ### `03-HỆ THỐNG TU LUYỆN`
 
 - `03A-Nền Tảng Tu Hành`: cảnh giới, linh căn, người phàm và các bước tu hành đầu.
 - `03B-Công Pháp Và Đạo Lộ`: công pháp, đại đạo, đạo tâm, huyết mạch, tín ngưỡng và năng lực.
 - `03C-Tài Nguyên Và Pháp Khí`: đan dược, pháp bảo, thiên tài địa bảo và di vật.
 - `03D-Dị Thường Và Cái Giá`: Mạc Pháp, dị số, nhân quả thất lạc, luân hồi và tổn thất của Quy Khư Đạo.
+- [[00-Danh Mục Hệ Thống Tu Luyện]] là điểm vào cho 24 hồ sơ trong 03A–03D; trạng thái hồ sơ không đồng nghĩa trạng thái canon.
 
 ### `04-KHUNG TRUYỆN`
 
@@ -81,6 +87,9 @@ tags:
 
 - [[VẠN CỔ QUY KHƯ MENU]]
 - [[Bản Đồ Liên Kết]]
+- [[00-DANH MỤC LORE]] và [[00-Danh Mục Hệ Thống Tu Luyện]]
+- [[03-Sổ Nguồn Và Lớp Tri Thức]]
+- [[04-Báo Cáo Audit Lore]]
 - [[00-DANH MỤC NHÂN VẬT]]
 - Các mục lục cục bộ tại `01-NHÂN VẬT/01A` đến `01-NHÂN VẬT/01F`
 - [[MẪU HỒ SƠ NHÂN VẬT]]
