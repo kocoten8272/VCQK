@@ -1,7 +1,7 @@
 ---
 type: nhan-vat
 vai-tro: nhan-vat-phu
-status: dang-phat-trien
+status: da-xuat-hien
 tags:
   - nhan-vat
   - lang-van-thanh
