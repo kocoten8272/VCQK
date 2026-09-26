@@ -1,7 +1,7 @@
 ---
 type: nhan-vat
 vai-tro: nhan-vat-phu
-status: moi-xuat-hien
+status: da-xuat-hien
 tags:
   - nhan-vat
   - to-gia
