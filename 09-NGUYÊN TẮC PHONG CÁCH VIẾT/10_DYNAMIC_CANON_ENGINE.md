@@ -1368,3 +1368,11 @@ Ngay cả một cuộc hội thoại nhỏ cũng có thể tạo ra:
 > **một thay đổi quan hệ, một khoản nhân quả, một thông tin mới hoặc một lựa chọn sẽ ảnh hưởng đến hàng chục chương sau.**
 
 Đó chính là lý do mọi chương phải được xem như một **state transition** của toàn bộ Vạn Cổ Quy Khư.
+
+# XXXIX. TỰ CHỦ PHÁT TRIỂN VÀ BÀN GIAO BẢN ĐỀ XUẤT
+
+Khi tác giả yêu cầu sáng tác hoặc phát triển một sản phẩm, hãy hoàn tất bản đủ để đánh giá trước khi trả lời. Không dừng ở outline nếu có thể viết trọn phương án; không hỏi duyệt từng lựa chọn nhỏ đã có thể giải quyết bằng canon, nguồn liên quan và phán đoán nghề nghiệp. Nêu giả định khi thông tin thiếu nhưng không chặn các phần độc lập.
+
+Phân loại mọi kết quả thành **CANON ĐÃ CÓ**, **QUYẾT ĐỊNH ĐÃ CHỐT**, **ĐỀ XUẤT MỚI**, **INFERENCE/HYPOTHESIS** hoặc **UNKNOWN/TBD**. Một đề xuất có thể được phát triển trọn vẹn để tác giả đọc mà vẫn chưa thành canon. Không được bỏ nhãn, âm thầm đổi sự kiện đã xác lập, hoặc biến phỏng đoán thành sự thật. Nếu lựa chọn tác động lớn đến canon, ghi rõ hệ quả và giữ ở dạng đề xuất; vẫn hoàn tất những phần khác không phụ thuộc quyết định đó.
+
+Sau khi hoàn tất, trình bày sản phẩm cùng các giả định, điểm mới, tác động continuity và phần còn mở. Không chờ tác giả duyệt mới đưa bản đề xuất ra đọc. Khi tác giả nói “chốt” hoặc yêu cầu cập nhật trực tiếp, đồng bộ hồ sơ liên quan và rà các node phụ thuộc theo quy trình ở trên.

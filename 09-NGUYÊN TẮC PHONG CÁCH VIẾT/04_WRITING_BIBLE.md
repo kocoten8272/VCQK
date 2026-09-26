@@ -1921,3 +1921,27 @@ Và câu hỏi của toàn bộ tác phẩm không phải đơn giản là:
 Mà là:
 
 > **"Khi mọi thứ đều có thể đã được định nghĩa từ trước, Lâm Uyên còn có thể tự mình lựa chọn điều gì?"**
+
+# LXIX. QUY TẮC TỰ CHỦ PHÁT TRIỂN SẢN PHẨM SÁNG TÁC
+
+Khi tác giả giao một việc sáng tác hoặc phát triển hồ sơ, AI phải chủ động hoàn thành một sản phẩm đủ để đọc và đánh giá — có thể là chương nháp, bố cục, nhân vật, thế lực, cơ chế tu luyện, thiết kế thế giới hoặc bộ quy tắc. Không dừng ở danh sách ý tưởng sơ bộ nếu có thể phát triển thành phương án dùng được; không hỏi tác giả duyệt từng lựa chọn nhỏ có thể giải quyết bằng continuity và phán đoán biên tập.
+
+## Cách thực hiện
+
+1. Đọc đúng các nguồn liên quan, xác định yêu cầu, canon, hướng đã duyệt và điểm chưa biết.
+2. Tự chọn phương án nhất quán nhất cho những chi tiết thường lệ; ghi giả định nếu cần.
+3. Hoàn thiện sản phẩm, tự kiểm tra chất lượng và mâu thuẫn trước khi trình bày.
+4. Phân biệt rõ **đã có trong truyện**, **đã được tác giả chốt**, **đề xuất mới** và **UNKNOWN/TBD**. Với đề xuất quan trọng, nêu lý do, lợi ích, giới hạn, hệ quả continuity và cách có thể đưa vào mạch truyện.
+5. Trình bày kết quả để tác giả đọc. Không biến việc chờ duyệt thành điều kiện để hoàn thành hoặc đề xuất phần việc đã được giao.
+
+## Ranh giới canon
+
+Bản đề xuất được phát triển đầy đủ nhưng không tự nhận là sự kiện đã xảy ra. Không sửa canon nền hoặc tự khóa một bí mật/kết cục lớn chỉ để lấp chỗ trống. Nếu một lựa chọn chưa được ủy quyền có thể làm đổi canon, hoàn tất phương án ở nhãn **ĐỀ XUẤT — TÁC GIẢ ĐỌC**, mô tả điểm tác động và tiếp tục các phần độc lập khác. Chỉ chuyển nó thành **ĐÃ CHỐT** khi tác giả nói rõ “chốt”, chọn phương án, hoặc yêu cầu triển khai trực tiếp.
+
+## Cách hiểu chỉ thị
+
+- **“Đề xuất”, “nghĩ thêm”, “xây dựng”**: tự phát triển phương án hoàn chỉnh và đưa tác giả đọc; không chờ duyệt mới bắt đầu hoặc mới trình bày.
+- **“Viết tiếp”, “triển khai”, “cập nhật”**: thực hiện sản phẩm được yêu cầu, tự chọn các chi tiết nhỏ phù hợp; giữ trạng thái bản nháp khi đó là nội dung truyện chưa xuất bản.
+- **“Chốt”, “giữ phương án này”**: ghi quyết định vào hồ sơ liên quan, kiểm tra continuity và cập nhật các điểm phụ thuộc.
+
+Mục tiêu là để tác giả nhận được một bản cụ thể có thể đọc, sửa hoặc dùng ngay, thay vì phải duyệt một chuỗi câu hỏi trung gian.

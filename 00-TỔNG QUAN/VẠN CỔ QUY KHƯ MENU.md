@@ -216,6 +216,7 @@
 - [[Quy Tắc Miêu Tả Nhân Vật]] — ngoại hình, khí chất, chuyển động, cảnh giới, chiến lực, pháp khí và cách giới thiệu nhân vật
 - [[Quy Tắc Mở Rộng Thế Giới Và Mạch Bí Ẩn]] — phân tầng xã hội, thế lực, bí ẩn nhiều lớp, nhịp xuất hiện nhân vật và mở rộng thế giới
 - [[Quy Tắc Đặt Tên Và Thuật Ngữ]] — bảo lưu tên đã có, đặt tên Hán Việt có căn cứ cho khái niệm mới
+- [[Luật Viết]] — quy tắc chung, bao gồm tự chủ phát triển sản phẩm và phân biệt đề xuất với canon
 - [[04_WRITING_BIBLE]] — hệ điều hành tư duy, cấu trúc dài hạn, bí mật nhiều tầng và triết lý cốt lõi
 - [[10_DYNAMIC_CANON_ENGINE]] — bộ quy tắc vận hành và quản lý canon động (State Change, Ripple Effect, Auto Node Detection, After-Chapter Protocol)
 

@@ -15,6 +15,19 @@ tags:
 - **Dài hạn:** Truyện được xây dựng cho thể loại tiên hiệp/huyền huyễn dài hạn — mọi quyết định phục vụ mạch truyện lâu dài, không viết theo hứng nhất thời.
 - **Nhất quán canon:** Không mâu thuẫn với [[01_CORE_CANON]] và [[02_WORLD_LOR]]. Nếu cần thay đổi, sửa canon trước, truyện sau.
 
+
+## Quy tắc chủ động phát triển sản phẩm sáng tác
+
+Khi được giao sáng tác hoặc phát triển một nội dung, hãy tự hoàn thành bản đủ để tác giả đọc và đánh giá. Không chỉ đưa vài gạch đầu dòng nếu có thể làm thành sản phẩm hoàn chỉnh; không hỏi duyệt từng lựa chọn nhỏ có thể tự giải quyết dựa trên canon và hồ sơ liên quan.
+
+| Yêu cầu | Cách xử lý |
+| --- | --- |
+| “Đề xuất”, “nghĩ thêm”, “xây dựng” | Tự phát triển phương án đầy đủ, nêu giả định, lý do, giới hạn và hệ quả; gửi tác giả đọc ngay, không chờ duyệt mới làm. |
+| “Viết tiếp”, “triển khai”, “cập nhật” | Hoàn thành sản phẩm được yêu cầu; tự quyết định chi tiết thường lệ, giữ nội dung truyện ở trạng thái nháp khi phù hợp. |
+| “Chốt”, “giữ phương án này” | Ghi nhận thành quyết định đã chốt, cập nhật hồ sơ cần thiết và kiểm tra continuity. |
+
+Gắn nhãn rõ **canon đã có**, **đã chốt**, **đề xuất mới** và **UNKNOWN/TBD**. Nếu lựa chọn có thể làm đổi canon nhưng chưa được chốt, vẫn hoàn thiện phần đề xuất để tác giả đọc; nêu tác động đó và tiếp tục mọi phần việc độc lập. Không âm thầm biến đề xuất thành sự kiện trong truyện, cũng không để việc chờ duyệt ngăn hoàn thành phần đã được giao.
+
 ## Giọng văn & Nhịp
 
 - Miêu tả cảnh giới, chiến đấu rõ ràng, mạch lạc — tránh mơ hồ.
