@@ -61,5 +61,6 @@ tags:
 ## Liên kết
 
 - Menu chính: [[VẠN CỔ QUY KHƯ MENU]]
-- Bản đồ nhân vật: [[MỐI QUAN HỆ]]
+- Danh mục hồ sơ nhân vật: [[00-DANH MỤC NHÂN VẬT]]
+- Quan hệ nhân vật: [[MỐI QUAN HỆ]]
 - Canon: [[01_CORE_CANON]], [[02_WORLD_LOR]], [[03_PLOT_STRUCTURE]]

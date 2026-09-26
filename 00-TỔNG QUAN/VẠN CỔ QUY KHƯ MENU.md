@@ -25,39 +25,8 @@
 
 ## NHÂN VẬT
 
-### Chính (01A)
-
-- [[Lâm Uyên]] — nhân vật chính
-- [[Tô Thanh Ly]] — nữ chính / đồng hành
-- [[A Ly]] — nữ chính
-- [[Bạch Nhược Tuyết]] — nữ chính
-- [[Diệp Khuynh Thành]] — nữ chính
-- [[Cơ Minh Nguyệt]] — nữ chính
-
-### Phụ (01B)
-
-- [[Lâm Chinh]] — cha của Lâm Uyên
-- [[Lão Đầu]] — người giữ sổ mộ
-- [[Tô Thanh Dương]]
-- [[Tô Bách]]
-- [[Tô Trạch]] — trưởng lão Chấp Pháp Đường, đối đầu Lâm Uyên
-- [[Tô Huyền Sơn]] — gia chủ Tô Gia
-- [[Tô Nguyên Chấn]] — đại trưởng lão
-- [[Lão Bán Pháp Khí]] — chủ quầy pháp khí cũ chợ tu hành
-- [[Tô Nguyệt Dao]] — thiên tài dòng nhánh Tô gia
-- [[Vân Thiên Hạo]] — thiếu chủ Thiên Bảo Thương Hội (hắc đạo)
-- [[Cao Bất Ly]] — thuộc hạ cung thủ của Vân Thiên Hạo
-- [[Thạch Đầu]] — thuộc hạ chùy sắt của Vân Thiên Hạo
-- [[Cố Thanh Phong]] — Chấp Kiếm Sứ Kiếm Các
-- [[Hắc Nha]] — mật thám Vĩnh Sinh Môn tàn dư, kẻ không có bóng
-- [[Liễu Nguyên Bá]] — đệ tử đích truyền Liễu Gia (Ảo Đạo)
-- [[Cửu Nương]] — môi giới tin tức Thính Phong Lâu
-- [[Diệp Trầm]] — Sưu Tróc Sứ Tầm Chân Ti (Chấn Châu Ti)
-- [[Mạnh Thanh Tễ]] — giám dược Tế Sinh Viện, gặp Lâm Uyên ở Chương 48
-
-### Quan hệ
-
-- [[MỐI QUAN HỆ]] — bản đồ mối quan hệ giữa các nhân vật
+- [[00-DANH MỤC NHÂN VẬT]] — mục lục hồ sơ theo nhóm nhân vật, gia tộc, địa bàn và thế lực
+- [[MỐI QUAN HỆ]] — quan hệ đã có, quan hệ dự kiến và câu hỏi còn mở
 
 ---
 

@@ -9,6 +9,8 @@ tags:
 # Mối Quan Hệ Nhân Vật
 
 > Theo dõi quan hệ đã thể hiện trong chương truyện. Các quan hệ dự kiến được tách riêng để không biến kế hoạch thành sự kiện.
+>
+> Tra cứu hồ sơ theo nhóm: [[00-DANH MỤC NHÂN VẬT]].
 
 ## Chú giải
 
