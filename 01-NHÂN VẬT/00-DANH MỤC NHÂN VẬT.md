@@ -49,15 +49,15 @@ tags:
 ### 01C-Tô Gia
 
 - [Tô Bách](01C-T%C3%B4%20Gia/T%C3%B4%20B%C3%A1ch.md) — `da-xuat-hien`
-- [Tô Huyền Sơn](01C-T%C3%B4%20Gia/T%C3%B4%20Huy%E1%BB%81n%20S%C6%A1n.md) — `dang-phat-trien`
+- [Tô Huyền Sơn](01C-T%C3%B4%20Gia/T%C3%B4%20Huy%E1%BB%81n%20S%C6%A1n.md) — `chua-xuat-hien`
 - [Tô Lạc](01C-T%C3%B4%20Gia/T%C3%B4%20L%E1%BA%A1c.md) — `da-xuat-hien`
-- [Tô Mặc](01C-T%C3%B4%20Gia/T%C3%B4%20M%E1%BA%B7c.md) — `dang-phat-trien`
+- [Tô Mặc](01C-T%C3%B4%20Gia/T%C3%B4%20M%E1%BA%B7c.md) — `chua-xuat-hien`
 - [Tô Nguyên Chấn](01C-T%C3%B4%20Gia/T%C3%B4%20Nguy%C3%AAn%20Ch%E1%BA%A5n.md) — `da-xuat-hien`
-- [Tô Nguyệt Dao](01C-T%C3%B4%20Gia/T%C3%B4%20Nguy%E1%BB%87t%20Dao.md) — `dang-phat-trien`
+- [Tô Nguyệt Dao](01C-T%C3%B4%20Gia/T%C3%B4%20Nguy%E1%BB%87t%20Dao.md) — `chua-xuat-hien`
 - [Tô Thanh Dương](01C-T%C3%B4%20Gia/T%C3%B4%20Thanh%20D%C6%B0%C6%A1ng.md) — `da-xuat-hien`
 - [Tô Trạch](01C-T%C3%B4%20Gia/T%C3%B4%20Tr%E1%BA%A1ch.md) — `dang-phat-trien`
 - [Tô Tín](01C-T%C3%B4%20Gia/T%C3%B4%20T%C3%ADn.md) — `da-xuat-hien`
-- [Tần Hạo](01C-T%C3%B4%20Gia/T%E1%BA%A7n%20H%E1%BA%A1o.md) — `dang-xuat-hien`
+- [Tần Hạo](01C-T%C3%B4%20Gia/T%E1%BA%A7n%20H%E1%BA%A1o.md) — `chua-xuat-hien`
 
 ### 01D-Lăng Vân Thành
 
@@ -93,19 +93,19 @@ tags:
 
 ### 01E-Vân Châu
 
-- [Cao Bất Ly](01E-V%C3%A2n%20Ch%C3%A2u/Cao%20B%E1%BA%A5t%20Ly.md) — `dang-phat-trien`
-- [Cố Thanh Phong](01E-V%C3%A2n%20Ch%C3%A2u/C%E1%BB%91%20Thanh%20Phong.md) — `dang-phat-trien`
+- [Cao Bất Ly](01E-V%C3%A2n%20Ch%C3%A2u/Cao%20B%E1%BA%A5t%20Ly.md) — `chua-xuat-hien`
+- [Cố Thanh Phong](01E-V%C3%A2n%20Ch%C3%A2u/C%E1%BB%91%20Thanh%20Phong.md) — `chua-xuat-hien`
 - [Cửu Nương](01E-V%C3%A2n%20Ch%C3%A2u/C%E1%BB%ADu%20N%C6%B0%C6%A1ng.md) — `chua-xuat-hien`
 - [Diệp Trầm](01E-V%C3%A2n%20Ch%C3%A2u/Di%E1%BB%87p%20Tr%E1%BA%A7m.md) — `chua-xuat-hien`
 - [Liễu Nguyên Bá](01E-V%C3%A2n%20Ch%C3%A2u/Li%E1%BB%85u%20Nguy%C3%AAn%20B%C3%A1.md) — `chua-xuat-hien`
-- [Thạch Đầu](01E-V%C3%A2n%20Ch%C3%A2u/Th%E1%BA%A1ch%20%C4%90%E1%BA%A7u.md) — `dang-phat-trien`
-- [Vân Thiên Hạo](01E-V%C3%A2n%20Ch%C3%A2u/V%C3%A2n%20Thi%C3%AAn%20H%E1%BA%A1o.md) — `dang-phat-trien`
+- [Thạch Đầu](01E-V%C3%A2n%20Ch%C3%A2u/Th%E1%BA%A1ch%20%C4%90%E1%BA%A7u.md) — `chua-xuat-hien`
+- [Vân Thiên Hạo](01E-V%C3%A2n%20Ch%C3%A2u/V%C3%A2n%20Thi%C3%AAn%20H%E1%BA%A1o.md) — `chua-xuat-hien`
 
 ### 01F-Thế Lực Bí Ẩn
 
 - [Tả Tiên Sinh (danh xưng, chưa rõ danh tính)](01F-Th%E1%BA%BF%20L%E1%BB%B1c%20B%C3%AD%20%E1%BA%A8n/T%E1%BA%A3%20Ti%C3%AAn%20Sinh%20%28danh%20x%C6%B0ng%2C%20ch%C6%B0a%20r%C3%B5%20danh%20t%C3%ADnh%29.md) — `duoc-nhac-den`
 - [Người Áo Đen (chưa rõ danh tính)](01F-Th%E1%BA%BF%20L%E1%BB%B1c%20B%C3%AD%20%E1%BA%A8n/Ng%C6%B0%E1%BB%9Di%20%C3%81o%20%C4%90en%20%28ch%C6%B0a%20r%C3%B5%20danh%20t%C3%ADnh%29.md) — `da-xuat-hien`
-- [Hắc Nha](01F-Th%E1%BA%BF%20L%E1%BB%B1c%20B%C3%AD%20%E1%BA%A8n/H%E1%BA%AFc%20Nha.md) — `dang-phat-trien`
+- [Hắc Nha](01F-Th%E1%BA%BF%20L%E1%BB%B1c%20B%C3%AD%20%E1%BA%A8n/H%E1%BA%AFc%20Nha.md) — `chua-xuat-hien`
 
 ## Nhân vật đã xuất hiện trong truyện (đối chiếu đến hết Chương 52)
 
