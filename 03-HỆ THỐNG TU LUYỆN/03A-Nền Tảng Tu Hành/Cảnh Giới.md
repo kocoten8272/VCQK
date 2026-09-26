@@ -1,14 +1,15 @@
 ---
 type: tu-luyen
-status: dang-phat-trien
+status: author-approved-design
 tags:
   - tu-luyen
   - co-che
+  - power-scaling
 ---
 
 # Cảnh Giới
 
-> Thước đo con đường tu hành mà chúng sinh hiện tại công nhận — gồm 12 cảnh giới.
+> Thước đo con đường tu hành mà chúng sinh hiện tại công nhận — gồm 12 cảnh giới. Cơ chế nền và giới hạn của từng bậc đã được tác giả duyệt trong [[Thiết Kế Tác Giả Đã Chốt — Tu Hành, Sinh Tử Và Tài Nguyên]].
 
 ## Hệ thống 12 cảnh giới
 
@@ -33,28 +34,23 @@ tags:
 
 12. Đạo Chủ
 
-## Những điều cần giữ vững
+## Nguyên tắc đã duyệt
 
-- **Không tiết lộ sớm:** Đạo Chủ không phải cảnh giới cuối cùng.
-- Phía trên Đạo Chủ: `Đạo Chủ → ??? → ??? → ???` — không xác định số lượng, tên gọi, bản chất.
-- Không được giải thích sớm bản chất thực sự của giới hạn cảnh giới.
-- Cảnh giới **không đồng nghĩa tuyệt đối với chiến lực** — còn phụ thuộc công pháp, Đại Đạo, thần thông, pháp bảo, kinh nghiệm, huyết mạch, khắc chế, địa hình, trạng thái, thương thế, cái giá phải trả.
-- Cách hé lộ: giai đoạn đầu chỉ giới thiệu cảnh giới phù hợp tầng thế giới hiện tại (Luyện Thể → Kim Đan...); lên Tiên đạo mới lộ Chân Tiên → Tiên Đế.
+- **Không tiết lộ sớm:** Đạo Chủ không phải cảnh giới cuối cùng; hồ sơ chưa đặt tên các bậc sau.
+- Không thêm tiểu cảnh giới phổ quát. “Nửa bước Linh Hải” là cách gọi trạng thái chuyển tiếp, không phải realm mới.
+- Cảnh giới không quyết định tuyệt đối chiến lực; đối chiếu pháp môn, Đại Đạo, pháp khí, kinh nghiệm, khắc chế, địa hình, thương thế, nguồn lực và cái giá.
+- Tuổi thọ tăng theo bậc nhưng không có số năm cố định; Chân Tiên trở lên vẫn có thể chết.
+- Độ Kiếp không đồng nghĩa phi thăng. Qua Thiên Khuyết cần điểm neo, điều kiện và tuyến đi chịu được tải.
+- Chi tiết biến đổi, cách đột phá và giới hạn của cả 12 bậc xem hồ sơ thiết kế tác giả.
+
+## Tiến trình Lâm Uyên đến Chương 52
+
+Lâm Uyên được xếp **Khai Mạch chưa ổn định**; đã mở ba đường kinh mạch ở Ch14, Ch16 và Ch28. Chưa hình thành Linh Hải. Lời gọi “phàm nhân” trong đối thoại là nhận định tình huống, không xóa tiến trình này.
 
 ## Bí mật dài hạn
 
-> "Giới hạn cảnh giới" có thể không phải giới hạn tự nhiên, mà là **giới hạn được áp đặt lên nhận thức của chúng sinh** — một phần của [[Hệ Thống Khống Chế Thiên Địa]]. (Chưa xác nhận sớm: ai tạo ra, tạo bằng cách nào, phía trên Đạo Chủ là gì.)
-
-## Quan hệ với Mạc Pháp
-
-[[Mạc Pháp]] tầng 2 (Đại Đạo suy giảm) có thể liên quan đến giới hạn cảnh giới: những truyền thừa từng đạt được dễ dàng trong quá khứ có thể trở nên gần như thất truyền ở hiện tại.
+Giới hạn hiện tại là kết quả một mạng lưới ổn định thế giới, không phải toàn bộ giới hạn tự nhiên của Đại Đạo. Sự thật nội bộ và nhịp hé lộ nằm trong [[Thiết Kế Tác Giả Đã Chốt — Thế Giới, Lịch Sử Và Bí Mật]]; không đưa trực tiếp vào chương như kiến thức phổ biến.
 
 ## Liên kết
 
-- Thuật ngữ: [[Linh Căn]], [[Đại Đạo]], [[Đạo Tâm]]
-- Bí mật: [[Quy Khư]], [[Ngoại Sinh Linh]], [[Mạc Pháp]], [[Hệ Thống Khống Chế Thiên Địa]]
-- Xem thêm: [[01_CORE_CANON|Core Canon]], [[02_WORLD_LOR|World Lore]], [[03_PLOT_STRUCTURE|Cấu trúc cốt truyện]], [[03_WORLD_LORE_EXPANSION]]
-
-## Quy tắc triển khai ba cảnh giới đầu đã duyệt
-
-Xem [[Tu Hành Ba Cảnh Giới Đầu]] về biến đổi, luyện tập, điều kiện chuyển cảnh, nguồn hỗ trợ, thất bại và giới hạn của Luyện Thể, Khai Mạch, Linh Hải. Nội dung dùng chuẩn bị chương mới, không tự xác nhận tu vi của nhân vật qua biểu hiện mơ hồ. Các tầng cao và bí mật giới hạn cảnh giới vẫn giữ theo canon nền.
+[[Linh Căn]] · [[Đại Đạo]] · [[Đạo Tâm]] · [[Tu Hành Ba Cảnh Giới Đầu]] · [[Thiết Kế Tác Giả Đã Chốt — Tu Hành, Sinh Tử Và Tài Nguyên]]

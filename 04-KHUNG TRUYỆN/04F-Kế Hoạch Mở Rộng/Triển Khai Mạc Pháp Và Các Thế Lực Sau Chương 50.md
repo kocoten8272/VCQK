@@ -100,3 +100,7 @@ Các tổ chức mới cần có khả năng làm điều hữu ích. Một lầ
 ## Liên kết
 - Gia phả và sơ đồ nhân sự: [[Gia Phả Và Cơ Cấu Nhân Sự Các Thế Lực]]
 [[Thế Lực Vân Châu]] · [[Các Gia Tộc Lăng Vân Thành]] · [[Bố Cục Spoiler Sau Chương 50 - Biến Cố Mạnh Thanh Tễ]] · [[Triết Lý Văn Học Và Nhịp Điệu Bi Kịch]]
+
+## Trạng thái phê duyệt
+
+Đã duyệt hướng triển khai từng vùng và thứ tự xuất hiện thế lực. Khảo Mạch Hội và Thủ Danh Phường có thể được gieo trước; Đoạn Mạch Hội chỉ xuất hiện khi có tranh chấp địa mạch cụ thể. Các tổ chức khác vào truyện khi nhu cầu arc đòi hỏi, không đưa hết lên sân khấu cùng lúc. Hướng xa giữ hậu tận thế từng phần, không biến thành đếm ngược tận thế toàn cầu.

@@ -33,3 +33,9 @@ Các Đại Đạo có thể tồn tại:
 
 - Thuật ngữ: [[Quy Khư Đạo]], [[Cảnh Giới]], [[Đạo Tâm]]
 - Xem thêm: [[01_CORE_CANON|Core Canon]], [[02_WORLD_LOR|World Lore]]
+
+## Phân biệt thuật ngữ đã duyệt
+
+Cảnh giới là mức nền tảng năng lực; công pháp là phương pháp luyện; Đạo ý là cách hiểu và áp dụng quy luật; Đại Đạo là trục quy luật người tu theo đuổi và chịu trách nhiệm thực hành. Đạo lực là tác động hữu hình của người tu cấp cao, không phải tên chung cho mọi linh lực.
+
+Tu nhiều pháp môn không đồng nghĩa chứng nhiều Đại Đạo. Quy Khư đạo khí có cơ chế và cái giá riêng, không hòa tan hoàn toàn vào linh lực. [[Thiết Kế Tác Giả Đã Chốt — Tu Hành, Sinh Tử Và Tài Nguyên]].

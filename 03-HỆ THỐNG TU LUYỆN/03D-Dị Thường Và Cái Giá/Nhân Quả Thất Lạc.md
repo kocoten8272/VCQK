@@ -1,6 +1,6 @@
 ---
 type: tu-luyen
-status: tbd
+status: author-approved-design
 tags:
   - tu-luyen
   - nhan-qua
@@ -10,32 +10,20 @@ tags:
 
 # Nhân Quả Thất Lạc
 
-> Nhân quả không nhất thiết luôn hoàn thành trong cùng một đời — có thể thất lạc và tồn tại độc lập với người tạo ra nó.
+> Hậu quả còn tồn tại sau khi mối ghi nhận giữa hành động và người chịu trách nhiệm bị đứt.
 
-## Trạng thái lore
+## Quy tắc đã duyệt
 
-`TBD`
+Nhân quả thất lạc không phải món nợ tự bay vào một người ngẫu nhiên. Nó cần một mối neo có thể kiểm tra: lời hứa người nhận, vật chứng, nơi chứng kiến hoặc hành động tự nguyện nhận trách nhiệm. Huyết thống không tự truyền tội, ký ức hay cảnh giới.
 
-## Khái niệm
-
-Nhân quả không nhất thiết luôn hoàn thành trong cùng một đời. Một món nợ có thể tồn tại sau khi người tạo ra nó đã chết.
-
-Một số nhân quả có thể:
-- truyền sang người khác
-- gắn với huyết mạch
-- gắn với pháp bảo
-- gắn với địa mạch
-- tồn tại trong luân hồi
-- hoặc bị tách khỏi dòng vận hành thông thường
+Người mang neo gánh một phần hậu quả/việc phải giải quyết, không thừa hưởng ý định của người tạo nhân quả. Trách nhiệm có thể được chia sẻ, đối chất hoặc hoàn tất; không phải mọi món nợ đều cần trả bằng mạng sống.
 
 ## Quan hệ với Quy Khư
 
-Một khả năng: **Nhân quả không tìm được nơi thuộc về có thể rơi vào [[Quy Khư]].**
+Khi Thiên Tịch không xác định được chủ thể, dấu nối có thể rơi vào vùng tiếp nhận Quy Khư. Một mối nhân quả ấy có thể tiếp tục tác động dù người tạo ra nó đã chết; điều đó không chứng minh người chết còn ý thức.
 
-Nếu đúng, [[Quy Khư]] không chỉ chứa vật chất bị thiên địa loại bỏ. Nó còn có thể chứa những nhân quả không còn biết phải thuộc về ai.
+Lâm Uyên mang món nợ của đời thứ chín như một đường nhân quả, không phải ký ức/linh hồn.
 
 ## Liên kết
 
-- Nhân vật: [[Lâm Uyên]]
-- Bí ẩn: [[Quy Khư]], [[Luân Hồi Tịch]], [[Hệ Thống Khống Chế Thiên Địa]]
-- Xem thêm: [[03_WORLD_LORE_EXPANSION]]
+[[Quy Khư]] · [[Luân Hồi Tịch]] · [[Hệ Thống Khống Chế Thiên Địa]] · [[Đời Thứ Chín]] · [[Lâm Uyên]]

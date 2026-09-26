@@ -17,7 +17,7 @@ tags:
 
 - **Thân phận:** Người giữ mộ trấn [[Vọng Sơn Trấn]] → đệ tử khách mời của [[Tô Gia]]
 - **Tuổi:** 17 (đầu truyện)
-- **Gia đình:** Cha [[Lâm Chinh]] (chết 10 năm trước), mẹ (mất sau đó), ông nội (mất năm ngoái)
+- **Gia đình:** Cha [[Lâm Chinh]] (gia đình nhận tin báo tử và làm tang; tình trạng thật UNKNOWN), mẹ (mất sau đó), ông nội (mất năm ngoái)
 - **Đời hiện tại:** Đời thứ mười
 - **Đại Đạo:** [[Quy Khư Đạo]]
 - **Công pháp:** [[Quy Khư Quyết]] (do ngọc giản truyền vào người)
@@ -73,3 +73,10 @@ Lâm cần lựa chọn cách chia sức, thời gian và tài nguyên giữa h�
 Các chặng, cách gieo và giới hạn: [[Mong Muốn Cả Đời Lâm Uyên - Giữ Một Chốn Trở Về]]. Đây là hướng đã duyệt cho chương tương lai, chưa phải lời Lâm đã nói; kết cục vẫn mở.
 
 Nguồn trạng thái: [[Chương 43]], [[Chương 50]], [[Chương 51]], [[Chương 52]], [[Trạng Thái Truyện Sau Chương 52]].
+
+## Hồ sơ trạng thái đã duyệt
+
+- **Cha:** Lâm Chinh. Gia đình chỉ nhận tin báo tử và làm tang; sinh tử thật vẫn UNKNOWN.
+- **Tu vi cuối Chương 52:** Khai Mạch chưa ổn định, ba đường kinh mạch đã mở; chưa hình thành Linh Hải.
+- **Linh căn:** tên nội bộ đã duyệt là Vô Tịch Linh Căn; nhân vật trong truyện chưa được chẩn đoán chính xác.
+- Các chi tiết trên là chỉ dẫn continuity; không hồi tố lời kể hoặc biến tri thức tác giả thành hiểu biết của Lâm Uyên.

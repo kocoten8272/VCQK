@@ -26,3 +26,9 @@ tags:
 
 - Bí ẩn: [[Hắc Quan]], [[Quy Khư Quyết]], [[Quy Khư]], [[Đời Thứ Chín]]
 - Nhân vật: [[Lâm Uyên]], [[Tô Thanh Ly]]
+
+## Thiết kế nội bộ đã duyệt
+
+Ngọc giản lưu bản lõi Quy Khư Quyết và khóa truyền thừa, không chứa toàn bộ kỹ năng, ký ức hay câu trả lời của người đi trước. Ngọc giản chỉ hiện phần tiếp theo khi Lâm Uyên đủ khả năng kiểm soát và có vật chứng/điều kiện phù hợp. Đến bản thảo hiện tại, Nạp Vô là thức duy nhất đã tiếp nhận.
+
+Năm thức thiết kế, giới hạn và cái giá nằm trong [[Thiết Kế Tác Giả Đã Chốt — Tu Hành, Sinh Tử Và Tài Nguyên]].

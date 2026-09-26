@@ -1,29 +1,30 @@
 ---
 type: tu-luyen
-status: dang-phat-trien
+status: author-approved-design
 tags:
   - tu-luyen
   - co-che
+  - continuity
 ---
 
 # Linh Căn
 
-> Nền tảng thiên phú quyết định khả năng tu luyện của một người.
+> Khả năng tiếp nhận, sàng và vận hành linh khí; không phải định mệnh hoặc thước đo chiến lực.
 
 ## Thông tin trong truyện
 
-- Được chấn thử bằng **đá thử linh căn** tại [[Nghiệm Linh Đường]] của [[Tô Gia]] (Chương 7).
-- Đá thử linh căn của Tô Gia đã tồn tại hơn trăm năm; trong hơn 50 năm [[Tô Bách]] chưởng quản, chưa từng ai khiến nó dị biến.
-- Khi [[Lâm Uyên]] thử: quầng sáng trắng xanh → chuyển xám → xám đen, rồi phiến đá **vỡ** — không phải do đo lường, mà vì *"ngươi đang hút nó"*.
-- Chi tiết linh căn của Lâm Uyên: **TBD** (liên quan đến hệ phổ tuyệt tích ngàn năm).
+- Được chấn thử bằng đá thử linh căn tại [[Nghiệm Linh Đường]] của [[Tô Gia]] (Chương 7).
+- Khi [[Lâm Uyên]] thử: quầng sáng trắng xanh chuyển xám rồi xám đen; đá vỡ. Người chứng kiến nói: *“Ngươi đang hút nó.”*
+- Phép thử đã dùng thang phổ biến của Tô Gia; nó không đo chính xác mọi cấu trúc linh căn.
 
-## Ghi chú
+## Thiết kế đã duyệt
 
-- Linh căn của nhân vật khác: **TBD**.
-- Mối liên hệ giữa linh căn và hệ thống khống chế thiên địa: **chưa xác nhận sớm**.
+Tên hồ sơ tác giả cho linh căn của Lâm Uyên là **Vô Tịch Linh Căn**. Đây là linh căn ngoài hệ quy chuẩn, không cố định vào thuộc tính ngũ hành. Khi thử, Nạp Vô đã hút phần linh khí/đường đo tích sẵn trong đá, gây vỡ; việc đó không chứng minh Lâm hút được vật chất, cảnh giới, kỹ pháp hay kinh nghiệm.
+
+**Giới hạn:** không hút tùy ý; cần lực dư và điều kiện phù hợp; lực không tương thích có thể gây [[Khư Tức]]. Lâm vẫn phải tu luyện, học cách điều hòa và tự dừng. Linh căn chưa phải lời giải cho mọi di tích hoặc bằng chứng Lâm là Đời Thứ Chín.
+
+Người trong truyện chưa biết danh xưng Vô Tịch Linh Căn. Không cho Tô Gia hoặc chuyên gia khác chẩn đoán chính xác trước khi họ có phép kiểm và căn cứ mới.
 
 ## Liên kết
 
-- Thuật ngữ: [[Cảnh Giới]], [[Đại Đạo]]
-- Nhân vật: [[Lâm Uyên]], [[Tô Bách]]
-- Địa điểm: [[Nghiệm Linh Đường]]
+[[Cảnh Giới]] · [[Đại Đạo]] · [[Nạp Vô]] · [[Khư Tức]] · [[Lâm Uyên]] · [[Thiết Kế Tác Giả Đã Chốt — Tu Hành, Sinh Tử Và Tài Nguyên]]

@@ -33,3 +33,9 @@ Khi bí mật quanh vật này được mở thêm, chiếc nhẫn được gọ
 
 - Nhẫn chỉ cảnh báo Lâm Uyên khi hắn tới gần một nơi hoặc cấm chế liên quan nhân quả của mình.
 - Nó không tự mở khóa, không chỉ đường an toàn và không thay thế lựa chọn của Lâm Uyên.
+
+## Thiết kế nội bộ đã duyệt
+
+Hai chiếc nhẫn là một cặp giới ấn cùng ghi nhận một dạng lệch pha, một chiếc thuộc dòng họ Lâm và chiếc kia ở cạnh thi thể trong Hắc Quan. Nhẫn trên tay Lâm Uyên chỉ phản ứng gần nơi nhân quả của hắn bị ghi sai hoặc cắt bỏ; không chỉ ra người gây ra, không đọc ký ức, không mở cửa, không bảo đảm an toàn. Hai nhẫn gần nhau có thể phản ứng mạnh hơn nhưng không hợp thành vật mới.
+
+Nhẫn trong dòng họ Lâm là bản suy yếu của công nghệ giới ấn thời Lập Tịch. Chưa có chứng cứ nối tổ tiên Lâm Uyên với Đời Thứ Chín. Đây là bí mật tác giả, không phải chẩn đoán trong truyện.

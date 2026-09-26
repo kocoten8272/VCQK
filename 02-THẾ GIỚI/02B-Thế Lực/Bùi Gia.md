@@ -1,6 +1,6 @@
 ---
 type: the-gioi
-status: de-xuat
+status: author-approved-design
 tags:
   - the-gioi
   - the-luc
@@ -11,7 +11,7 @@ tags:
 
 # Bùi Gia
 
-> Gia tộc địa phương cung cấp thợ xây, đội sửa đường nước và người duy tu một số trận thức bảo hộ đơn giản; hiện là đề xuất, chưa xuất hiện trong bản thảo.
+> Gia tộc địa phương đã được tác giả duyệt làm thiết kế nghề nghiệp; chưa xuất hiện trong bản thảo.
 
 ## Mô tả
 
@@ -45,15 +45,19 @@ Bùi Gia nhận hợp đồng sửa tường, cống, nền kho, đường lên 
 
 ## Hồ sơ thành viên
 
-- [[Bùi Khắc Vinh]] — hồ sơ cá nhân đề xuất
-- [[Bùi Nguyên Bảo]] — hồ sơ cá nhân đề xuất
-- [[Bùi Khắc Thành]] — hồ sơ cá nhân đề xuất
-- [[Bùi Ninh Viễn]] — hồ sơ cá nhân đề xuất
-- [[Bùi Khánh Vân]] — hồ sơ cá nhân đề xuất
-- [[Bùi Tố Vân]] — hồ sơ cá nhân đề xuất
+- [[Bùi Khắc Vinh]] — hồ sơ cá nhân đã duyệt
+- [[Bùi Nguyên Bảo]] — hồ sơ cá nhân đã duyệt
+- [[Bùi Khắc Thành]] — hồ sơ cá nhân đã duyệt
+- [[Bùi Ninh Viễn]] — hồ sơ cá nhân đã duyệt
+- [[Bùi Khánh Vân]] — hồ sơ cá nhân đã duyệt
+- [[Bùi Tố Vân]] — hồ sơ cá nhân đã duyệt
 
 ## Liên kết
 - Gia phả và sơ đồ nhân sự: [[Gia Phả Và Cơ Cấu Nhân Sự Các Thế Lực]]
 - Địa điểm: [[Lăng Vân Thành]], [[Vân Châu]], [[Nam Phố]]
 - Thế lực: [[Các Gia Tộc Lăng Vân Thành]], [[Tô Gia]], [[Hạ Gia]], [[Thẩm Gia]]
 - Nhân vật: Chưa tạo
+
+## Quyết định tác giả đã chốt — DEC-002/003
+
+Tác giả đã chốt nghề, cơ cấu gia tộc và toàn bộ danh sách nhân vật/gia phả ở hồ sơ này làm thiết kế triển khai. Các thành viên chưa xuất hiện vẫn là nhân vật tương lai; không tạo hồi ức, giao dịch hoặc hành động quá khứ mới nếu chương chưa xác nhận.

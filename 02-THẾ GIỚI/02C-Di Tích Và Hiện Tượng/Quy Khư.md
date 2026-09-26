@@ -42,3 +42,7 @@ tags:
 - Thuật ngữ: [[Quy Khư Quyết]], [[Quy Khư Đạo]], [[Ngoại Sinh Linh]], [[Di Cốt]], [[Nhân Quả Thất Lạc]], [[Bí Cảnh]]
 - Bí ẩn: [[Hắc Quan]], [[Vĩnh Sinh Môn]], [[Ngoài Cửu Thiên]], [[Hệ Thống Khống Chế Thiên Địa]]
 - Xem thêm: [[01_CORE_CANON|Core Canon]], [[02_WORLD_LOR|World Lore]], [[03_WORLD_LORE_EXPANSION]]
+
+## Định nghĩa tác giả đã duyệt
+
+Quy Khư là vùng tiếp nhận vật chất, dấu vết và nhân quả mà Thiên Tịch không ghi nhận được; không phải một giới hành chính sau Ngoài Cửu Thiên. Những hố sâu, hành lang hay bí cảnh có thể là cửa/ổn định cục bộ, không phải toàn thể Quy Khư. Bị quên không tự động có nghĩa một người rơi vào đó. [[Thiết Kế Tác Giả Đã Chốt — Thế Giới, Lịch Sử Và Bí Mật]].

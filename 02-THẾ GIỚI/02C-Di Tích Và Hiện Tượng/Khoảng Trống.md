@@ -49,3 +49,7 @@ Trước khi viết một trường hợp, phải xác định điều gì bị 
 Vật còn lại, dấu lao động và lời người bên ngoài cần có khả năng giúp người sống tiếp tục tìm kiếm. [[Thủ Danh Phường]] vì vậy có thể gặp một giới hạn mới của nghề, không có phép tự khôi phục toàn bộ tên người hoặc lịch sử đã mất.
 
 Bản thiết kế này không xác nhận nguyên nhân cuối cùng, không đồng nhất Khoảng Trống với [[Địa Ký]] hay Khuyết Ký, và không cho phép xóa bằng chứng để trì hoãn đáp án tùy ý.
+
+## Cơ chế đã duyệt
+
+Khoảng Trống là hiện tượng làm suy yếu khả năng lưu giữ hoặc xác nhận một dấu nối, không phải khoảng không gian vô hạn và cũng không tự động là Quy Khư. Vật neo, nhân chứng và dấu vết độc lập có thể giúp giữ lại một phần chứng cứ; không bảo đảm phục hồi người/vật đã mất. Dùng quy mô cục bộ trước, mở rộng chỉ khi truyện có bằng chứng.

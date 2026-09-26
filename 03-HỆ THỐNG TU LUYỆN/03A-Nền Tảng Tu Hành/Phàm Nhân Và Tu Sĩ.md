@@ -1,6 +1,6 @@
 ---
 type: tu-luyen
-status: tbd
+status: author-approved-design
 tags:
   - tu-luyen
   - pham-nhan
@@ -9,38 +9,21 @@ tags:
 
 # Phàm Nhân Và Tu Sĩ
 
-> Mối quan hệ giữa hai tầng lớp nền tảng của văn minh trong thế giới tu tiên.
+> Hai tầng xã hội phụ thuộc lẫn nhau, dù quyền lực và khả năng tự vệ bất cân xứng.
 
-## Trạng thái lore
+## Trật tự xã hội đã duyệt
 
-`TBD`
+Tu sĩ có sức mạnh dễ cưỡng chế hơn nên thường có lợi thế về đất tốt, giấy phép, kiện tụng và bảo vệ. Phàm nhân giữ nông nghiệp, thủ công, sổ sách, vận tải, sửa chữa, chăm sóc người bệnh và tri thức địa phương. Thành trì không thể tồn tại nếu tu sĩ chỉ chiếm đất mà không còn người trồng, chở và sửa.
 
-## Vai trò của phàm nhân
+Quyền lực được tạo qua ba lớp: quyền lực công (Châu Phủ, Chấn Châu Ti, phủ thành chủ), quyền lực tài nguyên/nghề (gia tộc, hội nghề, thương nhân) và khả năng tự bảo vệ (tu vi, trận thức, cộng đồng). Không có một tầng duy nhất kiểm soát mọi mặt. Pháp luật ghi trên giấy không tự đảm bảo người nghèo được đối xử công bằng.
 
-Phàm nhân không chỉ là tầng lớp yếu hơn tu sĩ. Họ là nền móng của văn minh. Phàm nhân tạo ra:
-- thành trì
-- nông nghiệp
-- thủ công
-- thương mại
-- văn hóa
-- huyết mạch
-- lịch sử
-- tín ngưỡng
+## Hệ quả trong truyện
 
-## Cân bằng sinh thái
-
-Một khả năng: **Thiên địa cần cả phàm nhân lẫn tu sĩ để duy trì sự vận hành.**
-
-Nếu các thế lực tu tiên khai thác phàm nhân quá mức, hậu quả có thể ảnh hưởng ngược trở lại:
-- dân số
-- sinh cơ
-- Địa Mạch
-- tín ngưỡng
-- sự ổn định của một vùng
-
-Đây có thể trở thành một nguyên nhân khiến thế giới ngày càng suy yếu.
+- Tài nguyên tu hành có chuỗi người lao động, đường vận tải, thuế và quyền sử dụng.
+- Tu sĩ có thể áp bức phàm nhân, nhưng hành động đó làm yếu chính nguồn lương, thuốc, nhân lực và thuế của họ.
+- Một quyết định đóng đường/mạch có thể cứu thành này và làm mất sinh kế của thôn khác.
+- Không xem phàm nhân là đám đông đứng chờ nhân vật chính cứu; họ có nghề, quan hệ, lập trường và năng lực từ chối.
 
 ## Liên kết
 
-- Thế giới: [[Địa Mạch]], [[Tín Ngưỡng]]
-- Xem thêm: [[03_WORLD_LORE_EXPANSION]]
+[[Địa Mạch]] · [[Tín Ngưỡng]] · [[Sinh Kế Và Các Vùng Vân Châu]] · [[Thiết Kế Tác Giả Đã Chốt — Thế Giới, Lịch Sử Và Bí Mật]]

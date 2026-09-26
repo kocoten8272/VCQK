@@ -52,3 +52,7 @@ Không xác nhận cơ chế này là canon.
 
 - Thế giới: [[Địa Mạch]], [[Địa Ký]], [[Quy Khư]]
 - Xem thêm: [[03_WORLD_LORE_EXPANSION]]
+
+## Phân loại và nguyên tắc đã duyệt
+
+Bí cảnh là khu vực có ranh giới, điều kiện tiếp cận và quy luật vận hành cục bộ; không mặc định là một thế giới riêng. Khi triển khai, ghi rõ nguồn duy trì, lối vào/ra, tài nguyên, thời gian, nguy cơ và ai có quyền kiểm soát. Bí cảnh có thể là di tích tự nhiên, công trình do người dựng, hay vùng chồng lấn; phân loại theo chứng cứ tại chỗ.

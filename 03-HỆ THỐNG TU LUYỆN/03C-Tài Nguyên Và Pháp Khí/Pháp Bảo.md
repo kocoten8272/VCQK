@@ -42,3 +42,11 @@ Bảng phân loại nguồn gốc bên trên không thay bằng chứng của t�
 Đến Chương 50 kiếm của Thanh Ly đang làm bảo chứng ở viện. Không để nàng dùng kiếm ở cảnh khác trước khi việc nhận lại được thể hiện; không tự cấp vũ khí tương đương để xóa giá trị món nợ.
 
 Liên kết: [[Thiên Tài Địa Bảo]], [[Quy Tắc Miêu Tả Nhân Vật]].
+
+## Thang phẩm và ranh giới đã duyệt
+
+Thang phẩm: Phàm Khí → Linh Khí → Huyền Khí → Địa Khí → Thiên Khí → Tiên Khí → Đạo Khí. Phẩm cấp là tiềm năng và độ phức tạp chế tác, không bảo đảm món cổ hỏng thắng vật mới. Không gán ý thức hoàn chỉnh cho pháp bảo nếu truyện chưa gieo.
+
+Thuận Thiên Khí, Nghịch Thiên Khí và Quy Khư Dị Vật mô tả nguồn gốc/quan hệ với trật tự, không phải bậc phẩm. Không mặc định nhẫn bạc, Hắc Quan hay ngọc giản thuộc cùng một dòng. Công năng theo hồ sơ từng vật.
+
+[[Thiết Kế Tác Giả Đã Chốt — Tu Hành, Sinh Tử Và Tài Nguyên]].

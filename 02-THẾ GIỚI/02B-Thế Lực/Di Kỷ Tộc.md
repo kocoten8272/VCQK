@@ -121,3 +121,7 @@ Chương 46 trong [[Đường Dây Chương 40-48]] có thể gieo dấu can thi
 
 - [[Hệ Thống Phản Diện Đa Chiều]], [[Phục Bút Và Bí Mật]], [[Các Arc]]
 - [[Quy Khư]], [[Khoảng Trống]], [[Ngoại Sinh Linh]], [[Hệ Thống Khống Chế Thiên Địa]]
+
+## Quyết định tác giả đã chốt — DEC-005
+
+Di Kỷ Tộc là tộc nội sinh của Cửu Thiên, hậu duệ của nền văn minh tiền Lập Tịch. Ba lập trường nội bộ đã duyệt: Phục Kỷ muốn khôi phục trật tự/công pháp cũ; Thủ Di giữ lại di sản và bản sắc; Dung Thế tìm cách sống chung với cấu trúc hiện tại. Không nhánh nào mặc định chính nghĩa hoặc toàn ác. Di Kỷ Tộc không phải Ngoại Sinh Linh, không phải Mạc Nhân, và không có quê hương trong Quy Khư. Không nối trực tiếp với Quy Khư.

@@ -1,6 +1,6 @@
 ---
 type: the-gioi
-status: de-xuat
+status: author-approved-design
 tags:
   - the-gioi
   - the-luc
@@ -11,7 +11,7 @@ tags:
 
 # Thẩm Gia
 
-> Gia tộc địa phương trồng và phân phối dược liệu thông dụng quanh Lăng Vân Thành; hiện là đề xuất, chưa xuất hiện trong bản thảo.
+> Gia tộc địa phương đã được tác giả duyệt làm thiết kế nghề nghiệp; chưa xuất hiện trong bản thảo.
 
 ## Mô tả
 
@@ -44,15 +44,19 @@ Thẩm Gia canh tác một số vạt dược điền ngoài thành, phơi và s
 
 ## Hồ sơ thành viên
 
-- [[Thẩm Chấn Nông]] — hồ sơ cá nhân đề xuất
-- [[Thẩm Từ Nghi]] — hồ sơ cá nhân đề xuất
-- [[Thẩm Minh Châu]] — hồ sơ cá nhân đề xuất
-- [[Thẩm Hoài Sinh]] — hồ sơ cá nhân đề xuất
-- [[Thẩm Hương Dật]] — hồ sơ cá nhân đề xuất
-- [[Thẩm Vãn Đường]] — hồ sơ cá nhân đề xuất
+- [[Thẩm Chấn Nông]] — hồ sơ cá nhân đã duyệt
+- [[Thẩm Từ Nghi]] — hồ sơ cá nhân đã duyệt
+- [[Thẩm Minh Châu]] — hồ sơ cá nhân đã duyệt
+- [[Thẩm Hoài Sinh]] — hồ sơ cá nhân đã duyệt
+- [[Thẩm Hương Dật]] — hồ sơ cá nhân đã duyệt
+- [[Thẩm Vãn Đường]] — hồ sơ cá nhân đã duyệt
 
 ## Liên kết
 - Gia phả và sơ đồ nhân sự: [[Gia Phả Và Cơ Cấu Nhân Sự Các Thế Lực]]
 - Địa điểm: [[Lăng Vân Thành]], [[Vân Châu]]
 - Thế lực: [[Các Gia Tộc Lăng Vân Thành]], [[Tô Gia]], [[Hạ Gia]], [[Bùi Gia]]
 - Nhân vật: [[Mạnh Thanh Tễ]], [[Lâm Uyên]]
+
+## Quyết định tác giả đã chốt — DEC-002/003
+
+Tác giả đã chốt nghề, cơ cấu gia tộc và toàn bộ danh sách nhân vật/gia phả ở hồ sơ này làm thiết kế triển khai. Các thành viên chưa xuất hiện vẫn là nhân vật tương lai; không tạo hồi ức, giao dịch hoặc hành động quá khứ mới nếu chương chưa xác nhận.

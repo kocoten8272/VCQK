@@ -18,7 +18,7 @@
 
 ## BẢN ĐỒ & LUẬT
 
-- [[Sổ Đề Xuất Chờ Tác Giả Chốt]] — các phương án chưa thành canon và điểm cần tác giả phân xử
+- [[Sổ Đề Xuất Chờ Tác Giả Chốt]] — các quyết định tác giả đã duyệt và trạng thái continuity
 - [[Bản Đồ Liên Kết]] — bản đồ tổng thể thế giới – nhân vật – bí ẩn
 - [[Cấu Trúc Kho Truyện]] — vai trò từng thư mục và quy tắc lưu tài liệu
 - [[Luật Viết]] — quy tắc vàng khi viết
@@ -27,6 +27,7 @@
 
 ## WORLD LORE SYSTEM
 
+- [[Thiết Kế Tác Giả Đã Chốt — Thế Giới, Lịch Sử Và Bí Mật]] — cosmology, lịch sử, bí mật và thứ tự hé lộ ở lớp tác giả
 - [[00-DANH MỤC LORE]] — sổ node và ID lore ổn định
 - [[01-Cấu Trúc Vũ Trụ Và Tầng Thế Giới]] — phân tầng đã xác nhận và phần chưa biết
 - [[02-Bản Đồ Và Logic Không Gian]] — địa lý, cự ly và thời gian di chuyển còn mở
@@ -71,6 +72,7 @@
 
 ## HỆ THỐNG TU LUYỆN
 
+- [[Thiết Kế Tác Giả Đã Chốt — Tu Hành, Sinh Tử Và Tài Nguyên]] — cơ chế 12 cảnh giới, sinh tử, công pháp, pháp khí và tài nguyên
 - [[00-Danh Mục Hệ Thống Tu Luyện]] — mục lục và ID cảnh giới/pháp môn
 - [[01-QUY TẮC VẬN HÀNH VÀ POWER SCALING]] — quy tắc tiến triển và so sánh chiến lực
 - [[02-BÁO CÁO KIỂM TOÁN HỆ THỐNG TU LUYỆN]] — phần đã rõ, giới hạn và cần tác giả quyết định

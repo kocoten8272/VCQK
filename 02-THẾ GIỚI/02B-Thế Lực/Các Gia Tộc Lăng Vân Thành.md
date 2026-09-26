@@ -1,6 +1,6 @@
 ---
 type: the-gioi
-status: de-xuat
+status: author-approved-design
 tags:
   - the-gioi
   - the-luc
@@ -10,7 +10,7 @@ tags:
 
 # Các Gia Tộc Lăng Vân Thành
 
-> **Bản đề xuất để tác giả duyệt.** Ngoài Tô Gia, Lăng Vân Thành cần vài thế gia địa phương có quyền lực từ nghề nghiệp và tài nguyên thiết yếu. Các gia tộc dưới đây chưa xuất hiện trong bản thảo; tên, quy mô và mốc xuất hiện có thể sửa.
+> **Bản được tác giả duyệt.** Ngoài Tô Gia, Lăng Vân Thành cần vài thế gia địa phương có quyền lực từ nghề nghiệp và tài nguyên thiết yếu. Các gia tộc dưới đây chưa xuất hiện trong bản thảo, dù thiết kế đã được duyệt; tên, quy mô và mốc xuất hiện có thể sửa.
 
 ## Mục tiêu xây dựng
 
@@ -29,7 +29,7 @@ Lăng Vân không nên chỉ là nơi Tô Gia đứng giữa một nền trống
 
 Thế cân bằng này khiến Tô Gia có sức mạnh trực diện nhưng không toàn quyền. Một quyết định của Tô Gia về thuốc, cổng thành hoặc điều tra có thể bị các nhà khác làm chậm bằng giá cả, nhân lực và hồ sơ. Họ cần hợp tác với nhau từng việc, nhưng không phải một liên minh kín.
 
-## Ba gia tộc địa phương được đề xuất
+## Ba gia tộc địa phương được đã duyệt
 
 ### Hạ Gia — tuyến đường và bến nước
 
@@ -57,7 +57,7 @@ Thế cân bằng này khiến Tô Gia có sức mạnh trực diện nhưng kh�
 
 ## Hồ sơ thành viên để tra cứu
 
-Ba gia tộc hiện có 18 hồ sơ cá nhân đề xuất trong thư mục `01-NHÂN VẬT/01D-Lăng Vân Thành`. Tất cả đều chưa xuất hiện và có thể đổi trước khi thành canon.
+Ba gia tộc hiện có 18 hồ sơ cá nhân đã duyệt trong thư mục `01-NHÂN VẬT/01D-Lăng Vân Thành`. Tất cả đều chưa xuất hiện và có thể đổi trước khi thành canon.
 
 - **Hạ Gia:** [[Hạ Quế Lan]] · [[Hạ Đình Vận]] · [[Hạ Nhược Châu]] · [[Hạ Thừa Kha]] · [[Hạ Đình Khôi]] · [[Hạ Minh Giang]]
 - **Thẩm Gia:** [[Thẩm Chấn Nông]] · [[Thẩm Từ Nghi]] · [[Thẩm Minh Châu]] · [[Thẩm Hoài Sinh]] · [[Thẩm Hương Dật]] · [[Thẩm Vãn Đường]]
@@ -83,13 +83,13 @@ Ba gia tộc hiện có 18 hồ sơ cá nhân đề xuất trong thư mục `01-
 
 ## Dàn gia phả mở rộng
 
-Bản gia phả hiện có ba thành viên cho mỗi nhà. Để các nhà có nhiều lớp thế hệ và lợi ích nội bộ hơn, [[Gia Phả Và Cơ Cấu Nhân Sự Các Thế Lực]] đã bổ sung **ba nhân vật dự kiến cho mỗi gia tộc**: trưởng bối và nhánh kho ở Hạ Gia; trưởng bối cùng nhánh hợp đồng vườn ở Thẩm Gia; nhánh khai thạch và bảng công ở Bùi Gia. Toàn bộ tên và quan hệ mới vẫn là đề xuất, chưa xuất hiện trong truyện.
+Bản gia phả hiện có ba thành viên cho mỗi nhà. Để các nhà có nhiều lớp thế hệ và lợi ích nội bộ hơn, [[Gia Phả Và Cơ Cấu Nhân Sự Các Thế Lực]] đã bổ sung **ba nhân vật dự kiến cho mỗi gia tộc**: trưởng bối và nhánh kho ở Hạ Gia; trưởng bối cùng nhánh hợp đồng vườn ở Thẩm Gia; nhánh khai thạch và bảng công ở Bùi Gia. Toàn bộ tên và quan hệ mới vẫn là đã duyệt, chưa xuất hiện trong truyện.
 
 Danh sách mở rộng kèm tuổi, tính cách, mục tiêu, mâu thuẫn và giới hạn hiểu biết nằm trong gia phả tổng hợp để tránh tạo nhiều bản chép hồ sơ. Chỉ tạo hồ sơ cá nhân riêng khi tác giả chọn nhân vật và mốc xuất hiện.
 
 ## Liên tục và điều chưa chốt
 
-- Hạ Gia, Thẩm Gia và Bùi Gia hiện là **đề xuất mới**, chưa xuất hiện trong các chương 1–50.
+- Hạ Gia, Thẩm Gia và Bùi Gia hiện là **đã duyệt mới**, chưa xuất hiện trong các chương 1–50.
 - Không biến Hạ Gia thành người mua thuốc, Thẩm Gia thành nguồn thuốc giả hay Bùi Gia thành thủ phạm tai nạn chỉ để các tuyến liên kết nhanh.
 - Chưa xác định thành chủ, cơ quan quản lý cấp thành, quân số từng nhà, cảnh giới gia chủ hay quyền thu thuế. Chỉ bổ sung khi cốt truyện cần và có căn cứ trong bản thảo.
 - [[Liễu Gia]] ở địa bàn khác của [[Vân Châu]], dự kiến cho giai đoạn sau; không dùng Liễu Gia thay cho những mâu thuẫn đời thường của các nhà tại Lăng Vân.
@@ -101,3 +101,7 @@ Danh sách mở rộng kèm tuổi, tính cách, mục tiêu, mâu thuẫn và g
 - Thế lực: [[Tô Gia]], [[Thế Lực Vân Châu]], [[Liễu Gia]]
 - Nhân vật: [[Lâm Uyên]], [[Tô Thanh Ly]], [[Mạnh Thanh Tễ]], [[Tạ Nghiên Chi]], [[Kỷ Hành Chu]]
 - Khung truyện: [[Các Arc]], [[Trạng Thái Truyện Sau Chương 50]], [[Kế Hoạch Làm Rõ Hai Mạng Lưới Sau Chương 50]]
+
+## Quyết định tác giả đã chốt — DEC-002/003
+
+Tác giả đã chốt nghề, cơ cấu gia tộc và toàn bộ danh sách nhân vật/gia phả ở hồ sơ này làm thiết kế triển khai. Các thành viên chưa xuất hiện vẫn là nhân vật tương lai; không tạo hồi ức, giao dịch hoặc hành động quá khứ mới nếu chương chưa xác nhận.

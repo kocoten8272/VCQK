@@ -47,3 +47,11 @@ Hệ thống có thể liên quan đến:
 - Nhân vật: [[Lâm Uyên]]
 - Khung truyện: [[Cốt Truyện]], [[Bi Kịch và Nhân Quả Lâm Uyên]]
 - Xem thêm: [[03_WORLD_LORE_EXPANSION]]
+
+## Truth sheet đã duyệt — chưa phải tri thức trong truyện
+
+Tên nội bộ của hệ thống là **Thiên Tịch**: mạng lưới trạm ghi nhận và trận thức được dựng sau Đại Nạn Đứt Mạch để ổn định dấu nối giữa thân phận, sinh tử, nhân quả. Nó không phải thần linh toàn năng. Khi quá tải, mạng lưới cắt hoặc chuyển phần dư ra ngoài danh mục; điều đó giữ một số vùng ổn định nhưng làm mất đường sống, lịch sử hoặc quan hệ của người khác.
+
+Thiên Tịch không tạo toàn bộ Đại Đạo. Nó chuẩn hóa và giới hạn một phần cách tu. Có thể làm nghẽn hoặc sửa cục bộ; phá toàn mạng lưới sẽ gây hỗn loạn ở những nơi dựa vào nó. Bích văn Chương 27 đúng một phần nhưng thiên lệch, không phải lời giải trọn vẹn.
+
+[[Thiết Kế Tác Giả Đã Chốt — Thế Giới, Lịch Sử Và Bí Mật]].

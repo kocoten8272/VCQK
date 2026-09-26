@@ -44,3 +44,11 @@ Không thể được thiên địa ghi nhận hoàn chỉnh. Một tồn tại 
 - Thế lực: [[Tầm Chân Ti - Đội Sưu Tróc Dị Số]]
 - Bí ẩn: [[Nhân Quả Thất Lạc]], [[Hệ Thống Khống Chế Thiên Địa]]
 - Xem thêm: [[03_WORLD_LORE_EXPANSION]]
+
+## Chuẩn tác giả đã duyệt
+
+“Dị số” là nhãn hành chính của Thiên Tịch cho cá thể khó ghi nhận, không phải phẩm chất bẩm sinh hay thang sức mạnh khách quan. Năng lực của từng người phải được chứng minh riêng; hồ sơ sai hoặc không đầy đủ cũng có thể khiến người bình thường bị gắn nhãn.
+
+Thiên Tịch không nhìn thấu mọi thứ: sai lệch có thể do vật chứng mất, trạm hỏng, địa mạch nhiễu hoặc người làm giả. [[Lâm Uyên]] có thể bị phân loại dị số do dữ liệu không khớp; chưa có nghĩa Tầm Chân Ti đã xác định hắn hoặc biết bí mật đời thứ chín.
+
+[[Thiết Kế Tác Giả Đã Chốt — Thế Giới, Lịch Sử Và Bí Mật]].

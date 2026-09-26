@@ -68,3 +68,7 @@ Xung đột có thể đến từ thiết kế cũ, thay đổi dân cư, bảo 
 [[Khảo Mạch Hội]] đánh giá kỹ thuật; đơn vị thi công xử lý công trình; cơ quan có thẩm quyền quyết định di dời. [[Đoạn Mạch Hội]] có thể muốn đóng tuyến, song chính việc đóng cũng có thể gây mất nguồn sống ở một nơi khác.
 
 Không tự gắn kịch bản này vào tai nạn dự kiến của Mạnh Thanh Tễ hoặc vụ thuốc Chương 50. Những tuyến ấy còn phải phát triển nguyên nhân riêng. Xem [[Triển Khai Mạc Pháp Và Các Thế Lực Sau Chương 50]].
+
+## Quan hệ với Mạc Pháp đã duyệt
+
+Địa Mạch vận chuyển và phân phối linh khí/nước/nhiệt theo địa hình; các nhánh có sức tải và tốc độ hồi phục khác nhau. Khai thác vượt mức, công trình sai hoặc biến đổi tự nhiên có thể gây suy yếu cục bộ. Mạc Pháp chưa được quy hoàn toàn cho Địa Mạch; hai tuyến có thể tác động lẫn nhau nhưng cần chứng cứ độc lập.

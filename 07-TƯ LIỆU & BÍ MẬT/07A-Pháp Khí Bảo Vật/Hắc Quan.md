@@ -35,3 +35,9 @@ tags:
 - Thế giới: [[Vọng Sơn Trấn]], [[Quy Khư]]
 - Bí ẩn: [[Ngọc Giản Quy Khư]], [[Chiếc Nhẫn Bạc]], [[Vĩnh Sinh Môn]], [[Đời Thứ Chín]]
 - Nhân vật liên quan: [[Lâm Chinh]] (cha Lâm Uyên)
+
+## Thiết kế nội bộ đã duyệt
+
+Hắc Quan giữ thi thể và mảnh hồ sơ cuối của Đời Thứ Chín sau lần chết thứ chín, nhằm ngăn Thiên Tịch xóa hết chứng cứ. Quan tài không hồi sinh, không chứa linh hồn Lâm Uyên và không truyền ký ức tự động. Lâm Uyên là người đời thứ mười sinh tự nhiên, nối với đời trước bằng món nợ nhân quả còn sót.
+
+Việc quan tài phản ứng khi đời thứ mười đến gần là cơ chế lưu trữ/đối chiếu, không chứng minh có ý thức bên trong. Chỉ đưa từng phần ra truyện khi có vật chứng độc lập.

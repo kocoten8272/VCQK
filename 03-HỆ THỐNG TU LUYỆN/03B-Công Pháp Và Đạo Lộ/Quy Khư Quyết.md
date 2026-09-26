@@ -1,41 +1,35 @@
 ---
 type: tu-luyen
-status: dang-phat-trien
+status: author-approved-design
 tags:
   - tu-luyen
   - cong-phap
+  - continuity
 ---
 
 # Quy Khư Quyết
 
-> Công pháp tu luyện gắn liền với [[Quy Khư Đạo]] — được truyền vào người [[Lâm Uyên]] qua [[Ngọc Giản Quy Khư]].
+> Công pháp tu luyện gắn với [[Quy Khư Đạo]], được truyền vào người [[Lâm Uyên]] qua [[Ngọc Giản Quy Khư]].
 
-## Nguồn gốc và lịch sử
+## Nguồn gốc và điều đã biết
 
-- Là công pháp **thất truyền ngàn năm** — liệt vào hàng *cấm công*, không ai dám luyện.
-- Trong ghi chép: một kẻ tu luyện Quy Khư Quyết đạt tới cảnh giới [[Chân Tiên]], sức mạnh nuốt trọn cả một môn phái, nhưng nửa năm sau **tự tay hủy toàn bộ ký ức** rồi biến mất khỏi sử sách.
-- Ghi chép khác: người luyện tự xóa dấu vết; hoặc đã đi đến *"một nơi nào đó không thuộc về thế giới này"* (liên hệ [[Vĩnh Sinh Môn]]).
+- Là công pháp thất truyền, bị xếp vào hàng cấm công.
+- Ghi chép nói một người tu luyện đạt Chân Tiên rồi hủy ký ức và biến mất; nguyên nhân/căn cứ của ghi chép chưa được người trong truyện xác minh.
+- Không vận hành như công pháp hấp thu linh khí thông thường; tạo Quy Khư đạo khí và khoảng trống quanh nơi Nạp Vô tác động.
+- Cái giá dài hạn gắn với khả năng mất mối nối ký ức và dấu tồn tại. Không phải cứ đau là tăng sức mạnh; không mất ký ức ở mỗi lần vận công.
 
-## Đặc tính
+## Năm thức trong thiết kế tác giả
 
-- **Không phải** công pháp hấp thu linh khí thông thường.
-- Làm bộc phát linh khí dị thường, hệ phổ **đã tuyệt tích cả ngàn năm** — thứ mà trưởng lão [[Tô Gia]] truy tìm.
-- Sinh ra **Quy Khư đạo khí** — khác linh lực thường.
-- Vận hành tạo ra *khoảng trống* — hút sạch linh khí xung quanh (cỗ xe [[Tô Thanh Ly]] hết linh khí, đá thử [[Linh Căn]] vỡ).
-- **Cái giá:** người luyện sớm muộn cũng biến mất — *"như chưa từng tồn tại"*; ký ức là một trong những cái giá quan trọng.
+| Thứ tự | Tên | Tình trạng trong truyện | Giới hạn |
+|---|---|---|---|
+| 1 | [[Nạp Vô]] | Đã xuất hiện, Lâm Uyên đang học kiểm soát | Chỉ tiếp nhận phần lực dư; quá sức gây Khư Tức; không lấy kỹ năng hoặc ký ức |
+| 2 | **Tàng Hư** | Chưa học | Giữ tạm một phần lực tiếp nhận; sức chứa hẹp, lưu quá lâu gây bất ổn |
+| 3 | **Chiếu Khuyết** | Chưa học | Cảm nhận chỗ khuyết trong một dấu nối; không biết ai gây ra hay vì sao |
+| 4 | **Hoàn Ký** | Chưa học | Trả dấu vết vào chuỗi nhân quả khi có vật chứng và lời chứng; không phục hồi người chết |
+| 5 | **Quy Tịch** | Chưa học | Đóng một vết rách cục bộ bằng cách từ bỏ một mối nối làm neo; không sửa lịch sử/Thiên Tịch toàn cục |
 
-## Các thức
-
-- **Đệ nhất thức: [[Nạp Vô]]** — hiện là thức duy nhất đã xuất hiện.
-- Các thức khác: **TBD**.
-
-## Vai trò trong truyện
-
-- Là mối dây nối [[Lâm Uyên]] với đời thứ chín và [[Quy Khư]].
-- Tô Thanh Ly: *"một kẻ mang trong người thứ công pháp có thể 'nuốt' cả Đại Đạo... tuyệt đối không thể để mặc tự sinh tự diệt."*
+Các thức sau chỉ mở khi câu chuyện gieo năng lực, điều kiện và giá phải trả. Ngọc giản không biến Lâm Uyên thành người thành thạo tức thời.
 
 ## Liên kết
 
-- Thuật ngữ: [[Nạp Vô]], [[Quy Khư Đạo]], [[Quy Khư]], [[Đại Đạo]]
-- Bí ẩn: [[Ngọc Giản Quy Khư]], [[Hắc Quan]], [[Vĩnh Sinh Môn]]
-- Xem thêm: [[01_CORE_CANON|Core Canon]]
+[[Quy Khư Đạo]] · [[Nạp Vô]] · [[Khư Tức]] · [[Cảnh Giới]] · [[Ngọc Giản Quy Khư]] · [[Thiết Kế Tác Giả Đã Chốt — Tu Hành, Sinh Tử Và Tài Nguyên]]

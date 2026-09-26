@@ -27,3 +27,7 @@ tags:
 ## 4. Liên kết
 - Thế giới: [[Vân Châu]], [[Lăng Vân Thành]], [[Quy Khư]]
 - Khung truyện: [[Cốt Truyện]], [[Lịch Sử Thế Giới]]
+
+## Hướng đã duyệt — DEC-010
+
+Giữ hướng thời loạn xa trong tương lai: Mạc Pháp lan không đồng đều, sinh kế và quyền lực địa phương chao đảo; không có ngày tận thế cố định, không buộc mọi vùng sụp cùng lúc. Cho người đọc thấy trước hết bằng giếng cạn, tuyến thuốc đứt, trận bảo hộ thiếu vật liệu, tranh chấp đất và người phải rời quê.

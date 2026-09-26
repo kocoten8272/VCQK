@@ -66,3 +66,9 @@ Mỗi hiện tượng cần xét cả nguyên nhân thông thường như mùa v
 [[Khảo Mạch Hội]] đo và báo nguy cơ; [[Thủ Danh Phường]] chăm phần danh tính, người mất tích và hậu sự; [[Đoạn Mạch Hội]] đề nghị hoặc cưỡng hành việc đóng nhánh mạch. Mỗi bên chỉ tiếp cận một phần vấn đề.
 
 Xem [[Triển Khai Mạc Pháp Và Các Thế Lực Sau Chương 50]] về thứ tự hé lộ. Chưa thêm đại kiếp có ngày đếm ngược, thế giới mới hoặc đáp án cấp thiên địa.
+
+## Phương hướng đã duyệt
+
+Mạc Pháp là xu thế suy thoái kéo dài, không có đồng hồ tận thế chung. Diễn biến không đồng đều giữa các vùng: nguồn nước/dược liệu, linh mạch, trận bảo hộ và đường vận chuyển suy giảm theo nhịp riêng. Nguyên nhân tối hậu chưa cần nhân vật hiện tại biết; không quy mọi hiện tượng về một thủ phạm duy nhất.
+
+Các dấu hiệu là triển khai tương lai. Không hồi tố thành thực tế đã xảy ra trong Chương 1–52 nếu chương không có chứng cứ. [[Thiết Kế Tác Giả Đã Chốt — Thế Giới, Lịch Sử Và Bí Mật]].

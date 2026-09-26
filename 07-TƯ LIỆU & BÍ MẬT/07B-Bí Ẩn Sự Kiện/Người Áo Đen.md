@@ -36,3 +36,11 @@ Từ giai đoạn Hắc Phong Sơn, kẻ đứng đầu hoặc người xuất h
 - **Hàn Tẫn:** tro lạnh lưu lại quanh dấu vết của hắn.
 - **Tử Huyết Ngân:** vệt máu tối, khó tan, có thể xuất hiện khi hắn bị thương.
 - Các dấu vết chỉ giúp nhận diện sự can thiệp; không được dùng để suy ra ngay thân phận hay phe phái.
+
+## Phân loại nội bộ đã duyệt
+
+Hắc Nha là mạng lưới thu hồi tài liệu, thuê người đe dọa và xóa dấu vết. “Huyền Bào Nhân” là danh xưng hiện trường, không đồng nghĩa một cá nhân; các nhóm áo đen chỉ được nối với Hắc Nha khi có dấu hiệu độc lập trong cảnh.
+
+Tả tiên sinh là bí danh của Tả Hoài Tĩnh, cựu kiểm lục viên kho sử Vân Châu, cảnh giới Linh Hải ổn định. Ông muốn thu hồi Cổ Sử Vĩnh Sinh Môn để đóng các cửa lỗi trước khi một lần mở sai gây mất tích hàng loạt. Động cơ không miễn trách nhiệm cho thủ đoạn của ông. Hắc Nha không điều khiển mạng lưới mua thuốc.
+
+[[Thiết Kế Tác Giả Đã Chốt — Thế Giới, Lịch Sử Và Bí Mật]].

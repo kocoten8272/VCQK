@@ -73,3 +73,9 @@ Chưa gán mỏ cho gia tộc, chưa xác nhận có vụ gây hại nào đã x
 - Mốc xuất hiện, phần đã chứng minh và phần đang thử.
 
 Xem [[Sinh Kế Và Các Vùng Vân Châu]], [[Pháp Bảo]], [[Tu Hành Ba Cảnh Giới Đầu]].
+
+## Chuẩn sử dụng đã duyệt
+
+Tài nguyên quý phải có nguồn, mùa thu hoạch, người giữ đất, cách khai thác, hao hụt, đường vận chuyển, quyền sở hữu, công dụng đã chứng minh và hậu quả môi trường. Hiếm không tự động đồng nghĩa mạnh; không sinh tài nguyên mới chỉ để giải quyết nút truyện. Linh thạch vừa là vật liệu tích lực vừa là tài sản lưu thông; giá đổi theo phẩm, mùa, thuế, đường hàng và nguy cơ.
+
+[[Thiết Kế Tác Giả Đã Chốt — Tu Hành, Sinh Tử Và Tài Nguyên]].

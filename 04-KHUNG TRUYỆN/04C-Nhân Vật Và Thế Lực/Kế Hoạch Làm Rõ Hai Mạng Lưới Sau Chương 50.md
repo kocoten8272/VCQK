@@ -118,3 +118,7 @@ Tên [[Tạ Nghiên Chi]] và [[Kỷ Hành Chu]] đã được tác giả chốt
 - [[Chương 50]]
 - [[Tạ Nghiên Chi]]
 - [[Kỷ Hành Chu]]
+
+## Chốt continuity — DEC-008
+
+Hắc Nha là mạng lưới thu hồi Cổ Sử Vĩnh Sinh Môn theo yêu cầu của Tả Hoài Tĩnh. Mạng lưới mua thuốc độc lập, lần theo lô dược liệu bị thay thế và cần lời khai Trần Dực. Không đồng nhất hai đường dây, không tạo một chủ mưu bao trùm. Chỉ nối chúng khi có chứng cứ mới độc lập và tác giả chủ động sửa quyết định.

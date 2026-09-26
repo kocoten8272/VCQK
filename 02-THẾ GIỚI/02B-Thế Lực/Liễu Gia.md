@@ -22,17 +22,17 @@ tags:
 
 ## Dàn gia phả để tác giả lựa chọn
 
-[[Gia Phả Và Cơ Cấu Nhân Sự Các Thế Lực]] đề xuất một dòng chính và một nhánh hộ vệ, gồm gia chủ, phối ngẫu, ba người con trưởng thành và một người em trai cùng con trai. Tất cả quan hệ với Liễu Nguyên Bá, tên tuổi và vai trò mới đều **đang ở trạng thái đề xuất**; không xem là canon cho đến khi tác giả chốt.
+[[Gia Phả Và Cơ Cấu Nhân Sự Các Thế Lực]] đã duyệt một dòng chính và một nhánh hộ vệ, gồm gia chủ, phối ngẫu, ba người con trưởng thành và một người em trai cùng con trai. Tất cả quan hệ với Liễu Nguyên Bá, tên tuổi và vai trò mới đều **đang ở trạng thái đã duyệt**; không xem là canon cho đến khi tác giả chốt.
 
 | Nhân vật | Vị trí dự kiến | Tình trạng |
 | --- | --- | --- |
-| Liễu Cảnh Thương | Gia chủ; giữ cân bằng giữa quyền khai thác và nguy cơ chiến tranh | Đề xuất |
-| Kỷ Dung Khanh | Phối ngẫu; quản giao ước và quan hệ thông gia | Đề xuất |
-| Liễu Cảnh Chi | Trưởng tử; phụ trách sổ mạch khoáng và đàm phán | Đề xuất |
-| Liễu Nhược Anh | Trưởng nữ; học độc thuật và giải độc, muốn tự lập | Đề xuất |
+| Liễu Cảnh Thương | Gia chủ; giữ cân bằng giữa quyền khai thác và nguy cơ chiến tranh | Đã duyệt |
+| Kỷ Dung Khanh | Phối ngẫu; quản giao ước và quan hệ thông gia | Đã duyệt |
+| Liễu Cảnh Chi | Trưởng tử; phụ trách sổ mạch khoáng và đàm phán | Đã duyệt |
+| Liễu Nhược Anh | Trưởng nữ; học độc thuật và giải độc, muốn tự lập | Đã duyệt |
 | [[Liễu Nguyên Bá]] | Đệ tử đích truyền; gương mặt đã có hồ sơ nhân vật | Hồ sơ hiện hữu; quan hệ gia phả chưa xác lập |
-| Liễu Cảnh Bạch | Em trai gia chủ; điều đội hộ vệ | Đề xuất |
-| Liễu Thừa Hạo | Con Cảnh Bạch; muốn được giao việc ở biên mạch | Đề xuất |
+| Liễu Cảnh Bạch | Em trai gia chủ; điều đội hộ vệ | Đã duyệt |
+| Liễu Thừa Hạo | Con Cảnh Bạch; muốn được giao việc ở biên mạch | Đã duyệt |
 
 Các nhân vật dự kiến có mục tiêu và bất đồng riêng: người muốn thương lượng để giữ mạch khoáng, người muốn dùng hộ vệ làm sức ép, người muốn tách nghề dược khỏi hôn ước, và người muốn chứng minh giá trị của nhánh mình. Họ không cùng biết bí mật, không nhất thiết cùng phe, và không mặc định đối địch với Lâm Uyên.
 
@@ -48,3 +48,7 @@ Các nhân vật dự kiến có mục tiêu và bất đồng riêng: người 
 - Gia phả và sơ đồ nhân sự: [[Gia Phả Và Cơ Cấu Nhân Sự Các Thế Lực]]
 - Thế giới: [[Vân Châu]], [[Thế Lực Vân Châu]], [[Tô Gia]]
 - Nhân vật: [[Liễu Nguyên Bá]], [[Lâm Uyên]]
+
+## Phê duyệt triển khai — DEC-004
+
+Được tác giả duyệt theo cơ cấu thế lực đã chốt. Gia tộc có thể tham gia cân bằng quyền lực địa phương; không gán họ chịu trách nhiệm một biến cố trước khi có dấu vết trong truyện.

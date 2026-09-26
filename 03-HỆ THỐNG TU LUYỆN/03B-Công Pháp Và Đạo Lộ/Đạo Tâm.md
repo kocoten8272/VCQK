@@ -1,6 +1,6 @@
 ---
 type: tu-luyen
-status: tbd
+status: author-approved-design
 tags:
   - tu-luyen
   - co-che
@@ -8,18 +8,20 @@ tags:
 
 # Đạo Tâm
 
-> Tâm tính / bản tâm của người tu hành trên con đường [[Đại Đạo]].
+> Khả năng nhìn rõ lựa chọn mình đang theo và chấp nhận trách nhiệm với hệ quả; không phải điểm số sức mạnh hay nguồn năng lượng.
 
-## Thông tin hiện có
+## Quy tắc vận hành
 
-- Đạo Tâm được nhắc đến trong menu tổng như một mục của Hệ thống tu luyện, nhưng **chưa có nội dung canon chi tiết**.
-- Có thể liên quan đến cái giá của [[Quy Khư Đạo]] (mất ký ức, mất những thứ trân trọng) và nguyên tắc phát triển [[Lâm Uyên]] (trả giá, mất mát, tự lựa chọn con đường).
+- Không có phép đo phổ quát. Các môn phái có thể dùng lời thề, câu hỏi, thực hành hoặc quan sát, nhưng mỗi phép chỉ phản ánh một phần.
+- Đạo Tâm vững giúp người tu giữ pháp môn ổn định khi chịu áp lực; không tự tăng linh lực hoặc thay một cảnh giới.
+- Mâu thuẫn giữa điều người tu tuyên bố và việc họ thực sự làm tạo điểm mù, do dự hoặc vận lực mất ổn định khi gặp đúng tình huống; không tự động khiến họ tẩu hỏa nhập ma.
+- Người thay đổi ý kiến sau khi nhận ra sai lầm không bị xem là “đạo tâm vỡ”. Trưởng thành có thể là đổi lời thề, miễn người đó hiểu mình đã làm gì.
+- Với Lâm Uyên, Đạo Tâm liên quan câu hỏi liệu giữ người khác có biến thành kiểm soát họ hay không. Nỗi sợ mất người không tự chứng minh lựa chọn nào cũng chính đáng.
 
-## Ghi chú phát triển
+## Quan hệ với Quy Khư Đạo
 
-- Cần định nghĩa: Đạo Tâm đo bằng gì? Vì sao [[Quy Khư Quyết]] làm người tu luyện "biến mất"? — **TBD**.
+Đạo Tâm không ngăn cái giá mất mối nối ký ức. Nó giúp Lâm Uyên nhận ra điều gì đã mất, lựa chọn có tiếp tục hay dừng và nhờ người khác giữ chứng cứ. Không dùng nó để tự khôi phục ký ức.
 
 ## Liên kết
 
-- Thuật ngữ: [[Đại Đạo]], [[Cảnh Giới]], [[Quy Khư Đạo]]
-- Nhân vật: [[Lâm Uyên]]
+[[Đại Đạo]] · [[Quy Khư Đạo]] · [[Cái Giá Của Quy Khư Đạo (Ký Ức Và Mất Mát)]] · [[Thiết Kế Tác Giả Đã Chốt — Tu Hành, Sinh Tử Và Tài Nguyên]]

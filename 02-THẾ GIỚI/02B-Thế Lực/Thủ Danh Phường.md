@@ -41,3 +41,7 @@ Sau biến cố của [[Mạnh Thanh Tễ]], phường có thể hỗ trợ dân
 ## Liên kết
 
 [[Lăng Vân Thành]] · [[Địa Ký]] · [[Triển Khai Mạc Pháp Và Các Thế Lực Sau Chương 50]]
+
+## Phê duyệt triển khai — DEC-004
+
+Được tác giả duyệt. Triển khai để lưu tên, vật chứng và trả di vật cho thân nhân; sổ ghi là nguồn chứng cứ hữu hạn, không phải sự thật toàn tri.

@@ -41,3 +41,7 @@ Không gán họ cho nhóm áo đen Chương 33, người mua thuốc, vết sá
 ## Liên kết
 
 [[Khảo Mạch Hội]] · [[Địa Mạch]] · [[Mạc Pháp]] · [[Triển Khai Mạc Pháp Và Các Thế Lực Sau Chương 50]]
+
+## Phê duyệt triển khai — DEC-004
+
+Được tác giả duyệt. Xuất hiện sau khi xung đột địa mạch có căn cứ; chủ trương đóng mạch/di dân có thể ngăn thảm họa nhưng gây thiệt hại và tranh chấp quyền lợi.

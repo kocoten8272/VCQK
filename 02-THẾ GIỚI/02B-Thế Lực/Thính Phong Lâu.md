@@ -29,3 +29,7 @@ tags:
 - Thế giới: [[Vân Châu]], [[Thế Lực Vân Châu]]
 - Nhân vật: [[Cửu Nương]], [[Vân Thiên Hạo]]
 - Bí ẩn: [[Vĩnh Sinh Môn]]
+
+## Phê duyệt triển khai — DEC-004
+
+Được tác giả duyệt làm thế lực tương lai theo DEC-004. Vai trò xoay quanh tin tức có giá, sai số và nguồn tin hữu hạn; không biến thành tổ chức toàn tri.

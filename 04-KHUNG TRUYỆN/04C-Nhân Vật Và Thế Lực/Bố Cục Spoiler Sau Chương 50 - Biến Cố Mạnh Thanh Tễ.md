@@ -84,3 +84,11 @@ Theo [[Mong Muốn Cả Đời Lâm Uyên - Giữ Một Chốn Trở Về]], M�
 Sau khi mất thầy, Lâm muốn giữ người bệnh và phần việc tốt còn lại. Cậu phải học tiếp, nhờ người có nghề và giữ quan hệ với người sống; không lập tức thay được Mạnh. Nỗi đau có thể thử niềm tin “mạnh hơn thì không mất ai”, rồi dẫn tới câu hỏi về giới hạn bảo vệ và quyền tự chọn của người khác.
 
 Ngôi nhà có sân phơi thuốc là ước mơ để gieo, chưa là tài sản đã có hoặc di sản Mạnh để lại. Hướng mục tiêu mới không chốt thêm nguyên nhân tai nạn, người chết, mốc chương hoặc kết truyện.
+
+## Phê duyệt triển khai
+
+Tác giả đã duyệt hướng Mạnh Thanh Tễ qua đời trong biến cố sập nhà trú tạm ven Nam Phố sau mưa, khi dân đang chờ thuốc. Nhịp mục tiêu khoảng Chương 58–60, có thể dịch theo diễn biến. Bùi Gia bị truy vấn hồ sơ công trình nhưng chưa được mặc định có tội. Các bước điều tra, nhân chứng, cứu trợ và hậu quả xã hội trong tài liệu là kế hoạch đã duyệt để triển khai; giữ bí mật không được gieo bằng chứng ở chương trước.
+
+Đường dây này chạy song song các vấn đề Hắc Phong Sơn, lô dược liệu và Tô Gia; không thay thế các tuyến đó.
+
+Thiết kế chặng dài: [[Thiết Kế Tác Giả Đã Chốt — Thế Giới, Lịch Sử Và Bí Mật]] · [[Thiết Kế Tác Giả Đã Chốt — Tu Hành, Sinh Tử Và Tài Nguyên]].

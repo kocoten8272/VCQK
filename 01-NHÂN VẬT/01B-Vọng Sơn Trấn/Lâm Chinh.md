@@ -31,3 +31,7 @@ tags:
 - Nhân vật: [[Lâm Uyên]]
 - Bí ẩn: [[Hắc Quan]], [[Chiếc Nhẫn Bạc]], [[Ngọc Giản Quy Khư]], [[Đời Thứ Chín]]
 - Thế giới: [[Vọng Sơn Trấn]]
+
+## Quyết định tác giả đã chốt — DEC-001
+
+Gia đình Lâm Uyên chỉ nhận tin báo tử và làm tang cho Lâm Chinh. Tình trạng sinh tử thật tiếp tục **UNKNOWN**. Hồ sơ không xác nhận ông còn sống hoặc đã chết; có thể quay lại tuyến truyện khi có chứng cứ mới. Lâm Chinh là cha của Lâm Uyên, không phải Lâm Sơn. Mọi chỗ trong hồ sơ phụ nói ông chắc chắn đã chết được thay bằng ranh giới này.

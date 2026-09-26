@@ -16,6 +16,10 @@ tags:
 - Dân sống bằng nghề trồng dâu, dệt vải và **giữ mộ**.
 - Nghĩa trang của trấn rộng gần nửa cái trấn, mộ cũ chồng lên mộ cũ; có những phần mộ không chôn người chết yên nghỉ, mà để **nhốt một thứ gì đó ở lại**.
 
+## Vị trí và hành trình đã duyệt
+
+Vọng Sơn thuộc nhánh núi Tây Lĩnh của Vân Châu, cách Lăng Vân Thành khoảng 180 lý về tây-bắc theo đường núi cũ. Xe thường đi ba đến bốn ngày; thời tiết, đường vòng và biến cố làm thay đổi thời lượng. Địa hình trong Chương 1 — thung lũng đá, núi thấp ẩm lạnh — giữ nguyên.
+
 ## Vai trò trong truyện
 
 - Đối với Lâm Uyên: *"Vọng Sơn từng giống như toàn bộ thế giới."*

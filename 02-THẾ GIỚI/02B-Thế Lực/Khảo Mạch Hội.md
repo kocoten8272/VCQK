@@ -41,3 +41,7 @@ Nếu tham gia Hắc Phong Sơn về sau, hội vẫn phải tuân giới hạn 
 ## Liên kết
 
 [[Địa Mạch]] · [[Mạc Pháp]] · [[Triển Khai Mạc Pháp Và Các Thế Lực Sau Chương 50]]
+
+## Phê duyệt triển khai — DEC-004
+
+Được tác giả duyệt. Triển khai trước các hội còn lại khi cần khảo sát nguy cơ địa mạch; kết quả phụ thuộc người đo, thiết bị và điều kiện tại chỗ.

@@ -1,6 +1,6 @@
 ---
 type: world-geography-reference
-status: dang-phat-trien
+status: author-approved-design
 tags:
   - the-gioi
   - geography
@@ -9,61 +9,53 @@ tags:
 
 # Bản Đồ Và Logic Không Gian
 
-> Đây là bản tham chiếu chữ, không phải bản đồ tỷ lệ. Chỉ biểu diễn quan hệ có nguồn; không tự bổ sung hướng, khoảng cách hoặc đường đi.
+> Bản đồ chữ đã được tác giả duyệt làm chuẩn tương đối. Khoảng cách là theo đường đi trong điều kiện thường; địa hình, mùa, giấy phép và chiến sự làm thay đổi thời gian thực.
 
-## Bản đồ tầng hiện biết
+## Bản đồ tầng
 
-    Cửu Thiên
-       │ chứa
-    Đại Vực
-       │ chứa
-    Tiểu Vực
-       │ chứa
-    Vân Châu
-       │ thuộc
-    Lăng Vân Thành
+    Cửu Thiên — 9 Thiên Vực nối nhau qua Thiên Khuyết
+    └── Đệ Nhất Thiên (thuộc Hạ Tam Thiên)
+        └── Đại Vực
+            └── Tiểu Vực
+                └── Vân Châu (~1.600 lý đông–tây × 1.200 lý nam–bắc)
+                    ├── Tây Lĩnh
+                    │   └── Vọng Sơn Trấn (180 lý tây-bắc Lăng Vân)
+                    ├── Bồn địa Lăng Vân
+                    │   ├── Lăng Vân Thành
+                    │   └── Hắc Phong Sơn (khoảng một ngày đường bắc-đông bắc thành)
+                    ├── Nam Trạch
+                    │   └── Nam Phố (khu bến phía nam trong Lăng Vân Thành)
+                    ├── Đông Điền
+                    └── Bắc Khư
 
-    Vọng Sơn Trấn ── quê nhà Lâm Uyên; vị trí tương đối: UNKNOWN
-    Nam Phố ── khu giao thương phía nam Lăng Vân Thành
+    Ngoài Cửu Thiên: vành đai không ổn định ngoài chín Thiên Vực;
+    không phải Thiên thứ Mười, không phải Quy Khư.
 
-Phần trên là quan hệ bao chứa địa lý; phần dưới là các mốc địa điểm. Sơ đồ không cho biết Vọng Sơn Trấn nằm ở phía nào hay cách Lăng Vân Thành bao xa.
+## Hành trình và cự ly
 
-## Các quan hệ đã ghi
-
-| Nơi A | Quan hệ | Nơi B | Nguồn / giới hạn |
+| Tuyến | Cự ly/định vị | Thời gian thường dùng | Ghi chú continuity |
 |---|---|---|---|
-| Đại Vực | nằm trong | Cửu Thiên | World Lore nền; hồ sơ Cửu Thiên/Đại Vực |
-| Tiểu Vực | nằm trong | Đại Vực | World Lore nền; hồ sơ Tiểu Vực |
-| Vân Châu | thuộc | Tiểu Vực | World Lore nền; hồ sơ Vân Châu |
-| Lăng Vân Thành | thuộc | Vân Châu | World Lore nền; hồ sơ Lăng Vân Thành |
-| Nam Phố | ở phía nam của | Lăng Vân Thành | Hồ sơ Nam Phố; quầy giao nhận/bến nước thuộc diễn biến Ch46–47 |
-| Vọng Sơn Trấn | quê nhà của | Lâm Uyên | Ch1 và hồ sơ Vọng Sơn; tọa độ/đường tới thành chưa xác định |
-| Ngoài Cửu Thiên | nằm ngoài | Cửu Thiên | Chỉ xác lập ở mức tên gọi/ý niệm; cách đi tới đó UNKNOWN |
+| Vọng Sơn Trấn → Lăng Vân Thành | Khoảng 180 lý về tây-bắc, đường núi cũ qua Tây Lĩnh | Xe thường 3–4 ngày; đi bộ lâu hơn | Cuộc tập kích và thời gian hồi phục có thể làm thay đổi mốc tới thành. |
+| Lăng Vân Thành → Hắc Phong Sơn | Phía bắc-đông bắc, theo tuyến khảo sát | Khoảng một ngày đường | Không có nghĩa toàn bộ vùng núi cách thành cùng một cự ly. |
+| Nam Phố | Nội thành, phía nam | Trong ngày | Quầy hàng và bến thuộc khu vực; quyền quản lý cần ghi theo từng tuyến. |
+| Vân Châu | Khoảng 1.600 × 1.200 lý theo đo Châu Phủ | Vượt châu cần nhiều ngày đến nhiều tuần tùy tuyến | Cự ly thẳng không thay thời gian đi thực tế. |
 
-## Quy tắc cự ly và hành trình
+Một lý dùng để hình dung bản đồ xấp xỉ nửa kilomet; đây là quy đổi thực dụng cho hồ sơ, không phải phép đo chính xác của thiên địa.
 
-- **DISTANCE SYSTEM: UNDEFINED.** Không có đơn vị khoảng cách, tỷ lệ bản đồ hoặc cự ly giữa các địa điểm lớn được xác lập.
-- **TRAVEL-TIME SYSTEM: UNDEFINED.** Không quy đổi thành ngày/tuần/tháng nếu bản thảo hoặc hồ sơ canon không nói rõ.
-- **MAP DATA: INCOMPLETE.** Chưa có hướng liên vùng, đường biên, giáp ranh, địa hình trung gian hoặc tọa độ.
-- Không có dữ kiện xác nhận truyền tống trận, phá giới, không gian thông đạo hay phương tiện xuyên giới. Không tự dùng chúng để giải thích hành trình.
-- Khi chương mới cần một hành trình, chỉ ghi thời gian/quãng đường nếu chính chương hoặc tác giả chốt. Cập nhật điểm đi, điểm đến, phương tiện, thời lượng và nguồn.
-- Nam Phố là mốc khu vực phía nam trong nội thành; không suy ra mọi bến nước cùng một địa giới/quyền quản lý.
+## Các vùng Vân Châu
 
-## Mẫu cập nhật tuyến đường
+- **Tây Lĩnh:** thôn núi, nghề dệt/săn hái, trấn mộ và tuyến đường cũ.
+- **Bồn địa Lăng Vân:** thành thị, chợ, ruộng và các vùng dịch vụ tu hành.
+- **Nam Trạch:** sông hồ, bến, hàng hóa và nghề bảo quản/vận chuyển.
+- **Đông Điền:** đất canh tác/dược điền có nguồn nước ổn định hơn; tranh chấp xoay quanh thuê đất và thủy lợi.
+- **Bắc Khư:** công trình cũ, di tích, nghề khảo sát và thu hồi vật liệu; không phải vùng chết hoàn toàn.
 
-| Hành trình | Điểm đi → điểm đến | Phương tiện | Thời lượng trong nguồn | Nguồn | Trạng thái |
-|---|---|---|---|---|---|
-| Hành trình trong truyện | Vọng Sơn Trấn → Lăng Vân Thành | Chưa chuẩn hóa | UNKNOWN trong lore hiện hành | Ch1–6; Đời Thứ Mười | Chỉ thêm chi tiết khi kiểm lại bản thảo |
+Mỗi nơi cần nguồn nước/lương thực, nghề chính, quyền quản lý, tuyến mua bán và một điều khiến dân muốn sống ở đó. Không phải toàn châu đồng loạt suy tàn.
 
-Không điền số ngày dựa trên số chương. Nhịp chương không phải thời gian trong thế giới truyện.
+## Quản trị
 
-## Nguồn địa lý
+[[Châu Phủ]] quản sổ đất, thuế, nước và tuyến vận chuyển; [[Chấn Châu Ti]] xử lý án tu sĩ/dị thường; phủ thành chủ xử lý trật tự và dịch vụ tại thành. Gia tộc có thể nắm tài sản/hợp đồng/người làm nhưng không tự động thay quyền công. Ba gia tộc Hạ, Thẩm, Bùi có ảnh hưởng nghề nghiệp tại Lăng Vân, không cai trị độc quyền.
 
-- [[Vọng Sơn Trấn]]
-- [[Lăng Vân Thành]]
-- [[Nam Phố]]
-- [[Vân Châu]]
-- [[Tiểu Vực]]
-- [[Đại Vực]]
-- [[Cửu Thiên]]
-- [[Ngoài Cửu Thiên]]
+## Liên kết
+
+[[Cấu Trúc Vũ Trụ Và Tầng Thế Giới]] · [[Vọng Sơn Trấn]] · [[Lăng Vân Thành]] · [[Vân Châu]] · [[Ngoài Cửu Thiên]] · [[Sinh Kế Và Các Vùng Vân Châu]] · [[Thiết Kế Tác Giả Đã Chốt — Thế Giới, Lịch Sử Và Bí Mật]]

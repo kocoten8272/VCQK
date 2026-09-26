@@ -28,3 +28,7 @@ tags:
 
 - Thế giới: [[Vân Châu]], [[Thế Lực Vân Châu]]
 - Nhân vật: [[Diệp Trầm]], [[Lâm Uyên]]
+
+## Phê duyệt triển khai — DEC-004
+
+Được tác giả duyệt theo DEC-004. Cơ quan điều tra dị số hoạt động theo sổ, chứng cứ và quyền hạn; họ có thể sai do dữ liệu lệch, không biết toàn bộ sự thật của Lâm Uyên.

@@ -1,6 +1,6 @@
 ---
 type: tu-luyen
-status: tbd
+status: author-approved-design
 tags:
   - tu-luyen
   - luan-hoi
@@ -10,36 +10,20 @@ tags:
 
 # Luân Hồi Tịch
 
-> Dấu vết của một sinh linh trong hệ thống luân hồi, không phải ký ức mà là một loại "hồ sơ tồn tại".
+> Dấu ghi nhận của một đời sống qua sinh, hành động, chết và chuyển tiếp; không phải bản sao linh hồn hoặc kho ký ức.
 
-## Trạng thái lore
+## Quy tắc đã duyệt
 
-`TBD`
+- Mỗi đứa trẻ là một người mới thuộc đời của mình. Chuyển tiếp không giữ ký ức/tính cách của người trước.
+- Khi chết, thân thể tan rã; thần thức mất khả năng duy trì căn tính theo mức tổn thương và cuối cùng chấm dứt. Dấu nhân quả có thể còn mà chủ thể đã chết.
+- Luân hồi tiếp diễn nhưng người trong truyện không có căn cứ biết trải nghiệm sau chết. Không đồng nhất sổ ghi nhận với một nơi linh hồn sống đời thứ hai.
+- Hồi sinh hoàn chỉnh không phải năng lực chuẩn. Muốn khôi phục cần thân thể, mối nối căn tính, chứng cứ và cái giá; một mảnh ký ức hoặc Tín Nguyện không đủ.
+- Thiên Tịch ghi được phần lớn đời sống trong Cửu Thiên nhưng không nhận đủ mọi nhân quả. Vật/nợ rơi ngoài sổ có thể thành Nhân Quả Thất Lạc hoặc đi vào Quy Khư.
 
-## Khái niệm
+## Lâm Uyên
 
-Luân hồi có thể không chỉ đơn thuần là quá trình chết → chuyển thế → sống lại. Mỗi sinh linh có thể tồn tại một dấu vết trong hệ thống luân hồi, tạm gọi là **Luân Hồi Tịch**.
-
-Luân Hồi Tịch có thể liên quan đến:
-- thân phận
-- sinh tử
-- nhân quả
-- nghiệp
-- dấu vết của một đời
-- sự chuyển tiếp giữa các đời
-
-Đây không phải ký ức. Một người chuyển thế không nhất thiết giữ lại ký ức của đời trước.
-
-## Liên quan đến Lâm Uyên
-
-[[Lâm Uyên]] là người của đời thứ mười. Hắn thực sự là Lâm Uyên của đời thứ mười — không phải đời thứ chín sống lại, không đoạt xá, không mang linh hồn của đời thứ chín.
-
-Nhưng trên người hắn tồn tại **nhân quả của đời thứ chín**.
-
-Một khả năng dài hạn: Luân hồi có thể nhận diện Lâm Uyên là người của đời thứ mười, nhưng một phần nhân quả trên người hắn lại mang dấu vết của đời thứ chín. Điều này có thể trở thành lý do khiến một số tồn tại cổ xưa nhận ra hắn.
+Lâm Uyên là người đời thứ mười, không phải Đời Thứ Chín hồi sinh/đoạt xác. Món nợ đời thứ chín gắn vào tuyến nhân quả của hắn, không truyền ký ức, linh hồn hoặc tu vi. Dư ảnh Ch27 không thay đổi quy tắc này.
 
 ## Liên kết
 
-- Nhân vật: [[Lâm Uyên]]
-- Bí ẩn: [[Nhân Quả Thất Lạc]], [[Hệ Thống Khống Chế Thiên Địa]], [[Quy Khư]]
-- Xem thêm: [[03_WORLD_LORE_EXPANSION]]
+[[Nhân Quả Thất Lạc]] · [[Quy Khư]] · [[Hệ Thống Khống Chế Thiên Địa]] · [[Lâm Uyên]]

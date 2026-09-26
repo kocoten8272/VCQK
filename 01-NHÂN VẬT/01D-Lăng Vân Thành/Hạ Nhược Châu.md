@@ -3,21 +3,20 @@ type: nhan-vat
 id: CHAR-029
 importance-tier: D
 vai-tro: nhan-vat-phu
-status: de-xuat
+status: author-approved-design
 tags:
   - nhan-vat
-  - de-xuat
   - ha-gia
   - lang-van-thanh
 ---
 
 # Hạ Nhược Châu
 
-> Thành viên **đề xuất**, chưa xuất hiện trong chương truyện. Hồ sơ này triển khai từ gia phả dự kiến; tên, tuổi, quan hệ và tiểu sử có thể thay đổi trước khi được tác giả chốt.
+> Hồ sơ nhân vật đã được tác giả duyệt theo gia phả đã chốt. Nhân vật chưa xuất hiện trong chương truyện; hành động chỉ bắt đầu khi được triển khai trong cảnh.
 
 ## Thông tin cơ bản
 
-- **Tuổi / giới tính:** Nữ, 27 tuổi (đề xuất).
+- **Tuổi / giới tính:** Nữ, 27 tuổi.
 - **Thân phận:** Con gái Hạ Đình Vận, giữ sổ chuyến, dấu nhận hàng và phí.
 - **Dấu nhận diện:** Đầu ngón tay dính mực xanh; dùng thước gấp nhỏ để so khoảng cách giữa các dòng.
 - **Tu vi / cảnh giới:** Chưa xác định; không cấp cảnh giới trước khi vai trò truyện cần đến.
@@ -43,8 +42,12 @@ Không thể từ một ô trống suy ra hàng hóa đi đâu sau chặng cô p
 
 ## Trạng thái và liên kết
 
-- **Trạng thái:** Đề xuất, chưa phải canon.
+- **Trạng thái:** Đã duyệt hồ sơ; chưa xuất hiện trong bản thảo.
 - **Gia tộc:** [[Hạ Gia]]
 - **Hồ sơ tổng quan:** [[Các Gia Tộc Lăng Vân Thành]]
 - **Gia phả:** [[Gia Phả Và Cơ Cấu Nhân Sự Các Thế Lực]]
 - **Địa bàn:** [[Lăng Vân Thành]], [[Nam Phố]], [[Vân Châu]]
+
+## Trạng thái tác giả đã chốt
+
+Gia phả, tên, quan hệ, độ tuổi, động cơ và chức năng trong hồ sơ đã được chấp nhận làm thiết kế để triển khai. Điều này không có nghĩa nhân vật đã xuất hiện, đã làm các việc ghi trong hồ sơ, hay mọi quan hệ của họ đã xảy ra trên trang. Thời điểm và hành động cụ thể phải được thể hiện bằng chương truyện.

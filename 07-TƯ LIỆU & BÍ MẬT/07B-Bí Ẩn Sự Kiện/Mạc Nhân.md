@@ -27,3 +27,9 @@ tags:
 - Thế giới: [[Quy Khư]], [[Ngoài Cửu Thiên]]
 - Nhân vật: [[Lâm Uyên]]
 - Xem thêm: [[Người Áo Đen]], [[Ngoại Sinh Linh]]
+
+## Phân biệt đã duyệt
+
+Mạc Nhân là cộng đồng người sống sót từ một thế giới bị bỏ lại sau Đại Nạn Đứt Mạch. Tổ tiên họ nhận chức phận “người chấp hành” để được cấp quyền cư trú; đây là lịch sử và địa vị chính trị, không phải chủng tộc do Quy Khư sinh ra, không phải cảnh giới tu hành và không đồng nhất với Di Kỷ Tộc hay Ngoại Sinh Linh.
+
+Quê cũ, thời điểm chính xác và danh tính từng người chấp hành chỉ được hé lộ khi có chứng cứ. [[Thiết Kế Tác Giả Đã Chốt — Thế Giới, Lịch Sử Và Bí Mật]].

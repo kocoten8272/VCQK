@@ -39,3 +39,9 @@ tags:
 - Lâm Uyên mới học ghi, cân dưới giám sát và nhận giới hạn của lời kết luận. Không được tự phối hoặc hiểu hết dược lý.
 
 Nguồn và đường hàng theo [[Thiên Tài Địa Bảo]]. Hồ sơ nghề nghiệp cần ghi thuốc giúp được gì, không giúp được gì, kiểm bằng cách nào và ai chịu chi phí.
+
+## Quy tắc continuity đã duyệt
+
+Dược hiệu phụ thuộc thể trạng, căn nguyên bệnh, liều, bào chế và bảo quản. Thuốc giảm triệu chứng chưa chắc chữa nguyên nhân; sai thuốc có thể làm bệnh nặng. Mạnh Thanh Tễ dạy Lâm Uyên ghi triệu chứng, phân biệt dấu hiệu, cân và bảo quản; Lâm Uyên chưa đủ trình độ tự phối thuốc cứu người. Cảm giác về linh lực không phải chẩn đoán dược lý.
+
+Tài nguyên phải có chuỗi nơi hình thành, người giữ đất, khai thác, sơ chế, hao hụt, lưu trữ, vận chuyển, người dùng và tác động thải bỏ. [[Thiết Kế Tác Giả Đã Chốt — Tu Hành, Sinh Tử Và Tài Nguyên]].

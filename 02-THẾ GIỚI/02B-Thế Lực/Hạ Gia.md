@@ -1,6 +1,6 @@
 ---
 type: the-gioi
-status: de-xuat
+status: author-approved-design
 tags:
   - the-gioi
   - the-luc
@@ -11,7 +11,7 @@ tags:
 
 # Hạ Gia
 
-> Gia tộc địa phương có thế lực trong vận tải đường thủy và sổ giao nhận ở Nam Phố; hiện là đề xuất, chưa xuất hiện trong bản thảo.
+> Gia tộc địa phương đã được tác giả duyệt làm thiết kế nghề nghiệp; chưa xuất hiện trong bản thảo.
 
 ## Mô tả
 
@@ -40,19 +40,23 @@ Hạ Gia có nhiều đời làm chủ ghe, thuê phu thuyền và quản lý kh
 
 - Hạ Gia chưa xuất hiện đến hết Chương 50; không coi đây là tên ẩn của tổ chức mua thuốc.
 - Không khẳng định Hạ Gia thuê nhóm áo đen, mua Xích Tủy Tán hoặc biết về [[Vĩnh Sinh Môn]].
-- Quyền chính thức về thu phí, cấp phép bến và chấp pháp của thành chưa xác định. Hạ Gia chỉ có ảnh hưởng nghề nghiệp trong đề xuất này.
+- Quyền chính thức về thu phí, cấp phép bến và chấp pháp của thành chưa xác định. Hạ Gia chỉ có ảnh hưởng nghề nghiệp trong đã duyệt này.
 
 ## Hồ sơ thành viên
 
-- [[Hạ Quế Lan]] — hồ sơ cá nhân đề xuất
-- [[Hạ Đình Vận]] — hồ sơ cá nhân đề xuất
-- [[Hạ Nhược Châu]] — hồ sơ cá nhân đề xuất
-- [[Hạ Thừa Kha]] — hồ sơ cá nhân đề xuất
-- [[Hạ Đình Khôi]] — hồ sơ cá nhân đề xuất
-- [[Hạ Minh Giang]] — hồ sơ cá nhân đề xuất
+- [[Hạ Quế Lan]] — hồ sơ cá nhân đã duyệt
+- [[Hạ Đình Vận]] — hồ sơ cá nhân đã duyệt
+- [[Hạ Nhược Châu]] — hồ sơ cá nhân đã duyệt
+- [[Hạ Thừa Kha]] — hồ sơ cá nhân đã duyệt
+- [[Hạ Đình Khôi]] — hồ sơ cá nhân đã duyệt
+- [[Hạ Minh Giang]] — hồ sơ cá nhân đã duyệt
 
 ## Liên kết
 - Gia phả và sơ đồ nhân sự: [[Gia Phả Và Cơ Cấu Nhân Sự Các Thế Lực]]
 - Địa điểm: [[Lăng Vân Thành]], [[Nam Phố]], [[Vân Châu]]
 - Thế lực: [[Các Gia Tộc Lăng Vân Thành]], [[Tô Gia]], [[Thẩm Gia]], [[Bùi Gia]]
 - Nhân vật: [[Kỷ Hành Chu]]
+
+## Quyết định tác giả đã chốt — DEC-002/003
+
+Tác giả đã chốt nghề, cơ cấu gia tộc và toàn bộ danh sách nhân vật/gia phả ở hồ sơ này làm thiết kế triển khai. Các thành viên chưa xuất hiện vẫn là nhân vật tương lai; không tạo hồi ức, giao dịch hoặc hành động quá khứ mới nếu chương chưa xác nhận.

@@ -43,3 +43,9 @@ Một khả năng mở rộng: Ngoại Sinh Linh không có "quá khứ" theo c�
 - Thuật ngữ: [[Di Cốt]], [[Đại Đạo]], [[Cảnh Giới]]
 - Nhân vật: [[Lâm Uyên]]
 - Xem thêm: [[01_CORE_CANON|Core Canon]], [[02_WORLD_LOR|World Lore]]
+
+## Giới hạn đã duyệt
+
+Ngoại Sinh Linh phát sinh ngoài ranh ghi nhận của Cửu Thiên, không phải yêu thú hay Di Kỷ Tộc. Cá thể xâm nhập cần một vật neo như ký ức nhân chứng, vật được gọi tên hoặc lời hứa để giữ hình thể. Mất neo làm nó khó duy trì hình thể và phải rút về khe biên; không mặc định mọi cá thể đều tà ác.
+
+Không mặc định chúng đến từ Quy Khư. Một cá thể có thể tìm nơi sống, cá thể khác săn vật neo. Đây là thiết kế tác giả, chưa phải điều nhân vật đã biết. [[Thiết Kế Tác Giả Đã Chốt — Thế Giới, Lịch Sử Và Bí Mật]].

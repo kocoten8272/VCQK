@@ -72,3 +72,7 @@ Trước khi dùng một trường hợp, người viết cần xác định ph�
 - Không xác nhận quan hệ với [[Khoảng Trống]], [[Quy Khư]], bóng thứ tư, Di Kỷ Tộc hoặc nguồn gốc thế giới.
 
 Xem [[Triển Khai Mạc Pháp Và Các Thế Lực Sau Chương 50]].
+
+## Quy tắc dùng đã duyệt
+
+Địa Ký là ghi chép về biến động và ký ức của một vùng đất, nhưng có thể sai, bị thiếu hoặc bị người viết thiên lệch. Đối chiếu ít nhất hai nguồn độc lập; không coi Địa Ký là tiếng nói toàn tri của thế giới.

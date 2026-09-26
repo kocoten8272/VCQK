@@ -55,3 +55,7 @@ tags:
 
 - Nhân vật: [[Lâm Uyên]], [[Tô Thanh Ly]]
 - Thế giới và hồ sơ: [[Tô Gia]], [[Tông Sảnh]], [[Kế Hoạch Làm Rõ Hai Mạng Lưới Sau Chương 50]]
+
+## Vai trò tương lai đã duyệt — DEC-006
+
+Giữ sổ trực và cung cấp lời chứng hữu hạn về ca trực, con dấu, thời điểm hoặc người nhận. Tạ Nghiên Chi không nắm toàn bộ hồ sơ và không biết bí mật Thiên Tịch. Vai trò đã chốt làm thiết kế; chưa có nghĩa cô đã xuất hiện hoặc tham gia sự kiện trước khi được viết vào chương.

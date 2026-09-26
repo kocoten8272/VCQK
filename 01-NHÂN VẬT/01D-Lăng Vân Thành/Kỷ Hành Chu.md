@@ -55,3 +55,7 @@ tags:
 
 - Nhân vật: [[Lâm Uyên]], [[Mạnh Thanh Tễ]]
 - Thế giới và hồ sơ: [[Nam Phố]], [[Kế Hoạch Làm Rõ Hai Mạng Lưới Sau Chương 50]]
+
+## Vai trò tương lai đã duyệt — DEC-006
+
+Quyết toán tuyến hàng, cân nhắc lời khai dựa trên ảnh hưởng tới người làm thuê và trách nhiệm hợp đồng. Không phải đầu não đứng sau mạng lưới mua thuốc hoặc Hắc Nha. Vai trò tương lai đã duyệt; hành động chỉ thành sự kiện khi xuất hiện trong chương.

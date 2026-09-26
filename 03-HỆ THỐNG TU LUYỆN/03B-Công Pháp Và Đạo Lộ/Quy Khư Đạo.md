@@ -31,3 +31,9 @@ Người tu Quy Khư Đạo càng đi sâu, càng phải đối mặt với nguy
 - Thuật ngữ: [[Quy Khư]], [[Quy Khư Quyết]], [[Nạp Vô]], [[Đại Đạo]], [[Cảnh Giới]], [[Đạo Tâm]]
 - Nhân vật: [[Lâm Uyên]]
 - Xem thêm: [[01_CORE_CANON|Core Canon]]
+
+## Thiết kế đã duyệt
+
+Quy Khư Đạo xử lý dấu nối và phần lực bị loại khỏi hệ ghi nhận hiện hành; không phải quyền năng hút mọi vật, triệt tiêu mọi công pháp hay hồi sinh người chết. Lâm Uyên phải có vật chứng, năng lực điều hòa và chấp nhận nguy cơ mất mối nối ký ức. Mỗi biểu hiện phải có phạm vi, thời gian, giới hạn và cái giá.
+
+Các thức ngoài Nạp Vô chưa được Lâm Uyên học ở cuối Chương 52. [[Quy Khư Quyết]] · [[Thiết Kế Tác Giả Đã Chốt — Tu Hành, Sinh Tử Và Tài Nguyên]].

@@ -15,7 +15,11 @@ tags:
 - Là một trong những địa điểm quan trọng của giai đoạn đầu truyện.
 - Có: tu sĩ, thế gia, tông môn, thương hội, thế lực ngầm, đấu trường, chợ tu sĩ, luyện khí sư, luyện đan sư, phù sư; khu vực dành riêng cho phàm nhân và tu sĩ.
 - Trụ sở của [[Tô Gia]]; nơi có [[Nghiệm Linh Đường]].
-- Có thể bổ sung các thế gia nghề nghiệp địa phương như [[Các Gia Tộc Lăng Vân Thành]]; danh sách Hạ Gia, Thẩm Gia và Bùi Gia hiện chỉ là đề xuất, chưa phải canon.
+- Có thể bổ sung các thế gia nghề nghiệp địa phương như [[Các Gia Tộc Lăng Vân Thành]]; Hạ Gia, Thẩm Gia và Bùi Gia đã được tác giả duyệt làm các gia tộc nghề nghiệp của thành; hồ sơ nhân vật/quan hệ là thiết kế đã duyệt, chưa xác nhận các thành viên đã xuất hiện trong chương.
+
+## Quản trị và thế cân bằng đã duyệt
+
+Thành có phủ thành chủ và nha dịch; [[Tô Gia]] là thế lực tu hành lớn nhưng không độc quyền luật thành. Hạ Gia ảnh hưởng vận tải/bến, Thẩm Gia ảnh hưởng dược liệu, Bùi Gia ảnh hưởng công trình. Châu Phủ và Chấn Châu Ti có quyền theo phạm vi công vụ.
 
 ## Vai trò trong truyện
 

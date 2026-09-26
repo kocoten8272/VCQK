@@ -26,3 +26,7 @@ tags:
 
 - Thế giới: [[Vân Châu]], [[Lăng Vân Thành]], [[Thế Lực Vân Châu]]
 - Nhân vật: [[Vân Thiên Hạo]], [[Tô Trạch]]
+
+## Phê duyệt triển khai — DEC-004
+
+Được tác giả duyệt làm thế lực tương lai theo DEC-004. Mạng lưới giao dịch phi pháp có lợi ích và luật riêng; không đồng nhất với Hắc Nha hoặc mạng lưới mua thuốc khi chưa có chứng cứ.

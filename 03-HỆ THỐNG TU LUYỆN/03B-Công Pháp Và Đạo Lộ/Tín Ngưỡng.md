@@ -1,6 +1,6 @@
 ---
 type: tu-luyen
-status: tbd
+status: author-approved-design
 tags:
   - tu-luyen
   - tin-nguong
@@ -10,37 +10,20 @@ tags:
 
 # Tín Ngưỡng
 
-> Hệ thống tín ngưỡng và sức mạnh từ lòng tin của chúng sinh trong thế giới tu tiên.
+> Nếp thờ phụng, tưởng nhớ và cam kết chung trong một cộng đồng; không mặc nhiên là tông phái hay con đường tu luyện.
 
-## Trạng thái lore
+## Hình thức
 
-`TBD`
-
-## Các hình thức tín ngưỡng
-
-Trong thế giới tồn tại:
-- miếu
-- đạo quán
-- tổ từ
-- tế lễ
-- tín ngưỡng sơn thần
-- tín ngưỡng cổ thú
-- tín ngưỡng tổ tiên
+Miếu, đạo quán, tổ từ, tế lễ, tín ngưỡng sơn thần/cổ thú và lễ tưởng niệm tổ tiên có thể tồn tại. Mỗi nơi có lịch sử, người chăm nom, vật cúng và nhu cầu cụ thể; nghi lễ không chứng minh đối tượng được thờ còn sống.
 
 ## Tín Nguyện
 
-Tín ngưỡng có thể tạo ra một loại sức mạnh khác với linh khí. Tạm gọi là **Tín Nguyện**.
+Tín Nguyện là cộng hưởng nhỏ hình thành khi nhiều người cùng nhắc tên, giữ lời hứa hoặc lặp một nghi thức có ý nghĩa. Nó có thể làm một địa danh/tên người dễ được nhớ, giữ một lời nguyện khỏi bị quên trong thời gian ngắn và làm vật neo ổn định hơn.
 
-Một tồn tại được nhiều sinh linh thờ phụng có thể tích lũy Tín Nguyện. Tín Nguyện có thể:
-- củng cố thần hồn
-- duy trì một ý niệm
-- kéo dài dấu vết tồn tại
-- khiến một tồn tại đã chết vẫn được thế giới nhớ đến
+**Không thể:** tạo thân thể, hồi sinh người chết, ban cảnh giới, xác nhận giáo lý là đúng hoặc làm cả thế giới ghi nhớ một người. Một cộng đồng có thể duy trì niềm tin sai; sức cộng hưởng của họ không biến niềm tin ấy thành sự thật.
 
-Không xác định Tín Nguyện có phải một hệ thống tu hành độc lập hay không.
+Không phải hệ thống tu hành độc lập. Nguồn lực lớn nhất là xã hội và ký ức cộng đồng, không phải số người quỳ lạy.
 
 ## Liên kết
 
-- Thế giới: [[Phàm Nhân Và Tu Sĩ]]
-- Bí ẩn: [[Quy Khư]], [[Ngoại Sinh Linh]]
-- Xem thêm: [[03_WORLD_LORE_EXPANSION]]
+[[Phàm Nhân Và Tu Sĩ]] · [[Luân Hồi Tịch]] · [[Nhân Quả Thất Lạc]] · [[Quy Khư]]

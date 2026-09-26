@@ -26,3 +26,7 @@ tags:
 
 - Thế giới: [[Vân Châu]], [[Thế Lực Vân Châu]]
 - Nhân vật: [[Cố Thanh Phong]], [[Tô Thanh Ly]]
+
+## Phê duyệt triển khai — DEC-004
+
+Được tác giả duyệt làm thế lực tương lai theo DEC-004. Triển khai khi tuyến vũ khí, truyền thừa hoặc bảo chứng cần đến; chưa mặc định đã trực tiếp can thiệp vào biến cố Chương 1–52.

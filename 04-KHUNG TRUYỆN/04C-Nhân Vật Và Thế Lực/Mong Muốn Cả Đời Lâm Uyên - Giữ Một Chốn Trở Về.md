@@ -84,3 +84,7 @@ Cuối truyện cần đối chiếu điều Lâm từng muốn với cách hắ
 ## Liên kết
 
 [[Lâm Uyên]] · [[Mạnh Thanh Tễ]] · [[Tô Thanh Ly]] · [[Trạng Thái Truyện Sau Chương 50]] · [[Triết Lý Văn Học Và Nhịp Điệu Bi Kịch]] · [[Bố Cục Spoiler Sau Chương 50 - Biến Cố Mạnh Thanh Tễ]]
+
+## Định hướng tác giả đã chốt — DEC-014
+
+“Giữ một chốn trở về” là mục tiêu dài hạn của Lâm Uyên, có thể lớn dần từ chỗ trú an toàn thành cộng đồng nơi người ta không bị xóa tên, bỏ mặc hoặc buộc phải hy sinh nhau. Đây là động cơ nhân vật, không phải lời tiên tri hay kết cục đã định. Kết cục của Lâm Uyên và số phận Thiên Tịch/Quy Khư/Vĩnh Sinh Môn vẫn để mở.
