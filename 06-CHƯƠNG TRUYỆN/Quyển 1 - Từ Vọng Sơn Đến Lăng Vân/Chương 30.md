@@ -39,7 +39,7 @@ Lâm Uyên dừng bước, thản nhiên đáp: "Số ta chưa tận."
 
 Lâm Uyên nhìn thẳng vào mắt hắn, giọng vẫn đều như vỗ mặt nước: "Ta không cần biết. Thứ ta cần trả, ta đã trả rồi."
 
-Ánh mắt Tô Thanh Dương lóe lên một tia giận dữ, nhưng lời đáp phủ đầu khiến y không tìm được chỗ chen vào. Giữa lúc bầu không khí chuẩn bị căng lên, một đệ tử công huấn đường đằng xa chạy tới, khom người: "Lâm sư đệ, trưởng lão phụ trách công huấn có lời mời."
+Ánh mắt Tô Thanh Dương lóe lên một tia giận dữ, nhưng lời đáp phủ đầu khiến y không tìm được chỗ chen vào. Giữa lúc bầu không khí chuẩn bị căng lên, một đệ tử công huấn đường đằng xa chạy tới, khom người: "Lâm Uyên sư đệ, trưởng lão phụ trách công huấn có lời mời."
 
 Tô Thanh Dương liếc nhìn lệnh bài gỗ tử đàn trên tay Lâm Uyên, hừ lạnh một tiếng, xoay người bỏ đi, không quên bỏ lại một câu: "Đường còn dài."
 

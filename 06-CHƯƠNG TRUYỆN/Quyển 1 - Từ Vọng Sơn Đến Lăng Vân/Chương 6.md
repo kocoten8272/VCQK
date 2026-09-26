@@ -252,7 +252,7 @@ Lão quản gia nhìn Lâm Uyên từ đầu đến chân. Không có tu vi, kh�
 
 Ông không hỏi thêm, chỉ chắp tay.
 
-"Mời Lâm công tử vào."
+"Mời Lâm Uyên công tử vào."
 
 Lâm Uyên khẽ gật đầu.
 

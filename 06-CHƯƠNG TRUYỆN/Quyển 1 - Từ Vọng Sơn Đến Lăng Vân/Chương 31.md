@@ -31,7 +31,7 @@ Sáng hôm sau, khi tiếng chuông từ tháp lớn nội viện vang lên ba h
 
 Lâm Uyên vừa bước ra khỏi phòng thì đã thấy một đệ tử chấp pháp áo xám đứng chờ sẵn ở bậc thềm ngoài sân. Vẻ mặt người nọ nghiêm nghị, không chút biểu cảm, ánh mắt nhìn hắn mang theo sự dò xét đặc trưng của những kẻ quen làm việc dưới quyền hội đồng trưởng lão.
 
-"Lâm sư đệ, đại trưởng lão triệu kiến." Vị chấp sự lên tiếng, giọng khô khốc không một gợn cảm xúc. "Hội đồng đang đợi ngươi ở Tông Sảnh."
+"Lâm Uyên sư đệ, đại trưởng lão triệu kiến." Vị chấp sự lên tiếng, giọng khô khốc không một gợn cảm xúc. "Hội đồng đang đợi ngươi ở Tông Sảnh."
 
 Lâm Uyên không tỏ vẻ ngạc nhiên. Hắn đã chờ đợi cuộc triệu tập này từ ngày hôm qua, ngay sau khi bước chân ra khỏi Cấm Địa Hắc Phong Sơn. Hắn chỉnh lại vạt áo, cột chặt thanh tàn kiếm rỉ sét sau lưng, rồi gật đầu: "Dẫn đường."
 
