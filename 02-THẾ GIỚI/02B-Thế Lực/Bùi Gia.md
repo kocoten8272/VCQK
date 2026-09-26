@@ -43,6 +43,15 @@ Bùi Gia nhận hợp đồng sửa tường, cống, nền kho, đường lên 
 - Không biến một sai sót của đội thợ thành tội của toàn gia tộc, và không để một báo cáo đơn lẻ chứng minh âm mưu lớn.
 - Gia chủ, quân số, tu vi và tên nhân vật đại diện chưa chốt.
 
+## Hồ sơ thành viên
+
+- [[Bùi Khắc Vinh]] — hồ sơ cá nhân đề xuất
+- [[Bùi Nguyên Bảo]] — hồ sơ cá nhân đề xuất
+- [[Bùi Khắc Thành]] — hồ sơ cá nhân đề xuất
+- [[Bùi Ninh Viễn]] — hồ sơ cá nhân đề xuất
+- [[Bùi Khánh Vân]] — hồ sơ cá nhân đề xuất
+- [[Bùi Tố Vân]] — hồ sơ cá nhân đề xuất
+
 ## Liên kết
 - Gia phả và sơ đồ nhân sự: [[Gia Phả Và Cơ Cấu Nhân Sự Các Thế Lực]]
 - Địa điểm: [[Lăng Vân Thành]], [[Vân Châu]], [[Nam Phố]]

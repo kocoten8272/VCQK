@@ -42,6 +42,15 @@ Thẩm Gia canh tác một số vạt dược điền ngoài thành, phơi và s
 - Không để một vị thuốc của nhà này chữa khỏi tức thời di chứng của Trần Dực.
 - Gia chủ, quy mô dược điền, tu vi và tên nhân vật đại diện chưa chốt.
 
+## Hồ sơ thành viên
+
+- [[Thẩm Chấn Nông]] — hồ sơ cá nhân đề xuất
+- [[Thẩm Từ Nghi]] — hồ sơ cá nhân đề xuất
+- [[Thẩm Minh Châu]] — hồ sơ cá nhân đề xuất
+- [[Thẩm Hoài Sinh]] — hồ sơ cá nhân đề xuất
+- [[Thẩm Hương Dật]] — hồ sơ cá nhân đề xuất
+- [[Thẩm Vãn Đường]] — hồ sơ cá nhân đề xuất
+
 ## Liên kết
 - Gia phả và sơ đồ nhân sự: [[Gia Phả Và Cơ Cấu Nhân Sự Các Thế Lực]]
 - Địa điểm: [[Lăng Vân Thành]], [[Vân Châu]]

@@ -59,7 +59,7 @@ Giữ các quan hệ này mở giúp không khóa trước tuyến tình cảm, 
 
 ### Hạ Gia, Thẩm Gia và Bùi Gia — phương án nhân vật để triển khai tại Lăng Vân
 
-Ba cây dưới đây cụ thể hóa các gia tộc nghề nghiệp đã được đề xuất. Các tên, tuổi và quan hệ đều **ĐỀ XUẤT**, có thể đổi trước khi tạo hồ sơ nhân vật riêng.
+Ba cây dưới đây cụ thể hóa các gia tộc nghề nghiệp đã được đề xuất. Các tên, tuổi và quan hệ đều **ĐỀ XUẤT**. Mỗi thành viên nay có một hồ sơ tra cứu riêng ở trạng thái `de-xuat`; các hồ sơ không biến những người này thành canon.
 
 #### Hạ Gia — bến nước, vận tải và sổ giao nhận
 
@@ -185,7 +185,7 @@ Bùi Khắc Thành (57) — gia chủ, nhận hợp đồng tu sửa
 
 ## Mở rộng gia phả các nhà — dàn nhân vật dự kiến
 
-> **Toàn bộ tên, tuổi, quan hệ và tiểu sử trong mục này là đề xuất để tác giả lựa chọn.** Những người đã có hồ sơ/chương riêng vẫn giữ trạng thái theo canon; nhân vật mới dưới đây chưa xuất hiện, chưa có hồ sơ riêng và không được xem là người đã tham gia các biến cố. Các nhánh được dựng để tạo xung đột về quyền kế thừa, nghề nghiệp, món nợ và trách nhiệm, không phải để biến cả họ thành một phe thống nhất.
+> **Toàn bộ tên, tuổi, quan hệ và tiểu sử trong mục này là đề xuất để tác giả lựa chọn.** Những người đã có hồ sơ/chương riêng vẫn giữ trạng thái theo canon; nhân vật mới dưới đây chưa xuất hiện; mỗi người có hồ sơ tra cứu ở trạng thái `de-xuat` và không được xem là người đã tham gia các biến cố. Các nhánh được dựng để tạo xung đột về quyền kế thừa, nghề nghiệp, món nợ và trách nhiệm, không phải để biến cả họ thành một phe thống nhất.
 
 ### Hạ Gia — ba nhánh trong một nhà vận tải
 
@@ -201,6 +201,15 @@ Hạ Quế Lan (76) — trưởng bối, đã giao quyền điều hành
 - **Hạ Quế Lan — người nhớ món nợ cũ (76):** góa phụ của đời chủ trước, đã nhường quyền ký hợp đồng cho con trai nhưng vẫn nhớ nhà nào từng trả công cho phu thuyền đúng hạn. Điềm đạm, ít xuất hiện ở bến, thường hỏi người làm đã nhận tiền chưa trước khi hỏi chuyến hàng có lời không. Bà muốn các khoản nợ nhân công được ghi thành sổ riêng; sợ chính con cháu sẽ xóa món nợ ấy để làm đẹp sổ. Bà là tiếng nói đạo lý có trọng lượng, không còn trực tiếp điều phối ghe.
 - **Hạ Đình Khôi — người giữ kho (51):** em trai gia chủ, quản kho thuê và hàng trung chuyển, không sở hữu toàn bộ hàng hóa. Cẩn trọng, ngại thay đổi tuyến; muốn nhánh kho được tự quyết một phần thay vì mọi hợp đồng đều qua gia chủ. Ông tin cháu gái Nhược Châu quá tin vào chứng từ, còn con gái Minh Giang cho rằng cha giấu những lần thiếu hụt hàng. Ông biết hàng nào đã vào kho, không mặc nhiên biết chủ nhân cuối cùng.
 - **Hạ Minh Giang — người kiểm kê (26):** con gái Đình Khôi, phụ trách đối chiếu số kiện lúc nhập và lúc xuất. Nói chuyện mềm mỏng nhưng không chịu ký vào bảng chưa kiểm. Muốn chứng minh nhánh kho có thể tự quản; điểm yếu là thường giấu sai số nhỏ để tránh cha mất uy tín. Cô có thể tìm thấy chênh lệch số lượng hoặc dấu niêm, nhưng không thể từ một con số đơn lẻ suy ra âm mưu.
+
+**Hồ sơ nhân vật — đề xuất:**
+
+- [[Hạ Quế Lan]]
+- [[Hạ Đình Vận]]
+- [[Hạ Nhược Châu]]
+- [[Hạ Thừa Kha]]
+- [[Hạ Đình Khôi]]
+- [[Hạ Minh Giang]]
 
 ### Thẩm Gia — ba nhánh giữa đất, hạt giống và công nợ
 
@@ -218,6 +227,15 @@ Thẩm Chấn Nông (78) — trưởng bối giữ kho giống
 - **Thẩm Vãn Đường — học việc kiểm dược (22):** con gái Hương Dật, từng theo Minh Châu học phân loại và bảo quản dược liệu. Nhạy với mùi, kiên nhẫn, muốn được đánh giá bằng tay nghề thay vì quan hệ trong nhà. Cô thương người bệnh nhưng đôi khi kết luận quá sớm từ một dấu hiệu cảm quan. Có thể giúp đối chiếu lô hàng và ghi lại cách bảo quản; không biết phương thuốc bí truyền và không tự chẩn bệnh.
 - **Mâu thuẫn liên nhánh:** Từ Nghi muốn giữ quyền quyết định về đất; Hương Dật muốn nhánh mình được quyết điều kiện bán; Chấn Nông lo cả hai quên kho giống. Minh Châu và Vãn Đường bất đồng về chuẩn kiểm phẩm, còn Hoài Sinh phải tính xem bán chịu có làm người trồng mất tiền công không. Không bên nào hoàn toàn vô lý.
 
+**Hồ sơ nhân vật — đề xuất:**
+
+- [[Thẩm Chấn Nông]]
+- [[Thẩm Từ Nghi]]
+- [[Thẩm Minh Châu]]
+- [[Thẩm Hoài Sinh]]
+- [[Thẩm Hương Dật]]
+- [[Thẩm Vãn Đường]]
+
 ### Bùi Gia — ba nhánh giữa hợp đồng, tay nghề và tiếng nói thợ
 
 ```text
@@ -233,6 +251,15 @@ Bùi Khắc Vinh (62) — trưởng huynh, giữ đội khai thạch
 - **Bùi Nguyên Bảo — người thương lượng (30):** con trai Khắc Vinh, anh họ của Ninh Viễn và Tố Vân. Giỏi hợp đồng, hiểu giá vật liệu và tiền công; tin rằng một báo cáo đúng nhưng đưa sai thời điểm có thể khiến cả đội mất việc. Muốn giữ hợp đồng dài hạn cho gia tộc. Xung đột với Ninh Viễn về lúc phải công bố số đo và với Tố Vân về việc khoản công nào cần ghi riêng. Không trực tiếp đo nền hoặc kết luận an toàn.
 - **Bùi Khánh Vân — người giữ tiếng nói của thợ (51):** em gái Khắc Thành, mẹ Tố Vân; làm bảng công và giải quyết tranh chấp giữa đội thợ với người nhận việc. Kiên nhẫn, nhớ tên từng người làm thời vụ, nhưng ghét phải đứng giữa anh em mình. Muốn bảng công không xóa người làm thuê ngắn hạn; đôi lúc giữ lại khiếu nại để tránh một hợp đồng bị hủy. Cô có thể cung cấp lời khai về nhân lực và thanh toán, không biết ai sửa kết cấu nếu không tận mắt thấy.
 - **Mâu thuẫn liên nhánh:** Khắc Vinh đặt sinh kế lên trước sự thận trọng, Khắc Thành muốn chịu trách nhiệm bàn giao, còn Khánh Vân quan tâm ai bị bỏ khỏi danh sách. Nguyên Bảo có thể giúp gia tộc tránh phá sản nhưng cũng có thể gây sức ép lên người ghi nhận sai sót.
+
+**Hồ sơ nhân vật — đề xuất:**
+
+- [[Bùi Khắc Vinh]]
+- [[Bùi Nguyên Bảo]]
+- [[Bùi Khắc Thành]]
+- [[Bùi Ninh Viễn]]
+- [[Bùi Khánh Vân]]
+- [[Bùi Tố Vân]]
 
 ### Liễu Gia — dòng chính và nhánh hộ vệ
 
@@ -259,7 +286,7 @@ Liễu Gia
 
 - Có thể giữ nguyên từng nhân vật, gộp hai vai trò hoặc đổi tên; không cần đưa cả dàn vào cùng một arc.
 - Mỗi người phải có công việc và quan hệ không chỉ xoay quanh Lâm Uyên; các xung đột chính trước hết diễn ra giữa người thân, đồng nghiệp và người chịu hậu quả.
-- Khi một đề xuất được chọn, tạo hồ sơ riêng trong thư mục theo địa bàn hoặc gia tộc tại [[00-DANH MỤC NHÂN VẬT|Danh Mục Nhân Vật]], cập nhật gia phả và trường status. Trước khi chọn, chỉ dùng nội dung mục này như kho phương án.
+- Khi một đề xuất được chọn, cập nhật hồ sơ riêng trong thư mục theo địa bàn tại [[00-DANH MỤC NHÂN VẬT|Danh Mục Nhân Vật]], xác nhận hoặc sửa tuổi, quan hệ và trường status. Trước khi chọn, hồ sơ cá nhân và nội dung mục này đều chỉ là kho phương án.
 - Không lấy sự hiện diện của một người trong gia phả đề xuất làm bằng chứng họ đã xuất hiện, biết bí mật, tu luyện cảnh giới cụ thể hay có liên hệ với phe chưa được chứng minh.
 - Giữ riêng **huyết thống, hôn phối, chức vụ và lợi ích**; một người có thể gắn với nhiều mạng lưới nhưng không nên gộp chúng thành một phe duy nhất.
 
@@ -339,7 +366,7 @@ Các tên dưới đây là **ĐỀ XUẤT**, không được xem là nhân vậ
 - Gia chủ và thế hệ trưởng bối của Liễu Gia.
 - Tên, tuổi và giới tính nhân vật mới Hạ, Thẩm, Bùi; toàn bộ tên trong mục đề xuất ở trên đang là phương án.
 - Người đại diện đầu tiên và cấp trên của Thính Phong Lâu, Tầm Chân Ti, Khảo Mạch Hội, Thủ Danh Phường và Đoạn Mạch Hội.
-- Có cần lập hồ sơ nhân vật riêng cho từng người mới hay chỉ khi họ được xác nhận sẽ xuất hiện trong một arc.
+- Hồ sơ riêng đã được tạo cho 18 thành viên Hạ, Thẩm và Bùi trong `01-NHÂN VẬT/01D-Lăng Vân Thành`; cả 18 vẫn ở trạng thái đề xuất.
 
 ## Liên kết
 

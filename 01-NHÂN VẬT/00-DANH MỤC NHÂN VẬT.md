@@ -67,6 +67,30 @@ tags:
 - [Trần Dực](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Tr%E1%BA%A7n%20D%E1%BB%B1c.md) — `da-xuat-hien`
 - [Tạ Nghiên Chi](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/T%E1%BA%A1%20Nghi%C3%AAn%20Chi.md) — `da-xuat-hien`
 
+#### Hạ Gia — vận tải Nam Phố
+- [Hạ Quế Lan](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/H%E1%BA%A1%20Qu%E1%BA%BF%20Lan.md) — `de-xuat`
+- [Hạ Đình Vận](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/H%E1%BA%A1%20%C4%90%C3%ACnh%20V%E1%BA%ADn.md) — `de-xuat`
+- [Hạ Nhược Châu](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/H%E1%BA%A1%20Nh%C6%B0%E1%BB%A3c%20Ch%C3%A2u.md) — `de-xuat`
+- [Hạ Thừa Kha](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/H%E1%BA%A1%20Th%E1%BB%ABa%20Kha.md) — `de-xuat`
+- [Hạ Đình Khôi](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/H%E1%BA%A1%20%C4%90%C3%ACnh%20Kh%C3%B4i.md) — `de-xuat`
+- [Hạ Minh Giang](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/H%E1%BA%A1%20Minh%20Giang.md) — `de-xuat`
+
+#### Thẩm Gia — dược điền
+- [Thẩm Chấn Nông](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Th%E1%BA%A9m%20Ch%E1%BA%A5n%20N%C3%B4ng.md) — `de-xuat`
+- [Thẩm Từ Nghi](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Th%E1%BA%A9m%20T%E1%BB%AB%20Nghi.md) — `de-xuat`
+- [Thẩm Minh Châu](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Th%E1%BA%A9m%20Minh%20Ch%C3%A2u.md) — `de-xuat`
+- [Thẩm Hoài Sinh](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Th%E1%BA%A9m%20Ho%C3%A0i%20Sinh.md) — `de-xuat`
+- [Thẩm Hương Dật](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Th%E1%BA%A9m%20H%C6%B0%C6%A1ng%20D%E1%BA%ADt.md) — `de-xuat`
+- [Thẩm Vãn Đường](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Th%E1%BA%A9m%20V%C3%A3n%20%C4%90%C6%B0%E1%BB%9Dng.md) — `de-xuat`
+
+#### Bùi Gia — công trình
+- [Bùi Khắc Vinh](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/B%C3%B9i%20Kh%E1%BA%AFc%20Vinh.md) — `de-xuat`
+- [Bùi Nguyên Bảo](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/B%C3%B9i%20Nguy%C3%AAn%20B%E1%BA%A3o.md) — `de-xuat`
+- [Bùi Khắc Thành](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/B%C3%B9i%20Kh%E1%BA%AFc%20Th%C3%A0nh.md) — `de-xuat`
+- [Bùi Ninh Viễn](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/B%C3%B9i%20Ninh%20Vi%E1%BB%85n.md) — `de-xuat`
+- [Bùi Khánh Vân](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/B%C3%B9i%20Kh%C3%A1nh%20V%C3%A2n.md) — `de-xuat`
+- [Bùi Tố Vân](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/B%C3%B9i%20T%E1%BB%91%20V%C3%A2n.md) — `de-xuat`
+
 ### 01E-Vân Châu
 
 - [Cao Bất Ly](01E-V%C3%A2n%20Ch%C3%A2u/Cao%20B%E1%BA%A5t%20Ly.md) — `dang-phat-trien`
@@ -93,6 +117,7 @@ Giá trị được chép từ frontmatter các hồ sơ tại thời điểm l�
 | `moi-xuat-hien` | 2 | Tô Bách, Tô Thanh Dương |
 | `da-xuat-hien` | 5 | Tô Lạc, Tô Tín, Mạnh Thanh Tễ, Trần Dực, Tạ Nghiên Chi |
 | `dang-xuat-hien` | 1 | Tần Hạo |
+| `de-xuat` | 18 | Sáu thành viên mỗi nhà: Hạ, Thẩm, Bùi; chưa xuất hiện trong truyện |
 
 ## Quy tắc mở rộng
 

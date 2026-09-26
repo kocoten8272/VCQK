@@ -55,6 +55,14 @@ Thế cân bằng này khiến Tô Gia có sức mạnh trực diện nhưng kh�
 - **Cách đi vào truyện:** Một bản đo cũ, giấy xin sửa hoặc lời khai của thợ cho thấy ai từng báo nguy cơ và ai đã hoãn việc. Đây có thể mở một tuyến về bất bình đẳng ở khu dân nghèo.
 - **Giới hạn liên tục:** Nếu tác giả giữ phương án tai nạn nhà trú tạm ven Nam Phố trong bố cục Mạnh Thanh Tễ, Bùi Gia chỉ là một bên cần kiểm tra hồ sơ công trình. Không kết luận họ gây sập hoặc cố ý bỏ mặc trước khi có chứng cứ.
 
+## Hồ sơ thành viên để tra cứu
+
+Ba gia tộc hiện có 18 hồ sơ cá nhân đề xuất trong thư mục `01-NHÂN VẬT/01D-Lăng Vân Thành`. Tất cả đều chưa xuất hiện và có thể đổi trước khi thành canon.
+
+- **Hạ Gia:** [[Hạ Quế Lan]] · [[Hạ Đình Vận]] · [[Hạ Nhược Châu]] · [[Hạ Thừa Kha]] · [[Hạ Đình Khôi]] · [[Hạ Minh Giang]]
+- **Thẩm Gia:** [[Thẩm Chấn Nông]] · [[Thẩm Từ Nghi]] · [[Thẩm Minh Châu]] · [[Thẩm Hoài Sinh]] · [[Thẩm Hương Dật]] · [[Thẩm Vãn Đường]]
+- **Bùi Gia:** [[Bùi Khắc Vinh]] · [[Bùi Nguyên Bảo]] · [[Bùi Khắc Thành]] · [[Bùi Ninh Viễn]] · [[Bùi Khánh Vân]] · [[Bùi Tố Vân]]
+
 ## Mạng lợi ích — không chia phe thiện và ác
 
 - Hạ Gia cần hàng dược của Thẩm Gia và công trình kho bến do Bùi Gia sửa.

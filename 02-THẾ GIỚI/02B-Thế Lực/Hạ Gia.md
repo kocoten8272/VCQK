@@ -42,6 +42,15 @@ Hạ Gia có nhiều đời làm chủ ghe, thuê phu thuyền và quản lý kh
 - Không khẳng định Hạ Gia thuê nhóm áo đen, mua Xích Tủy Tán hoặc biết về [[Vĩnh Sinh Môn]].
 - Quyền chính thức về thu phí, cấp phép bến và chấp pháp của thành chưa xác định. Hạ Gia chỉ có ảnh hưởng nghề nghiệp trong đề xuất này.
 
+## Hồ sơ thành viên
+
+- [[Hạ Quế Lan]] — hồ sơ cá nhân đề xuất
+- [[Hạ Đình Vận]] — hồ sơ cá nhân đề xuất
+- [[Hạ Nhược Châu]] — hồ sơ cá nhân đề xuất
+- [[Hạ Thừa Kha]] — hồ sơ cá nhân đề xuất
+- [[Hạ Đình Khôi]] — hồ sơ cá nhân đề xuất
+- [[Hạ Minh Giang]] — hồ sơ cá nhân đề xuất
+
 ## Liên kết
 - Gia phả và sơ đồ nhân sự: [[Gia Phả Và Cơ Cấu Nhân Sự Các Thế Lực]]
 - Địa điểm: [[Lăng Vân Thành]], [[Nam Phố]], [[Vân Châu]]
