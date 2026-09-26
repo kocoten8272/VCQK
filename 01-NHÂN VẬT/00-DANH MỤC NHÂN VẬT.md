@@ -45,6 +45,8 @@ tags:
 
 - [Lâm Chinh](01B-V%E1%BB%8Dng%20S%C6%A1n%20Tr%E1%BA%A5n/L%C3%A2m%20Chinh.md) — `da-qua-doi`
 - [Lão Đầu](01B-V%E1%BB%8Dng%20S%C6%A1n%20Tr%E1%BA%A5n/L%C3%A3o%20%C4%90%E1%BA%A7u.md) — `da-qua-doi`
+- [Mẹ Lâm Uyên (chưa rõ tên)](01B-V%E1%BB%8Dng%20S%C6%A1n%20Tr%E1%BA%A5n/M%E1%BA%B9%20L%C3%A2m%20Uy%C3%AAn%20%28ch%C6%B0a%20r%C3%B5%20t%C3%AAn%29.md) — `da-qua-doi`
+- [Ông nội Lâm Uyên (chưa rõ tên)](01B-V%E1%BB%8Dng%20S%C6%A1n%20Tr%E1%BA%A5n/%C3%94ng%20n%E1%BB%99i%20L%C3%A2m%20Uy%C3%AAn%20%28ch%C6%B0a%20r%C3%B5%20t%C3%AAn%29.md) — `da-qua-doi`
 
 ### 01C-Tô Gia
 
@@ -57,6 +59,7 @@ tags:
 - [Tô Thanh Dương](01C-T%C3%B4%20Gia/T%C3%B4%20Thanh%20D%C6%B0%C6%A1ng.md) — `da-xuat-hien`
 - [Tô Trạch](01C-T%C3%B4%20Gia/T%C3%B4%20Tr%E1%BA%A1ch.md) — `dang-phat-trien`
 - [Tô Tín](01C-T%C3%B4%20Gia/T%C3%B4%20T%C3%ADn.md) — `da-xuat-hien`
+- [Vương Phúc](01C-T%C3%B4%20Gia/V%C6%B0%C6%A1ng%20Ph%C3%BAc.md) — `da-xuat-hien`
 - [Tần Hạo](01C-T%C3%B4%20Gia/T%E1%BA%A7n%20H%E1%BA%A1o.md) — `chua-xuat-hien`
 
 ### 01D-Lăng Vân Thành
@@ -66,6 +69,10 @@ tags:
 - [Mạnh Thanh Tễ](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/M%E1%BA%A1nh%20Thanh%20T%E1%BB%85.md) — `da-xuat-hien`
 - [Trần Dực](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Tr%E1%BA%A7n%20D%E1%BB%B1c.md) — `da-xuat-hien`
 - [Tạ Nghiên Chi](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/T%E1%BA%A1%20Nghi%C3%AAn%20Chi.md) — `da-xuat-hien`
+- [Tạ Hạnh](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/T%E1%BA%A1%20H%E1%BA%A1nh.md) — `da-xuat-hien`
+- [Lưu Định](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/L%C6%B0u%20%C4%90%E1%BB%8Bnh.md) — `da-xuat-hien`
+- [Viện Chủ Tế Sinh Viện (chưa rõ tên)](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Vi%E1%BB%87n%20Ch%E1%BB%A7%20T%E1%BA%BF%20Sinh%20Vi%E1%BB%87n%20%28ch%C6%B0a%20r%C3%B5%20t%C3%AAn%29.md) — `da-xuat-hien`
+- [Nhân Vật Chưa Rõ Tên — Sổ Theo Dõi](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Nh%C3%A2n%20V%E1%BA%ADt%20Ch%C6%B0a%20R%C3%B5%20T%C3%AAn%20%E2%80%94%20S%E1%BB%95%20Theo%20D%C3%B5i.md) — vai phụ/đám đông
 
 #### Hạ Gia — vận tải Nam Phố
 - [Hạ Quế Lan](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/H%E1%BA%A1%20Qu%E1%BA%BF%20Lan.md) — `de-xuat`
