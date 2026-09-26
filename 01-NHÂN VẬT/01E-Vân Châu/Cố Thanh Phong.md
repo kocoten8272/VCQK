@@ -1,34 +1,30 @@
 ---
 type: nhan-vat
 vai-tro: nhan-vat-phu
-status: dang-phat-trien
+status: chua-xuat-hien
 tags:
   - nhan-vat
-  - kiem-tu
+  - de-xuat
   - kiem-cac
+  - van-chau
 ---
 
 # Cố Thanh Phong
 
-> Trưởng lão kiêm Chấp Kiếm Sứ của [[Kiếm Các]] phân nhánh tại [[Vân Châu]].
+> Nhân vật dự kiến thuộc Kiếm Các ở Vân Châu; chưa xuất hiện trong Chương 1–52.
 
-## Thông tin cơ bản
+## Hồ sơ dự kiến
 
-- **Thân phận:** Chấp Kiếm Sứ Kiếm Các, kiếm tu cao ngạo nửa bước Quy Nguyên.
-- **Tính cách:** Trầm mặc, sắc bén như gươm tuốt trần, không màng mưu mô thế gia, chỉ tôn sùng kiếm đạo thuần túy.
-- **Võ học:** Kiếm ý vô song, có khả năng nhìn thấu sát khí và huyết mạch qua đường kiếm.
+- **Vai trò:** Có thể là kiếm tu cấp cao được cử đến một biến cố ở Lăng Vân Thành.
+- **Chức vụ, tuổi, cảnh giới:** Chưa xác nhận. “Chấp Kiếm Sứ” và “nửa bước Quy Nguyên” trong hồ sơ cũ là phương án, không phải canon.
+- **Tính cách dự kiến:** Nghiêm cẩn, coi trọng kiếm đạo; cần có đời sống và lợi ích riêng ngoài vai trò thử thách Lâm Uyên.
+- **Năng lực:** Chưa định lượng; không được dùng để giải quyết vấn đề thay nhân vật chính.
+- **Mục tiêu / mâu thuẫn:** Chưa chốt.
 
-## Vai trò trong truyện & Động cơ
+## Trạng thái và giới hạn
 
-- Đến [[Lăng Vân Thành]] quan sát [[Đại Hội Thí Luyện]] theo lời mời ngoại giao hình thức của các gia tộc.
-- Tình cờ cảm nhận được luồng kiếm ý và sát khí đặc biệt phát ra từ thanh tàn kiếm sau lưng [[Lâm Uyên]].
-
-## Khai thác tương lai
-
-- Đóng vai trò vừa là người thử thách, vừa là trọng tài công tâm trước áp lực của các đại thế gia.
-- Có thể trở thành người truyền cảm hứng hoặc đối thủ luận kiếm giúp Lâm Uyên tôi luyện uy lực kiếm chiêu ở các tầng sâu hơn.
+Chưa có căn cứ nói Cố Thanh Phong được mời tới Đại Hội Thí Luyện hay đã cảm nhận thanh tàn kiếm. Khi dùng về sau, xây quan hệ với Kiếm Các và động cơ qua cảnh mới.
 
 ## Liên kết
 
-- Nhân vật: [[Lâm Uyên]], [[Tô Thanh Ly]]
-- Thế giới: [[Kiếm Các]], [[Vân Châu]]
+[[Kiếm Các]] · [[Vân Châu]] · [[Lâm Uyên]]
