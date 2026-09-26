@@ -1,7 +1,7 @@
 ---
 type: nhan-vat
 vai-tro: nhan-vat-phu
-status: dang-xuat-hien
+status: chua-xuat-hien
 tags:
   - nhan-vat
   - ngoai-vien
@@ -10,21 +10,20 @@ tags:
 
 # Tần Hạo
 
-> Đệ tử ngoại môn cốt cán đứng đầu của Tô gia, thân tín được Tô Thanh Dương hậu thuẫn.
+> Nhân vật dự kiến thuộc ngoại viện Tô Gia; chưa xuất hiện trong bản thảo Chương 1–52.
 
-## Thông tin cơ bản
+## Hồ sơ dự kiến
 
-- **Thân phận:** Đệ tử ngoại môn Tô gia (đỉnh phong Khai Mạch kỳ)
-- **Phe phái:** Liên minh ngoại môn, thân cận với Tô Thanh Dương
-- **Vũ khí:** Trọng kiếm vỏ gỗ đen
-- **Tính cách:** Ngạo mạn, hách dịch, sắc sảo, tàn nhẫn khi ra tay
-- **Mục tiêu:** Chèn ép Lâm Uyên trong buổi tỉ thí thực chiến ngoại môn theo lệnh của Tô Thanh Dương
+- **Vai trò:** Có thể là một đệ tử ngoại viện cạnh tranh với Lâm Uyên.
+- **Tuổi, cảnh giới, diện mạo, vũ khí:** Chưa được chốt. “Đỉnh phong Khai Mạch” và trọng kiếm từng ghi trong hồ sơ cũ là đề xuất, không phải dữ kiện truyện.
+- **Tính cách dự kiến:** Kiêu ngạo, có tham vọng; cần động cơ riêng ngoài việc làm tay sai cho Tô Thanh Dương.
+- **Mục tiêu / mâu thuẫn:** Chưa xác lập.
+- **Giới hạn:** Không gán cho nhân vật một cuộc đe dọa ở Chương 17 vì không có cảnh đó trong bản thảo hiện hành.
 
-## Vai trò trong truyện
+## Quan hệ và trạng thái
 
-- **Chương 17:** Xuất hiện đe dọa Lâm Uyên trước thềm buổi khảo hạch thực chiến ngoại viện, cảnh báo về nguy cơ bị phế bỏ trên võ đài.
+Chưa xuất hiện. Quan hệ với Tô Thanh Dương, Tô Bách và Lâm Uyên chỉ là phương án cốt truyện, chưa phải sự kiện.
 
 ## Liên kết
 
-- Nhân vật: [[Lâm Uyên]], [[Tô Thanh Dương]], [[Tô Bách]]
-- Thế giới: [[Tô Gia]], [[Lăng Vân Thành]]
+[[Tô Gia]] · [[Ngoại Viện Tô Gia]] · [[Lâm Uyên]]
