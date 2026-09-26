@@ -1,6 +1,6 @@
 ---
 type: nhan-vat
-status: da-xuat-hien
+status: da-qua-doi
 vai-tro: nhan-vat-phu
 tags:
   - trien-khai-da-duyet
