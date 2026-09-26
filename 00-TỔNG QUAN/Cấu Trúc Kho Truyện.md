@@ -52,7 +52,7 @@ tags:
 
 ## Các phần đã có tổ chức ổn định
 
-- `01-NHÂN VẬT` đã chia theo nhóm nhân vật/địa bàn/thế lực; xem mục lục trước khi thêm hồ sơ.
+- `01-NHÂN VẬT` có một danh mục trung tâm và mục lục ngay trong cả sáu thư mục 01A–01F; mọi hồ sơ có đúng một vị trí chính, dùng [[MẪU HỒ SƠ NHÂN VẬT]] và được nối với [[MỐI QUAN HỆ]].
 - `05-TIMELINE` có bốn file tổng quan lịch sử và các đời; giữ dạng phẳng vì hiện còn ít tài liệu.
 - `06-CHƯƠNG TRUYỆN` chia theo quyển; không phân chương theo trạng thái nháp/hoàn thiện vì trạng thái nằm trong frontmatter và [[Kết Chương]].
 - `07-TƯ LIỆU & BÍ MẬT` đã chia theo loại vật, sự kiện và địa điểm. Chưa tạo thư mục nguồn tham khảo cho tới khi có tài liệu cần lưu.
@@ -66,7 +66,9 @@ tags:
 3. Phân biệt rõ sự kiện đã xảy ra với đề xuất/kế hoạch bằng frontmatter hoặc nhãn như `de-xuat`, `nhap`, `hoan-thien`, `tham-khao-cu`.
 4. Khi đổi đường dẫn, giữ tên file nếu không có lý do mạnh để đổi; rà liên kết Markdown có đường dẫn đầy đủ. Wiki link theo tên file vẫn cần kiểm tra nếu xuất hiện hai file cùng tên.
 5. Chỉ tạo thư mục con khi có nhóm tài liệu cùng chức năng; không tạo thư mục rỗng để dành chỗ.
-6. Sau mỗi chương mới, cập nhật [[Kết Chương]], trạng thái sau chương mới nhất và thông tin chương trong menu.
+6. Với hồ sơ nhân vật: chọn một thư mục chính theo nơi gắn bó/ vai trò ổn định; tạo hoặc cập nhật trang mục lục trong thư mục và [[00-DANH MỤC NHÂN VẬT]] cùng lúc. Không rải bản sao cùng một nhân vật ở thư mục khác.
+7. Gắn sự kiện vào hồ sơ bằng số chương; phân biệt `canon`, `de-xuat`, `chua-xuat-hien` và điều chưa rõ. Cập nhật tình trạng sống/chết, quan hệ và mốc gần nhất sau khi chương mới chốt.
+8. Sau mỗi chương mới, cập nhật [[Kết Chương]], trạng thái sau chương mới nhất và thông tin chương trong menu.
 
 ## Nguồn sự thật
 
@@ -80,5 +82,7 @@ tags:
 - [[VẠN CỔ QUY KHƯ MENU]]
 - [[Bản Đồ Liên Kết]]
 - [[00-DANH MỤC NHÂN VẬT]]
+- Các mục lục cục bộ tại `01-NHÂN VẬT/01A` đến `01-NHÂN VẬT/01F`
+- [[MẪU HỒ SƠ NHÂN VẬT]]
 - [[Kết Chương]]
 - [[Trạng Thái Truyện Sau Chương 52]]
