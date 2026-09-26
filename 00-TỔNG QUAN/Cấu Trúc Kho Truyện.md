@@ -52,7 +52,7 @@ tags:
 
 ## Các phần đã có tổ chức ổn định
 
-- `01-NHÂN VẬT` có một danh mục trung tâm và mục lục ngay trong cả sáu thư mục 01A–01F; mọi hồ sơ có đúng một vị trí chính, dùng [[MẪU HỒ SƠ NHÂN VẬT]] và được nối với [[MỐI QUAN HỆ]].
+- `01-NHÂN VẬT` có danh mục trung tâm, ID bất biến, sổ cái, hồ sơ cá nhân duy nhất, sơ đồ quan hệ, appearance tracker, ma trận tri thức/thế lực, theo dõi tu luyện/chiến lực và open threads. Sáu mục lục cục bộ 01A–01F giúp tìm hồ sơ; [[01-QUY TẮC VẬN HÀNH HỆ THỐNG NHÂN VẬT]] quy định cập nhật sau mỗi chương; [[09-BÁO CÁO HỆ THỐNG NHÂN VẬT]] là snapshot cần làm mới sau đợt rà soát.
 - `05-TIMELINE` có bốn file tổng quan lịch sử và các đời; giữ dạng phẳng vì hiện còn ít tài liệu.
 - `06-CHƯƠNG TRUYỆN` chia theo quyển; không phân chương theo trạng thái nháp/hoàn thiện vì trạng thái nằm trong frontmatter và [[Kết Chương]].
 - `07-TƯ LIỆU & BÍ MẬT` đã chia theo loại vật, sự kiện và địa điểm. Chưa tạo thư mục nguồn tham khảo cho tới khi có tài liệu cần lưu.

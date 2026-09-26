@@ -1,5 +1,7 @@
 ---
 type: nhan-vat
+id: CHAR-057
+importance-tier: B
 vai-tro: nhan-vat-bi-an
 status: duoc-nhac-den
 tags:

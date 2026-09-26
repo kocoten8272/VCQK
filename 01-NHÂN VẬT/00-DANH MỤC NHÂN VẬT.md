@@ -186,6 +186,7 @@ Trạng thái mỗi người nằm trong frontmatter của hồ sơ. Danh sách 
 | `chua-xuat-hien` | Có hồ sơ hoặc phương án nhân vật nhưng chưa có mặt trong bản thảo hiện hành. |
 | `de-xuat` | Phương án đang chờ chốt; tuyệt đối không coi là canon. |
 | `dang-phat-trien` | Nhân vật đã xuất hiện và còn tuyến diễn tiến; cần ghi mốc continuity gần nhất. |
+| `unknown` | Tình trạng sống/chết chưa thể xác nhận; khác với trạng thái xuất hiện. |
 
 ## Quy tắc mở rộng
 
@@ -202,3 +203,10 @@ Trạng thái mỗi người nằm trong frontmatter của hồ sơ. Danh sách 
 - [[MỐI QUAN HỆ]]
 - [[Gia Phả Và Cơ Cấu Nhân Sự Các Thế Lực]]
 - [[VẠN CỔ QUY KHƯ MENU]]
+
+
+## Hệ thống dữ liệu nhân vật
+
+Mỗi hồ sơ cá nhân có ID cố định trong frontmatter. Danh sách chuẩn: [[02-SỔ CÁI NHÂN VẬT]]. Cấp S/A/B/C/D là độ ưu tiên biên tập, không phải cảnh giới, quyền lực hay xác nhận canon.
+
+Duy trì bằng [[01-QUY TẮC VẬN HÀNH HỆ THỐNG NHÂN VẬT]], rồi kiểm [[03-SỔ THEO DÕI LẦN XUẤT HIỆN]], [[04-SƠ ĐỒ QUAN HỆ NHÂN VẬT]], [[05-MA TRẬN TRI THỨC]], [[06-MA TRẬN THẾ LỰC]], [[07-THỨ BẬC TU LUYỆN VÀ CHIẾN LỰC]], [[08-MẠCH NHÂN VẬT VÀ VẤN ĐỀ LIÊN TỤC]] và [[09-BÁO CÁO HỆ THỐNG NHÂN VẬT]].

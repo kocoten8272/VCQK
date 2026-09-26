@@ -1,5 +1,7 @@
 ---
 type: nhan-vat
+id: CHAR-005
+importance-tier: S
 vai-tro: nhan-vat-chinh
 status: dang-phat-trien
 tags:

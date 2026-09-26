@@ -1,12 +1,16 @@
 ---
 type: nhan-vat
+id: CHAR-007
+importance-tier: A
 vai-tro: nhan-vat-phu
-status: da-qua-doi
+status: unknown
 tags:
   - nhan-vat
 ---
 
 # Lâm Chinh
+
+> Tình trạng sinh tử hiện tại: **UNKNOWN**. Mười năm trước người nhà được báo đã chết và làm tang; ngôi mộ sau đó không xác nhận thi thể ông. Đây là phân biệt giữa lời báo tử và sự thật chưa rõ, không phải xác nhận ông còn sống.
 
 > Cha của [[Lâm Uyên]] — người có ngôi mộ hóa ra lại là nơi chôn cất [[Hắc Quan]].
 

@@ -1,5 +1,7 @@
 ---
 type: nhan-vat
+id: CHAR-053
+importance-tier: D
 vai-tro: nhan-vat-phu
 status: chua-xuat-hien
 tags:

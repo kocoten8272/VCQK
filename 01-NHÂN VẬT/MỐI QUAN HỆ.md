@@ -63,3 +63,8 @@ tags:
 - [[00-DANH MỤC NHÂN VẬT]]
 - [[Gia Phả Và Cơ Cấu Nhân Sự Các Thế Lực]]
 - [[Trạng Thái Truyện Sau Chương 52]]
+
+
+## Bản đồ có ID cố định
+
+Xem [[04-SƠ ĐỒ QUAN HỆ NHÂN VẬT]] để tra chiều, loại quan hệ, mốc hình thành và giới hạn suy luận.

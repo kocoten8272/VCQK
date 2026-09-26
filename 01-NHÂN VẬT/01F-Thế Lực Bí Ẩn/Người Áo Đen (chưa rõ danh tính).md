@@ -1,5 +1,7 @@
 ---
 type: nhan-vat
+id: CHAR-056
+importance-tier: B
 vai-tro: nhan-vat-bi-an
 status: da-xuat-hien
 tags:

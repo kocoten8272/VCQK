@@ -1,5 +1,7 @@
 ---
 type: nhan-vat
+id: CHAR-013
+importance-tier: B
 status: da-qua-doi
 vai-tro: nhan-vat-phu
 tags:
