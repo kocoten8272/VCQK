@@ -11,7 +11,6 @@ tags:
 ## Chương 51: Khoảng Trống Trong Sổ
 
 Sáng hôm sau, Trần Dực tỉnh trước khi người trực viện thay đèn. Hắn nằm nhìn bàn tay trái đặt ngoài chăn một lúc lâu, rồi dùng tay phải kéo chiếc bát sứ trên ghế lại gần. Mép bát trượt qua gỗ, phát ra tiếng khô. Đầu ngón út bên trái chạm vào thành bát, hắn nhíu mày, nhưng chiếc bát vẫn không nhúc nhích.
-
 Viện chủ đến khi trời vừa sáng. Ông thử lại từng ngón trước mặt Trần Dực, Mạnh Thanh Tễ và chấp sự giữ sổ thuốc. Ngón út nhận ra đầu kim chạm vào, chậm hơn tay phải một nhịp. Ngón áp út chỉ phân biệt được sức ép khi kim ấn sâu hơn. Ba ngón còn lại gần như không đáp, cổ tay cũng không nhấc lên được. Đường xám dưới xương quai xanh không lan thêm trong đêm, song vết lạnh dưới vai vẫn còn.
 
 “Đêm qua thuốc giữ được phần này,” viện chủ nói, lấy đầu bút khoanh hai ngón trên hình bàn tay trong bệnh án. “Hôm nay phải xem nó có giữ tiếp không.”
