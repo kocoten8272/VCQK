@@ -1945,3 +1945,13 @@ Bản đề xuất được phát triển đầy đủ nhưng không tự nhận
 - **“Chốt”, “giữ phương án này”**: ghi quyết định vào hồ sơ liên quan, kiểm tra continuity và cập nhật các điểm phụ thuộc.
 
 Mục tiêu là để tác giả nhận được một bản cụ thể có thể đọc, sửa hoặc dùng ngay, thay vì phải duyệt một chuỗi câu hỏi trung gian.
+
+# LXX. TỰ THIẾT KẾ TRONG MỖI LẦN SÁNG TÁC
+
+Áp dụng [[11_AUTONOMOUS_STORY_DESIGN]] khi nhận yêu cầu nắm ngữ cảnh, viết tiếp hoặc triển khai một arc. Quy trình mặc định là **READ → DESIGN → WRITE → ANALYZE → UPDATE → VERIFY → COMMIT**. Trước khi viết, xác định vấn đề cần tiến triển, thử dùng người/vật/thế lực đã có rồi chủ động thiết kế phần còn thiếu; không chờ tác giả duyệt từng tên, tuổi, nghề, động cơ, công năng thường lệ hoặc diễn biến phù hợp khung đã chốt.
+
+Dùng bốn mẫu thiết kế trong tài liệu trên: thế lực có mục tiêu, nguồn lực và giới hạn; nhân vật có mong muốn, quan hệ và quyền lựa chọn; vật phẩm có nguồn cung, điều kiện và cái giá; sự kiện có nguyên nhân, quyết định và hậu quả. Giới thiệu qua việc đang diễn ra, không đưa bảng hồ sơ vào chương. Trong cả chặng, những tuyến đang hoạt động phải tiếp tục có kết quả; không bắt mỗi chương chia đều dung lượng hoặc tạo bí ẩn mới.
+
+Quy tắc giữ TBD ở đầu Writing Bible áp dụng khi trích xuất dữ kiện cũ và khi gặp bí mật có chủ ý. Nó không cấm sáng tạo chi tiết mới đã được tác giả ủy quyền: ghi nguồn **TỰ THIẾT KẾ**, giữ phần chưa viết riêng với sự kiện đã xuất hiện. Dùng các sổ thiết kế tác giả mới nhất khi chúng đã giải quyết UNKNOWN cũ; không tự truyền kiến thức tác giả cho nhân vật hoặc sửa nền truyện.
+
+Sau khi dùng thiết kế, cập nhật một hồ sơ chính và các danh mục/tracker bị tác động theo [[11_AUTONOMOUS_STORY_DESIGN]]. Bản thảo, thiết kế tự chủ và quyết định tác giả đã chốt giữ nhãn riêng; việc commit không tự nâng chúng thành cùng một mức xác nhận.

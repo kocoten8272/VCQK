@@ -34,9 +34,19 @@ Nếu nguồn ngang cấp mâu thuẫn, ghi CANON CONFLICT, dẫn cả hai ngu�
 
 ID, tier biên tập, tên chuẩn/biệt danh, tình trạng xuất hiện, vai trò, thế lực và loại liên hệ, thông tin đã xác nhận, quan hệ có chiều, tính cách/động cơ có bằng chứng, cảnh giới tách với chiến lực, sống/chết/thương tích, nơi cuối biết, tri thức, timeline, nguồn và tuyến mở.
 
-- Thiếu nguồn: UNKNOWN; không bịa tuổi, giới tính, tu vi, tình cảm, huyết thống, chức vụ hoặc tên.
+- Khi trích xuất dữ kiện đã có: thiếu nguồn thì UNKNOWN; không tự xác nhận tuổi, giới tính, tu vi, tình cảm, huyết thống, chức vụ hoặc tên từ phỏng đoán. Thiết kế nội dung mới theo quyền tác giả giao được xử lý riêng ở mục dưới.
 - Suy luận: INFERRED — NOT CANON. Lời khai/tin đồn/niềm tin sai gắn với người nói và nguồn.
 - Cấp S/A/B/C/D là ưu tiên biên tập, không phải sức mạnh hay mức xác nhận canon.
+
+## Tự thiết kế nhân vật mới hoặc phần phát triển tương lai
+
+Áp dụng mẫu nhân vật trong [[11_AUTONOMOUS_STORY_DESIGN]]. Khi chuẩn bị một nhân vật mới, được chủ động đặt các chi tiết thường lệ cần cho arc: tên, tuổi, nghề, diện mạo, mong muốn, tính cách, giới hạn, quan hệ và lựa chọn. Ghi nguồn **TỰ THIẾT KẾ**, trạng thái **CHƯA XUẤT HIỆN**; đây là sáng tạo mới, không phải suy luận về người đã có.
+
+Với nhân vật cũ, có thể thiết kế thêm đặc điểm thường lệ không xung đột để dùng trong cảnh tương lai; ghi nguồn và mốc thiết kế, không nói chương trước đã xác nhận. Giữ các UNKNOWN được cố ý dành cho bí mật, huyết thống, sống/chết hoặc danh tính. Đối chiếu sổ thiết kế tác giả mới nhất trước khi coi một trường UNKNOWN cũ là chưa được giải quyết.
+
+Trước khi tạo hồ sơ, kiểm trùng người/bí danh, chọn một thư mục chính và cấp ID CHAR-NNN nối tiếp sổ hiện hành. Cập nhật danh mục trung tâm và mục lục cục bộ cùng lúc; không rải bản sao. Vai thoáng qua dùng sổ chung; khi tái xuất có nhận diện hoặc hành động tạo hậu quả riêng thì lập hồ sơ đầy đủ.
+
+Sau khi viết, ghi riêng chương giới thiệu thực tế, điều được thể hiện, tri thức và trạng thái hiện tại. Tiểu sử thiết kế chưa lộ không trở thành kiến thức của nhân vật/độc giả. Không yêu cầu tác giả duyệt từng chi tiết trong phạm vi đã ủy quyền.
 
 ## Sau mỗi chương mới
 

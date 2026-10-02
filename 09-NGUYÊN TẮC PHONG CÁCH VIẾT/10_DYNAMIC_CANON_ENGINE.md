@@ -8,6 +8,8 @@
 > Cho phép AI Agent tự động nhận diện, suy luận, cập nhật và duy trì trạng thái nhất quán của toàn bộ thế giới truyện sau mỗi lần viết mới hoặc chỉnh sửa chương.
 >
 > Đây không phải file lore.
+
+Các ví dụ trong file chỉ minh họa cách vận hành; không dùng chúng làm nguồn xác nhận tu vi, sở hữu vật phẩm, huyết thống hoặc quan hệ trong truyện.
 >
 > Đây là **BỘ QUY TẮC VẬN HÀNH** để AI quản lý sự thay đổi của lore, nhân vật, công pháp, sinh linh, vật phẩm, thế lực, địa điểm, quan hệ, bí mật, nhân quả và diễn biến cốt truyện.
 
@@ -641,9 +643,9 @@ Nếu có:
 
 Nguyên tắc:
 
-> **Mở một nút → tháo một nút → xuất hiện một nút sâu hơn.**
+> **Phát triển nút đang mở → trả kết quả → theo dõi hậu quả hoặc mục tiêu tiếp theo.**
 
-Không được để toàn bộ mystery biến mất sau một lần giải thích.
+Chỉ mở một câu hỏi mới khi kết quả thực sự tạo ra nó; không bắt buộc mỗi payoff có một bí mật hoặc chủ mưu sâu hơn. Có thể giải xong một vấn đề cục bộ trong khi những tuyến dài hạn đã gieo vẫn còn mở.
 
 ---
 
@@ -1337,9 +1339,17 @@ Mọi chương đều phải trở thành một phần của **trạng thái li�
 
 Khi được yêu cầu viết hoặc chỉnh sửa chương, AI phải mặc định thực hiện:
 
-> **WRITE → ANALYZE → UPDATE → VERIFY → COMMIT**
+> **READ → DESIGN → WRITE → ANALYZE → UPDATE → VERIFY → COMMIT**
 
 Trong đó:
+
+### READ
+
+Đọc trạng thái mới nhất, chương liền trước, khung đã duyệt và hồ sơ liên quan; tách sự thật tác giả với điều nhân vật và độc giả biết.
+
+### DESIGN
+
+Dùng [[11_AUTONOMOUS_STORY_DESIGN]] để tự thiết kế phần còn thiếu: mục tiêu, chức năng, nguồn lực, giới hạn và nhân quả. Ưu tiên phát triển nội dung hiện hữu; được tạo nội dung mới phù hợp arc mà không chờ duyệt từng lựa chọn thường lệ.
 
 ### WRITE
 
@@ -1359,7 +1369,7 @@ Kiểm tra Canon, timeline, knowledge state, mystery, foreshadowing và continui
 
 ### COMMIT
 
-Xác nhận trạng thái mới của truyện là trạng thái chính thức hiện tại.
+Ghi nhận phiên bản nội dung và trạng thái tiếp nối hiện tại. Commit không tự chuyển chương nháp thành hoàn thiện, không nâng lời đồn, thiết kế hoặc kế hoạch thành sự thật đã xảy ra.
 
 Không được bỏ qua bước UPDATE và VERIFY chỉ vì chương không xuất hiện "lore lớn".
 
@@ -1376,3 +1386,13 @@ Khi tác giả yêu cầu sáng tác hoặc phát triển một sản phẩm, h�
 Phân loại mọi kết quả thành **CANON ĐÃ CÓ**, **QUYẾT ĐỊNH ĐÃ CHỐT**, **ĐỀ XUẤT MỚI**, **INFERENCE/HYPOTHESIS** hoặc **UNKNOWN/TBD**. Một đề xuất có thể được phát triển trọn vẹn để tác giả đọc mà vẫn chưa thành canon. Không được bỏ nhãn, âm thầm đổi sự kiện đã xác lập, hoặc biến phỏng đoán thành sự thật. Nếu lựa chọn tác động lớn đến canon, ghi rõ hệ quả và giữ ở dạng đề xuất; vẫn hoàn tất những phần khác không phụ thuộc quyết định đó.
 
 Sau khi hoàn tất, trình bày sản phẩm cùng các giả định, điểm mới, tác động continuity và phần còn mở. Không chờ tác giả duyệt mới đưa bản đề xuất ra đọc. Khi tác giả nói “chốt” hoặc yêu cầu cập nhật trực tiếp, đồng bộ hồ sơ liên quan và rà các node phụ thuộc theo quy trình ở trên.
+
+# XL. ĐƯA THIẾT KẾ TỰ CHỦ VÀO CANON ĐỘNG
+
+[[11_AUTONOMOUS_STORY_DESIGN]] là bước thiết kế trước WRITE. Quyền tự chủ bao gồm nhân vật, thế lực, vật phẩm và sự kiện mới trong khung truyện; không chỉ chi tiết cảnh trí. Tách **TỰ THIẾT KẾ — CHƯA XUẤT HIỆN** khỏi **DỮ KIỆN BẢN THẢO — CÓ CHƯƠNG NGUỒN**. Không tự gắn thiết kế mới nhãn “tác giả đã chốt”; không dùng quy tắc FILL NODE để biến sáng tạo mới thành suy luận về quá khứ.
+
+Với node mới, ghi nguồn thiết kế và chương xuất hiện thực tế riêng. Chỉ phần đã thể hiện trong chương mới được đưa vào trạng thái sự kiện; ý đồ ẩn, lời đồn, dự kiến và UNKNOWN có chủ ý giữ ở lớp thích hợp. Đối chiếu thiết kế tác giả mới nhất trước khi giữ một UNKNOWN từ tài liệu cũ.
+
+Khi cập nhật, theo dõi quan hệ có chiều, nguồn lực/thẩm quyền, tri thức, thương tích, quyền sở hữu/quyền sử dụng, chi phí và hậu quả. Nhân vật dùng ID hiện hành và một hồ sơ chính; các vai thoáng qua vào sổ chung. Các node liên quan được cập nhật theo thay đổi thực tế, không nhân đôi toàn bộ hồ sơ.
+
+Một thiết kế hoàn tất khi có thể dùng trong cảnh và có nơi lưu hợp lý. Một chương hoàn tất phiên làm việc khi nội dung, trạng thái tiếp nối, tracker và liên kết cần thiết đã đồng bộ. Trình bày kết quả để tác giả đọc, không yêu cầu duyệt lại những lựa chọn thường lệ trong phạm vi đã giao.

@@ -73,21 +73,22 @@ tags:
 | Chương 50 | 🔶 | Phần Thuốc Để Lại | `status: nhap` |
 | Chương 51 | 🔶 | Khoảng Trống Trong Sổ | `status: nhap` |
 | Chương 52 | 🔶 | Đường Đến Trạm Khám | `status: nhap` |
+| Chương 53 | 🔶 | Người Giữ Chìa Khóa | `status: nhap` |
 
 ## Chương tiếp theo
 
-- Chương 53: hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 52]]. Chương 51 và 52 đã có bản nháp trên `main`.
+- Chương 54: hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 53]]. Chương 51–53 đã có bản nháp trên `main`; áp dụng [[11_AUTONOMOUS_STORY_DESIGN]] để chuẩn bị nội dung mới phù hợp.
 - Các ý tưởng cũ cho chương 39–44 trong hồ sơ hỗ trợ thuộc mạch trước bản Chương 37–38 hiện tại. Chỉ dùng làm chất liệu sau khi đối chiếu, không coi là sự kiện đã xảy ra.
 
 ## Tổng số
 
-- Có tệp chương 1–52 trên `main`: 52.
+- Có tệp chương 1–53 trên `main`: 53.
 - Hoàn thiện: 33 chương theo tracker (1–25) và frontmatter (26–32, 34). Chương 2–7 thiếu khai báo frontmatter nhưng tracker hiện đánh dấu hoàn thiện.
-- Nháp theo frontmatter: 18 chương (33, 36–52).
+- Nháp theo frontmatter: 19 chương (33, 36–53).
 - Chương 35 có tệp nhưng chưa khai báo trạng thái; tracker cũng chưa xác định hoàn thiện hay nháp.
-- Chương 53 trở đi: chưa có tệp; các mốc tương lai giữ ở mức kế hoạch.
+- Chương 54 trở đi: chưa có tệp; các mốc tương lai giữ ở mức kế hoạch.
 
 ## Liên kết
 
 - Nhịp: [[Nhịp Truyện]]
-- Chương: [[Chương 1]] → [[Chương 52]]
+- Chương: [[Chương 1]] → [[Chương 53]]

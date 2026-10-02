@@ -8,10 +8,10 @@
 
 - **Tên truyện:** Vạn Cổ Quy Khư
 - **Nhân vật chính:** [[Lâm Uyên]]
-- **Địa điểm ở cuối Chương 52:** Tế Sinh Viện; Lâm Uyên chuẩn bị tiếp tục học việc vào sáng hôm sau
+- **Địa điểm ở cuối Chương 53:** Tế Sinh Viện; tiếp tục học việc, chờ tin tìm người dẫn đội chuyển sách và phương án chống vách Hắc Phong Sơn
 - **Thế lực gắn với arc hiện tại:** [[Tô Gia]]
-- **Chương mới nhất trên main:** [[Chương 52]] (nháp)
-- **Chương tiếp theo:** Chương 53 (dự kiến)
+- **Chương mới nhất trên main:** [[Chương 53]] (nháp)
+- **Chương tiếp theo:** Chương 54 (dự kiến)
 - **Trạng thái:** Đang sáng tác
 
 ---
@@ -22,12 +22,13 @@
 - [[Bản Đồ Liên Kết]] — bản đồ tổng thể thế giới – nhân vật – bí ẩn
 - [[Cấu Trúc Kho Truyện]] — vai trò từng thư mục và quy tắc lưu tài liệu
 - [[Luật Viết]] — quy tắc vàng khi viết
+- [[11_AUTONOMOUS_STORY_DESIGN]] — tự thiết kế thế lực, nhân vật, vật phẩm và sự kiện theo khung truyện; áp dụng khi viết tiếp
 
 ---
 
 ## WORLD LORE SYSTEM
 
-- [[Thiết Kế Tác Giả Đã Chốt — Thế Giới, Lịch Sử Và Bí Mật]] — cosmology, lịch sử, bí mật và thứ tự hé lộ ở lớp tác giả
+- [[05-Thiết Kế Tác Giả Đã Chốt — Thế Giới, Lịch Sử Và Bí Mật|Thiết Kế Tác Giả Đã Chốt — Thế Giới, Lịch Sử Và Bí Mật]] — cosmology, lịch sử, bí mật và thứ tự hé lộ ở lớp tác giả
 - [[00-DANH MỤC LORE]] — sổ node và ID lore ổn định
 - [[01-Cấu Trúc Vũ Trụ Và Tầng Thế Giới]] — phân tầng đã xác nhận và phần chưa biết
 - [[02-Bản Đồ Và Logic Không Gian]] — địa lý, cự ly và thời gian di chuyển còn mở
@@ -72,7 +73,7 @@
 
 ## HỆ THỐNG TU LUYỆN
 
-- [[Thiết Kế Tác Giả Đã Chốt — Tu Hành, Sinh Tử Và Tài Nguyên]] — cơ chế 12 cảnh giới, sinh tử, công pháp, pháp khí và tài nguyên
+- [[04-Thiết Kế Tác Giả Đã Chốt — Tu Hành, Sinh Tử Và Tài Nguyên|Thiết Kế Tác Giả Đã Chốt — Tu Hành, Sinh Tử Và Tài Nguyên]] — cơ chế 12 cảnh giới, sinh tử, công pháp, pháp khí và tài nguyên
 - [[00-Danh Mục Hệ Thống Tu Luyện]] — mục lục và ID cảnh giới/pháp môn
 - [[01-QUY TẮC VẬN HÀNH VÀ POWER SCALING]] — quy tắc tiến triển và so sánh chiến lực
 - [[02-BÁO CÁO KIỂM TOÁN HỆ THỐNG TU LUYỆN]] — phần đã rõ, giới hạn và cần tác giả quyết định
@@ -168,13 +169,14 @@
 - [[Chương 49]] — nháp
 - [[Chương 50]] — nháp
 - [[Chương 51]] — nháp
-- [[Chương 52]] — nháp mới
+- [[Chương 52]] — nháp
+- [[Chương 53]] — Người Giữ Chìa Khóa; nháp mới
 
 ### Chuẩn bị
 
-- Chương 53 — hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 52]].
+- Chương 54 — hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 53]].
 - [[Kết Chương]] — trạng thái từng chương, bao gồm các bản nháp và chương chưa có frontmatter.
-- [[Trạng Thái Truyện Sau Chương 52]] — trạng thái continuity hiện hành; các bản sau chương trước đó là lưu vết lịch sử.
+- [[Trạng Thái Truyện Sau Chương 53]] — trạng thái continuity hiện hành; các bản sau chương trước đó là lưu vết lịch sử.
 
 ---
 
@@ -219,6 +221,7 @@
 - [[Luật Viết]] — quy tắc chung, bao gồm tự chủ phát triển sản phẩm và phân biệt đề xuất với canon
 - [[04_WRITING_BIBLE]] — hệ điều hành tư duy, cấu trúc dài hạn, bí mật nhiều tầng và triết lý cốt lõi
 - [[10_DYNAMIC_CANON_ENGINE]] — bộ quy tắc vận hành và quản lý canon động (State Change, Ripple Effect, Auto Node Detection, After-Chapter Protocol)
+- [[11_AUTONOMOUS_STORY_DESIGN]] — phạm vi tự chủ, bốn mẫu thiết kế, quy trình trước/sau khi viết và minh họa cho chặng sau Chương 53
 
 ---
 

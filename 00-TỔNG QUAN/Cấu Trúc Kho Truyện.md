@@ -65,7 +65,7 @@ tags:
 - `06-CHƯƠNG TRUYỆN` chia theo quyển; không phân chương theo trạng thái nháp/hoàn thiện vì trạng thái nằm trong frontmatter và [[Kết Chương]].
 - `07-TƯ LIỆU & BÍ MẬT` đã chia theo loại vật, sự kiện và địa điểm. Chưa tạo thư mục nguồn tham khảo cho tới khi có tài liệu cần lưu.
 - `08-FILE CƠ BẢN` giữ nguyên theo canon protection. Một liên kết dùng bí danh hiển thị `02_WORLD_LORE` để trỏ tới file nền có tên hiện tại `02_WORLD_LOR.md`; giữ nguyên tên file được bảo vệ.
-- `09-NGUYÊN TẮC PHONG CÁCH VIẾT` chứa các quy tắc viết, gồm `Luật Viết` được chuyển khỏi khung truyện.
+- `09-NGUYÊN TẮC PHONG CÁCH VIẾT` chứa các quy tắc viết, gồm `Luật Viết` được chuyển khỏi khung truyện. [[11_AUTONOMOUS_STORY_DESIGN]] quy định tự thiết kế bốn loại nội dung và cách dùng các mẫu trước khi viết.
 
 ## Quy trình thêm hoặc chuyển tài liệu
 
@@ -78,12 +78,18 @@ tags:
 7. Gắn sự kiện vào hồ sơ bằng số chương; phân biệt `canon`, `de-xuat`, `chua-xuat-hien` và điều chưa rõ. Cập nhật tình trạng sống/chết, quan hệ và mốc gần nhất sau khi chương mới chốt.
 8. Sau mỗi chương mới, cập nhật [[Kết Chương]], trạng thái sau chương mới nhất và thông tin chương trong menu.
 
+## Lưu nội dung tự thiết kế
+
+Áp dụng [[11_AUTONOMOUS_STORY_DESIGN]]; một node có một nơi chính và một nguồn thiết kế rõ. Hồ sơ nhân vật ở 01; thế lực ở 02B; nguyên lý tài nguyên/pháp khí ở 03; bảo vật/di vật có hồ sơ riêng ở 07; sự kiện dự kiến ở 04; quy tắc sáng tác ở 09. Không lập thư mục song song chỉ để lưu lại cùng một thiết kế.
+
+Trước khi xuất hiện, giữ nhãn **TỰ THIẾT KẾ — CHƯA XUẤT HIỆN** hoặc nhãn thiết kế đã duyệt thích hợp. Khi viết, chỉ chuyển phần thực sự có trong chương vào trạng thái sự kiện, cập nhật hồ sơ chính, danh mục và tracker bị tác động. Không yêu cầu tác giả duyệt từng chi tiết thường lệ đã được ủy quyền; giữ các thay đổi nền và UNKNOWN có chủ ý theo nguồn ưu tiên.
+
 ## Nguồn sự thật
 
 - Sự kiện đã xảy ra: bản thảo trong `06-CHƯƠNG TRUYỆN`, theo giới hạn canon tại `08-FILE CƠ BẢN`.
-- Trạng thái tiếp nối ở mốc hiện tại: [[Trạng Thái Truyện Sau Chương 52]].
+- Trạng thái tiếp nối ở mốc hiện tại: [[Trạng Thái Truyện Sau Chương 53]].
 - Kế hoạch tương lai: `04-KHUNG TRUYỆN`; không dùng kế hoạch để chứng minh sự kiện đã xảy ra.
-- Thông tin thế giới và tu hành: `02` và `03`; không tự nới quy tắc nếu chưa có căn cứ/duyệt.
+- Thông tin thế giới và tu hành: `02` và `03`, ưu tiên sổ thiết kế tác giả đã chốt mới nhất theo thẩm quyền nguồn; tự thiết kế ứng dụng thường lệ theo [[11_AUTONOMOUS_STORY_DESIGN]], không tự đổi nền hệ thống.
 
 ## Liên kết
 
@@ -96,4 +102,4 @@ tags:
 - Các mục lục cục bộ tại `01-NHÂN VẬT/01A` đến `01-NHÂN VẬT/01F`
 - [[MẪU HỒ SƠ NHÂN VẬT]]
 - [[Kết Chương]]
-- [[Trạng Thái Truyện Sau Chương 52]]
+- [[Trạng Thái Truyện Sau Chương 53]]

@@ -189,10 +189,18 @@ Sau một cao trào, cho hậu quả đi vào sinh kế, thương thế, danh ti
 
 Nếu một arc chỉ thêm tên người, cảnh giới, thế giới và bí mật mà không làm thay đổi mục tiêu, lựa chọn, quan hệ hoặc hậu quả, hãy giảm lượng lore.
 
+## Cơ chế tự thiết kế để triển khai
+
+Dùng [[11_AUTONOMOUS_STORY_DESIGN]] để chuyển nhu cầu cốt truyện thành thế lực, nhân vật, vật phẩm và sự kiện có thể viết ngay. Thử phát triển nghề nghiệp, phe nội bộ, nguồn lực hoặc quan hệ đã có trước khi mở tầng thế giới lớn hơn. Được tự tạo nội dung mới trong phạm vi tác giả đã ủy quyền, không chờ duyệt từng lựa chọn thường lệ.
+
+Các nhãn ở đầu tài liệu vẫn dùng để phân biệt nguồn. Bổ sung **TỰ THIẾT KẾ — CHƯA XUẤT HIỆN** cho sáng tạo mới và **DỮ KIỆN BẢN THẢO — CÓ CHƯƠNG NGUỒN** sau khi sử dụng. Không tự nhận thiết kế mới là canon tác giả đã chốt; không giả nhận sự kiện tương lai đã xảy ra. Những UNKNOWN cũ đã được sổ thiết kế tác giả giải quyết được dùng ở lớp tác giả, theo đúng nhịp hé lộ.
+
+Mỗi lần mở rộng phải cho thấy ai sống nhờ nguồn lực ấy, ai có quyền quyết định, giới hạn của quyền lực và việc người ngoài phải chịu. Không cần mọi thế lực là phản diện, mọi nhân vật có bí mật lớn hoặc mọi vật phẩm là cổ bảo.
+
 ## Liên kết
 
 - Canon nền: [[01_CORE_CANON]], [[02_WORLD_LOR]], [[03_PLOT_STRUCTURE]], [[00_CANON_PROTECTION]]
-- Trạng thái và khung hiện hành: [[Đường Dây Chương 40-48]], [[Trạng Thái Truyện Sau Chương 47]], [[Các Arc]], [[Phục Bút Và Bí Mật]]
+- Trạng thái và khung hiện hành: [[Trạng Thái Truyện Sau Chương 53]], [[Các Arc]], [[Phục Bút Và Bí Mật]]
 - Thế giới và hệ thống: [[Vân Châu]], [[Thế Lực Vân Châu]], [[Di Kỷ Tộc]], [[Cảnh Giới]], [[Mạc Pháp]], [[Quy Khư Quyết]]
 - Hành văn: [[Nguyên Tắc Văn Phong]], [[Quy Tắc Miêu Tả Nhân Vật]], [[Hệ Thống Phản Diện Đa Chiều]]
 
