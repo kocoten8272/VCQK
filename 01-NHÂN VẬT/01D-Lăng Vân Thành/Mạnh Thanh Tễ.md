@@ -67,3 +67,11 @@ Sự hữu hạn cần hiện trong công việc: có ca ông phải hỏi việ
 Sau khi ông mất, mỗi người tiếp tục có nhu cầu và lập trường riêng. Người được cứu không mặc nhiên biết ơn Lâm hoặc đồng ý với mọi việc cậu làm. Cái chết không truyền công lực, không ban hiểu biết dược lý và không khóa đích đến cả đời của Lâm trước khi tác giả chọn.
 
 Xem [[Triết Lý Văn Học Và Nhịp Điệu Bi Kịch]], [[Triển Khai Hệ Thống Sau Đợt Đối Chiếu Văn Học]].
+
+## Trạng thái mới theo bản thảo Chương 53
+
+- Viện chủ cho trạm mượn hai thanh gỗ; ông trông việc đưa gỗ lên xe, nói rõ trả/cắt sửa. Chưa chứng kiến trạm nhận hoặc lắp giá.
+- Hướng dẫn Lâm Uyên tách thẻ rời dây, không ghép nguồn thiếu căn cứ; chiều tập nhìn gân/mặt dưới/cuống, chưa giao phối thuốc.
+- Ăn cùng người học việc, nhắc giữ sức bàn tay; nói không biết cách thẩm tra. Không biến nghề dược thành hiểu mọi hồ sơ.
+- Còn sống tại Tế Sinh Viện. Biến cố tương lai theo phần phê duyệt trong [[Bố Cục Spoiler Sau Chương 50 - Biến Cố Mạnh Thanh Tễ]], chưa xảy ra.
+- Nguồn: [[Chương 53]], [[Trạng Thái Truyện Sau Chương 53]].

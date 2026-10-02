@@ -38,3 +38,12 @@ tags:
 - 🟠 MAJOR: biết bí mật quá sớm, timeline/địa điểm bất khả thi, nhập phe không căn cứ.
 - 🟡 MINOR: nhầm tên, chức danh, tuổi hoặc vị trí phụ.
 - 🔵 UNCERTAIN: thiếu chứng cứ; theo dõi, chưa kết luận.
+
+## Tiến triển theo bản thảo Chương 53
+
+- Tuyến trang giấy: đã lấy lời riêng, phát hiện phiếu mượn hai chìa; tìm đúng người dẫn đội/nhận/trả. Ô giờ vẫn trống, chưa bắt được thủ phạm.
+- Tuyến Tô Lạc: có kết quả thử nền, phải đổi điểm chống/vật tư; chưa được vào hầm.
+- Tuyến học dược: Lâm Uyên tập nhận lá và giữ thẻ đúng nguồn, chưa phối thuốc. Mạnh Thanh Tễ còn sống.
+- Tuyến dân sinh: gỗ lên xe trạm, trẻ hết cơn sốt nhưng còn theo dõi, khoản chi đầu được phân rõ, phần tiếp chưa xong.
+- Thương tích, Dược Khế, bảo chứng và hạn chế đi lại còn hiệu lực. Đường thuốc và nhóm áo đen không bị nhập thành một phe.
+- Nguồn: [[Chương 53]], [[Trạng Thái Truyện Sau Chương 53]].

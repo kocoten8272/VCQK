@@ -42,3 +42,17 @@ tags:
 - Đám đông/cùng chức năng chỉ giữ ở sổ này; không tạo hàng chục hồ sơ rỗng cho người chưa có đặc điểm cá nhân.
 - Khi văn bản xác nhận người có tên hay vai trò tạm trùng với hồ sơ hiện hữu, hợp nhất liên kết và xóa bản ghi lặp ở lần rà soát kế tiếp.
 - Số chương là điểm để kiểm tra trực tiếp, không thay thế bản thảo.
+
+## Vai trò được phân biệt trong bản thảo Chương 53
+
+| Tên tra cứu tạm | Nhận diện/hành động | Tính cách, động cơ và giới hạn đã thể hiện |
+| --- | --- | --- |
+| Người nhận ca dãy đông | Nam, râu lưa thưa, áo bạc ở đầu gối; sau cháy kiểm chum ở ngoại viện. Nhận chữ ký trên phiếu giao hai chìa. | Ban đầu chỉ nói cuối ca đủ chìa, sau bổ sung việc cho mượn; lo phần việc bị đình qua câu hỏi trực tiếp. Không chắc người trả trùng người mượn, không nhớ giờ. Chưa kết luận là đồng phạm; trách nhiệm ghi thiếu tên đang được trình xét. |
+| Người gác đầu hành lang đông | Nam, có vệt bỏng sẫm ở cổ; ghé bếp trả thùng, trở lại sau đồng sự. | Sửa lời đi cùng khi được hỏi rõ; chỗ đứng khuất đoạn rẽ vào phòng. Không thấy không chứng minh không có người vào. |
+| Người gác trở lại trước | Nam, trẻ hơn hai người kia; vai trái thủng, quai mũ buộc lại. Kể thấy giỏ giấy và người mang chìa. | Xin nước, phân biệt thấy răng chìa với số chiếc chưa đếm; sửa cách gọi người nhà hong thành người từng thấy làm ở đó. Chưa nhận diện được tên/chức trách chính thức. |
+| Người chuyển sách từng được thấy ở nhà hong | Chỉ có lời người gác/người nhận ca trong Chương 53; chưa trực tiếp xuất hiện trong thời hiện tại. | Mặt, tên, nguồn giỏ và quyền giữ chìa chưa được xác minh. Không gán động cơ, phe phái hoặc đồng nhất với mọi người khiêng sách. |
+| Thợ chống vách Hắc Phong Sơn | Trực tiếp tới Tế Sinh Viện Chương 53, trình kết quả thử nền, ghi lời Tô Trạch. | Chỉ xác nhận sức chịu nền phía ngoài, chưa cho phép vào hầm. Chưa biết tên/tuổi/cảnh giới; nghề nghiệp không đồng nghĩa biết cơ quan cổ. |
+| Đứa bé từ xóm lò ngói và mẹ | Xuất hiện Chương 51–53, khác trẻ băng vải Chương 48. Bé hết cơn sốt sáng Chương 53 nhưng còn theo dõi; mẹ giữ phiếu chi phí mới. | Chưa xác nhận ra viện. Tông Sảnh nhận chuyển viện/đêm đầu, khoản theo dõi tiếp chờ quyết toán; không tự điền tên hoặc gộp hai gia đình. |
+| Người đánh xe trạm khám | Vai trò nối Chương 50–53: đưa người bệnh, nhận bản giao thuốc, nhận gỗ cho trạm. | Chương 53 mới nhận gỗ lên xe, chưa xác nhận trạm nhận/lắp. Không mặc định là Lưu Định. |
+
+Các vai trò này là nhãn tra cứu, không phải tên canon. Nguồn: [[Chương 53]], [[Trạng Thái Truyện Sau Chương 53]].

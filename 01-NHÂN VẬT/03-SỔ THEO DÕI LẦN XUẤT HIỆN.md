@@ -52,3 +52,17 @@ Dùng [[01D-Lăng Vân Thành/Nhân Vật Chưa Rõ Tên — Sổ Theo Dõi]]. C
 ## Cập nhật sau mỗi chương
 
 Ghi mốc đầu/cuối; phân biệt có mặt trực tiếp, hồi ức, lời kể, nhắc tên; cập nhật sống/chết, thương tích, nơi cuối biết và nguồn. UNKNOWN không được thay bằng suy đoán.
+
+## Mốc mới theo bản thảo Chương 53
+
+| ID | Nhân vật | Kiểu xuất hiện | Nơi cuối trong chương | Giới hạn |
+| --- | --- | --- | --- | --- |
+| CHAR-005 | Lâm Uyên | Trực tiếp | Tế Sinh Viện | Tay phải còn bỏng; không tăng tu vi. |
+| CHAR-006 | Tô Thanh Ly | Trực tiếp | Tế Sinh Viện | Kiếm còn làm bảo chứng, trang gốc mất. |
+| CHAR-018 | Tô Trạch | Trực tiếp | Tế Sinh Viện | Hai cổ tay còn băng. |
+| CHAR-019 | Tô Tín | Trực tiếp | Tế Sinh Viện | Chưa hồi phục để tự vào núi. |
+| CHAR-037 | Mạnh Thanh Tễ | Trực tiếp | Tế Sinh Viện | Còn sống, hướng dẫn nghề hữu hạn. |
+| CHAR-044 | Trần Dực | Trực tiếp | Tế Sinh Viện | Tay trái chưa vận động mới. |
+| CHAR-046 | Tạ Nghiên Chi | Trực tiếp | Phòng hồ sơ Tông Sảnh | Chỉ biết lời khai/chứng từ được xem. |
+
+Người trực, thợ và gia đình bệnh nhân chưa tên được phân biệt trong [[Nhân Vật Chưa Rõ Tên — Sổ Theo Dõi]]. Viện chủ chỉ được nhắc qua việc cho mượn gỗ, không có cảnh trực tiếp mới. Nguồn: [[Chương 53]].

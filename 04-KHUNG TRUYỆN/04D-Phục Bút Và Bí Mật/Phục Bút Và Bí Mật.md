@@ -64,3 +64,13 @@ tags:
 - Khung truyện: [[Cốt Truyện]], [[Các Arc]]
 - Trạng thái hiện tại: [[Trạng Thái Truyện Sau Chương 47]], [[Đường Dây Chương 40-48]]
 - Timeline: [[Timeline Tổng]], [[Đời Thứ Chín]], [[Đời Thứ Mười]]
+
+## Đầu mối tiến triển theo bản thảo Chương 53
+
+| Câu hỏi | Chứng cứ/lời kể mới | Giới hạn và bước tiếp |
+| --- | --- | --- |
+| Ai tiếp cận dãy phòng Tô Thanh Ly? | Người nhận ca nhận chữ ký trên phiếu mượn hai chìa cổng phụ dãy đông; một người gác kể thấy người chuyển sách mang chìa. | Phiếu chưa có tên người nhận/giờ trả; lời nhìn mặt chưa đối chiếu. Tìm người dẫn đội và bản kê nơi nhận. Không xác nhận ai vào phòng hoặc trang mất đúng đêm cháy. |
+| Ai trong đội chuyển đồ nhận/trả chìa? | Phiếu ghi nhận thay đội chuyển sách, dấu tay nhòe; người nhận ca không chắc người trả trùng người mượn. | Không mặc định toàn đội là đồng phạm hoặc nối với mạng thuốc/Hắc Nha/Tả tiên sinh. |
+| Có thể đưa Tô Lạc về chưa? | Một điểm thử nền chịu chân chống ngoài, điểm kia trượt. | Chưa có lệnh vào hầm, chưa thu hồi thi thể hoặc miếng đồng; cần phương án/vật tư mới. |
+
+Nguồn: [[Chương 53]], [[Trạng Thái Truyện Sau Chương 53]]. Đây là tiến triển của những đầu mối cũ, không thêm bí ẩn cấp thế giới.

@@ -34,3 +34,10 @@ Tuổi, gia đình, cảnh giới và kết cục chưa chốt.
 ## Liên kết
 
 [[Chương 40]] · [[Chương 43]] · [[Chương 52]] · [[Mạnh Thanh Tễ]] · [[Trạng Thái Truyện Sau Chương 50]]
+
+## Trạng thái mới theo bản thảo Chương 53
+
+- Vẫn tại Tế Sinh Viện, dùng tay phải đưa chén nước cho Tô Tín.
+- Tay trái nằm trên chăn, chưa có vận động mới. Không ghi phép thử hoặc liều Xích Tủy Tán mới; cử chỉ tay phải không chứng minh tay trái đã khỏi.
+- Không có lời khai mới về người thuê hoặc mạng thuốc.
+- Nguồn: [[Chương 53]], [[Trạng Thái Truyện Sau Chương 53]].

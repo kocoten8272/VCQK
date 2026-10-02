@@ -59,3 +59,11 @@ tags:
 ## Vai trò tương lai đã duyệt — DEC-006
 
 Giữ sổ trực và cung cấp lời chứng hữu hạn về ca trực, con dấu, thời điểm hoặc người nhận. Tạ Nghiên Chi không nắm toàn bộ hồ sơ và không biết bí mật Thiên Tịch. Vai trò đã chốt làm thiết kế; chưa có nghĩa cô đã xuất hiện hoặc tham gia sự kiện trước khi được viết vào chương.
+
+## Trạng thái mới theo bản thảo Chương 53
+
+- Ghi lời ba người trực riêng, sửa phạm vi điều từng người thấy/nghe trước khi ký; chưa điền được ô giờ.
+- Hỏi bổ sung người nhận ca sau lời chứng về chìa; mở phiếu trong sổ đồ cứu hỏa theo lệnh bổ sung và người giữ kho kiểm dấu.
+- Người nhận ca nhận chữ ký giao chìa của mình. Nàng chưa xác định người mượn, người trả hoặc người lấy trang.
+- Kê giấy đỡ phiếu bị dính, không tự bóc mép; giữ thẩm quyền ghi/đối chiếu, không định tội.
+- Nguồn: [[Chương 53]], [[Trạng Thái Truyện Sau Chương 53]].

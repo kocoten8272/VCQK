@@ -53,3 +53,11 @@ tags:
 Để nàng theo đuổi sự thật về trang giấy, quyền quyết định với món nợ và quan hệ với Tô Gia. Nàng có thể chọn cách khác Lâm khi lợi ích mâu thuẫn. Mục tiêu riêng không bị hòa hết vào tình cảm; mỗi lần bất đồng cần có điều nàng thực sự mất hoặc giữ được.
 
 Nguồn: [[Chương 43]], [[Chương 50]], [[Chương 51]], [[Chương 52]], [[Trạng Thái Truyện Sau Chương 52]].
+
+## Trạng thái mới theo bản thảo Chương 53
+
+- Dự lấy lời riêng, không biến lời không thấy từ vị trí trực thành khẳng định không ai vào phòng.
+- Nhận bản sao phiếu mượn hai chìa cổng phụ dãy đông, xin kiểm đội chuyển sách/nơi nhận. Trang gốc vẫn mất, bản nhớ còn hai chữ chưa chắc.
+- Chưa được tự tới nhà hong; cuối ngày tại Tế Sinh Viện cùng Lâm Uyên. Kiếm còn làm bảo chứng, tay phải còn thương tích; Dược Khế không tăng.
+- Chọn tìm phiếu và đúng người dẫn đội trước khi quy người trực hoặc người cứu sách thành thủ phạm.
+- Nguồn: [[Chương 53]], [[Trạng Thái Truyện Sau Chương 53]].

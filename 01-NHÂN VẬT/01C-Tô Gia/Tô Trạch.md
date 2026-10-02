@@ -42,3 +42,10 @@ Giữ mâu thuẫn giữa lợi ích tìm manh mối, quyền lực trưởng l�
 ## Liên kết
 
 [[Lâm Uyên]] · [[Tô Thanh Ly]] · [[Tô Tín]] · [[Tô Lạc]] · [[Trần Dực]] · [[Chương 40]] · [[Chương 43]] · [[Chương 52]]
+
+## Trạng thái mới theo bản thảo Chương 53
+
+- Ở Tế Sinh Viện khi thợ trình kết quả thử nền; hai cổ tay còn băng.
+- Bổ sung điều từng nghe về tiếng xích dưới sàn để thợ đánh giá; chưa xác định cách tháo cơ quan.
+- Chưa có lệnh vào hầm; lời hứa đưa Tô Lạc về còn dang dở. Không phục chức hoặc tăng năng lực trong chương.
+- Nguồn: [[Chương 53]], [[Trạng Thái Truyện Sau Chương 53]].

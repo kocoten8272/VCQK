@@ -33,3 +33,10 @@ Tuổi, gia đình, cảnh giới, thời điểm hồi phục và đường đi
 ## Liên kết
 
 [[Tô Trạch]] · [[Tô Lạc]] · [[Trần Dực]] · [[Chương 43]] · [[Chương 52]]
+
+## Trạng thái mới theo bản thảo Chương 53
+
+- Nghe thợ trình một điểm thử nền chịu chân chống ngoài, một điểm trượt; chưa nhìn được vị trí Tô Lạc.
+- Yêu cầu gửi cả kết quả không vào được ở lần tiếp; không tự xin đi, không xóa thương tích.
+- Nhận chén nước Trần Dực đưa bằng tay phải; không xác lập quan hệ trước Hắc Phong Sơn.
+- Nguồn: [[Chương 53]], [[Trạng Thái Truyện Sau Chương 53]].

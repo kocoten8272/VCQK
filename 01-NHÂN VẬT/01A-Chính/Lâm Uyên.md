@@ -80,3 +80,11 @@ Nguồn trạng thái: [[Chương 43]], [[Chương 50]], [[Chương 51]], [[Chư
 - **Tu vi cuối Chương 52:** Khai Mạch chưa ổn định, ba đường kinh mạch đã mở; chưa hình thành Linh Hải.
 - **Linh căn:** tên nội bộ đã duyệt là Vô Tịch Linh Căn; nhân vật trong truyện chưa được chẩn đoán chính xác.
 - Các chi tiết trên là chỉ dẫn continuity; không hồi tố lời kể hoặc biến tri thức tác giả thành hiểu biết của Lâm Uyên.
+
+## Trạng thái mới theo bản thảo Chương 53
+
+- Dự lấy lời cùng Tô Thanh Ly theo giấy hộ tống, đọc phiếu mượn hai chìa cổng phụ dãy đông. Biết chìa từng được giao đi; chưa biết người nhận, người trả hoặc ai vào phòng.
+- Cuối ngày ở Tế Sinh Viện; tay phải vẫn bỏng/quấn băng, chỉ làm việc nhẹ và viết tay trái. Không tăng Dược Khế.
+- Học giữ thẻ đúng nguồn và nhìn gân/mặt dưới/cuống lá với Mạnh Thanh Tễ; còn ba chỗ chưa phân biệt, chưa tự phối thuốc.
+- Nghe kết quả thử nền: một điểm chịu chân chống ngoài, một điểm trượt; chưa có lệnh vào hầm hoặc đưa Tô Lạc về.
+- Thấy gỗ đã lên xe trạm, chưa thấy trạm nhận. Nguồn: [[Chương 53]], [[Trạng Thái Truyện Sau Chương 53]].

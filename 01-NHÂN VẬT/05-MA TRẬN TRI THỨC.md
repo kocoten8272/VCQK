@@ -39,3 +39,15 @@ tags:
 - Không gộp phe chỉ vì biểu tượng, thời điểm hoặc mục tiêu có vẻ gần nhau.
 
 Liên kết: [[03-SỔ THEO DÕI LẦN XUẤT HIỆN]], [[08-MẠCH NHÂN VẬT VÀ VẤN ĐỀ LIÊN TỤC]], [[MỐI QUAN HỆ]].
+
+## Cập nhật theo bản thảo Chương 53
+
+| Nhân vật | Tri thức nhận được | Nguồn và giới hạn |
+| --- | --- | --- |
+| Lâm Uyên, Tô Thanh Ly, Tạ Nghiên Chi | K: thấy phiếu mượn hai chìa, nghe người nhận ca nhận chữ ký; R: nghe lời về người khiêng giỏ/mang chìa. | Chương 53, buổi lấy lời. Chưa biết người nhận/trả, ai vào phòng hoặc thời điểm mất trang. |
+| Người nhận ca | K: giao chìa/nhận lại theo lời tự nhận; B: cuối ca đủ chìa là đủ để báo. | Phiếu xác nhận việc ghi giao/nhận; ký thiếu tên/giờ. Không chắc người trả trùng người mượn. |
+| Hai người gác | Mỗi người chỉ biết đoạn đường, chỗ đứng và việc mình thấy. | Lời kể riêng; không dùng lời người này bổ sung thành quan sát của người kia. |
+| Mạnh Thanh Tễ | R: Lâm Uyên kể buổi lấy lời và phiếu chìa. | Không tham dự, không biết mặt người mượn; không biết thêm bí mật Quy Khư. |
+| Tô Tín, Tô Trạch, Lâm Uyên | K: nghe thợ báo hai điểm thử nền. | Chưa biết thi thể ở đâu hiện tại hoặc cách tháo cơ quan. |
+
+Nguồn: [[Chương 53]], [[Trạng Thái Truyện Sau Chương 53]].
