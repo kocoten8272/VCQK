@@ -34,7 +34,7 @@ Tô Trạch hỏi: “Bọn chúng là ai?”
 
 “Người dẫn ta xuống không nói tên.” Câu trả lời vẫn để lại nhiều khoảng trống, nhưng lần này Tô Trạch không ép. Lão rút nửa thẻ Chấp pháp khỏi tay áo, nhìn năm chấm đen trên mặt gỗ rồi cất lại. Người yếu dưới giếng vừa dùng đúng nửa hiệu lệnh. Nếu còn sống, hắn không còn nhiều thời gian.
 
-“Thanh Ly ở lại với Trần Dực,” lão nói. “Ta xuống.”
+“Tô Thanh Ly ở lại với Trần Dực,” lão nói. “Ta xuống.”
 
 Tô Thanh Ly đứng dậy. “Hai cổ tay thúc đã không giữ nổi mũi kiếm.”
 
@@ -160,7 +160,7 @@ Người trẻ dưới giếng mở mắt. Nỗi sợ hiện ra rõ ràng trong 
 
 Đó là lời nói dối dễ nhận ra nhất từ đầu chuyến đi.
 
-Tô Trạch nhắm mắt một thoáng. Khi mở ra, lão không nhìn miếng đồng nữa. “Thanh Ly, cứu người.”
+Tô Trạch nhắm mắt một thoáng. Khi mở ra, lão không nhìn miếng đồng nữa. “Tô Thanh Ly, cứu người.”
 
 Trần Dực ngẩng đầu. “Ngươi bỏ manh mối?”
 
@@ -190,7 +190,7 @@ Sợi dây trong tay Lâm Uyên bị giật mạnh. Vết bỏng ở tay phải 
 
 Lâm Uyên dồn trọng lượng ra sau. Sợi dây gai cắt qua tay áo. Ở dưới, tiếng đá nghiến vào đá mỗi lúc một gần. Tô Thanh Ly đã kéo được chân Tô Tín khỏi khe, nhưng cả hai treo lệch ngoài thang. Nàng chỉ còn một tay bám bậc sắt.
 
-Tô Trạch quấn dây quanh đoản đinh, ghì nó vào khe nền. “Thanh Ly, đặt chân lên bậc!”
+Tô Trạch quấn dây quanh đoản đinh, ghì nó vào khe nền. “Tô Thanh Ly, đặt chân lên bậc!”
 
 “Không thấy!” Lâm Uyên cúi sát mép giếng. Bóng tối che kín nàng, nhưng thang sắt vẫn truyền rung. Hắn gõ mạnh một tiếng lên bậc gần nhất. Âm thanh chạy xuống. Từ dưới, Tô Thanh Ly đáp lại bằng một cú gõ yếu hơn, lệch sang trái.
 

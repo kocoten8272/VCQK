@@ -79,7 +79,7 @@ Tô Thanh Dương bước ra từ cửa sảnh, bên cạnh hắn còn có hai n
 
 Tô Thanh Ly nhíu mày, bước lên chắn nửa người trước Lâm Uyên. "Tô Thanh Dương, ngươi lại muốn gây chuyện gì?"
 
-"Thanh Ly, ngươi bảo vệ hắn kỹ thế làm gì?" Tô Thanh Dương cười nhạt, ánh mắt đảo qua sắc mặt có phần nhợt nhạt của Lâm Uyên. "Ta nghe nói nửa tháng này hắn phải mở được kinh mạch đầu tiên mới có thể chính thức ở lại Tô gia. Nhìn bộ dạng khí huyết suy yếu thế này, e rằng đừng nói là mở mạch, ngay cả việc đứng vững trong phủ cũng là vấn đề lớn."
+"Tô Thanh Ly, ngươi bảo vệ hắn kỹ thế làm gì?" Tô Thanh Dương cười nhạt, ánh mắt đảo qua sắc mặt có phần nhợt nhạt của Lâm Uyên. "Ta nghe nói nửa tháng này hắn phải mở được kinh mạch đầu tiên mới có thể chính thức ở lại Tô gia. Nhìn bộ dạng khí huyết suy yếu thế này, e rằng đừng nói là mở mạch, ngay cả việc đứng vững trong phủ cũng là vấn đề lớn."
 
 Hai tên nam tử đi cùng hắn cũng bật cười phụ họa.
 
@@ -87,7 +87,7 @@ Hai tên nam tử đi cùng hắn cũng bật cười phụ họa.
 
 Lâm Uyên không hề nổi giận. Hắn bước ra khỏi tấm lưng của Tô Thanh Ly, đối mặt thẳng với Tô Thanh Dương. Sự bình thản trong ánh mắt thiếu niên khiến tiếng cười mỉa mai của nhóm người kia đột ngột khựng lại.
 
-"Mở được kinh mạch hay không, không cần Tô công tử phải nhọc lòng lo lắng." Lâm Uyên cất tiếng, giọng điệu không nhanh không chậm. "Nhưng có một điều ta hơi tò mò."
+"Mở được kinh mạch hay không, không cần công tử Tô Thanh Dương phải nhọc lòng lo lắng." Lâm Uyên cất tiếng, giọng điệu không nhanh không chậm. "Nhưng có một điều ta hơi tò mò."
 
 "Ngươi tò mò chuyện gì?" Tô Thanh Dương nhướng mày.
 

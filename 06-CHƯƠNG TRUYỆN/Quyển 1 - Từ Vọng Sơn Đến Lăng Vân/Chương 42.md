@@ -222,7 +222,7 @@ Trần Dực dựa vào Lâm Uyên, hơi thở càng lúc càng nặng. “Nếu
 
 Đó không phải lý do để tin hắn, nhưng là sự thật. Dải vải trên đầu cung cháy không đều, phần mép đã cuộn thành than. Họ cần tìm dầu, lối thoát hoặc chỗ có thể nghỉ trước khi Trần Dực mất thêm máu.
 
-Tô Trạch cầm nửa thẻ gỗ, bẻ bỏ phần dây còn quấn rồi cất vào tay áo cùng thẻ đồng của Trần Dực. “Ta đi trước. Thanh Ly ở cuối. Lâm Uyên đưa hắn đi giữa.”
+Tô Trạch cầm nửa thẻ gỗ, bẻ bỏ phần dây còn quấn rồi cất vào tay áo cùng thẻ đồng của Trần Dực. “Ta đi trước. Tô Thanh Ly ở cuối. Lâm Uyên đưa hắn đi giữa.”
 
 “Bàn tay hắn bị thương.” Tô Thanh Ly nói.
 

@@ -24,6 +24,8 @@ Nếu nguồn ngang cấp mâu thuẫn, ghi CANON CONFLICT, dẫn cả hai ngu�
 
 ## Định danh và hồ sơ
 
+- Tên chuẩn trong hồ sơ là tên đầy đủ dùng khi sáng tác; áp dụng [[Quy Tắc Gọi Tên Nhân Vật Đầy Đủ]] cả trong thoại và dẫn thoại. Bí danh/danh xưng lưu cùng hồ sơ và chỉ dùng theo mức danh tính đã được lộ. Một cách viết rút xuất hiện trong chương cũ không trở thành tên chuẩn mới.
+
 - Một người có một hồ sơ chính và ID CHAR-NNN bất biến. Đổi tên/thư mục thì giữ ID; ID mới nối tiếp số lớn nhất.
 - Bí danh, danh hiệu, nghề nghiệp và chức danh nằm trong cùng hồ sơ.
 - Nếu nhãn có thể chỉ nhiều người, như Người Áo Đen, giữ hồ sơ theo dõi nhóm/hiện tượng; không giả định một cá nhân.

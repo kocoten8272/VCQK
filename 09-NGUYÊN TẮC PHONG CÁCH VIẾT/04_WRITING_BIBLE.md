@@ -1955,3 +1955,11 @@ Dùng bốn mẫu thiết kế trong tài liệu trên: thế lực có mục ti
 Quy tắc giữ TBD ở đầu Writing Bible áp dụng khi trích xuất dữ kiện cũ và khi gặp bí mật có chủ ý. Nó không cấm sáng tạo chi tiết mới đã được tác giả ủy quyền: ghi nguồn **TỰ THIẾT KẾ**, giữ phần chưa viết riêng với sự kiện đã xuất hiện. Dùng các sổ thiết kế tác giả mới nhất khi chúng đã giải quyết UNKNOWN cũ; không tự truyền kiến thức tác giả cho nhân vật hoặc sửa nền truyện.
 
 Sau khi dùng thiết kế, cập nhật một hồ sơ chính và các danh mục/tracker bị tác động theo [[11_AUTONOMOUS_STORY_DESIGN]]. Bản thảo, thiết kế tự chủ và quyết định tác giả đã chốt giữ nhãn riêng; việc commit không tự nâng chúng thành cùng một mức xác nhận.
+
+# LXXI. BẮT BUỘC KIỂM TRA TÊN ĐẦY ĐỦ
+
+Áp dụng [[Quy Tắc Gọi Tên Nhân Vật Đầy Đủ]] trong mọi chương viết mới hoặc chỉnh sửa. Khi dùng tên để chỉ người, luôn dùng đầy đủ tên chuẩn, kể cả lời gọi và lời thoại; không rút còn họ, tên riêng hoặc phần tên. Họ đi kèm chức danh thường lệ của người đã được biết cũng phải được mở rộng, chẳng hạn “công tử Tô Thanh Dương”, “đại phu Mạnh Thanh Tễ”.
+
+Dùng đại từ hoặc xưng hô rõ để tránh lặp tên gượng. Giữ bí danh chưa lộ thân phận, người chưa rõ tên, tên gia tộc và những câu nói về một chữ viết riêng. Không lấy tên thật ở lớp tác giả để tự tiết lộ trong chương.
+
+Trước khi hoàn tất, rà toàn văn theo tên chuẩn, đọc từng ứng viên rút tên trong ngữ cảnh, sửa tối thiểu và kiểm lại bản đã sửa. Không coi việc đã dùng tên đầy đủ ở đầu cảnh là đủ; mọi lần dùng tên sau đó cũng phải đúng. Sau cập nhật, báo danh sách chương có sửa thực tế.

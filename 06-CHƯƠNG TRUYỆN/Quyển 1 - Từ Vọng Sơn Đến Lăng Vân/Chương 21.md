@@ -17,7 +17,7 @@ Một kẻ mang thân phận phàm nhân, một thiếu niên chưa từng có l
 
 Quản sự Vương Phúc đứng chết trân ở góc đài, hai chân run lẩy bẩy như bị đóng đinh xuống đất. Khuôn mặt xám ngoét của hắn ta méo mó đến đáng sợ, đôi mắt ti hí trợn trừng nhìn thân thể bất tỉnh của Tô Bách. Trong đầu Vương Phúc lúc này trống rỗng hoàn toàn, chỉ còn lại một nỗi sợ hãi tột cùng đang gặm nhấm tâm can. Hắn hiểu rõ bản thân từng hùa theo Tô Bách để chèn ép, hành hạ Lâm Uyên suốt thời gian qua, giờ đây khi kẻ chống lưng đã ngã xuống, số phận của hắn sẽ rơi vào vực thẳm nào?
 
-"Đem... đem Tô đại nhân xuống trị thương!" 
+"Đem... đem đại nhân Tô Bách xuống trị thương!" 
 
 Một tên hộ viện đi theo hầu hoảng hốt thét lên, phá vỡ sự im lặng chết chóc. Mấy tên tay sai vội vã lách người qua đám đông, run lẩy bẩy khiêng thân thể mềm nhũn của Tô Bách vội vã rời khỏi hiện trường, trốn chạy khỏi ánh mắt như dao cau của người xung quanh.
 

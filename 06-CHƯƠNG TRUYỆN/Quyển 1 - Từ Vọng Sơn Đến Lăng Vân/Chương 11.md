@@ -43,9 +43,9 @@ Vị trung niên được gọi là Tam thúc chính là Tô Bách, chưởng qu
 
 "Chuyện này là thế nào?" Tô Bách lạnh lùng hỏi, ánh mắt dán chặt vào Lâm Uyên.
 
-"Là Tô công tử ra tay trước." Tô Thanh Ly bước lên một bước, chắn trước Lâm Uyên, giọng nói không hề nhượng bộ. "Hắn chủ động tấn công, Lâm Uyên chỉ tự vệ."
+"Là công tử Tô Thanh Dương ra tay trước." Tô Thanh Ly bước lên một bước, chắn trước Lâm Uyên, giọng nói không hề nhượng bộ. "Hắn chủ động tấn công, Lâm Uyên chỉ tự vệ."
 
-"Tự vệ?" Tô Bách cười lạnh. "Thanh Ly, con đừng có bênh vực người ngoài. Hắn không có tu vi, lấy cái gì ra để tự vệ mà khiến Thanh Dương hộc máu ngã ngựa? Rõ ràng trên người hắn có mang theo ám khí hoặc tà thuật!"
+"Tự vệ?" Tô Bách cười lạnh. "Tô Thanh Ly, con đừng có bênh vực người ngoài. Hắn không có tu vi, lấy cái gì ra để tự vệ mà khiến Tô Thanh Dương hộc máu ngã ngựa? Rõ ràng trên người hắn có mang theo ám khí hoặc tà thuật!"
 
 "Ám khí hay tà thuật, vừa rồi bao nhiêu người ở đây đều thấy rõ, hắn không hề chạm vào Tô Thanh Dương." Tô Thanh Ly đáp thẳng thừng.
 
@@ -55,7 +55,7 @@ Không khí trong hành lang một lần nữa trở nên căng thẳng.
 
 Lâm Uyên biết rõ lúc này mình có giải thích thế nào cũng vô ích. Tô Bách đang tìm cớ để trừng trị hắn, và sự việc vừa rồi chính là cái cớ hoàn hảo nhất. Hắn không lùi bước, cũng không tỏ ra sợ hãi, chỉ lẳng lặng nhìn vị trưởng quản Nghiệm Linh Đường bằng ánh mắt lạnh lùng.
 
-"Nếu Tô trưởng quản đã cho rằng tại hạ gây chuyện," Lâm Uyên chậm rãi cất tiếng, phá vỡ sự im lặng, "vậy ngài muốn xử lý thế nào?"
+"Nếu trưởng quản Tô Bách đã cho rằng tại hạ gây chuyện," Lâm Uyên chậm rãi cất tiếng, phá vỡ sự im lặng, "vậy ngài muốn xử lý thế nào?"
 
 Tô Bách nheo mắt, đoạn cười nhạt. "Rất đơn giản. Đã không có tu vi để tự vệ, lại mang thứ tà khí không rõ nguồn gốc trong người, ngươi không thích hợp ở lại Đông viện. Từ hôm nay chuyển xuống ngoại viện, làm tạp dịch lao động như những phàm nhân khác trong phủ. Đó là sự khoan hồng lớn nhất mà ta có thể cho ngươi."
 
@@ -63,7 +63,7 @@ Tô Bách nheo mắt, đoạn cười nhạt. "Rất đơn giản. Đã không c
 
 Tô Thanh Ly biến sắc. "Tam thúc, việc này..."
 
-"Thanh Ly!" Tô Bách nghiêm giọng cắt ngang. "Việc này do ta trực tiếp quyết định, con không cần nói thêm. Nếu muốn phản đối, hãy đi gặp gia chủ mà nói."
+"Tô Thanh Ly!" Tô Bách nghiêm giọng cắt ngang. "Việc này do ta trực tiếp quyết định, con không cần nói thêm. Nếu muốn phản đối, hãy đi gặp gia chủ mà nói."
 
 Nói xong, Tô Bách phất tay áo, quay người đỡ Tô Thanh Dương đang cúi đầu ấm ức rời đi. Hai tên đệ tử kia cũng vội vàng đuổi theo sau.
 

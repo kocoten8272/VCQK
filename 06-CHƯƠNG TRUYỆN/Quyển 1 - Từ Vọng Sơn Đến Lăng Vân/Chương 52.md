@@ -46,7 +46,7 @@ Chấp sự mang giấy đi. Lâm Uyên nhìn nàng: “Nàng không theo?”
 
 “Vậy xin tên mình vào đoàn, đừng đứng sau xe rồi mong người gác cổng không đếm.” Nàng trao hắn bản sao lệnh mua bù, tờ đã có chữ ký của cả hai dưới khoản Dược Khế. “Ngươi có quyền hỏi phần ngươi phải trả đi đâu.”
 
-Hắn nhận bằng tay trái. Thanh Ly không hứa nàng sẽ thoát khỏi phòng hồ sơ sớm để theo. Điều nàng có thể làm là giữ cho câu hỏi về trang giấy không bị bỏ quên khi hắn đi làm việc khác.
+Hắn nhận bằng tay trái. Tô Thanh Ly không hứa nàng sẽ thoát khỏi phòng hồ sơ sớm để theo. Điều nàng có thể làm là giữ cho câu hỏi về trang giấy không bị bỏ quên khi hắn đi làm việc khác.
 
 Gần giữa buổi, Tông Sảnh cho phép phần dược liệu mới được cân tại dược phường, đưa thẳng tới trạm khám dưới sự chứng kiến của người kho và người viện. Dấu nhập kho Tô gia sẽ đóng trên bản phiếu vận chuyển, không bắt xe vòng qua nội viện. Lệnh ghi thêm Lâm Uyên được đi cùng Mạnh Thanh Tễ và hai chấp sự tới trạm rồi về trước khi đóng cổng; việc quản thúc vẫn còn. Tô Thanh Ly đọc dòng ấy, trao giấy cho hắn mà không hỏi vì sao tên nàng vắng mặt. Ở một việc khác hôm nay, nàng cũng có người phải chờ ký.
 
@@ -144,7 +144,7 @@ Tế Sinh Viện vào buổi chiều đông hơn lúc họ đi. Người đánh 
 
 Người mẹ ngồi trong phòng trẻ thấy Mạnh Thanh Tễ đi ngang thì đứng dậy. Đứa bé đã thức, xin nước, vẫn ho sau mỗi lần nói dài. Y sư bảo tối nay ở lại theo dõi, mai nếu cơn sốt hạ hẳn mới tính chuyện về. Người mẹ nhìn giấy trong tay Lâm Uyên. Hắn nói hàng ở trạm đã tới, đường về xóm sau này không phải vì phần thuốc ấy mà vòng lên viện nữa. Nàng gật đầu, rồi hỏi phiếu tiền giường. Lâm Uyên không có lời đáp. Mạnh Thanh Tễ nói Tông Sảnh đã nhận phiếu chuyển, viện vẫn đang giữ nó, chưa ai yêu cầu nàng ký khoản mới. Nàng ngồi xuống, đưa chén nước cho con. Thuốc có tới trạm cũng không làm đêm nay ở viện ngắn hơn.
 
-Tô Thanh Ly chờ ở cửa gian ngoài. Nàng có một tờ lệnh vừa nhận từ Tông Sảnh: sáng hôm sau người nhận ca và hai người gác đêm cháy được mời trình lời riêng trước người chứng kiến. Không gọi họ là nghi phạm. Tạ Nghiên Chi sẽ mở phiếu bổ sung, hỏi từng người về chính phần việc họ đã ký. Thanh Ly nói nàng đã xin để câu hỏi được đưa cho họ sau khi mỗi người tự kể, tránh cho người thứ nhất nghe lời người thứ hai rồi sửa trí nhớ mình.
+Tô Thanh Ly chờ ở cửa gian ngoài. Nàng có một tờ lệnh vừa nhận từ Tông Sảnh: sáng hôm sau người nhận ca và hai người gác đêm cháy được mời trình lời riêng trước người chứng kiến. Không gọi họ là nghi phạm. Tạ Nghiên Chi sẽ mở phiếu bổ sung, hỏi từng người về chính phần việc họ đã ký. Tô Thanh Ly nói nàng đã xin để câu hỏi được đưa cho họ sau khi mỗi người tự kể, tránh cho người thứ nhất nghe lời người thứ hai rồi sửa trí nhớ mình.
 
 “Ngươi sẽ đi?” Lâm Uyên hỏi.
 

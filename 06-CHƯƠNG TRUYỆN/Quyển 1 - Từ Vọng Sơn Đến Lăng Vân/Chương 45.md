@@ -116,7 +116,7 @@ Tô Trạch bước vào, nhìn hai tờ giấy trên bàn rồi nhận xét Lâ
 
 “Quy củ dạy.”
 
-Tô Trạch kéo ghế ngồi xuống. Khi đặt tay lên bàn, hai cổ tay lão không chịu được lực, phải đổi tư thế. “Dược Khế của Thanh Ly bị chặn vì trưởng lão áo nâu quản công trướng. Khế của ngươi cũng sẽ bị chặn.”
+Tô Trạch kéo ghế ngồi xuống. Khi đặt tay lên bàn, hai cổ tay lão không chịu được lực, phải đổi tư thế. “Dược Khế của Tô Thanh Ly bị chặn vì trưởng lão áo nâu quản công trướng. Khế của ngươi cũng sẽ bị chặn.”
 
 Lâm Uyên nói trưởng lão áo nâu muốn nhẫn và mảnh xương. Tô Trạch sửa rằng ông ta muốn quyền giữ chúng, còn thuốc chỉ là giá đưa ra. Theo Tế Sinh Viện, vết đâm của Trần Dực đã cầm; hàn khí ở vai mới là vấn đề. Nếu qua đêm còn lan, cánh tay trái sẽ không giữ được, còn nếu vào ngực thì không ai chắc kết quả.
 
@@ -144,7 +144,7 @@ Thuốc cần dùng là Xích Tủy Tán, có dược lực đi vào xương và
 
 Hai gói còn lại phải mua trong thành. Mười hai hạ phẩm linh thạch có lẽ chỉ là con số mở đầu.
 
-Tô Trạch đứng lên. Trước cửa, lão dừng lại. “Thanh Ly đã ký ba tháng. Ngươi ký sáu tháng. Nếu cả hai khế cùng được duyệt, yêu cầu gộp thành một khoản, không để công trướng thu hai lần.”
+Tô Trạch đứng lên. Trước cửa, lão dừng lại. “Tô Thanh Ly đã ký ba tháng. Ngươi ký sáu tháng. Nếu cả hai khế cùng được duyệt, yêu cầu gộp thành một khoản, không để công trướng thu hai lần.”
 
 “Trưởng lão đang dạy ta giữ tiền?”
 

@@ -394,7 +394,7 @@ Trần Dực nhìn xuống, gương mặt vốn trắng bệch càng mất hết
 
 Tô Trạch không đóng cửa.
 
-Lão đẩy mạnh thêm nửa gang tay, đủ để một người nghiêng vai đi qua, đồng thời quát: “Thanh Ly, kéo hắn ra!”
+Lão đẩy mạnh thêm nửa gang tay, đủ để một người nghiêng vai đi qua, đồng thời quát: “Tô Thanh Ly, kéo hắn ra!”
 
 Tô Thanh Ly không hỏi lão muốn kéo ai. Nàng tra kiếm, quấn sợi dây quanh cổ tay rồi lao qua giới hạn chính mình vừa vạch. Sợi dây giữa nàng và Lâm Uyên căng bật. Hắn bước theo một bước để giữ nàng khỏi bị giật ngược, nhưng dừng ngoài cửa.
 
@@ -442,7 +442,7 @@ Cái bóng thứ tư không đứng cạnh Lâm Uyên.
 
 Nó bám trên lưng Trần Dực.
 
-Lâm Uyên siết quai đèn, không gọi tên thứ mình thấy. “Thanh Ly, đừng kéo hắn qua cửa.”
+Lâm Uyên siết quai đèn, không gọi tên thứ mình thấy. “Tô Thanh Ly, đừng kéo hắn qua cửa.”
 
 Nàng dừng lại ngay trước khe hẹp.
 

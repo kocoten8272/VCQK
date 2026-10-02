@@ -116,7 +116,7 @@ Hắn vô thức nhìn sang Tô Thanh Ly. Nàng cũng đang nhìn hắn, bàn ta
 
 Đúng lúc ấy, một giọng nói già nua từ ngoài cửa chậm rãi vang lên.
 
-"Lão Bách. Không cần làm khó một đứa trẻ."
+"Tô Bách. Không cần làm khó một đứa trẻ."
 
 Mọi người quay đầu. Một lão giả mặc áo xám tro bước vào, không nhanh không chậm, mỗi bước chân đều rất bình thường, nhưng chẳng hiểu vì sao, từ khoảnh khắc người ấy xuất hiện, không khí trong đại sảnh như nặng xuống.
 

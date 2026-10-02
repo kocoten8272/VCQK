@@ -120,7 +120,7 @@ Không bắt buộc vai thoáng qua phải có tiểu sử dài. Với người 
 
 Nhân vật nữ có mục tiêu, chuyên môn, quan hệ và lựa chọn riêng. Nhan sắc hoặc tình cảm với Lâm Uyên không thay thế chức năng cốt truyện. Nhân vật nam cũng không chỉ là người truyền tin, người đố kỵ hoặc đối thủ chờ bị đánh bại.
 
-Trong chương, giới thiệu qua việc họ đang làm, cách đối xử với người khác và lựa chọn có cái giá. Gọi đầy đủ tên chuẩn khi dùng tên; dùng đại từ khi chủ thể đã rõ.
+Trong chương, giới thiệu qua việc họ đang làm, cách đối xử với người khác và lựa chọn có cái giá. Bắt buộc theo [[Quy Tắc Gọi Tên Nhân Vật Đầy Đủ]] khi dùng tên, gồm cả thoại và họ kèm chức danh thường lệ của người đã biết; dùng đại từ khi chủ thể đã rõ. Rà lại toàn văn sau khi viết, không lấy cách gọi rút trong chương cũ làm mẫu.
 
 ## 5. Mẫu tự thiết kế vật phẩm
 

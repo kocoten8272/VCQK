@@ -26,7 +26,7 @@ Lão giả áo xám tro, người đã xuất hiện từ lúc nào không hay n
 
 Tô Bách khẽ giật mình. "Ý của người là..."
 
-"Không có ý gì cả." Lão giả ngắt lời, ánh mắt chuyển sang Tô Thanh Ly đang đứng thẳng người bên cạnh. "Thanh Ly, đưa hắn về Đông viện."
+"Không có ý gì cả." Lão giả ngắt lời, ánh mắt chuyển sang Tô Thanh Ly đang đứng thẳng người bên cạnh. "Tô Thanh Ly, đưa hắn về Đông viện."
 
 Tô Thanh Ly không lùi bước, bàn tay ôm quyền nhưng sống lưng thẳng tắp. "Thái thượng trưởng lão, việc ở Nghiệm Linh Đường..."
 
@@ -36,7 +36,7 @@ Tô Thanh Ly không lùi bước, bàn tay ôm quyền nhưng sống lưng thẳ
 
 "Nhưng còn hắn..." Tô Bách vẫn cố níu lấy một câu, ánh mắt liếc xéo Lâm Uyên đầy dè chừng. "Trọng bảo của gia tộc không thể bị tổn hại không rõ nguyên do."
 
-"Lâm Uyên không phải người bình thường." Thái thượng trưởng lão nhạt giọng cắt ngang, ánh mắt sâu thẳm thoáng dừng lại trên chiếc nhẫn bạc nằm im lìm trên ngón tay thiếu niên. "Vả lại, hắn là do Thanh Ly đưa về. Đã vào cửa Tô gia, tự khắc có quy củ định đoạt, chưa đến lượt ngươi đứng đây phán xét chuyện giữ hay bỏ."
+"Lâm Uyên không phải người bình thường." Thái thượng trưởng lão nhạt giọng cắt ngang, ánh mắt sâu thẳm thoáng dừng lại trên chiếc nhẫn bạc nằm im lìm trên ngón tay thiếu niên. "Vả lại, hắn là do Tô Thanh Ly đưa về. Đã vào cửa Tô gia, tự khắc có quy củ định đoạt, chưa đến lượt ngươi đứng đây phán xét chuyện giữ hay bỏ."
 
 Sắc mặt Tô Bách tái đi, nhưng trước uy áp tuyệt đối, ông ta chỉ đành nghiến răng cúi đầu tuân lệnh.
 
@@ -68,7 +68,7 @@ Lâm Uyên im lặng. Hắn hiểu rõ thực tế ấy. Vọng Sơn Trấn dạ
 
 Tô Thanh Dương mặc bộ bạch y thêu chỉ bạc, khóe môi vương nụ cười nhạt mang đậm vẻ trào phúng. Hắn đứng đó, hai tay buông thõng tự nhiên, nhưng uy áp của một tu sĩ đã bước chân vào cảnh giới cao hơn phần nào đè nặng lên không gian.
 
-"Thanh Ly." Tô Thanh Dương cất giọng, kéo dài từng tiếng đầy vẻ khiêu khích. "Ta nghe nói ở Nghiệm Linh Đường vừa có náo động lớn. Một kẻ phàm nhân không có linh căn... lại làm vỡ cả trọng bảo của gia tộc?"
+"Tô Thanh Ly." Tô Thanh Dương cất giọng, kéo dài từng tiếng đầy vẻ khiêu khích. "Ta nghe nói ở Nghiệm Linh Đường vừa có náo động lớn. Một kẻ phàm nhân không có linh căn... lại làm vỡ cả trọng bảo của gia tộc?"
 
 Tô Thanh Ly nhíu mày, bước lên một bước chắn ngang trước mặt Lâm Uyên. "Chuyện này không liên quan đến ngươi."
 
@@ -78,7 +78,7 @@ Không khí trong hành lang chùng xuống.
 
 Lâm Uyên ngẩng đầu lên. Hắn không né tránh ánh mắt của Tô Thanh Dương. Sức ép từ đối phương tỏa ra khiến bả vai hắn hơi mỏi, nhưng trong lồng ngực, nhịp đập của trái tim vẫn đều đặn và lạnh lùng. Hắn không định đôi co, bởi hắn hiểu rõ trong thế giới này, lời nói của kẻ không có thực lực chỉ là tiếng gió thoảng qua.
 
-"Đá vỡ hay không, không phải do ta quyết định." Lâm Uyên cất tiếng, giọng bình thản nhưng rõ ràng. "Còn việc các trưởng lão nghĩ gì, đó là việc của họ, không phiền Tô công tử nhọc lòng."
+"Đá vỡ hay không, không phải do ta quyết định." Lâm Uyên cất tiếng, giọng bình thản nhưng rõ ràng. "Còn việc các trưởng lão nghĩ gì, đó là việc của họ, không phiền công tử Tô Thanh Dương nhọc lòng."
 
 Tô Thanh Dương ngẩn người. Hắn vốn chờ đợi sự e dè hoặc cúi đầu từ một kẻ phàm nhân mới chân ướt chân ráo bước vào hào môn, chứ không phải một câu nói bình thản đến mức thản nhiên như vậy.
 
@@ -98,7 +98,7 @@ Tô Thanh Ly chậm rãi thu tay khỏi chuôi kiếm, gương mặt lạnh băn
 
 Tô Thanh Dương cúi xuống nhìn thanh kiếm đang rung lên bần bật dưới đất, rồi ngước lên nhìn ánh mắt không chút khoan nhượng của thiếu nữ. Gân xanh trên trán hắn giật giật, nhưng trước thực lực và uy thế của Tô Thanh Ly, hắn đành hừ lạnh một tiếng, thu lại linh lực đang cuồn cuộn.
 
-"Được lắm." Hắn lườm Lâm Uyên một cái đầy thâm độc. "Thanh Ly bảo vệ được ngươi hôm nay, nhưng liệu có bảo vệ được ngươi cả đời?"
+"Được lắm." Hắn lườm Lâm Uyên một cái đầy thâm độc. "Tô Thanh Ly bảo vệ được ngươi hôm nay, nhưng liệu có bảo vệ được ngươi cả đời?"
 
 Nói dứt lời, hắn phất tay áo, quay lưng sải bước rời đi.
 

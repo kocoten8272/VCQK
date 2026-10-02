@@ -422,6 +422,8 @@ Sức hút đến từ việc hai người nhận ra điều nhỏ ở nhau, kh�
 
 ## 20. Kiểm tra trước khi hoàn thành chương
 
+- Đã rà toàn văn theo [[Quy Tắc Gọi Tên Nhân Vật Đầy Đủ]] chưa? Lời kể, dẫn thoại và lời gọi dùng đủ tên chuẩn; họ kèm chức danh của người đã biết cũng dùng đủ tên. Đại từ, bí danh chưa lộ thân phận và chữ viết riêng phải được xét theo ngữ cảnh.
+
 - Nhân vật mới có một dấu hiệu riêng hay chỉ mang những từ đẹp quen thuộc?
 - Miêu tả có đi qua điểm nhìn cụ thể không?
 - Chi tiết ngoại hình có liên quan hành động, trạng thái hoặc quan hệ không?

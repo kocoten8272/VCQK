@@ -294,7 +294,7 @@ Lâm Uyên theo ánh mắt nàng nhìn ra ngoài, không thấy gì, nhưng rồ
 
 Lâm Uyên siết chặt túi vải. Ngọc giản Quy Khư nằm bên trong, im lặng, nhưng chiếc nhẫn bạc lại nóng lên, lần này rõ ràng hơn bất cứ lúc nào trước đó.
 
-"Thanh Ly cô nương..."
+"Tô Thanh Ly cô nương..."
 
 "Ta biết." Nàng cũng đã nhận ra.
 

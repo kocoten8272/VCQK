@@ -100,7 +100,7 @@ Một tiếng nổ lại vang lên.
 
 Tô Thanh Ly bị đánh lui. Thân hình nàng trượt dài trên mặt đất hơn một trượng, mũi kiếm cắm xuống đất mới miễn cưỡng dừng lại. Vệt máu nơi khóe môi càng đỏ hơn.
 
-"Thanh Ly cô nương!"
+"Tô Thanh Ly cô nương!"
 
 Lâm Uyên theo bản năng bước lên.
 
@@ -310,7 +310,7 @@ Không còn nóng rực.
 
 Nó vẫn nằm yên trên ngón tay hắn, lạnh lẽo và im lặng như suốt mười bảy năm qua.
 
-"Thanh Ly cô nương."
+"Tô Thanh Ly cô nương."
 
 "Ừm?"
 

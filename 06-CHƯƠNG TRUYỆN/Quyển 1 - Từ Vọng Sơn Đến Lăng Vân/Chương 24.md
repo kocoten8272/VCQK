@@ -41,7 +41,7 @@ Trong khoảnh khắc ấy, một tia ấm áp hiếm hoi lướt qua cõi lòng
 
 Một người muốn đi xa trên con đường này tuyệt đối không thể sống dưới sự che chở vĩnh viễn của kẻ khác.
 
-"Thanh Ly cô nương, tấm lòng tốt này của cô ta xin ghi nhận vào tâm can." Lâm Uyên lắc đầu nhẹ nhàng nhưng vô cùng kiên định. "Nhưng con đường này là do chính ta tự tay lựa chọn. Trốn tránh ngày hôm nay, ngày mai ta vẫn phải đối mặt với những kẻ muốn lấy mạng ta bằng những thủ đoạn tàn nhẫn hơn. Hắc Phong Sơn tuy nguy hiểm vô cùng, nhưng chưa chắc đã là nơi có thể chôn vùi được ta."
+"Tô Thanh Ly cô nương, tấm lòng tốt này của cô ta xin ghi nhận vào tâm can." Lâm Uyên lắc đầu nhẹ nhàng nhưng vô cùng kiên định. "Nhưng con đường này là do chính ta tự tay lựa chọn. Trốn tránh ngày hôm nay, ngày mai ta vẫn phải đối mặt với những kẻ muốn lấy mạng ta bằng những thủ đoạn tàn nhẫn hơn. Hắc Phong Sơn tuy nguy hiểm vô cùng, nhưng chưa chắc đã là nơi có thể chôn vùi được ta."
 
 Nhìn thấy sự kiên quyết tột cùng và ánh mắt không một chút sụt giảm ý chí của Lâm Uyên, Tô Thanh Ly biết bản thân không thể khuyên nhủ được thiếu niên này nữa. Nàng mím chặt môi, lặng lẽ lấy từ trong ngọc bội bên hông ra một chiếc bình sứ nhỏ màu trắng tuyết tỏa ra mùi hương thanh nhẹ đưa về phía hắn.
 

@@ -46,7 +46,7 @@ Hai đệ tử canh gác nằm gục dưới đất, máu loang trên nền đá
 
 Và giữa đám hỗn loạn ấy, một bóng áo trắng đang một mình đối đầu với hai kẻ áo đen, thân pháp linh hoạt như một cánh bướm lượn giữa lằn kiếm sắc lạnh.
 
-"Thanh Ly cô nương!"
+"Tô Thanh Ly cô nương!"
 
 Lâm Uyên không kịp suy nghĩ thêm, thân hình đã lao vụt tới.
 

@@ -98,7 +98,7 @@ Tô Trạch bật cười lạnh. “Nếu còn sống ra ngoài, ta sẽ dành 
 
 Trần Dực nhắm mắt. “Cứ để ta lại.”
 
-“Bây giờ ngươi muốn chết cũng phải chờ.” Tô Trạch nghiêng vai, dồn thêm linh lực vào hai tay. “Thanh Ly, đưa hắn qua trước.”
+“Bây giờ ngươi muốn chết cũng phải chờ.” Tô Trạch nghiêng vai, dồn thêm linh lực vào hai tay. “Tô Thanh Ly, đưa hắn qua trước.”
 
 Khoảng cửa đang hẹp lại từng chút. Tô Thanh Ly xoay người, đẩy vai phải của Trần Dực về phía khe. Người đàn ông vừa chạm mép đá đã co lại vì đau. Vai trái bị thương không thể ép qua, còn nếu đổi hướng, cánh tay mềm bên đó sẽ mắc vào cửa. Lâm Uyên nhìn cái bóng. Nó đã tới sát sau lưng Trần Dực.
 
@@ -132,7 +132,7 @@ Tô Thanh Ly hiểu. Nàng xé đường may từ cổ xuống sườn, giữ ch
 
 Nàng kéo mạnh. Vai phải Trần Dực lọt qua khe trước, rồi tới ngực và hông. Mép đá cọ vào vết thương dưới sườn khiến máu trào ra, nhưng lần này người hắn không còn mắc lại. Tô Trạch buông một tay khỏi cửa, chộp lấy đai lưng Trần Dực và kéo hắn ngã ra hành lang. Cái bóng trên vách lao tới.
 
-“Thanh Ly!” Lâm Uyên gọi.
+“Tô Thanh Ly!” Lâm Uyên gọi.
 
 Nàng lách qua khe ngay sau Trần Dực. Tô Trạch chỉ còn một tay giữ cửa, cánh tay run lên vì sức ép. Khoảng hở thu lại, nhưng Lâm Uyên vẫn ở trong phòng.
 
@@ -256,7 +256,7 @@ Tô Thanh Ly nhìn đoạn cung đang cháy trong tay Lâm Uyên. Lửa đã ăn
 
 Hành lang phía sau tối đặc. Luồng gió vẫn thổi từ khúc ngoặt, nhưng mất ngọn đèn xám, họ không còn thấy những dấu lõm lạ. Lâm Uyên đổi tay cầm đoạn cung. Bàn tay phải đau theo từng nhịp mạch, ngón cái khó co lại. Nếu gặp nguy hiểm, hắn chỉ còn bao kiếm trống và mảnh xương không thể điều khiển.
 
-Tô Trạch chống tường đứng lên. Lão thử vận lực, hai cánh tay đã bớt run nhưng sắc mặt xám đi. “Thanh Ly, ngươi dìu hắn. Lâm Uyên cầm lửa. Ta đi trước.”
+Tô Trạch chống tường đứng lên. Lão thử vận lực, hai cánh tay đã bớt run nhưng sắc mặt xám đi. “Tô Thanh Ly, ngươi dìu hắn. Lâm Uyên cầm lửa. Ta đi trước.”
 
 “Trưởng lão còn dùng kiếm được không?” Lâm Uyên hỏi.
 

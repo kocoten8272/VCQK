@@ -1365,7 +1365,7 @@ Cập nhật các node và tracker liên quan.
 
 ### VERIFY
 
-Kiểm tra Canon, timeline, knowledge state, mystery, foreshadowing và continuity.
+Kiểm tra Canon, timeline, knowledge state, mystery, foreshadowing và continuity. Rà toàn văn theo [[Quy Tắc Gọi Tên Nhân Vật Đầy Đủ]], gồm tên riêng thiếu họ, họ đơn và họ đi kèm chức danh; xét ngữ cảnh, sửa và kiểm lại trước khi COMMIT. Giữ riêng bí danh, chữ viết và tên gia tộc; không tiết lộ danh tính từ hồ sơ tác giả.
 
 ### COMMIT
 

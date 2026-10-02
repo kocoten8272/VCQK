@@ -78,7 +78,7 @@ Tô Thanh Ly nhìn hắn. “Vì mảnh xương?”
 
 “Chỉ một đoạn.”
 
-Tô Trạch đưa mắt nhìn cả hai. Lão không muốn phí thêm ánh phù cho một cuộc tranh cãi không có lời giải. “Ta trước, Thanh Ly giữa, ngươi cuối. Mỗi người xuống ba bậc thì dừng. Không ai khuất khỏi tầm mắt người sau cho tới khi tới chỗ đứng được.”
+Tô Trạch đưa mắt nhìn cả hai. Lão không muốn phí thêm ánh phù cho một cuộc tranh cãi không có lời giải. “Ta trước, Tô Thanh Ly giữa, ngươi cuối. Mỗi người xuống ba bậc thì dừng. Không ai khuất khỏi tầm mắt người sau cho tới khi tới chỗ đứng được.”
 
 Lão nghiêng vai lọt qua miệng khe. Ánh phù đi theo, quét một vệt vàng nhợt trên những bậc đá hẹp. Bậc đầu tiên khô và còn nguyên, bậc thứ hai có một vết nứt ngang. Tới bậc thứ ba, lão dừng lâu hơn. Bên trên, Lâm Uyên cúi xuống nhưng chỉ thấy lưng áo xám của lão và cái bóng do ánh phù đổ lên vách.
 

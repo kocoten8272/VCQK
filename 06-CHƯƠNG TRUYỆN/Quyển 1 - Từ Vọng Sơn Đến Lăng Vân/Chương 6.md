@@ -264,7 +264,7 @@ Dưới hành lang, một thiếu niên áo trắng khoảng mười tám, mư�
 
 Hắn nhìn Tô Thanh Ly, sau đó chuyển ánh mắt sang Lâm Uyên.
 
-"Thanh Ly."
+"Tô Thanh Ly."
 
 "Tô Thanh Dương."
 
@@ -312,7 +312,7 @@ Một lúc sau, hắn cười khẽ rồi tránh sang một bên.
 
 Nhưng khi Lâm Uyên đi ngang qua, hắn lại thấp giọng nói, âm thanh chỉ vừa đủ để hai người nghe thấy:
 
-"Đừng tưởng được Thanh Ly đưa về là có thể trở thành người của Tô Gia."
+"Đừng tưởng được Tô Thanh Ly đưa về là có thể trở thành người của Tô Gia."
 
 Lâm Uyên bước chân hơi dừng lại.
 
@@ -356,7 +356,7 @@ Lâm Uyên gật đầu.
 
 Nàng quay người định đi.
 
-"Thanh Ly cô nương."
+"Tô Thanh Ly cô nương."
 
 Tô Thanh Ly dừng bước.
 

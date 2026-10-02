@@ -62,6 +62,8 @@ Phân biệt **TỰ THIẾT KẾ**, **ĐÃ VIẾT TRONG BẢN THẢO**, **TÁC G
 
 ## Quy tắc nhân vật
 
+- Bắt buộc áp dụng [[Quy Tắc Gọi Tên Nhân Vật Đầy Đủ]] cho lời kể, dẫn thoại và thoại. Tên riêng thiếu họ, họ đơn và họ kèm chức danh thường lệ phải được mở rộng khi người được chỉ đã có tên công khai; dùng đại từ khi chủ thể rõ để tránh lặp. Trước khi đăng, rà toàn văn rồi kiểm lại ngữ cảnh và báo các chương thực sự đã sửa.
+
 - Mọi lần giới thiệu hoặc tái miêu tả nhân vật phải tuân theo [[Quy Tắc Miêu Tả Nhân Vật]].
 - Khi gọi tên trong lời kể, lời dẫn thoại hoặc xưng hô trực tiếp, dùng đầy đủ họ tên đã xác lập; không rút còn họ hay một phần tên như “Lâm” thay cho “Lâm Uyên”, hoặc “Mạnh” thay cho “Mạnh Thanh Tễ”. Có thể dùng đại từ khi chủ thể đã rõ để tránh lặp gượng; khi đổi chủ thể, đổi cảnh hoặc có nguy cơ nhầm lẫn, gọi lại đầy đủ họ tên.
 - Nhân vật chính và nữ chính cần dấu hiệu nhận diện riêng qua chuyển động, giọng nói, điểm chú ý, phục sức có chức năng và lựa chọn trong cảnh.
