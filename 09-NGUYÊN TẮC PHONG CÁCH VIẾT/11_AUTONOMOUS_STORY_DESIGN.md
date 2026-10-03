@@ -191,10 +191,10 @@ Quỷ dị nên có điều quan sát được, tác động cụ thể và mứ
 
 1. **READ:** Đọc trạng thái mới nhất và nguồn liên quan; tách điều tác giả biết với điều nhân vật/độc giả đã biết.
 2. **DESIGN:** Xác định chức năng còn thiếu; dùng các mẫu ở trên để chọn phương án; ghi nguồn và giới hạn. Với arc lớn, chuẩn bị người/vật/sự kiện trước khi đến cao trào.
-3. **WRITE:** Kể qua hành động, lựa chọn, cảm giác và lời thoại; không đưa bảng thiết kế vào chương.
+3. **WRITE:** Kể qua hành động, lựa chọn, cảm giác và lời thoại; không đưa bảng thiết kế vào chương. Dùng [[12_LOGIC_AND_LANGUAGE_CRAFT]] để giữ nhân quả, chọn chi tiết/nhịp câu, dùng Hán Việt hợp nghĩa và diễn đạt tự nhiên.
 4. **ANALYZE:** Trích phần đã xuất hiện, ai biết nó, thay đổi trực tiếp và hậu quả lên các tuyến khác.
 5. **UPDATE:** Cập nhật đúng hồ sơ và tracker bị tác động, giữ một bản chính cho mỗi node. Kế hoạch chưa xảy ra giữ trong khung truyện hoặc phần thiết kế của hồ sơ.
-6. **VERIFY:** Rà nguồn, tên, tri thức, nhân quả, thời gian, di chuyển, thương tích, vật phẩm, quyền hạn và liên kết. Khi sửa chương, rà lại các node phụ thuộc.
+6. **VERIFY:** Rà nguồn, tên, tri thức, nhân quả, thời gian, di chuyển, thương tích, vật phẩm, quyền hạn và liên kết. Dùng bảng kiểm [[12_LOGIC_AND_LANGUAGE_CRAFT]] để đọc lại hình ảnh, từ ngữ, nhịp đoạn và độ rõ của câu. Khi sửa chương, rà lại các node phụ thuộc thực sự bị tác động.
 7. **COMMIT:** Ghi nhận phiên bản nội dung cùng trạng thái. Commit lên GitHub không tự đổi chương nháp thành hoàn thiện, không biến lời đồn hoặc kế hoạch thành sự thật.
 
 ### Nơi lưu
@@ -281,7 +281,7 @@ Các mẫu, quyền tự chủ và ví dụ áp dụng trong tài liệu này l�
 
 ## Liên kết vận hành
 
-- [[04_WRITING_BIBLE]] · [[Luật Viết]] · [[10_DYNAMIC_CANON_ENGINE]]
+- [[04_WRITING_BIBLE]] · [[Luật Viết]] · [[10_DYNAMIC_CANON_ENGINE]] · [[12_LOGIC_AND_LANGUAGE_CRAFT]]
 - [[Quy Tắc Mở Rộng Thế Giới Và Mạch Bí Ẩn]] · [[Quy Tắc Miêu Tả Nhân Vật]] · [[Quy Tắc Đặt Tên Và Thuật Ngữ]]
 - [[01-QUY TẮC VẬN HÀNH HỆ THỐNG NHÂN VẬT]] · [[01-QUY TẮC VẬN HÀNH VÀ POWER SCALING]]
 - [[05-Thiết Kế Tác Giả Đã Chốt — Thế Giới, Lịch Sử Và Bí Mật]] · [[04-Thiết Kế Tác Giả Đã Chốt — Tu Hành, Sinh Tử Và Tài Nguyên]]

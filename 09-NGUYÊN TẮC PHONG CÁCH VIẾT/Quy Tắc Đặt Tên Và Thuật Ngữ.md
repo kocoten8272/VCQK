@@ -167,7 +167,7 @@ Tên hay cần đáp ứng ba điều:
 
 Tên riêng có thể đậm Hán Việt, nhưng câu văn xung quanh vẫn phải sáng rõ.
 
-Nên viết:
+Ví dụ kỹ thuật dưới đây là tên/công năng minh họa, chưa phải canon của truyện:
 
 > Trên bia có ba chữ “Tịch Âm Chướng”. Tô Trạch đọc xong mới giải thích rằng đó là vùng khiến âm thanh của người chết tiếp tục lưu lại.
 
@@ -275,3 +275,11 @@ Tên công pháp, pháp khí, cơ chế và tổ chức quan trọng có sắc t
 Mỗi người có vốn từ và nhịp nói phù hợp trải nghiệm. Thầy thuốc, người dẫn đường, trưởng lão và người giữ sổ không cùng nói bằng những câu ngắn bí hiểm hoặc châm ngôn nhân quả. Từ nghề nghiệp cần được hiểu qua việc đang làm.
 
 Khi một hồ sơ dùng thuật ngữ chưa rõ như “kháng chất”, cần xác định tác dụng muốn nói trước khi viết vào chương; không tự coi đó là khái niệm dược lý đã được người đọc biết. Ưu tiên mô tả kết quả quan sát được, tránh dùng một nhãn mơ hồ giải thích mọi thất bại.
+
+## 13. Chọn từ Hán Việt trong cả lời kể và lời thoại
+
+Dùng [[12_LOGIC_AND_LANGUAGE_CRAFT]] để chọn từ ngoài phạm vi đặt tên riêng. Kiểm nghĩa, sắc thái và cách kết hợp từ theo người nói, người nghe và việc đang diễn ra; không cổ hóa máy móc động từ và đồ vật đời thường. Từ Hán Việt quen thuộc vẫn được dùng tự nhiên, không có tỷ lệ bắt buộc.
+
+Từ chưa chắc nghĩa cần tra nguồn đáng tin; không đoán chỉ từ âm hoặc tự ghép thành một từ cổ có thật. Với tên huyền huyễn tự sáng tạo, ghi ý nghĩa nội bộ và nguồn thiết kế, giữ riêng công năng chưa xác nhận. Lần đầu dùng thuật ngữ cần giúp người đọc hiểu tác dụng hoặc cái giá cần biết trong cảnh, không giảng toàn bộ hệ thống.
+
+Lời trang trọng phù hợp nghi lễ và giao tiếp chính thức; lời học nghề, chăm bệnh và sinh hoạt theo giọng riêng của nhân vật. Giữ tên đã xuất hiện và quy tắc tên đầy đủ. Mọi ví dụ đặt tên trong tài liệu này chỉ minh họa cấu trúc; không dùng chúng làm nguồn cập nhật canon.

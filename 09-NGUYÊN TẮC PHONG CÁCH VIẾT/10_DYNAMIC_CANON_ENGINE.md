@@ -1353,17 +1353,19 @@ Dùng [[11_AUTONOMOUS_STORY_DESIGN]] để tự thiết kế phần còn thiếu
 
 ### WRITE
 
-Viết/chỉnh sửa chương theo Writing Bible.
+Viết/chỉnh sửa chương theo Writing Bible và [[12_LOGIC_AND_LANGUAGE_CRAFT]]: chọn điểm nhìn, hình ảnh và nhịp câu hợp cảnh; dùng từ Hán Việt đúng nghĩa, lời kể và thoại rõ việc đang diễn ra.
 
 ### ANALYZE
 
-Phân tích tất cả thay đổi về nhân vật, thế giới, lore, công pháp, sinh linh, quan hệ, nhân quả và plot.
+Phân tích tất cả thay đổi về nhân vật, thế giới, lore, công pháp, sinh linh, quan hệ, nhân quả và plot. Kiểm nguyên nhân, lựa chọn, hậu quả và giới hạn tri thức trước khi rà hình ảnh, từ ngữ, nhịp đoạn và độ rõ của câu theo [[12_LOGIC_AND_LANGUAGE_CRAFT]].
 
 ### UPDATE
 
 Cập nhật các node và tracker liên quan.
 
 ### VERIFY
+
+Dùng bảng kiểm [[12_LOGIC_AND_LANGUAGE_CRAFT#9. Bảng kiểm trước khi hoàn tất]] cho bốn yêu cầu: logic, chất thơ, từ Hán Việt và lời văn dễ hiểu. Kiểm lại bản đã sửa; hình ảnh không được tự tạo công năng và lời kể không được nâng phỏng đoán thành sự thật.
 
 Kiểm tra Canon, timeline, knowledge state, mystery, foreshadowing và continuity. Rà toàn văn theo [[Quy Tắc Gọi Tên Nhân Vật Đầy Đủ]], gồm tên riêng thiếu họ, họ đơn và họ đi kèm chức danh; xét ngữ cảnh, sửa và kiểm lại trước khi COMMIT. Giữ riêng bí danh, chữ viết và tên gia tộc; không tiết lộ danh tính từ hồ sơ tác giả.
 
@@ -1396,3 +1398,9 @@ Với node mới, ghi nguồn thiết kế và chương xuất hiện thực t�
 Khi cập nhật, theo dõi quan hệ có chiều, nguồn lực/thẩm quyền, tri thức, thương tích, quyền sở hữu/quyền sử dụng, chi phí và hậu quả. Nhân vật dùng ID hiện hành và một hồ sơ chính; các vai thoáng qua vào sổ chung. Các node liên quan được cập nhật theo thay đổi thực tế, không nhân đôi toàn bộ hồ sơ.
 
 Một thiết kế hoàn tất khi có thể dùng trong cảnh và có nơi lưu hợp lý. Một chương hoàn tất phiên làm việc khi nội dung, trạng thái tiếp nối, tracker và liên kết cần thiết đã đồng bộ. Trình bày kết quả để tác giả đọc, không yêu cầu duyệt lại những lựa chọn thường lệ trong phạm vi đã giao.
+
+# XLI. KIỂM TRA NGÔN NGỮ CÙNG TRẠNG THÁI
+
+[[12_LOGIC_AND_LANGUAGE_CRAFT]] bổ sung cách lập cảnh và rà câu cho quy trình hiện hành. Kiểm tra văn phong cùng continuity nhưng chỉ ghi nhận thay đổi thực sự trong bản thảo. Câu giàu hình ảnh, tên minh họa hoặc bài tập kỹ thuật không trở thành nguồn sự kiện; sửa lời diễn đạt đơn thuần không tự thay thương tích, khả năng, thời hạn hoặc quan hệ.
+
+Giữ riêng điều nhân vật quan sát, chứng cứ, suy luận và sự thật tác giả. Ngôn ngữ rõ giúp độc giả hiểu hành động và hậu quả, vẫn giữ những ẩn ý và bí mật chưa tới nhịp tiết lộ.

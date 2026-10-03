@@ -223,6 +223,7 @@
 - [[04_WRITING_BIBLE]] — hệ điều hành tư duy, cấu trúc dài hạn, bí mật nhiều tầng và triết lý cốt lõi
 - [[10_DYNAMIC_CANON_ENGINE]] — bộ quy tắc vận hành và quản lý canon động (State Change, Ripple Effect, Auto Node Detection, After-Chapter Protocol)
 - [[11_AUTONOMOUS_STORY_DESIGN]] — phạm vi tự chủ, bốn mẫu thiết kế, quy trình trước/sau khi viết và minh họa cho chặng sau Chương 53
+- [[12_LOGIC_AND_LANGUAGE_CRAFT]] — tư duy logic, thơ văn miêu tả, dùng từ Hán Việt và lời văn đời thường; phiếu cảnh, ví dụ sửa câu và bảng kiểm áp dụng cho chương mới
 
 ---
 

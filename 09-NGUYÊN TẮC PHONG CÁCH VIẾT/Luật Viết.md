@@ -40,7 +40,9 @@ Phân biệt **TỰ THIẾT KẾ**, **ĐÃ VIẾT TRONG BẢN THẢO**, **TÁC G
 
 - Miêu tả cảnh giới, chiến đấu rõ ràng, mạch lạc — tránh mơ hồ.
 - Mỗi chương cần tối thiểu một điểm nhấn (cú twist, tiết lộ, bước ngoặt, cảm xúc).
-- Không kể lể — chỉ kể: *"show, don't tell"* ở những khúc cao trào.
+- Những lựa chọn và tương tác quan trọng cần được sống qua bằng cảnh, động tác, lời thoại và cảm giác. Dùng tóm lược cho chuyển tiếp hoặc việc đã hiểu; không bắt mọi việc phải miêu tả đầy đủ.
+- Bắt buộc dùng [[12_LOGIC_AND_LANGUAGE_CRAFT]]: kiểm nhân quả và giới hạn tri thức trước khi trau chuốt; chọn hình ảnh theo điểm nhìn; dùng Hán Việt đúng nghĩa, hợp sắc thái; giữ lời kể và thoại rõ, tự nhiên.
+- Trước khi hoàn tất, rà lại nguyên nhân, lựa chọn, hậu quả; độ rõ của chủ thể; nhịp câu/đoạn; từ chưa chắc nghĩa và hình ảnh lặp. Không đặt định mức mỹ từ hoặc ép mỗi cảnh thêm bí mật/bi kịch.
 
 ## Giới hạn khi viết
 

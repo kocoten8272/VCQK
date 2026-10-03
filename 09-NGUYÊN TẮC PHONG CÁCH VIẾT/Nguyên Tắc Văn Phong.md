@@ -25,20 +25,20 @@ tags:
 ## 3. Quy tắc đối thoại
 
 - Lời thoại nhân vật phải phù hợp với thân phận, hoàn cảnh và tính cách (Tô Thanh Ly lạnh lùng quả quyết, Tô Thanh Dương kiêu ngạo hách dịch, Lâm Uyên trầm tĩnh, kiên định).
-- Tránh hội thoại dài dòng, giáo điều. Lời thoại cần sắc sảo, có tầng ý nghĩa ngầm hoặc bộc lộ rõ mâu thuẫn.
+- Tránh hội thoại dài dòng, giáo điều. Lời thoại quan trọng cần có mục đích, hợp người nói và người nghe; có thể chứa ý ngầm hoặc bộc lộ mâu thuẫn. Lời nhắc việc, hỏi han, đùa nhẹ và trao đổi đời thường cũng có giá trị trong xây dựng quan hệ; không bắt mọi câu thoại phải sắc sảo hoặc thành châm ngôn.
 
 ## 4. Tư duy cốt lõi & Cấu trúc dài hạn (Theo Writing Bible)
 
 - **Viết câu chuyện, không viết chuỗi "điểm sướng":** Mọi biến cố phải tuân theo quan hệ `Nguyên nhân → Lựa chọn → Hành động → Hậu quả → Nguyên nhân mới`.
 - **Nhân vật định nghĩa bởi lựa chọn:** Lâm Uyên và các nhân vật phụ không chỉ bị cốt truyện kéo đi mà tự tạo ra câu chuyện bằng lựa chọn của họ trong nghịch cảnh.
-- **Bí mật nhiều tầng (Thousand-layer mystery):** Không giải thích mọi thứ ngay lập tức. Xây dựng bí mật theo các tầng nhận thức để mỗi khi bóc mở, độc giả vỡ lẽ nhưng đồng thời mở ra câu hỏi lớn hơn.
+- **Bí mật nhiều tầng (Thousand-layer mystery):** Tiết lộ theo tầng nhận thức và nguồn nhân vật có thể tiếp cận. Một lời giải có thể khép lại vấn đề cục bộ; câu hỏi tiếp chỉ mở khi dữ kiện và hậu quả tạo ra nó. Không ép mỗi lần giải đáp phải sinh bí mật lớn hơn.
 - **Đại đạo gắn với con người:** Thế giới càng lớn, nhân vật càng phải giữ lấy những khoảnh khắc đời thường nhỏ bé. Không để đại đạo nuốt mất con người.
 
 ## 5. Quản lý Canon Động & Trạng thái Thế giới (Theo Dynamic Canon Engine)
 
-- **Mỗi chương là một State Change:** Sau mỗi chương hoặc chỉnh sửa, thế giới phải được xem là đã thay đổi trạng thái (nhân vật, quan hệ, nhân quả, thương thế, item, mystery).
+- **Theo dõi State Change:** Sau mỗi chương hoặc chỉnh sửa, xác định phần trạng thái thực sự thay đổi (nhân vật, quan hệ, nhân quả, thương thế, item, mystery). Chỉnh câu chữ đơn thuần không tự tạo sự kiện; giữ và đồng bộ những thay đổi có trong bản thảo.
 - **Ripple Effect & Causality:** Mọi biến cố phải tạo ra nhân quả và ảnh hưởng dây chuyền rõ ràng. Không được reset trạng thái nhân vật (thương thế, tài nguyên) sau mỗi chương.
-- **Master Command (WRITE → ANALYZE → UPDATE → VERIFY → COMMIT):** Luôn theo dõi state, cập nhật node, kiểm tra mâu thuẫn Canon và duy trì tính nhất quán xuyên suốt tác phẩm.
+- **Master Command (READ → DESIGN → WRITE → ANALYZE → UPDATE → VERIFY → COMMIT):** Luôn theo dõi state, cập nhật node, kiểm tra mâu thuẫn Canon và duy trì tính nhất quán xuyên suốt tác phẩm.
 
 ## 6. Bảo vệ Canon nền tảng (Theo Canon Protection)
 
@@ -50,7 +50,7 @@ tags:
 - Miêu tả qua điều nhân vật đang nhìn, nghe, chạm hoặc cố tránh nhìn trong khoảnh khắc ấy. Một cảnh chỉ cần vài chi tiết đúng với tâm trạng và hành động, không cần kể hết cảnh vật.
 - Ưu tiên chi tiết cụ thể có thể trở lại về sau: bát cháo còn ấm, vệt bùn trên bậc cửa, áo khoác vẫn treo ở chỗ cũ. Khi hoàn cảnh thay đổi, cùng một chi tiết có thể mang nghĩa khác mà không cần lời bình.
 - Cảnh vật phải có quan hệ với biến cố. Gió, mưa, sương, tiếng chuông hay màu trời chỉ xuất hiện khi chúng tác động tới người trong cảnh hoặc giúp độc giả cảm nhận không gian; không bắt thiên nhiên buồn thay nhân vật.
-- Giữ độ rõ của hành động và địa điểm ngay cả trong đoạn giàu hình ảnh. Mỗi so sánh nên làm hình ảnh sắc hơn; nếu có thể bỏ mà cảnh vẫn nguyên nghĩa, hãy bỏ.
+- Giữ độ rõ của hành động và địa điểm ngay cả trong đoạn giàu hình ảnh. So sánh cần làm sắc hình ảnh, điểm nhìn hoặc cảm giác; cắt những so sánh chỉ lặp ý, sáo mòn hoặc làm người đọc mất dấu việc đang diễn ra.
 - Đoạn văn liền mạch theo nhịp tiểu thuyết. Dùng câu dài để người đọc ở lại với một quan sát hoặc ký ức, câu ngắn khi một hành động hay nhận thức cần rơi xuống. Không tách mỗi câu thành một dòng chỉ để tạo vẻ trầm trọng.
 
 ### Miêu tả nhân vật
@@ -89,13 +89,22 @@ tags:
 - Sau cảnh này, hành vi, quan hệ hoặc lựa chọn của nhân vật đổi ra sao?
 - Nhịp văn đã cho người đọc thời gian cảm nhận chưa, hay đang thúc họ phải buồn bằng lời giải thích liên tiếp?
 
-## 10. Liên kết
+## 10. Tư duy logic, chất thơ và lời văn dễ hiểu
+
+Áp dụng [[12_LOGIC_AND_LANGUAGE_CRAFT]] trong mọi lần viết mới hoặc sửa chương. Trước khi trau chuốt, kiểm nguyên nhân, tri thức, quyền hạn, nguồn lực, lựa chọn và hậu quả. Cho phép nhân vật sai vì sợ hãi hoặc thiên kiến khi phản ứng ấy có căn cứ; không biến tất cả thành người toàn tri.
+
+Chọn chi tiết theo điểm nhìn, dùng nhịp câu và hình ảnh để gợi cảm xúc; kể gọn phần chuyển tiếp khi phù hợp. Từ Hán Việt dùng đúng nghĩa, hợp sắc thái và có chỗ neo nghĩa; giữ lời kể, sinh hoạt và học nghề rõ, tự nhiên. Không đặt tỷ lệ từ Hán Việt, số ẩn dụ hoặc buộc mọi câu thoại thành châm ngôn.
+
+Khi đọc lại, xác định người đọc có hiểu ai đang làm gì, vì sao, với cái giá nào; sau đó kiểm hình ảnh, nhịp đoạn, từ chưa chắc nghĩa và câu khó hiểu. Giữ ẩn ý có chủ đích, tránh giải nghĩa lại ngay sau mọi chi tiết.
+
+## 11. Liên kết
 
 - Bảo vệ Canon: [[00_CANON_PROTECTION]]
 - Hướng dẫn viết gốc: [[04_WRITING_BIBLE]]
 - Miêu tả nhân vật: [[Quy Tắc Miêu Tả Nhân Vật]]
 - Đặt tên và thuật ngữ: [[Quy Tắc Đặt Tên Và Thuật Ngữ]]
+- Logic và ngôn ngữ: [[12_LOGIC_AND_LANGUAGE_CRAFT]]
 - Quản lý Canon động: [[10_DYNAMIC_CANON_ENGINE]]
-- Khung truyện: [[04-KHUNG TRUYỆN/Luật Viết|Luật Viết]], [[Triết Lý Văn Học Và Nhịp Điệu Bi Kịch]]
+- Khung truyện: [[Luật Viết]], [[Triết Lý Văn Học Và Nhịp Điệu Bi Kịch]]
 - Chương truyện: [[06-CHƯƠNG TRUYỆN/Quyển 1 - Từ Vọng Sơn Đến Lăng Vân/Chương 8|Chương 8]]
 - Menu chính: [[VẠN CỔ QUY KHƯ MENU]]

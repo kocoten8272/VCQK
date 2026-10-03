@@ -1963,3 +1963,11 @@ Sau khi dùng thiết kế, cập nhật một hồ sơ chính và các danh m�
 Dùng đại từ hoặc xưng hô rõ để tránh lặp tên gượng. Giữ bí danh chưa lộ thân phận, người chưa rõ tên, tên gia tộc và những câu nói về một chữ viết riêng. Không lấy tên thật ở lớp tác giả để tự tiết lộ trong chương.
 
 Trước khi hoàn tất, rà toàn văn theo tên chuẩn, đọc từng ứng viên rút tên trong ngữ cảnh, sửa tối thiểu và kiểm lại bản đã sửa. Không coi việc đã dùng tên đầy đủ ở đầu cảnh là đủ; mọi lần dùng tên sau đó cũng phải đúng. Sau cập nhật, báo danh sách chương có sửa thực tế.
+
+# LXXII. TƯ DUY LOGIC VÀ NGÔN NGỮ KHI SÁNG TÁC
+
+Áp dụng [[12_LOGIC_AND_LANGUAGE_CRAFT]] trong mọi chương viết mới hoặc chỉnh sửa. Trước WRITE, kiểm tình trạng ban đầu, mục tiêu, động cơ, nguồn lực, tri thức, quyền hạn, lựa chọn và hậu quả; tách quan sát, chứng cứ, giả thuyết và kết luận. Nhân vật có thể lựa chọn sai nhưng phản ứng phải có căn cứ; không trao kiến thức hoặc năng lực chưa được xây dựng để cứu tình huống.
+
+Khi viết, chọn chi tiết và nhịp câu theo điểm nhìn. Dành cảnh cho việc có sức nặng, tóm lược chuyển tiếp khi phù hợp; giữ độ rõ của hành động trong đoạn giàu hình ảnh. Dùng Hán Việt đúng nghĩa, hợp giọng và hoàn cảnh, có chỗ neo nghĩa cho thuật ngữ. Giữ câu đời thường rõ chủ thể, lời thoại có người nghe và việc cần nói; triết lý nối với trải nghiệm và hậu quả.
+
+Trong ANALYZE/VERIFY, kiểm logic trước rồi đọc lại hình ảnh, nhịp đoạn, từ ngữ và câu khó hiểu cùng quy tắc tên đầy đủ. Không đặt tỷ lệ Hán Việt, số ẩn dụ hay nghĩa vụ thêm bi kịch/bí mật; không giải thích lại mọi ẩn ý. Ví dụ kỹ thuật giữ riêng với canon, và sửa văn phong không tự tạo trạng thái sự kiện mới.
