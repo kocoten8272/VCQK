@@ -61,3 +61,12 @@ Nguồn: [[Chương 43]], [[Chương 50]], [[Chương 51]], [[Chương 52]], [[T
 - Chưa được tự tới nhà hong; cuối ngày tại Tế Sinh Viện cùng Lâm Uyên. Kiếm còn làm bảo chứng, tay phải còn thương tích; Dược Khế không tăng.
 - Chọn tìm phiếu và đúng người dẫn đội trước khi quy người trực hoặc người cứu sách thành thủ phạm.
 - Nguồn: [[Chương 53]], [[Trạng Thái Truyện Sau Chương 53]].
+
+## Trạng thái mới theo bản thảo Chương 54
+
+- Được theo giấy bổ sung tới nhà hong và cổng phụ, có chấp sự hộ tống; không được vào các phòng. Quản kho phụ dẫn đội được xác định riêng với người mở sổ Chương 53.
+- Nghe Đỗ Hoài Chương nhận mượn hai chìa, giao một cho người khiêng chưa biết tên; bản kê nhà hong ghi quản kho phụ nhận lại một chìa. Chưa xác định người nhận/trả chiếc thứ hai.
+- Dự chứng phép thử: một chìa mở ổ cũ, chiếc kia không vào hết rãnh. Ký bằng tay trái; hỏi người nhà hong có mặt lúc nhận giỏ cuối để lấy lời riêng, không dùng bản nhớ dẫn câu trả lời. Chưa kết luận tráo chìa, ai vào phòng hoặc ai lấy trang.
+- Đọc bản quyết toán một chặng Nam Phố có tên Kỷ Hành Chu, mang cho Lâm Uyên xem. Tông Sảnh còn xác minh nơi hắn làm việc trước khi mời; chưa gặp Kỷ Hành Chu, chưa có buổi đối chiếu mới. Chứng từ không nối đường thuốc với vụ chìa/vụ cháy.
+- Tay phải còn thương tích, kiếm còn làm bảo chứng và hạn chế đi lại vẫn còn. Dược Khế giữ bốn tháng; trang gốc vẫn mất, bản nhớ còn hai chữ chưa chắc.
+- Nguồn: [[Chương 54]], [[Trạng Thái Truyện Sau Chương 54]].

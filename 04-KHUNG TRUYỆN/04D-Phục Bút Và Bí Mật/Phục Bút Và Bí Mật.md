@@ -74,3 +74,15 @@ tags:
 | Có thể đưa Tô Lạc về chưa? | Một điểm thử nền chịu chân chống ngoài, điểm kia trượt. | Chưa có lệnh vào hầm, chưa thu hồi thi thể hoặc miếng đồng; cần phương án/vật tư mới. |
 
 Nguồn: [[Chương 53]], [[Trạng Thái Truyện Sau Chương 53]]. Đây là tiến triển của những đầu mối cũ, không thêm bí ẩn cấp thế giới.
+
+## Đầu mối tiến triển theo bản thảo Chương 54
+
+| Câu hỏi | Kết quả/chứng cứ mới | Giới hạn và bước tiếp |
+| --- | --- | --- |
+| Người nhận hai chìa là ai? | Quản kho phụ/người nhận ca nhận diện Đỗ Hoài Chương; ông nhận mượn. | Câu hỏi danh tính người nhận được trả lời cục bộ; chưa đồng nhất với người gác thấy Chương 53. |
+| Hai chìa đã về đúng chưa? | Bản kê nhà hong ghi một chìa; lời khai chia hai lượt trả. Thử niêm cùng ổ cũ: một mở, một dừng trước khi vào hết. | Chưa kết luận tráo/hỏng/nhầm; giữ vật, mời thợ khóa, tìm người trả trước/người nhận giỏ cuối. Không chứng minh ai vào phòng hoặc lúc trang mất. |
+| Đường mua thuốc dẫn tới đâu? | Tên Kỷ Hành Chu ký thanh toán trên bản sao quyết toán một chặng Nam Phố. | Chỉ một chặng trung chuyển; chưa gặp/trình lời, chưa biết người mua cuối hoặc liên hệ vụ cháy. |
+| Những việc cứu giúp nhỏ đã xong chưa? | Trẻ xóm lò ngói được cho về, hai thanh gỗ có phiếu nhận kho trạm. | Khoản chăm sóc tiếp chờ quyết toán; giá chưa đóng/gỗ chưa trả. Tiến triển có kết quả nhưng nghĩa vụ còn mở. |
+| Có thể đưa Tô Lạc về chưa? | Gỗ chống/dây xếp cho lượt chuyển sau. | Chưa giao tới núi hoặc lệnh vào hầm; thi thể/miếng đồng chưa thu hồi. |
+
+Nguồn: [[Chương 54]], [[Trạng Thái Truyện Sau Chương 54]]. Giữ bí ẩn lớn hiện có; dấu chìa và chứng từ thuốc thuộc hai chuỗi nguồn riêng.

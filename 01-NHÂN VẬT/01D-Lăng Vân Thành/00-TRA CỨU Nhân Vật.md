@@ -21,6 +21,8 @@ Nhân vật dân sinh, Tế Sinh Viện, Nam Phố và các cơ quan/nhà có ho
 - [Tạ Nghiên Chi](T%E1%BA%A1%20Nghi%C3%AAn%20Chi.md) — `da-xuat-hien` — Thư lại giữ sổ trực dãy phòng Tô Thanh Ly, xuất hiện lần đầu trong Chương 51 khi Tông Sảnh mở hồ sơ sau vụ cháy Tàng Thư Các.
 - [Viện Chủ Tế Sinh Viện (chưa rõ tên)](Vi%E1%BB%87n%20Ch%E1%BB%A7%20T%E1%BA%BF%20Sinh%20Vi%E1%BB%87n%20(ch%C6%B0a%20r%C3%B5%20t%C3%AAn).md) — `da-xuat-hien` — Chức danh của người đứng đầu Tế Sinh Viện. Tên riêng chưa được nêu trong bản thảo đến hết Chương 52; không tự đặt tên hoặc chốt giới tính nếu chưa có bằng chứng.
 
+- [Đỗ Hoài Chương](%C4%90%E1%BB%97%20Ho%C3%A0i%20Ch%C6%B0%C6%A1ng.md) — `da-xuat-hien` — Thợ sửa sách nhà hong; trực tiếp nhận việc mượn hai chìa ở Chương 54, trách nhiệm chiếc thứ hai chưa rõ.
+
 ## Hạ Gia — hồ sơ đề xuất
 
 - [Hạ Minh Giang](H%E1%BA%A1%20Minh%20Giang.md) — `de-xuat` — Thành viên **đề xuất**, chưa xuất hiện trong chương truyện. Hồ sơ này triển khai từ gia phả dự kiến; tên, tuổi, quan hệ và tiểu sử có thể thay đổi trước khi được tác giả chốt.
@@ -48,9 +50,9 @@ Nhân vật dân sinh, Tế Sinh Viện, Nam Phố và các cơ quan/nhà có ho
 - [Bùi Ninh Viễn](B%C3%B9i%20Ninh%20Vi%E1%BB%85n.md) — `de-xuat` — Thành viên **đề xuất**, chưa xuất hiện trong chương truyện. Hồ sơ này triển khai từ gia phả dự kiến; tên, tuổi, quan hệ và tiểu sử có thể thay đổi trước khi được tác giả chốt.
 - [Bùi Tố Vân](B%C3%B9i%20T%E1%BB%91%20V%C3%A2n.md) — `de-xuat` — Thành viên **đề xuất**, chưa xuất hiện trong chương truyện. Hồ sơ này triển khai từ gia phả dự kiến; tên, tuổi, quan hệ và tiểu sử có thể thay đổi trước khi được tác giả chốt.
 
-## Chưa xuất hiện
+## Được nhắc đến, chưa trực tiếp xuất hiện
 
-- [Kỷ Hành Chu](K%E1%BB%B7%20H%C3%A0nh%20Chu.md) — `chua-xuat-hien` — Người quyết toán một chặng hàng tại Nam Phố; có thể giúp lần theo chứng từ của đường mua thuốc ẩn danh nhưng chưa phải người mua hay chủ mưu.
+- [Kỷ Hành Chu](K%E1%BB%B7%20H%C3%A0nh%20Chu.md) — `duoc-nhac-den` — Chương 54 nêu tên ký thanh toán trên bản sao quyết toán một chặng Nam Phố; chưa trình lời, chưa xác định người mua cuối hoặc chủ mưu.
 
 ## Quy ước của thư mục
 

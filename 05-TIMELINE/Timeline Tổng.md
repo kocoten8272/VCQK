@@ -40,3 +40,14 @@ Mốc trong Chương 1 chỉ xác nhận gia đình nhận tin báo tử và là
 ## Thiết kế lịch sử nền đã duyệt
 
 Dòng lịch sử xa được chia thành Thời Mạch Khai, Thời Vạn Đạo, Thời Lập Tịch và Thời Dần Tịch hiện tại. Đại Nạn Đứt Mạch dẫn đến việc dựng Thiên Tịch để ổn định ghi nhận và các đường nhân quả; nguyên nhân đầy đủ và trách nhiệm lịch sử được để đa nguồn, không quy cho một cá nhân hay tộc. Chi tiết thuộc lớp tác giả: [[Thiết Kế Tác Giả Đã Chốt — Thế Giới, Lịch Sử Và Bí Mật]].
+
+## Mốc hiện hành — Chương 53–54
+
+| Thời điểm tương đối | Sự kiện đã viết | Giới hạn |
+| --- | --- | --- |
+| Ngày thứ sáu sau chuyến Hắc Phong Sơn — Chương 53 | Lấy lời riêng ở Tông Sảnh, thấy phiếu mượn hai chìa; thợ báo thử nền, gỗ trạm lên xe. | Người nhận/trả chưa được tìm; chưa lệnh vào hầm, chưa xác nhận trạm nhận gỗ. |
+| Sáng ngày thứ bảy — Chương 54 | Y sư thay băng; giấy bổ sung cho nhà hong/cổng. Nhận diện Đỗ Hoài Chương, đối bản kê một chìa và thử hai chìa với ổ cũ. | Một mở, một không vào hết; chưa kết luận nguyên nhân hoặc người lấy trang. Không vào phòng riêng. |
+| Quá trưa/cùng chiều ngày thứ bảy | Nhóm về Tế Sinh Viện; trẻ được cho về theo khám lại sáng, xe trạm đưa mẹ con đi; phiếu nhận gỗ ở trạm. Lâm Uyên tiếp tục học lá, Tô Tín hỏi vật tư. | Khoản tiếp chưa quyết toán, giá chưa đóng; vật tư chống chưa tới núi/thi thể chưa thu hồi. |
+| Chiều ngày thứ bảy | Bản sao quyết toán Nam Phố nêu Kỷ Hành Chu, yêu cầu xác minh nơi làm trước mời hỏi. | Chưa trực tiếp xuất hiện, chưa có buổi đối chiếu/giấy đi đường mới được cấp cho việc này. |
+
+Nguồn: [[Chương 53]], [[Chương 54]], [[Trạng Thái Truyện Sau Chương 54]]. Không ấn định ngày lịch tuyệt đối hoặc rút ngắn thời gian hồi phục.

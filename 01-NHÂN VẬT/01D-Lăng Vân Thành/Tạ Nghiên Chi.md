@@ -67,3 +67,11 @@ Giữ sổ trực và cung cấp lời chứng hữu hạn về ca trực, con d
 - Người nhận ca nhận chữ ký giao chìa của mình. Nàng chưa xác định người mượn, người trả hoặc người lấy trang.
 - Kê giấy đỡ phiếu bị dính, không tự bóc mép; giữ thẩm quyền ghi/đối chiếu, không định tội.
 - Nguồn: [[Chương 53]], [[Trạng Thái Truyện Sau Chương 53]].
+
+## Trạng thái mới theo bản thảo Chương 54
+
+- Tới nhà hong/cổng phụ theo giấy bổ sung cùng người chứng kiến; ghi riêng lời Đỗ Hoài Chương và quản kho phụ, đọc lại để sửa phạm vi điều từng người tận mắt thấy.
+- Đối bản kê nhóm giấy/số giỏ và dòng giao lại một chìa có chữ ký quản kho phụ. Ghi hai phạm vi trên sơ đồ; để người nhận ca và Đỗ Hoài Chương nhận nhau trước khi ghi lời nhận trùng.
+- Tận mắt dự thử ổ cũ, ghi một chìa mở được và chiếc kia dừng trước khi vào hết rãnh. Phân biệt hai vật được nộp với hai chìa đúng đã trở lại; chưa kết luận tráo chìa hoặc xác minh độc lập lời từng thử cả hai trước đêm cháy.
+- Ghi tên người nhà hong thường ngày có mặt lúc nhận giỏ cuối để mời hỏi riêng. Chưa xác định người nhận/trả chiếc thứ hai, ai vào phòng hoặc người lấy trang; việc kiểm chuyên môn chờ thợ khóa, quyền kết luận vẫn thuộc Tông Sảnh.
+- Nguồn: [[Chương 54]], [[Trạng Thái Truyện Sau Chương 54]].

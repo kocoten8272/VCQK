@@ -9,19 +9,19 @@ tags:
 
 # Mạch Nhân Vật Và Vấn Đề Liên Tục
 
-> Theo trạng thái sau Chương 52. Đây là sổ theo dõi, không phải lệnh tự giải quyết tuyến.
+> Bảng nền sau Chương 52; tiến triển Chương 53–54 được lưu ở cuối. Đây là sổ theo dõi, không phải lệnh tự giải quyết tuyến.
 
 ## Open Character Threads
 
 | ID | Tuyến đang mở | Trạng thái đã biết | Mốc |
 | --- | --- | --- | --- |
-| CHAR-001 / CHAR-007 | Mộ Lâm Chinh và Hắc Quan | Thi thể, số phận thật của Lâm Chinh, người lập mộ và động cơ chưa giải | Ch1–32 |
+| CHAR-005 / CHAR-007 | Mộ Lâm Chinh và Hắc Quan | Thi thể, số phận thật của Lâm Chinh, người lập mộ và động cơ chưa giải | Ch1–32 |
 | CHAR-013 / CHAR-019 | Đưa Tô Lạc về | Thi thể còn ở phế tích; lời hứa đưa về chưa thực hiện tại Ch52 | Ch43–52 |
 | CHAR-006 / CHAR-046 | Trang gốc Tàng Thư Các | Bản nhớ có hai chữ chưa chắc; trang gốc/người lấy chưa rõ; lời khai còn chờ theo trạng thái Ch52 | Ch51–52 |
-| CHAR-037 / CHAR-001 | Lâm học dược lý | Học căn bản đang diễn ra; kết cục Mạnh Thanh Tễ được tác giả duyệt trong tương lai nhưng chưa xảy ra | Ch48–52 |
+| CHAR-037 / CHAR-005 | Lâm Uyên học dược lý | Học căn bản đang diễn ra; kết cục Mạnh Thanh Tễ được tác giả duyệt trong tương lai nhưng chưa xảy ra | Ch48–52 |
 | CHAR-044 / CHAR-057 | Tả Tiên Sinh | Danh xưng qua lời Trần Dực; danh tính và liên hệ đường thuốc chưa xác minh | Ch46–52 |
 | CHAR-056 | Người Áo Đen | Số cá nhân/tổ chức chưa rõ; không nối các vụ khi chưa có chứng cứ | Ch29, Ch33, hồ sơ liên quan |
-| CHAR-001 / CHAR-006 | Hậu quả Hắc Phong Sơn | Thương tích, hạn chế đi lại, bảo chứng và trách nhiệm chưa gỡ hết | Ch52 |
+| CHAR-005 / CHAR-006 | Hậu quả Hắc Phong Sơn | Thương tích, hạn chế đi lại, bảo chứng và trách nhiệm chưa gỡ hết | Ch52 |
 
 ## Kiểm tra trước khi viết
 
@@ -47,3 +47,17 @@ tags:
 - Tuyến dân sinh: gỗ lên xe trạm, trẻ hết cơn sốt nhưng còn theo dõi, khoản chi đầu được phân rõ, phần tiếp chưa xong.
 - Thương tích, Dược Khế, bảo chứng và hạn chế đi lại còn hiệu lực. Đường thuốc và nhóm áo đen không bị nhập thành một phe.
 - Nguồn: [[Chương 53]], [[Trạng Thái Truyện Sau Chương 53]].
+
+
+## Tiến triển theo bản thảo Chương 54
+
+- **Trang giấy/chìa:** Quản kho phụ/người nhận ca nhận diện Đỗ Hoài Chương; ông nhận mượn hai, giữ một/giao một cho người khiêng tạm. Bản kê nhà hong ghi giao lại một chìa. Một chìa trong niêm mở ổ cũ, chiếc kia không vào hết; chờ thợ kiểm và hỏi riêng người nhận giỏ cuối. Chưa biết người trả trước, ai vào phòng hoặc lấy trang.
+- **Đỗ Hoài Chương (CHAR-058):** Còn trình lời; nhận phần giao chìa, không nhận thay cả nhà hong. Chưa có kết án/lệnh bắt hoặc xác nhận trở lại làm.
+- **Đường thuốc/Kỷ Hành Chu (CHAR-034):** Lần đầu nhắc qua bản sao quyết toán chặng Nam Phố; xác minh nơi làm trước mời hỏi. Không coi chữ ký thanh toán là chứng cứ chủ mưu.
+- **Học dược:** Lâm Uyên sửa hai trong ba chỗ nhận lá, chỗ cuối còn mở; tay trái mỏi được nghỉ. Mạnh Thanh Tễ còn sống; chưa phối thuốc, vận lực hoặc tăng tu vi.
+- **Dân sinh:** Trẻ xóm lò ngói được khám lại/cho về, theo dõi chuyển trạm. Khoản tiếp chưa quyết toán, hôm nay không thu từ mẹ. Hai thanh gỗ có phiếu nhận kho trạm; chưa làm giá, chưa trả gỗ.
+- **Tô Lạc/Hắc Phong Sơn:** Gỗ chống/dây xếp để chuyển lượt sau; chưa tới núi, thử đạt hoặc vào hầm. Tô Tín còn nạng. Thi thể/miếng đồng chưa thu hồi.
+- **Ràng buộc:** Giấy bổ sung cho nhà hong/cổng, có hộ tống, không vào phòng; không gỡ quản thúc/bảo chứng/Dược Khế. Thuốc mua bù đã giao đủ Chương 52, không mở lại nghĩa vụ.
+- Nguồn: [[Chương 54]], [[Trạng Thái Truyện Sau Chương 54]].
+
+ID Lâm Uyên trong bảng nền đã sửa về CHAR-005 theo [[02-SỔ CÁI NHÂN VẬT]]; CHAR-001 dành cho A Ly.

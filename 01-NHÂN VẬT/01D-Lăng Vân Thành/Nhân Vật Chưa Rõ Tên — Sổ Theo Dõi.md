@@ -56,3 +56,21 @@ tags:
 | Người đánh xe trạm khám | Vai trò nối Chương 50–53: đưa người bệnh, nhận bản giao thuốc, nhận gỗ cho trạm. | Chương 53 mới nhận gỗ lên xe, chưa xác nhận trạm nhận/lắp. Không mặc định là Lưu Định. |
 
 Các vai trò này là nhãn tra cứu, không phải tên canon. Nguồn: [[Chương 53]], [[Trạng Thái Truyện Sau Chương 53]].
+
+## Vai trò được phân biệt trong bản thảo Chương 54
+
+| Tên tra cứu tạm | Nhận diện/hành động | Giới hạn |
+| --- | --- | --- |
+| Quản kho phụ dẫn đội chuyển sách | Nhận chữ ký bản kê, dẫn người mượn là Đỗ Hoài Chương; nhận một chìa rồi tự trả. | Khác người mở sổ Chương 53; không chọn mọi người khiêng, không xem chìa trả trước. |
+| Người nhận ca dãy đông | Nhận diện Đỗ Hoài Chương, chứng kiến mở niêm/thử chìa; kể chỉ đếm khi trả rồi chốt then trong. | Lời từng thử cả hai trước cháy chưa kiểm chứng độc lập; chưa biết người trả chiếc đầu. |
+| Người khiêng tạm nhận chìa thứ hai | Chỉ qua lời Đỗ Hoài Chương: không hỏi tên, xin quay lấy giỏ ngoài cổng, mặt lau/che vì khói. | Chưa trực tiếp xuất hiện/nhận diện, chưa biết có trùng người mang giỏ cuối hoặc người gác thấy Chương 53. |
+| Thợ nhà hong/người nhận giỏ cuối | Một người được dặn giữ trang/hồ hiện tại; người làm thường ngày được liệt kê để hỏi riêng việc nhận giỏ đêm cháy. | Không gộp thành một cá nhân, không tự đặt tên hoặc coi mọi người đều giữ chìa. |
+| Chấp sự/người chứng kiến/giữ chìa | Hộ tống theo giấy bổ sung, mở niêm và thử, giữ chìa/ổ cũ để kiểm tiếp. | Nhiều chức năng; không gộp toàn bộ thành một người hoặc nâng quyền thành kết án. |
+| Y sư thay băng/khám lại | Thay băng tay Lâm Uyên; đứa trẻ được khám lại buổi sáng và cho về. | Chưa xác nhận các việc do cùng người làm, không mặc định là viện chủ. |
+| Trẻ xóm lò ngói và mẹ | Bé được cho về, giấy theo dõi tới trạm; mẹ giữ phiếu khoản còn chờ, cho bánh không tính tiền thuốc. | Khác trẻ băng vải Chương 48; hôm nay không thu không có nghĩa miễn mọi khoản về sau. |
+| Người đánh xe trạm khám | Đưa phiếu hai thanh gỗ đã nhận ở kho trạm, chở mẹ con về. | Chưa đóng giá/trả gỗ; không đồng nhất Lưu Định. |
+| Người giữ hồ sơ dược phường | Chuyển bản sao quyết toán một chặng Nam Phố theo yêu cầu cũ. | Không tự biết người mua cuối hoặc trở thành Kỷ Hành Chu. |
+
+Người nhận hai chìa đã được gọi tên **[[Đỗ Hoài Chương]]**, có hồ sơ CHAR-058. Bản ghi Chương 53 về người từng được thấy ở nhà hong giữ nguyên: người gác chưa đối mặt xác nhận là ông. Thợ khóa chỉ được yêu cầu mời kiểm tiếp, chưa trực tiếp có mặt hoặc đưa kết luận Chương 54.
+
+Nguồn: [[Chương 54]], [[Trạng Thái Truyện Sau Chương 54]].

@@ -31,3 +31,12 @@ tags:
 ## Cách cập nhật
 
 Ghi kiểu liên hệ cụ thể: huyết thống, thành viên, chức vụ, nghề nghiệp, hợp tác, bị cáo buộc, lời kể, suy luận hoặc đề xuất. Dẫn hồ sơ/chương và giữ nhãn chắc chắn.
+
+## Liên hệ được thể hiện ở Chương 54
+
+| Địa bàn/cơ quan | Nhân vật | Loại liên hệ | Giới hạn |
+| --- | --- | --- | --- |
+| Nhà hong trong phạm vi Tô Gia | Đỗ Hoài Chương | Thợ sửa sách, được giao chuyển giấy trong đêm cháy | Chưa xác định huyết thống/biên chế/chủ thuê; trách nhiệm giao chìa không xác lập phe bí mật. |
+| Tuyến thanh toán Nam Phố | Kỷ Hành Chu | Tên ký trên bản sao quyết toán một chặng | Chưa trình lời; chưa xác định người mua cuối, chủ thuê hoặc tổ chức đứng sau. |
+
+Nguồn: [[Chương 54]], [[Đỗ Hoài Chương]], [[Kỷ Hành Chu]]. Không hợp nhất đường thuốc với vụ cháy.

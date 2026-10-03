@@ -3,7 +3,7 @@ type: nhan-vat
 id: CHAR-034
 importance-tier: D
 vai-tro: nhan-vat-phu
-status: chua-xuat-hien
+status: duoc-nhac-den
 tags:
   - nhan-vat
   - nam-pho
@@ -20,7 +20,7 @@ tags:
 - **Thân phận dự kiến:** Người ghi sổ hoặc quyết toán thuê cho một tuyến giao nhận ở Nam Phố; quan hệ lao động chính xác với quầy hàng chưa chốt.
 - **Tuổi:** Chưa chốt.
 - **Giới tính:** Chưa chốt.
-- **Diện mạo:** Chưa xuất hiện; để cảnh đầu tiên xác lập ngoại hình qua chi tiết hữu ích với công việc.
+- **Diện mạo:** Chưa xuất hiện trực tiếp; để cảnh gặp đầu tiên xác lập ngoại hình qua chi tiết hữu ích với công việc.
 - **Tính cách dự kiến:** Thực tế, chú ý con dấu, số kiện và khoản thiếu; thận trọng khi nói vì lời khai có thể khiến người làm thuê mất kế sinh nhai.
 - **Năng lực:** Biết đối chiếu chứng từ của một chặng giao hàng; không có quyền nhìn thấy toàn bộ tuyến hoặc danh tính người hưởng lợi cuối cùng.
 
@@ -47,6 +47,7 @@ tags:
 ## Liên tục
 
 - Chưa xuất hiện trong bản thảo đến hết Chương 50.
+- Được nhắc tên qua chứng từ lần đầu ở Chương 54; chưa trực tiếp xuất hiện hoặc trình lời.
 - Vai trò dự kiến thuộc giai đoạn điều tra sau khi các nhân vật có giấy tờ và lý do hợp lệ để hỏi về sổ giao nhận Nam Phố.
 - Tên Kỷ Hành Chu đã được tác giả chốt; tuổi, diện mạo, chủ thuê và mức độ trách nhiệm trong giao dịch chưa chốt.
 - Không để lời khai của hắn tự xác nhận đường mua thuốc có chung chủ mưu với tổ áo đen; cần chứng cứ độc lập.
@@ -59,3 +60,11 @@ tags:
 ## Vai trò tương lai đã duyệt — DEC-006
 
 Quyết toán tuyến hàng, cân nhắc lời khai dựa trên ảnh hưởng tới người làm thuê và trách nhiệm hợp đồng. Không phải đầu não đứng sau mạng lưới mua thuốc hoặc Hắc Nha. Vai trò tương lai đã duyệt; hành động chỉ thành sự kiện khi xuất hiện trong chương.
+
+## Trạng thái mới theo bản thảo Chương 54
+
+- Tên Kỷ Hành Chu có ở phần ký thanh toán trên bản sao quyết toán một chặng Nam Phố, được người giữ hồ sơ dược phường chuyển theo yêu cầu đối chiếu cũ. Đây là lần đầu được nhắc qua chứng từ, chưa có cảnh gặp hoặc lời khai của hắn.
+- Phiếu chỉ tới điểm giao trung chuyển, chưa có tên người mua cuối. Chữ ký chưa được hắn trực tiếp xác nhận; chưa chứng minh hắn là người trả tiền, người mua, chủ thuê hoặc chủ mưu.
+- Tông Sảnh yêu cầu xác minh nơi hắn làm việc trước khi mời trình lời; chưa xác nhận đã tìm thấy hoặc triệu tới. Quan hệ lao động, tuổi, diện mạo và mức trách nhiệm vẫn để mở.
+- Không có chứng cứ mới nối hắn với vụ chìa, vụ cháy, Hắc Nha hoặc Tả tiên sinh. Các động cơ, lựa chọn khai và vai trò tương lai ở trên vẫn là thiết kế, chưa thành sự kiện.
+- Nguồn: [[Chương 54]], [[Trạng Thái Truyện Sau Chương 54]].

@@ -88,3 +88,12 @@ Nguồn trạng thái: [[Chương 43]], [[Chương 50]], [[Chương 51]], [[Chư
 - Học giữ thẻ đúng nguồn và nhìn gân/mặt dưới/cuống lá với Mạnh Thanh Tễ; còn ba chỗ chưa phân biệt, chưa tự phối thuốc.
 - Nghe kết quả thử nền: một điểm chịu chân chống ngoài, một điểm trượt; chưa có lệnh vào hầm hoặc đưa Tô Lạc về.
 - Thấy gỗ đã lên xe trạm, chưa thấy trạm nhận. Nguồn: [[Chương 53]], [[Trạng Thái Truyện Sau Chương 53]].
+
+## Trạng thái mới theo bản thảo Chương 54
+
+- Theo giấy bổ sung và chấp sự hộ tống tới nhà hong/cổng phụ, không được vào các phòng. Nghe Đỗ Hoài Chương nhận mượn hai chìa rồi giao một cho người khiêng chưa biết tên; đây là lời khai, chưa xác định người trả chiếc thứ hai.
+- Tận mắt thấy một chìa mở ổ cũ hai lần, chiếc kia dừng trước khi vào hết rãnh. Chưa biết nguyên nhân không khớp, người vào phòng hoặc người lấy trang; không nối việc chìa với đường thuốc.
+- Tay phải còn bỏng, thay băng sáng; gọi người khác giữ đồ, dùng tay trái và xin nghỉ khi mỏi. Sửa được hai trong ba chỗ học lá, còn một; chưa tự cân/phối thuốc hoặc vận lực. Không có tu vi mới; Dược Khế giữ bảy tháng.
+- Thấy trẻ xóm lò ngói về cùng mẹ bằng xe trạm sau khám lại; khoản chăm sóc tiếp chưa quyết toán. Viện nhận bản nhận hai thanh gỗ từ trạm, chưa có cảnh hắn chứng kiến gỗ hoặc giá đã lắp.
+- Đọc bản sao quyết toán có tên Kỷ Hành Chu ký phần thanh toán một chặng Nam Phố, để riêng hồ sơ chìa. Chưa gặp Kỷ Hành Chu; xin xem tay trước khi thêm tên vào giấy đi đường, chưa có buổi mở sổ mới.
+- Nguồn: [[Chương 54]], [[Trạng Thái Truyện Sau Chương 54]].

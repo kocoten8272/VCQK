@@ -16,17 +16,17 @@ tags:
 
 - Thuận tay trái; ở Chương 43 đáp hiệu lệnh của Tô Trạch khi mắc dưới giếng. Chân phải gãy, tay tróc da và tổn thương móng.
 - Kể Tô Lạc cắt dây cứu mình. Lời kể về bóng và tiếng giả phải giữ giới hạn điều hắn thấy, không tự xác định thủ phạm.
-- Thanh Ly xuống cứu; Lâm Uyên và Tô Trạch phối hợp kéo, đưa hắn ra. Hắn nhận mảnh thẻ vỡ sau khi lối giếng đóng.
-- Chương 50, Tín còn thương tích, vẽ phần đường tự biết, từ chối đoán đoạn sau sập; xin xem bản đồ khảo sát.
+- Tô Thanh Ly xuống cứu; Lâm Uyên và Tô Trạch phối hợp kéo, đưa hắn ra. Hắn nhận mảnh thẻ vỡ sau khi lối giếng đóng.
+- Chương 50, Tô Tín còn thương tích, vẽ phần đường tự biết, từ chối đoán đoạn sau sập; xin xem bản đồ khảo sát.
 - Chương 52, thợ mới gửi đánh giá sơ bộ: mép sườn bắc cần thử thêm hai điểm; hiện chưa ai được bước qua cọc. Tô Tín nói rõ chỉ biết vị trí Tô Lạc trước khi sàn khép, không biết thi thể hiện ở đâu.
-- Tô Trạch nhận phần trình bày về vị trí; lời hứa đưa Tô Lạc về vẫn chưa thực hiện. Chưa có mốc mới xác nhận chân/tay Tín hồi phục.
-- Trước đó Tín ở cạnh giường chăm Trần Dực; không tự xác định họ từng thân thiết trước chuyến đi.
+- Tô Trạch nhận phần trình bày về vị trí; lời hứa đưa Tô Lạc về vẫn chưa thực hiện. Chưa có mốc mới xác nhận chân/tay Tô Tín hồi phục.
+- Trước đó Tô Tín ở cạnh giường chăm Trần Dực; không tự xác định họ từng thân thiết trước chuyến đi.
 
 ## Hướng phát triển đã duyệt
 
-Trách nhiệm với Tô Lạc phải đi cùng việc Tín tiếp tục sống, hồi phục và lựa chọn công việc. Hắn có thể bất đồng với Lâm về thời điểm quay lại, cách dùng lời khai hoặc giá trị một manh mối, nhưng không mặc định có sự phản bội.
+Trách nhiệm với Tô Lạc phải đi cùng việc Tô Tín tiếp tục sống, hồi phục và lựa chọn công việc. Hắn có thể bất đồng với Lâm Uyên về thời điểm quay lại, cách dùng lời khai hoặc giá trị một manh mối, nhưng không mặc định có sự phản bội.
 
-Cho Tín có quan hệ với các đệ tử sống sót và người làm việc đưa Tô Lạc về. Không ép hắn lặp nỗi buồn trong mọi cảnh hoặc liều mình trái giới hạn thương thế chỉ để tăng kịch tính.
+Cho Tô Tín có quan hệ với các đệ tử sống sót và người làm việc đưa Tô Lạc về. Không ép hắn lặp nỗi buồn trong mọi cảnh hoặc liều mình trái giới hạn thương thế chỉ để tăng kịch tính.
 
 Tuổi, gia đình, cảnh giới, thời điểm hồi phục và đường đi dài hạn còn mở.
 
@@ -40,3 +40,10 @@ Tuổi, gia đình, cảnh giới, thời điểm hồi phục và đường đi
 - Yêu cầu gửi cả kết quả không vào được ở lần tiếp; không tự xin đi, không xóa thương tích.
 - Nhận chén nước Trần Dực đưa bằng tay phải; không xác lập quan hệ trước Hắc Phong Sơn.
 - Nguồn: [[Chương 53]], [[Trạng Thái Truyện Sau Chương 53]].
+
+## Trạng thái mới theo bản thảo Chương 54
+
+- Còn dùng nạng tại Tế Sinh Viện; hỏi chấp sự về vật tư tới sườn bắc. Gỗ chống và dây đã xếp cho lượt chuyển sau, chưa xác nhận tới núi hoặc có lệnh vào hầm.
+- Nhắc phải gửi cả kết quả không đặt được chống, rồi lui nạng khỏi lối cáng. Không xin tự đi khi chân chưa hồi phục.
+- Tên Tô Lạc vẫn ở sơ đồ đầu giường; lời hứa đưa về chưa thực hiện, thi thể/miếng đồng chưa thu hồi.
+- Nguồn: [[Chương 54]], [[Trạng Thái Truyện Sau Chương 54]].

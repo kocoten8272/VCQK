@@ -9,13 +9,13 @@ tags:
 
 # Sổ Theo Dõi Lần Xuất Hiện
 
-> Mốc rà soát: Chương 1–52. Mốc “lần cuối” có thể là hậu quả/nhắc lại, không khẳng định người có mặt trong cảnh. Mở hồ sơ nguồn trước khi viết tiếp.
+> Bảng nền rà soát Chương 1–52; cập nhật Chương 53–54 ở các mục dưới. Mốc “lần cuối” có thể là hậu quả/nhắc lại, không khẳng định người có mặt trong cảnh. Mở hồ sơ nguồn trước khi viết tiếp.
 
 ## Đã xuất hiện hoặc được nhận diện
 
 | ID | Nhân vật | Lần đầu | Lần gần nhất có dấu vết | Nơi cuối được biết | Trạng thái |
 | --- | --- | --- | --- | --- | --- |
-| CHAR-001 | [[01A-Chính/A Ly|A Ly]] | Ch1 | Ch52 | Lăng Vân Thành; điểm cụ thể cuối Ch52 chưa xác nhận | dang-phat-trien |
+| CHAR-005 | [[01A-Chính/Lâm Uyên|Lâm Uyên]] | Ch1 | Ch52 | Lăng Vân Thành; điểm cụ thể cuối Ch52 chưa xác nhận | dang-phat-trien |
 | CHAR-006 | [[01A-Chính/Tô Thanh Ly|Tô Thanh Ly]] | Ch2 | Ch52 | Lăng Vân Thành; điểm cụ thể cuối Ch52 chưa xác nhận | dang-phat-trien |
 | CHAR-007 | [[01B-Vọng Sơn Trấn/Lâm Chinh|Lâm Chinh]] | Ch1 | Ch32 | Được báo tử; mộ/Hắc Quan không xác nhận thi thể | unknown |
 | CHAR-008 | [[01B-Vọng Sơn Trấn/Lão Đầu|Lão Đầu]] | Ch1 | Ch4 | Vọng Sơn Trấn; đã mất | da-qua-doi |
@@ -66,3 +66,20 @@ Ghi mốc đầu/cuối; phân biệt có mặt trực tiếp, hồi ức, lời
 | CHAR-046 | Tạ Nghiên Chi | Trực tiếp | Phòng hồ sơ Tông Sảnh | Chỉ biết lời khai/chứng từ được xem. |
 
 Người trực, thợ và gia đình bệnh nhân chưa tên được phân biệt trong [[Nhân Vật Chưa Rõ Tên — Sổ Theo Dõi]]. Viện chủ chỉ được nhắc qua việc cho mượn gỗ, không có cảnh trực tiếp mới. Nguồn: [[Chương 53]].
+
+
+## Mốc mới theo bản thảo Chương 54
+
+| ID | Nhân vật | Kiểu xuất hiện | Nơi cuối trong chương | Giới hạn |
+| --- | --- | --- | --- | --- |
+| CHAR-005 | Lâm Uyên | Trực tiếp | Tế Sinh Viện | Tay phải còn bỏng; nhận lá, chưa phối thuốc hoặc tăng tu vi. |
+| CHAR-006 | Tô Thanh Ly | Trực tiếp | Hiên Tế Sinh Viện | Ký bằng tay trái; kiếm/bảo chứng và hạn chế đi lại còn nguyên. |
+| CHAR-019 | Tô Tín | Trực tiếp | Tế Sinh Viện | Còn nạng, hỏi vật tư; chưa tự đi núi. |
+| CHAR-037 | Mạnh Thanh Tễ | Trực tiếp | Tế Sinh Viện | Còn sống, hướng dẫn nghề; không dự kiểm chìa. |
+| CHAR-046 | Tạ Nghiên Chi | Trực tiếp | Cổng phụ dãy đông Tô Gia, trong cảnh cuối có mặt | Ghi lời/kiểm vật, không có quyền kết án. |
+| CHAR-058 | [[Đỗ Hoài Chương]] | Lần đầu trực tiếp, có tên | Cổng phụ dãy đông, còn trình lời | Nhận mượn/giao chìa; chưa bị kết án hoặc xác nhận trở về bàn sửa. |
+| CHAR-034 | [[Kỷ Hành Chu]] | Lần đầu nhắc tên qua bản sao quyết toán | Nơi ở/làm việc chưa xác minh | Chưa trực tiếp xuất hiện hoặc trình lời; tên ký không xác lập người mua cuối. |
+
+Tô Lạc được nhắc qua việc chuyển vật tư/lời hứa, chưa thu hồi thi thể. Tô Trạch, Trần Dực không có cảnh trực tiếp mới Chương 54; giữ mốc Chương 53. Y sư thay băng/cho trẻ về chưa được xác định là viện chủ. Các vai phụ được tách ở [[Nhân Vật Chưa Rõ Tên — Sổ Theo Dõi]].
+
+Nguồn: [[Chương 54]], [[Trạng Thái Truyện Sau Chương 54]]. Bảng nền đã sửa dòng nhầm ID/tên: CHAR-005 là Lâm Uyên; CHAR-001 vẫn là A Ly, chưa xuất hiện theo sổ cái.

@@ -58,7 +58,7 @@ Mẫu dùng khi lập hồ sơ: [Mẫu Hồ Sơ Nhân Vật](M%E1%BA%AAU%20H%E1%
 
 ### 01B-Vọng Sơn Trấn
 
-- [Lâm Chinh](01B-V%E1%BB%8Dng%20S%C6%A1n%20Tr%E1%BA%A5n/L%C3%A2m%20Chinh.md) — `da-qua-doi`
+- [Lâm Chinh](01B-V%E1%BB%8Dng%20S%C6%A1n%20Tr%E1%BA%A5n/L%C3%A2m%20Chinh.md) — `unknown`
 - [Lão Đầu](01B-V%E1%BB%8Dng%20S%C6%A1n%20Tr%E1%BA%A5n/L%C3%A3o%20%C4%90%E1%BA%A7u.md) — `da-qua-doi`
 - [Mẹ Lâm Uyên (chưa rõ tên)](01B-V%E1%BB%8Dng%20S%C6%A1n%20Tr%E1%BA%A5n/M%E1%BA%B9%20L%C3%A2m%20Uy%C3%AAn%20%28ch%C6%B0a%20r%C3%B5%20t%C3%AAn%29.md) — `da-qua-doi`
 - [Ông nội Lâm Uyên (chưa rõ tên)](01B-V%E1%BB%8Dng%20S%C6%A1n%20Tr%E1%BA%A5n/%C3%94ng%20n%E1%BB%99i%20L%C3%A2m%20Uy%C3%AAn%20%28ch%C6%B0a%20r%C3%B5%20t%C3%AAn%29.md) — `da-qua-doi`
@@ -79,7 +79,9 @@ Mẫu dùng khi lập hồ sơ: [Mẫu Hồ Sơ Nhân Vật](M%E1%BA%AAU%20H%E1%
 
 ### 01D-Lăng Vân Thành
 
-- [Kỷ Hành Chu](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/K%E1%BB%B7%20H%C3%A0nh%20Chu.md) — `chua-xuat-hien`
+- [Đỗ Hoài Chương](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/%C4%90%E1%BB%97%20Ho%C3%A0i%20Ch%C6%B0%C6%A1ng.md) — `da-xuat-hien`
+
+- [Kỷ Hành Chu](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/K%E1%BB%B7%20H%C3%A0nh%20Chu.md) — `duoc-nhac-den`
 - [Lão Bán Pháp Khí](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/L%C3%A3o%20B%C3%A1n%20Ph%C3%A1p%20Kh%C3%AD.md) — `da-xuat-hien`
 - [Mạnh Thanh Tễ](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/M%E1%BA%A1nh%20Thanh%20T%E1%BB%85.md) — `da-xuat-hien`
 - [Trần Dực](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Tr%E1%BA%A7n%20D%E1%BB%B1c.md) — `da-xuat-hien`
@@ -129,7 +131,7 @@ Mẫu dùng khi lập hồ sơ: [Mẫu Hồ Sơ Nhân Vật](M%E1%BA%AAU%20H%E1%
 - [Người Áo Đen (chưa rõ danh tính)](01F-Th%E1%BA%BF%20L%E1%BB%B1c%20B%C3%AD%20%E1%BA%A8n/Ng%C6%B0%E1%BB%9Di%20%C3%81o%20%C4%90en%20%28ch%C6%B0a%20r%C3%B5%20danh%20t%C3%ADnh%29.md) — `da-xuat-hien`
 - [Hắc Nha](01F-Th%E1%BA%BF%20L%E1%BB%B1c%20B%C3%AD%20%E1%BA%A8n/H%E1%BA%AFc%20Nha.md) — `chua-xuat-hien`
 
-## Nhân vật đã xuất hiện trong truyện (đối chiếu đến hết Chương 52)
+## Nhân vật đã xuất hiện trong truyện (đối chiếu đến hết Chương 54)
 
 > Danh sách này chỉ ghi người có mặt trong cảnh, được gọi tên trong lời kể/hồi ức có căn cứ, hoặc có vai trò cá nhân rõ. Nhân vật đề xuất và người chỉ được nhắc qua lời khai được tách riêng. Hồ sơ vẫn có thể ghi tuổi, cảnh giới hoặc quá khứ là “chưa nêu” nếu bản thảo chưa xác nhận.
 
@@ -154,6 +156,8 @@ Mẫu dùng khi lập hồ sơ: [Mẫu Hồ Sơ Nhân Vật](M%E1%BA%AAU%20H%E1%
 
 ### Lăng Vân Thành và Tế Sinh Viện
 
+- [Đỗ Hoài Chương](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/%C4%90%E1%BB%97%20Ho%C3%A0i%20Ch%C6%B0%C6%A1ng.md) — trực tiếp xuất hiện Chương 54, thợ sửa sách nhà hong.
+
 - [Lão Bán Pháp Khí](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/L%C3%A3o%20B%C3%A1n%20Ph%C3%A1p%20Kh%C3%AD.md) — biệt danh nghề nghiệp; tên thật chưa nêu.
 - [Mạnh Thanh Tễ](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/M%E1%BA%A1nh%20Thanh%20T%E1%BB%85.md)
 - [Trần Dực](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Tr%E1%BA%A7n%20D%E1%BB%B1c.md)
@@ -168,6 +172,8 @@ Mẫu dùng khi lập hồ sơ: [Mẫu Hồ Sơ Nhân Vật](M%E1%BA%AAU%20H%E1%
 
 ### Chỉ được nhắc đến, chưa trực tiếp xuất hiện
 
+- [Kỷ Hành Chu](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/K%E1%BB%B7%20H%C3%A0nh%20Chu.md) — tên ký thanh toán trên bản sao quyết toán Chương 54; chưa có cảnh gặp hoặc lời khai.
+
 - [Tả Tiên Sinh (danh xưng, chưa rõ danh tính)](01F-Th%E1%BA%BF%20L%E1%BB%B1c%20B%C3%AD%20%E1%BA%A8n/T%E1%BA%A3%20Ti%C3%AAn%20Sinh%20(danh%20x%C6%B0ng%2C%20ch%C6%B0a%20r%C3%B5%20danh%20t%C3%ADnh).md) — được nhắc qua lời Trần Dực; chưa xác minh danh tính hoặc liên hệ với người mua thuốc.
 
 ### Nhân vật thoáng qua chưa có tên riêng
@@ -176,13 +182,13 @@ Mẫu dùng khi lập hồ sơ: [Mẫu Hồ Sơ Nhân Vật](M%E1%BA%AAU%20H%E1%
 
 ## Theo dõi trạng thái hiện tại
 
-Trạng thái mỗi người nằm trong frontmatter của hồ sơ. Danh sách “đã xuất hiện” ở trên được đối chiếu trực tiếp với Chương 1–52. Những nhân vật mới được đặt hồ sơ tạm có thể chưa có tuổi, cảnh giới hoặc tên thật; không điền suy đoán thành canon.
+Trạng thái mỗi người nằm trong frontmatter của hồ sơ. Danh sách “đã xuất hiện” ở trên được đối chiếu với Chương 1–54; mốc chi tiết và kiểu xuất hiện xem [[03-SỔ THEO DÕI LẦN XUẤT HIỆN]]. Những nhân vật mới được đặt hồ sơ tạm có thể chưa có tuổi, cảnh giới hoặc tên thật; không điền suy đoán thành canon.
 
 | Trạng thái | Ý nghĩa |
 | --- | --- |
 | `da-xuat-hien` | Có mặt hoặc được xác định bằng tên/biệt danh trong diễn biến đã viết. |
 | `da-qua-doi` | Đã chết theo mốc truyện; hồ sơ vẫn được giữ để theo dõi hậu quả. |
-| `duoc-nhac-den` | Được một nhân vật nhắc tới, chưa trực tiếp xuất hiện và chưa xác minh độc lập. |
+| `duoc-nhac-den` | Được nhắc qua lời kể hoặc chứng từ, chưa trực tiếp xuất hiện; tính xác thực từng chi tiết ghi riêng trong hồ sơ. |
 | `chua-xuat-hien` | Có hồ sơ hoặc phương án nhân vật nhưng chưa có mặt trong bản thảo hiện hành. |
 | `de-xuat` | Phương án đang chờ chốt; tuyệt đối không coi là canon. |
 | `dang-phat-trien` | Nhân vật đã xuất hiện và còn tuyến diễn tiến; cần ghi mốc continuity gần nhất. |

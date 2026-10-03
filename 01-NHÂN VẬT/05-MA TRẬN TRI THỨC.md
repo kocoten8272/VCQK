@@ -51,3 +51,17 @@ Liên kết: [[03-SỔ THEO DÕI LẦN XUẤT HIỆN]], [[08-MẠCH NHÂN VẬT 
 | Tô Tín, Tô Trạch, Lâm Uyên | K: nghe thợ báo hai điểm thử nền. | Chưa biết thi thể ở đâu hiện tại hoặc cách tháo cơ quan. |
 
 Nguồn: [[Chương 53]], [[Trạng Thái Truyện Sau Chương 53]].
+
+## Cập nhật theo bản thảo Chương 54
+
+| Nhân vật | Tri thức nhận được | Nguồn và giới hạn |
+| --- | --- | --- |
+| Lâm Uyên, Tô Thanh Ly, Tạ Nghiên Chi | K: thấy bản kê giao lại một chìa và phép thử một chìa mở được, chiếc kia dừng trước khi vào hết rãnh; K: nghe lời nhận mượn/giao. R: nội dung việc chuyển chìa đêm cháy. | Nhà hong/cổng phụ; xác lập điều các người khai, chưa chứng minh toàn bộ sự kiện họ kể. Không biết ai trả chiếc thứ hai hoặc nguyên nhân không khớp. |
+| Đỗ Hoài Chương | K theo phần việc tự nhận: mượn hai, đưa một cho người khiêng tạm; không nhìn mặt người đem giỏ cuối hoặc thấy nhận đủ. | Không nâng việc nhận giỏ thành nhận lại chìa. K: dự thử chìa hôm nay; chưa nhận chắc chìa nào mình cầm từng lượt. |
+| Quản kho phụ dẫn đội | K theo lời tự nhận: nhận một chìa, tự trả; R: người nhận ca nói chiếc kia trả trước. | Không chứng kiến người trả trước, không chọn từng người khiêng. |
+| Người nhận ca | K: đối mặt nhận người mượn, chứng kiến thử hôm nay; R đối với người khác: lời ông từng dùng cả hai trước cháy. | Chưa kiểm chứng lần thử cũ; ông nhận chỉ đếm khi trả, chốt then trong. |
+| Lâm Uyên, Tô Thanh Ly | K: đọc tên Kỷ Hành Chu tại phần thanh toán trên bản sao. R: sự kiện quyết toán được bản sao ghi. | Một chặng Nam Phố, chưa biết người mua cuối; chưa gặp hoặc nghe lời Kỷ Hành Chu. |
+| Mạnh Thanh Tễ | R: nghe Lâm Uyên kể ngắn nhà hong; K: đọc phiếu nhận hai thanh gỗ, thấy trẻ được cho về. | Không dự kiểm chìa, không tự có tri thức điều tra hoặc bí mật Quy Khư. |
+| Kỷ Hành Chu | ? | Việc được nhắc tên không chứng minh hắn biết điều tra hoặc liên hệ với vụ cháy. |
+
+Nguồn: [[Chương 54]], [[Trạng Thái Truyện Sau Chương 54]]. Chưa nối nhóm áo đen, Hắc Nha, Tả tiên sinh hoặc mạng thuốc.

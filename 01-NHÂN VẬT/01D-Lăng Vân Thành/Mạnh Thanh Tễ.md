@@ -75,3 +75,11 @@ Xem [[Triết Lý Văn Học Và Nhịp Điệu Bi Kịch]], [[Triển Khai Hệ
 - Ăn cùng người học việc, nhắc giữ sức bàn tay; nói không biết cách thẩm tra. Không biến nghề dược thành hiểu mọi hồ sơ.
 - Còn sống tại Tế Sinh Viện. Biến cố tương lai theo phần phê duyệt trong [[Bố Cục Spoiler Sau Chương 50 - Biến Cố Mạnh Thanh Tễ]], chưa xảy ra.
 - Nguồn: [[Chương 53]], [[Trạng Thái Truyện Sau Chương 53]].
+
+## Trạng thái mới theo bản thảo Chương 54
+
+- Còn sống tại Tế Sinh Viện; nhắc Lâm Uyên không dùng tay phải đang băng đỡ đồ rơi. Tiếp tục học lá: hai chỗ đã sửa, một chưa phân biệt; cho nghỉ khi tay trái mỏi, tự cầm lá giúp nhìn, chưa giao cân/phối thuốc.
+- Người đánh xe đưa bản nhận có chữ ký người giữ trạm. Theo giấy ấy, hai thanh gỗ đã tới kho, kê tạm nơi khô, chưa đóng giá; ông hỏi việc cắt rồi trả giấy, không trực tiếp chứng kiến trạm nhận/lắp.
+- Trẻ xóm lò ngói được y sư khám lại và cho về cùng mẹ bằng xe trạm, có giấy theo dõi. Ông nhận bánh của mẹ trẻ, chia với Lâm Uyên; phần chăm sóc tiếp vẫn chưa quyết toán, không tự xác định ông đã ứng trả.
+- Nghe Lâm Uyên kể việc nhà hong, hỏi trang giấy được giữ chưa; thừa nhận không lo thay việc người thợ phải ở lại trình lời. Không có hiểu biết mới về người lấy trang, đường thuốc hoặc phe ẩn; biến cố qua đời vẫn thuộc tương lai.
+- Nguồn: [[Chương 54]], [[Trạng Thái Truyện Sau Chương 54]].
