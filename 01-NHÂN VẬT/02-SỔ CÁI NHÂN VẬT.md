@@ -8,7 +8,7 @@ tags:
 
 # Sổ Cái Nhân Vật
 
-> 58 hồ sơ cá nhân trong cây thư mục tại mốc Chương 54. Nhân vật thoáng qua chưa rõ tên được giữ trong sổ riêng.
+> 59 hồ sơ cá nhân trong cây thư mục tại mốc Chương 55. Nhân vật thoáng qua chưa rõ tên được giữ trong sổ riêng.
 
 ## Quy tắc ID
 
@@ -53,7 +53,7 @@ tags:
 | CHAR-031 | [[01D-Lăng Vân Thành/Hạ Thừa Kha|Hạ Thừa Kha]] | D | de-xuat | [[01D-Lăng Vân Thành/Hạ Thừa Kha]] |
 | CHAR-032 | [[01D-Lăng Vân Thành/Hạ Đình Khôi|Hạ Đình Khôi]] | D | de-xuat | [[01D-Lăng Vân Thành/Hạ Đình Khôi]] |
 | CHAR-033 | [[01D-Lăng Vân Thành/Hạ Đình Vận|Hạ Đình Vận]] | D | de-xuat | [[01D-Lăng Vân Thành/Hạ Đình Vận]] |
-| CHAR-034 | [[01D-Lăng Vân Thành/Kỷ Hành Chu|Kỷ Hành Chu]] | D | duoc-nhac-den | [[01D-Lăng Vân Thành/Kỷ Hành Chu]] |
+| CHAR-034 | [[01D-Lăng Vân Thành/Kỷ Hành Chu|Kỷ Hành Chu]] | B | da-xuat-hien | [[01D-Lăng Vân Thành/Kỷ Hành Chu]] |
 | CHAR-035 | [[01D-Lăng Vân Thành/Lão Bán Pháp Khí|Lão Bán Pháp Khí]] | C | da-xuat-hien | [[01D-Lăng Vân Thành/Lão Bán Pháp Khí]] |
 | CHAR-036 | [[01D-Lăng Vân Thành/Lưu Định|Lưu Định]] | C | da-xuat-hien | [[01D-Lăng Vân Thành/Lưu Định]] |
 | CHAR-037 | [[01D-Lăng Vân Thành/Mạnh Thanh Tễ|Mạnh Thanh Tễ]] | A | da-xuat-hien | [[01D-Lăng Vân Thành/Mạnh Thanh Tễ]] |
@@ -77,8 +77,8 @@ tags:
 | CHAR-055 | [[01F-Thế Lực Bí Ẩn/Hắc Nha|Hắc Nha]] | D | chua-xuat-hien | [[01F-Thế Lực Bí Ẩn/Hắc Nha]] |
 | CHAR-056 | [[01F-Thế Lực Bí Ẩn/Người Áo Đen (chưa rõ danh tính)|Người Áo Đen (chưa rõ danh tính)]] | B | da-xuat-hien | [[01F-Thế Lực Bí Ẩn/Người Áo Đen (chưa rõ danh tính)]] |
 | CHAR-057 | [[01F-Thế Lực Bí Ẩn/Tả Tiên Sinh (danh xưng, chưa rõ danh tính)|Tả Tiên Sinh (danh xưng, chưa rõ danh tính)]] | B | duoc-nhac-den | [[01F-Thế Lực Bí Ẩn/Tả Tiên Sinh (danh xưng, chưa rõ danh tính)]] |
-
 | CHAR-058 | [[01D-Lăng Vân Thành/Đỗ Hoài Chương|Đỗ Hoài Chương]] | C | da-xuat-hien | [[01D-Lăng Vân Thành/Đỗ Hoài Chương]] |
+| CHAR-059 | [[01D-Lăng Vân Thành/Phan Kính|Phan Kính]] | C | da-xuat-hien | [[01D-Lăng Vân Thành/Phan Kính]] |
 
 ## Cấp biên tập
 
@@ -90,10 +90,10 @@ S: trục trung tâm; A: tuyến dài/ảnh hưởng lớn đã xác lập hoặ
 | --- | ---: |
 | chua-xuat-hien | 16 |
 | da-qua-doi | 4 |
-| da-xuat-hien | 14 |
+| da-xuat-hien | 16 |
 | dang-phat-trien | 3 |
 | unknown | 1 |
 | de-xuat | 18 |
-| duoc-nhac-den | 2 |
+| duoc-nhac-den | 1 |
 
 Điểm vào: [[00-DANH MỤC NHÂN VẬT]], [[01-QUY TẮC VẬN HÀNH HỆ THỐNG NHÂN VẬT]], [[03-SỔ THEO DÕI LẦN XUẤT HIỆN]], [[04-SƠ ĐỒ QUAN HỆ NHÂN VẬT]], [[05-MA TRẬN TRI THỨC]], [[06-MA TRẬN THẾ LỰC]], [[07-THỨ BẬC TU LUYỆN VÀ CHIẾN LỰC]], [[08-MẠCH NHÂN VẬT VÀ VẤN ĐỀ LIÊN TỤC]], [[09-BÁO CÁO HỆ THỐNG NHÂN VẬT]].

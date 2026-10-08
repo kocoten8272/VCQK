@@ -10,7 +10,8 @@ related_nodes:
   - "Lâm Uyên"
   - "Dược Khế"
   - "Trạng Thái Truyện Sau Chương 54"
-used_in_chapters: []
+used_in_chapters:
+  - 55
 created: 2026-10-08
 updated: 2026-10-08
 tags:
@@ -22,7 +23,7 @@ tags:
 
 # PAT-001-Giới Hạn Làm Thay Đổi Lựa Chọn
 
-> Mẫu kỹ thuật do người viết thiết kế cho VCQK từ [[REF-001-Nguồn Về Sinh Tồn Và Giới Hạn]]. `ready` nghĩa là dùng được để lập cảnh; chưa có chương nào được ghi là đã áp dụng mẫu này.
+> Mẫu kỹ thuật do người viết thiết kế cho VCQK từ [[REF-001-Nguồn Về Sinh Tồn Và Giới Hạn]]. `ready` nghĩa là dùng được để lập cảnh; đã áp dụng có phạm vi ở bản thảo Chương 55.
 
 ## Vấn đề cần xử lý
 
@@ -76,3 +77,9 @@ Khi viết, đối chiếu những điểm nhận diện trong nguồn/cảnh đ
 Khi được dùng, ghi **chương, phần thực sự áp dụng và kết quả** tại đây; các mẫu chưa dùng vẫn giữ riêng.
 
 [[00-MỤC LỤC XƯỞNG SÁNG TÁC]] · [[LOG-001-Khởi Tạo Bộ Nhớ Sáng Tác]]
+
+## Lần áp dụng tại bản thảo Chương 55
+
+Kỷ Hành Chu nhận chênh chặng, hoàn ba đồng từ khoản mình nhận và mất lượt việc trong ngày; hai phu nhận công, tổ nối thêm một phiếu lưu. Đây là kết quả trong bản thảo, chưa phải đánh giá của độc giả. Giới hạn tay/giấy đi đường được giữ; chuỗi giấy chưa chứng minh hòm nguyên trạng hoặc người mua cuối.
+
+Chi tiết nguồn/phần sửa: [[LOG-002-Áp Dụng Kỹ Thuật Trong Chương 55]]. Các SEED-001/002 vẫn chưa được ghi là đã dùng; cảnh thử trong chúng không thành sự kiện.

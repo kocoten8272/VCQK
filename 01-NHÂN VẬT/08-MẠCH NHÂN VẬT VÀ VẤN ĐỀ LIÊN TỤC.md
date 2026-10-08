@@ -61,3 +61,13 @@ tags:
 - Nguồn: [[Chương 54]], [[Trạng Thái Truyện Sau Chương 54]].
 
 ID Lâm Uyên trong bảng nền đã sửa về CHAR-005 theo [[02-SỔ CÁI NHÂN VẬT]]; CHAR-001 dành cho A Ly.
+
+## Tiến triển theo bản thảo Chương 55
+
+- **Đường thuốc:** Kỷ Hành Chu trực tiếp nhận chữ ký/cước. Phiếu ghi xuống thuyền, thẻ cùng chặng nhận tại bờ; hắn nhận đổi mà không sửa, hoàn ba đồng, mất quyền nhận lượt khác hôm nay. Công đoạn đã làm của hai phu được trả.
+- **Đầu mối Phan Kính (CHAR-059):** Vai coi hàng đã xuất hiện Ch47 nay có tên; chữ ký trên phiếu lưu khớp hồ sơ cũ. Tờ đổi lượt cần đối sổ quầy/người mang; chưa biết người mua cuối hoặc người can thiệp thuốc.
+- **Chìa/trang:** Thợ ghi thân chìa bị chặn bởi rãnh ổ cũ, chưa xác định lượt nhầm; lời nhận ca/giỏ còn chờ riêng. Trang gốc/người lấy chưa giải, không nhập hai tuyến.
+- **HFS:** Tin/phiếu nhận vật tư ngoài cọc sườn bắc; chưa dựng chống/điểm nền đạt/lệnh vào hầm. Tô Tín còn nạng, Tô Lạc/miếng đồng chưa thu hồi.
+- **Viện:** Mạnh Thanh Tễ còn sống, xem tay trước/sau chuyến; một chỗ học lá còn chờ kiểm. Khoản chăm trẻ/trạm chưa quyết toán cuối, gỗ trạm chưa có tin đóng giá; thuốc mua bù đã đủ.
+- **Ràng buộc:** Giấy bổ sung có hộ tống/phạm vi/giờ, kiếm và quản thúc còn; Dược Khế bảy/bốn tháng không đổi.
+- Nguồn: [[Chương 55]], [[Trạng Thái Truyện Sau Chương 55]].

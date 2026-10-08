@@ -70,3 +70,12 @@ Nguồn: [[Chương 43]], [[Chương 50]], [[Chương 51]], [[Chương 52]], [[T
 - Đọc bản quyết toán một chặng Nam Phố có tên Kỷ Hành Chu, mang cho Lâm Uyên xem. Tông Sảnh còn xác minh nơi hắn làm việc trước khi mời; chưa gặp Kỷ Hành Chu, chưa có buổi đối chiếu mới. Chứng từ không nối đường thuốc với vụ chìa/vụ cháy.
 - Tay phải còn thương tích, kiếm còn làm bảo chứng và hạn chế đi lại vẫn còn. Dược Khế giữ bốn tháng; trang gốc vẫn mất, bản nhớ còn hai chữ chưa chắc.
 - Nguồn: [[Chương 54]], [[Trạng Thái Truyện Sau Chương 54]].
+
+## Trạng thái mới theo bản thảo Chương 55
+
+- Theo giấy bổ sung và chấp sự tới quầy/gian chứa mặt bờ Nam Phố, về trong giờ được phép. Tay phải còn thương tích, chưa có kiếm bên hông; bảo chứng và hạn chế đi lại chưa được gỡ, Dược Khế giữ bốn tháng.
+- Gặp Kỷ Hành Chu trực tiếp lần đầu; hỏi việc nhận đổi điểm giao, thẩm quyền điều chỉnh và trả công. Chứng kiến Kỷ Hành Chu hoàn ba đồng từ khoản đã nhận, hai phu nhận riêng công đã làm; không yêu cầu Kỷ Hành Chu khai thay mọi chặng ở bến.
+- **Qua hồ sơ/lời khai:** Đối số mười bảy, hai hòm và dấu quầy trên giấy nhận mặt bờ/phiếu giao sau. Tên Phan Kính khớp người coi hàng từng ký trên thuyền mui xám; chưa biết người đưa tờ đổi lượt hoặc người mua cuối, không kết luận hòm nguyên trạng hay bị tráo.
+- Đem về hai bản sao liên quan; bản gốc ở quầy/gian chứa có người giữ được ghi nhận. Sổ phiếu đổi lượt của quầy chưa mở, cần Tông Sảnh làm thủ tục tiếp.
+- Đọc kết quả thợ khóa rồi giữ riêng tuyến chìa; nhờ báo giờ lấy lời người nhận giỏ cuối, chưa có kết quả buổi ấy. Trang gốc vẫn mất, không nối đường thuốc với vụ chìa hoặc nhóm áo đen.
+- Nguồn: [[Chương 55]], [[Trạng Thái Truyện Sau Chương 55]].

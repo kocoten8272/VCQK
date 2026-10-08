@@ -86,3 +86,14 @@ Nguồn: [[Chương 53]], [[Trạng Thái Truyện Sau Chương 53]]. Đây là 
 | Có thể đưa Tô Lạc về chưa? | Gỗ chống/dây xếp cho lượt chuyển sau. | Chưa giao tới núi hoặc lệnh vào hầm; thi thể/miếng đồng chưa thu hồi. |
 
 Nguồn: [[Chương 54]], [[Trạng Thái Truyện Sau Chương 54]]. Giữ bí ẩn lớn hiện có; dấu chìa và chứng từ thuốc thuộc hai chuỗi nguồn riêng.
+
+## Đầu mối tiến triển theo bản thảo Chương 55
+
+| Câu hỏi | Kết quả cục bộ | Phần chưa giải |
+| --- | --- | --- |
+| Ai ký cước/chặng kết ở đâu? | Kỷ Hành Chu nhận chữ ký, thẻ mặt bờ cùng chặng cho thấy khác phiếu xuống thuyền; nhận lỗi/hoàn chênh, phu nhận công | Nguồn yêu cầu đổi, người trả/đặt và người mua cuối vẫn chưa xác định |
+| Hàng qua gian bờ tới ai? | Phiếu lưu nối số/hòm/dấu tới tên Phan Kính, người coi thuyền Ch47 | Giấy nối chặng không chứng minh hòm nguyên trạng; tờ đổi gốc do ai đưa/cầm cần hỏi và đối sổ |
+| Có thể vào HFS chưa? | Tin/phiếu thợ nhận vật tư ngoài cọc | Chưa dựng chống/điểm thử đạt/lệnh vào hầm, chưa Tô Lạc/miếng đồng |
+| Chìa không khớp do đâu? | Báo cáo chỗ thân chìa bị chặn | Chưa nhận nó là dự bị cũ hoặc thời điểm nhầm; trang gốc vẫn mất |
+
+Nguồn: [[Chương 55]], [[Trạng Thái Truyện Sau Chương 55]]. Không giải gói thuốc/niêm sáp từ chênh cước, không nối Hạ Gia/Hắc Nha/Tả tiên sinh thành chủ mưu.

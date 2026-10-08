@@ -13,6 +13,8 @@ Nhân vật dân sinh, Tế Sinh Viện, Nam Phố và các cơ quan/nhà có ho
 
 ## Tuyến hiện có trong bản thảo
 
+- [Kỷ Hành Chu](K%E1%BB%B7%20H%C3%A0nh%20Chu.md) — `da-xuat-hien` — Lần đầu trực tiếp Chương 55 tại quầy quyết cước Nam Phố; hoàn khoản chênh, thẻ nhận sổ bị giữ trong ngày. Chưa biết người mua cuối.
+
 - [Lão Bán Pháp Khí](L%C3%A3o%20B%C3%A1n%20Ph%C3%A1p%20Kh%C3%AD.md) — `da-xuat-hien` — Chủ quầy pháp khí cũ trong Chợ Tu Hành phía đông Lăng Vân Thành, người bán cho Lâm Uyên thanh đoản đao và bình thuốc cầm máu.
 - [Lưu Định](L%C6%B0u%20%C4%90%E1%BB%8Bnh.md) — `da-xuat-hien` — Phu xe chở thuê bị thương trong lúc xe chở vải đổ nghiêng ở chợ phía tây; người lao động dân thường, không có hồ sơ tu hành.
 - [Mạnh Thanh Tễ](M%E1%BA%A1nh%20Thanh%20T%E1%BB%85.md) — `da-xuat-hien` — Y sư/giám dược tại Tế Sinh Viện, người đang hướng dẫn Lâm Uyên những căn bản về dược liệu và cứu chữa bách tính nghèo.
@@ -50,9 +52,9 @@ Nhân vật dân sinh, Tế Sinh Viện, Nam Phố và các cơ quan/nhà có ho
 - [Bùi Ninh Viễn](B%C3%B9i%20Ninh%20Vi%E1%BB%85n.md) — `de-xuat` — Thành viên **đề xuất**, chưa xuất hiện trong chương truyện. Hồ sơ này triển khai từ gia phả dự kiến; tên, tuổi, quan hệ và tiểu sử có thể thay đổi trước khi được tác giả chốt.
 - [Bùi Tố Vân](B%C3%B9i%20T%E1%BB%91%20V%C3%A2n.md) — `de-xuat` — Thành viên **đề xuất**, chưa xuất hiện trong chương truyện. Hồ sơ này triển khai từ gia phả dự kiến; tên, tuổi, quan hệ và tiểu sử có thể thay đổi trước khi được tác giả chốt.
 
-## Được nhắc đến, chưa trực tiếp xuất hiện
+## Tuyến bến nước — nhận diện qua hồ sơ
 
-- [Kỷ Hành Chu](K%E1%BB%B7%20H%C3%A0nh%20Chu.md) — `duoc-nhac-den` — Chương 54 nêu tên ký thanh toán trên bản sao quyết toán một chặng Nam Phố; chưa trình lời, chưa xác định người mua cuối hoặc chủ mưu.
+- [Phan Kính](Phan%20K%C3%ADnh.md) — `da-xuat-hien` — Người coi hàng có mặt ở Chương 47, tên được nêu khi đối chứng từ Chương 55; không có cảnh gặp mới Chương 55.
 
 ## Quy ước của thư mục
 

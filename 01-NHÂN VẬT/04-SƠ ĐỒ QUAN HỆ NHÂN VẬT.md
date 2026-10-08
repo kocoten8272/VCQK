@@ -59,3 +59,15 @@ Liên kết: [[MỐI QUAN HỆ]], [[02-SỔ CÁI NHÂN VẬT]], [[05-MA TRẬN T
 Kỷ Hành Chu mới được nhắc qua chứng từ, chưa có quan hệ trực tiếp với nhóm trong một cảnh gặp. Sửa ID ở bảng nền theo sổ cái: Lâm Uyên là CHAR-005.
 
 Nguồn: [[Chương 54]], [[Đỗ Hoài Chương]], [[Trạng Thái Truyện Sau Chương 54]].
+
+## Liên hệ được xác lập/nhận diện ở Chương 55
+
+| ID A | Nhân vật A | Quan hệ | ID B | Nhân vật B | Căn cứ và giới hạn |
+| --- | --- | --- | --- | --- | --- |
+| CHAR-005 | Lâm Uyên | Người dự đối chiếu theo lệnh | CHAR-034 | Kỷ Hành Chu | Thấy quyết toán/hoàn cước, chưa bạn bè hoặc biết toàn bộ đời sống. |
+| CHAR-006 | Tô Thanh Ly | Người hỏi và dự chứng | CHAR-034 | Kỷ Hành Chu | Hỏi phần đã làm, không nhận quyền miễn lỗi. |
+| CHAR-046 | Tạ Nghiên Chi | Sao/ghi lời có nguồn | CHAR-034 | Kỷ Hành Chu | Liên hệ công vụ, giữ sổ gốc tại quầy. |
+| CHAR-006 | Tô Thanh Ly | Đối mặt kiểm hàng Ch47, tên nhận diện Ch55 | CHAR-059 | Phan Kính | Vai đã có ở bến; Ch55 không có cảnh gặp mới. |
+| CHAR-034 | Kỷ Hành Chu | Chữ ký ở khâu trước trên chuỗi giấy nhận | CHAR-059 | Phan Kính | Không chứng minh quen nhau hoặc cùng tổ chức. |
+
+Không xác lập Kỷ Hành Chu/Phan Kính là thành viên Hạ Gia từ việc quầy thuê chỗ. Nguồn: [[Chương 47]], [[Chương 55]], [[Trạng Thái Truyện Sau Chương 55]].

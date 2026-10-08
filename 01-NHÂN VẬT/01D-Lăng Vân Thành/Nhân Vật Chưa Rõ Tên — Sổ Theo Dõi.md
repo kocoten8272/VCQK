@@ -74,3 +74,19 @@ Các vai trò này là nhãn tra cứu, không phải tên canon. Nguồn: [[Ch�
 Người nhận hai chìa đã được gọi tên **[[Đỗ Hoài Chương]]**, có hồ sơ CHAR-058. Bản ghi Chương 53 về người từng được thấy ở nhà hong giữ nguyên: người gác chưa đối mặt xác nhận là ông. Thợ khóa chỉ được yêu cầu mời kiểm tiếp, chưa trực tiếp có mặt hoặc đưa kết luận Chương 54.
 
 Nguồn: [[Chương 54]], [[Trạng Thái Truyện Sau Chương 54]].
+
+## Vai trò được phân biệt ở Chương 55
+
+| Nhãn tra cứu | Hành động/đặc điểm | Giới hạn |
+| --- | --- | --- |
+| Chủ quầy quyết cước thuê chỗ trong sân kho Hạ Gia | Xác nhận việc Kỷ Hành Chu, nhận hoàn cước, giữ thẻ/không giao lượt mới | Chưa tên, không mặc định thành viên/chủ Hạ Gia hoặc người mua thuốc. |
+| Hai người phu của đoạn tới bờ | Đợi công, có thẻ và xe; đối phần đã kéo, nhận công rồi đi lượt mới | Không gộp thành người phu xe Ch47 hoặc người mua; tên/tuổi/cảnh giới chưa nêu. |
+| Người trông gian chứa mặt bờ | Nhận chữ ký cũ, tự rút phiếu lưu/cho sao, kể người nhận mang tờ đổi | Khác chủ quầy/người phu/Phan Kính; chỉ biết phần lưu tại gian. |
+| Người đem yêu cầu đổi tại quầy | Chỉ qua lời Kỷ Hành Chu; yêu cầu giao bờ/cước vẫn đủ, chưa tên | Chưa biết có phải người đưa tờ đổi cho Phan Kính hoặc cùng người mua. |
+| Thợ khóa từng làm cho kho | Báo cáo sáng ghi chỗ thân chìa bị chặn | Không có cảnh trực tiếp Ch55; chưa kết luận nhầm/tráo/lượt trả. |
+| Người đưa tin vật tư HFS | Phiếu/tin thợ đã nhận ngoài cọc | Không đồng nhất xe trạm xóm lò ngói; chưa xác nhận dựng chống hoặc vào hầm. |
+| Người bệnh cũ tới hỏi bảo quản bó thuốc | Trực tiếp tại viện, được Mạnh Thanh Tễ hỏi chỗ cất | Không gộp gia đình trẻ cũ hoặc đặt tên từ phỏng đoán. |
+
+Vai **người coi hàng trên thuyền mui xám Ch47** nay có tên [[Phan Kính]], hồ sơ CHAR-059. Giữ nguồn lần đầu vai/tên riêng, không tạo một hồ sơ khác cho cùng người. Phan Kính không trực tiếp có mặt Ch55.
+
+Nguồn: [[Chương 47]], [[Chương 55]], [[Trạng Thái Truyện Sau Chương 55]].

@@ -47,3 +47,10 @@ Tuổi, gia đình, cảnh giới, thời điểm hồi phục và đường đi
 - Nhắc phải gửi cả kết quả không đặt được chống, rồi lui nạng khỏi lối cáng. Không xin tự đi khi chân chưa hồi phục.
 - Tên Tô Lạc vẫn ở sơ đồ đầu giường; lời hứa đưa về chưa thực hiện, thi thể/miếng đồng chưa thu hồi.
 - Nguồn: [[Chương 54]], [[Trạng Thái Truyện Sau Chương 54]].
+
+## Trạng thái mới theo bản thảo Chương 55
+
+- Ở Tế Sinh Viện, còn dùng nạng; gọi người đưa tin tới sơ đồ, không tự đi theo ra núi hoặc nhận đã hồi phục.
+- **Tin/phiếu đem về:** Thợ đã ký nhận gỗ chống và dây tại điểm tập kết bên ngoài cọc sườn bắc Hắc Phong Sơn. Tô Tín hỏi đủ số, yêu cầu lần sau giữ cả kết quả không đặt được; không trực tiếp chứng kiến giao vật tư.
+- Chưa có kết quả dựng chống hoặc lệnh vào hầm. Tên Tô Lạc vẫn trên sơ đồ; không bổ sung đường xuống, vị trí thi thể mới hoặc xác nhận đã đưa Tô Lạc/miếng đồng về.
+- Nguồn: [[Chương 55]], [[Trạng Thái Truyện Sau Chương 55]].

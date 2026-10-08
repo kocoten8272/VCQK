@@ -83,3 +83,11 @@ Xem [[Triết Lý Văn Học Và Nhịp Điệu Bi Kịch]], [[Triển Khai Hệ
 - Trẻ xóm lò ngói được y sư khám lại và cho về cùng mẹ bằng xe trạm, có giấy theo dõi. Ông nhận bánh của mẹ trẻ, chia với Lâm Uyên; phần chăm sóc tiếp vẫn chưa quyết toán, không tự xác định ông đã ứng trả.
 - Nghe Lâm Uyên kể việc nhà hong, hỏi trang giấy được giữ chưa; thừa nhận không lo thay việc người thợ phải ở lại trình lời. Không có hiểu biết mới về người lấy trang, đường thuốc hoặc phe ẩn; biến cố qua đời vẫn thuộc tương lai.
 - Nguồn: [[Chương 54]], [[Trạng Thái Truyện Sau Chương 54]].
+
+## Trạng thái mới theo bản thảo Chương 55
+
+- Còn sống tại Tế Sinh Viện; kiểm tay bỏng, lót lại băng và ký phần tình trạng để Lâm Uyên đi một lượt đối chiếu, không giao việc khiêng. Khi Lâm Uyên về, xem lại chỗ đau; cuối ngày gọi người trực có tay lành khi cần khiêng cáng.
+- Tiếp một người bệnh cũ hỏi giữ bó thuốc khỏi ẩm; xem gói và hỏi chỗ cất, không tự cấp thêm thuốc chỉ từ lời kể. Đây là công việc nghề nghiệp đời thường, không mở bí mật mới.
+- Nghe Lâm Uyên kể việc Kỷ Hành Chu nhận phần sai, hoàn tiền và không được nhận lượt mới; không trực tiếp dự đối chiếu hoặc gặp Kỷ Hành Chu. Hỏi Lâm Uyên có trả thay và có ai bị giữ thay phần chưa biết của người khác, không kết luận người mua hay chủ mưu.
+- Hướng dẫn Lâm Uyên ghi điều đã biết trước, tiếp tục xem chỗ học lá cuối nhưng chưa nhận đúng/sai; chưa giao tự cân/phối thuốc. Biến cố qua đời vẫn chưa xảy ra.
+- Nguồn: [[Chương 55]], [[Trạng Thái Truyện Sau Chương 55]].

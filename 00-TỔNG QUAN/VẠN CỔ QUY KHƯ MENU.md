@@ -8,10 +8,10 @@
 
 - **Tên truyện:** Vạn Cổ Quy Khư
 - **Nhân vật chính:** [[Lâm Uyên]]
-- **Địa điểm ở cuối Chương 54:** Tế Sinh Viện; chờ kiểm chìa không khớp, xác minh Kỷ Hành Chu và chuyển vật tư chống vách Hắc Phong Sơn
+- **Địa điểm ở cuối Chương 55:** Tế Sinh Viện; chờ hỏi Phan Kính/đối sổ đổi lượt, lấy lời tuyến chìa riêng và kết quả dựng chống Hắc Phong Sơn
 - **Thế lực gắn với arc hiện tại:** [[Tô Gia]]
-- **Chương mới nhất trên main:** [[Chương 54]] (nháp)
-- **Chương tiếp theo:** Chương 55 (dự kiến)
+- **Chương mới nhất trên main:** [[Chương 55]] (nháp)
+- **Chương tiếp theo:** Chương 56 (dự kiến)
 - **Trạng thái:** Đang sáng tác
 
 ---
@@ -180,13 +180,14 @@
 - [[Chương 51]] — nháp
 - [[Chương 52]] — nháp
 - [[Chương 53]] — Người Giữ Chìa Khóa; nháp
-- [[Chương 54]] — Chiếc Chìa Không Khớp; nháp mới
+- [[Chương 54]] — Chiếc Chìa Không Khớp; nháp
+- [[Chương 55]] — Cước Của Một Chặng; nháp mới
 
 ### Chuẩn bị
 
-- Chương 55 — hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 54]].
+- Chương 56 — hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 55]].
 - [[Kết Chương]] — trạng thái từng chương, bao gồm các bản nháp và chương chưa có frontmatter.
-- [[Trạng Thái Truyện Sau Chương 54]] — trạng thái continuity hiện hành; các bản sau chương trước đó là lưu vết lịch sử.
+- [[Trạng Thái Truyện Sau Chương 55]] — trạng thái continuity hiện hành; các bản sau chương trước đó là lưu vết lịch sử.
 
 ---
 

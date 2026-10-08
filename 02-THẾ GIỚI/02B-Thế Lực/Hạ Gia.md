@@ -11,7 +11,7 @@ tags:
 
 # Hạ Gia
 
-> Gia tộc địa phương đã được tác giả duyệt làm thiết kế nghề nghiệp; chưa xuất hiện trong bản thảo.
+> Gia tộc địa phương đã được tác giả duyệt làm thiết kế nghề nghiệp; xuất hiện trực tiếp lần đầu ở Chương 55 qua biển sân kho và lời chủ quầy thuê chỗ. Các thành viên và cơ cấu bên dưới vẫn là thiết kế nếu chưa được chương thể hiện.
 
 ## Mô tả
 
@@ -60,3 +60,12 @@ Hạ Gia có nhiều đời làm chủ ghe, thuê phu thuyền và quản lý kh
 ## Quyết định tác giả đã chốt — DEC-002/003
 
 Tác giả đã chốt nghề, cơ cấu gia tộc và toàn bộ danh sách nhân vật/gia phả ở hồ sơ này làm thiết kế triển khai. Các thành viên chưa xuất hiện vẫn là nhân vật tương lai; không tạo hồi ức, giao dịch hoặc hành động quá khứ mới nếu chương chưa xác nhận.
+
+## Trạng thái mới theo bản thảo Chương 55
+
+- **Quan sát:** Quầy quyết cước nằm trong sân kho có biển Hạ Gia. **Lời chủ quầy:** Thuê chỗ của Hạ Gia; Kỷ Hành Chu nhận tính cước theo lượt, không trông mọi kho của Hạ Gia.
+- Đây là lần đầu sự hiện diện nghề nghiệp của Hạ Gia được thể hiện trực tiếp. Chưa có thành viên đã đặt tên xuất hiện, lời gia tộc xác nhận hợp đồng hoặc phạm vi sở hữu ngoài sân kho này.
+- Kỷ Hành Chu hoàn ba đồng và bị chủ quầy giữ thẻ nhận sổ/không giao lượt mới là quyết định của quầy; chưa xác định Hạ Gia ra lệnh, đứng tên thuê chặng hoặc nhận khoản cước ấy.
+- Chuỗi giấy nhận mặt bờ/Phan Kính và dấu quầy mở việc kiểm phiếu đổi lượt; không xác nhận Hạ Gia là người mua thuốc, chủ mưu, chủ toàn Nam Phố hoặc có quan hệ với nhóm áo đen.
+- Các nghề, nhánh nội bộ và quan hệ trong phần thiết kế trên chỉ thành sự kiện khi được bản thảo xác nhận. Quyền thu phí/cấp phép/chấp pháp chưa được mở rộng trong Chương 55.
+- Nguồn: [[Chương 55]], [[Trạng Thái Truyện Sau Chương 55]].

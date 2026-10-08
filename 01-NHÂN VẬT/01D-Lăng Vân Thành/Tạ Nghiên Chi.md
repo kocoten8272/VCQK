@@ -75,3 +75,12 @@ Giữ sổ trực và cung cấp lời chứng hữu hạn về ca trực, con d
 - Tận mắt dự thử ổ cũ, ghi một chìa mở được và chiếc kia dừng trước khi vào hết rãnh. Phân biệt hai vật được nộp với hai chìa đúng đã trở lại; chưa kết luận tráo chìa hoặc xác minh độc lập lời từng thử cả hai trước đêm cháy.
 - Ghi tên người nhà hong thường ngày có mặt lúc nhận giỏ cuối để mời hỏi riêng. Chưa xác định người nhận/trả chiếc thứ hai, ai vào phòng hoặc người lấy trang; việc kiểm chuyên môn chờ thợ khóa, quyền kết luận vẫn thuộc Tông Sảnh.
 - Nguồn: [[Chương 54]], [[Trạng Thái Truyện Sau Chương 54]].
+
+## Trạng thái mới theo bản thảo Chương 55
+
+- Giữ kết quả thợ khóa trong ống riêng: thân chìa không khớp bị rãnh ổ cũ chặn; chưa xác định lượt nhầm hoặc xác nhận chiếc dự bị trước cháy. Không gộp kết quả này với hồ sơ đường thuốc.
+- Dự đối chiếu tại Nam Phố theo giấy bổ sung. Ghi Kỷ Hành Chu nhận chữ ký cước và việc đổi điểm giao; đối số mười bảy/hai hòm trên phiếu xuống thuyền với tờ nhận mặt bờ. Tách lời chưa biết người mua, người đem đổi và phần trách nhiệm đã nhận.
+- Chứng kiến hoàn ba đồng, trả công riêng cho hai phu và giữ thẻ nhận sổ; đọc lại cả khoản đã hoàn lẫn dòng sai còn cần sửa. Sao đúng phần liên quan dưới người chứng kiến, ghi nơi bản gốc còn giữ.
+- **Qua hồ sơ/lời khai:** Người trông gian nhận chữ ký mặt bờ; phần giao sau có tên Phan Kính, số/dấu khớp hồ sơ bến. Sao phần lưu, ghi người giữ bản gốc; chưa chứng minh hòm nguyên trạng hoặc hai yêu cầu đổi giao/đổi chuyến cùng người phát.
+- Sổ phiếu đổi lượt của quầy chưa mở. Chưa biết người mua cuối, người đưa tờ đổi lượt cho Phan Kính hoặc ai mở hòm; không kết luận án hay nối hai mạng lưới.
+- Nguồn: [[Chương 55]], [[Trạng Thái Truyện Sau Chương 55]].

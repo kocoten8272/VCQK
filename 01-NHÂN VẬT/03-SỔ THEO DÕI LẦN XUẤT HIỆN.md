@@ -83,3 +83,17 @@ Người trực, thợ và gia đình bệnh nhân chưa tên được phân bi�
 Tô Lạc được nhắc qua việc chuyển vật tư/lời hứa, chưa thu hồi thi thể. Tô Trạch, Trần Dực không có cảnh trực tiếp mới Chương 54; giữ mốc Chương 53. Y sư thay băng/cho trẻ về chưa được xác định là viện chủ. Các vai phụ được tách ở [[Nhân Vật Chưa Rõ Tên — Sổ Theo Dõi]].
 
 Nguồn: [[Chương 54]], [[Trạng Thái Truyện Sau Chương 54]]. Bảng nền đã sửa dòng nhầm ID/tên: CHAR-005 là Lâm Uyên; CHAR-001 vẫn là A Ly, chưa xuất hiện theo sổ cái.
+
+## Mốc mới theo bản thảo Chương 55
+
+| ID | Nhân vật | Kiểu xuất hiện | Nơi cuối được biết | Giới hạn |
+| --- | --- | --- | --- | --- |
+| CHAR-005 | Lâm Uyên | Trực tiếp | Tế Sinh Viện sau lượt Nam Phố | Còn bỏng tay phải, chưa tự phối thuốc; nghe/đọc hồ sơ bến, không hồi tố có mặt tại bến Ch47. |
+| CHAR-006 | Tô Thanh Ly | Trực tiếp | Tế Sinh Viện | Thương tay phải/kiếm bảo chứng và quản thúc giữ nguyên. |
+| CHAR-034 | Kỷ Hành Chu | Lần đầu trực tiếp; tên đã nhắc Ch54 | Bàn quầy quyết cước trong sân kho biển Hạ Gia | Hoàn ba đồng từ khoản mình nhận; thẻ bị giữ/không giao lượt khác hôm nay. |
+| CHAR-037 | Mạnh Thanh Tễ | Trực tiếp | Tế Sinh Viện | Còn sống, xem tay trước/sau chuyến, hướng dẫn hữu hạn. |
+| CHAR-046 | Tạ Nghiên Chi | Trực tiếp | Quầy Nam Phố trong cảnh cuối có mặt | Sao đúng nguồn, không giữ cả kho/sổ; nơi về sau cảnh không tự suy. |
+| CHAR-019 | Tô Tín | Trực tiếp | Tế Sinh Viện | Còn nạng, nhận tin/phiếu vật tư ngoài cọc; không vào hầm. |
+| CHAR-059 | Phan Kính | Nhắc tên qua chứng từ; vai đã trực tiếp Ch47 | Nơi hiện tại chưa xác minh, nơi cuối thấy là bến Ch47 | Tên khớp phiếu lưu và hồ sơ cũ; chưa lấy lời mới. |
+
+Hạ Gia hiện diện nghề nghiệp qua biển kho/lời thuê chỗ, không có thành viên gia phả mới trực tiếp xuất hiện. Tô Trạch/Trần Dực không có cảnh mới; Tô Lạc chưa thu hồi. Nguồn: [[Chương 55]], [[Trạng Thái Truyện Sau Chương 55]], [[Phan Kính]].

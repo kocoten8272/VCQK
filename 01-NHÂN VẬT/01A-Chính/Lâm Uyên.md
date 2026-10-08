@@ -97,3 +97,12 @@ Nguồn trạng thái: [[Chương 43]], [[Chương 50]], [[Chương 51]], [[Chư
 - Thấy trẻ xóm lò ngói về cùng mẹ bằng xe trạm sau khám lại; khoản chăm sóc tiếp chưa quyết toán. Viện nhận bản nhận hai thanh gỗ từ trạm, chưa có cảnh hắn chứng kiến gỗ hoặc giá đã lắp.
 - Đọc bản sao quyết toán có tên Kỷ Hành Chu ký phần thanh toán một chặng Nam Phố, để riêng hồ sơ chìa. Chưa gặp Kỷ Hành Chu; xin xem tay trước khi thêm tên vào giấy đi đường, chưa có buổi mở sổ mới.
 - Nguồn: [[Chương 54]], [[Trạng Thái Truyện Sau Chương 54]].
+
+## Trạng thái mới theo bản thảo Chương 55
+
+- Ngày thứ tám sau chuyến Hắc Phong Sơn, dự đối chiếu quầy và gian chứa mặt bờ Nam Phố theo giấy bổ sung, có chấp sự hộ tống và giờ về. Mạnh Thanh Tễ ghi tình trạng tay trước khi Lâm Uyên đi; hạn chế đi lại vẫn còn.
+- Gặp Kỷ Hành Chu trực tiếp lần đầu. Nghe Kỷ Hành Chu nhận chữ ký cước, việc đổi điểm giao nhưng giữ phiếu cũ; tận mắt thấy Kỷ Hành Chu hoàn ba đồng từ khoản đã nhận, hai phu nhận công, chủ quầy giữ thẻ nhận sổ và không giao lượt mới trong ngày. Lâm Uyên không trả thay khoản ấy.
+- **Qua hồ sơ/lời khai:** Chặng số mười bảy, hai hòm nối từ quầy qua gian chứa mặt bờ tới phần nhận của Phan Kính trên thuyền mui xám. Chưa chứng minh hàng liên tục nguyên trạng, ai mở hòm hoặc người mua cuối; câu hỏi mới là ai đưa tờ đổi lượt cho Phan Kính.
+- Tay phải còn bỏng, đau khi băng chạm bàn; dùng tay trái giữ vải, nhờ người khác chuyển sổ. Về viện được xem lại tay; không khiêng cáng hoặc vận lực. Chỗ học lá cuối vẫn chờ Mạnh Thanh Tễ nhận xét, chưa tự cân/phối thuốc; không có tu vi mới, Dược Khế giữ bảy tháng.
+- Hồ sơ chìa giữ riêng; kết quả thợ khóa chưa xác định lượt nhầm hoặc người trả. Khoản chăm trẻ chưa quyết toán cuối, gỗ cho trạm mượn chưa có tin đóng giá; vật tư Hắc Phong Sơn chỉ có phiếu nhận ngoài cọc, chưa có lệnh vào hầm.
+- Nguồn: [[Chương 55]], [[Trạng Thái Truyện Sau Chương 55]].

@@ -40,3 +40,13 @@ Ghi kiểu liên hệ cụ thể: huyết thống, thành viên, chức vụ, ng
 | Tuyến thanh toán Nam Phố | Kỷ Hành Chu | Tên ký trên bản sao quyết toán một chặng | Chưa trình lời; chưa xác định người mua cuối, chủ thuê hoặc tổ chức đứng sau. |
 
 Nguồn: [[Chương 54]], [[Đỗ Hoài Chương]], [[Kỷ Hành Chu]]. Không hợp nhất đường thuốc với vụ cháy.
+
+## Liên hệ nghề nghiệp theo Chương 55
+
+| Địa bàn/cơ quan | Người/nhóm | Liên hệ | Giới hạn |
+| --- | --- | --- | --- |
+| Quầy quyết cước Nam Phố trong sân biển Hạ Gia | Kỷ Hành Chu | Nhận việc quyết toán thuê theo lượt, chủ quầy/sổ thuê xác nhận | Không phải người trông mọi kho hoặc mặc định thành viên gia tộc. |
+| Sân kho biển Hạ Gia | Chủ quầy | K: có biển; R: chủ quầy nói thuê chỗ | Không suy toàn Nam Phố, quyền chấp pháp hay người mua thuốc. |
+| Thuyền mui xám/chuỗi giấy giao | Phan Kính | Vai coi hàng Ch47, tên đọc qua phiếu Ch55 | Chưa xác minh chủ thuê/tổ chức; chưa liên hệ Hạ Gia, Hắc Nha/Tả tiên sinh. |
+
+Các nhà/nhân vật gia phả khác vẫn là thiết kế chưa trực tiếp xuất hiện. Nguồn: [[Chương 55]], [[Hạ Gia]], [[Phan Kính]].

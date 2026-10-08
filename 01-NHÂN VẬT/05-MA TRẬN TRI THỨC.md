@@ -65,3 +65,16 @@ Nguồn: [[Chương 53]], [[Trạng Thái Truyện Sau Chương 53]].
 | Kỷ Hành Chu | ? | Việc được nhắc tên không chứng minh hắn biết điều tra hoặc liên hệ với vụ cháy. |
 
 Nguồn: [[Chương 54]], [[Trạng Thái Truyện Sau Chương 54]]. Chưa nối nhóm áo đen, Hắc Nha, Tả tiên sinh hoặc mạng thuốc.
+
+## Cập nhật theo bản thảo Chương 55
+
+| Người | Tri thức theo nguồn | Giới hạn |
+| --- | --- | --- |
+| Lâm Uyên, Tô Thanh Ly, Tạ Nghiên Chi | K: dự đối sổ/phiếu, nghe Kỷ Hành Chu nhận chữ ký/đổi chỗ không sửa; thấy hoàn ba đồng, phu nhận công, thẻ nhận sổ bị giữ. | Các hành vi hiện tại đã thấy; sự kiện đêm/chặng cũ vẫn có phần từ lời khai/chứng từ. |
+| Cùng tổ đối chiếu | K: đọc phiếu lưu nối qua gian bờ, tên Phan Kính khớp hồ sơ; R: người trông gian kể tờ đổi được mang tới rồi cầm đi. | Chỉ nối chuỗi giấy nhận, không chứng minh hai hòm nguyên trạng/ai mở niêm/người mua cuối. |
+| Kỷ Hành Chu | K theo tự nhận: đã nhận đổi điểm, giữ thẻ bờ từ trước, quyết phiếu cũ; biết dấu quầy. | Không mở hòm, theo đoạn sau, biết ai đóng dấu hoặc người mua cuối. Chưa nhận lại người đem yêu cầu đổi. |
+| Phan Kính | ? với buổi đối chiếu Ch55 | Tên trên giấy không chứng minh hắn biết cuộc điều tra hoặc đã nhận lệnh mới. Ch47 có phần quan sát/lời tự nhận riêng trong hồ sơ. |
+| Mạnh Thanh Tễ | R: Lâm Uyên kể chặng/công/thẻ sau khi về | Không dự đối chiếu, không biết toàn bộ mạng; hướng dẫn ghi việc đã biết. |
+| Tô Tín | R: tin/phiếu thợ nhận vật tư ngoài cọc | Chưa chứng kiến dựng chống hoặc thi thể; không nâng phiếu nhận thành an toàn vào hầm. |
+
+Tô Thanh Ly là người có mặt tại thuyền Ch47; Lâm Uyên biết phần bến qua hồ sơ/lời kể, không hồi tố ký ức trực tiếp. Nguồn: [[Chương 55]], [[Trạng Thái Truyện Sau Chương 55]].

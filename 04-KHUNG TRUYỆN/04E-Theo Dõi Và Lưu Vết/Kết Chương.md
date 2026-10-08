@@ -75,21 +75,22 @@ tags:
 | Chương 52 | 🔶 | Đường Đến Trạm Khám | `status: nhap` |
 | Chương 53 | 🔶 | Người Giữ Chìa Khóa | `status: nhap` |
 | Chương 54 | 🔶 | Chiếc Chìa Không Khớp | `status: nhap` |
+| Chương 55 | 🔶 | Cước Của Một Chặng | `status: nhap` |
 
 ## Chương tiếp theo
 
-- Chương 55: hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 54]]. Chương 51–54 đã có bản nháp trên `main`; áp dụng [[11_AUTONOMOUS_STORY_DESIGN]] để chuẩn bị nội dung mới phù hợp.
+- Chương 56: hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 55]]. Chương 51–55 đã có bản nháp trên `main`; áp dụng [[11_AUTONOMOUS_STORY_DESIGN]] để chuẩn bị nội dung mới phù hợp.
 - Các ý tưởng cũ cho chương 39–44 trong hồ sơ hỗ trợ thuộc mạch trước bản Chương 37–38 hiện tại. Chỉ dùng làm chất liệu sau khi đối chiếu, không coi là sự kiện đã xảy ra.
 
 ## Tổng số
 
-- Có tệp chương 1–54 trên `main`: 54.
+- Có tệp chương 1–55 trên `main`: 55.
 - Hoàn thiện: 33 chương theo tracker (1–25) và frontmatter (26–32, 34). Chương 2–7 thiếu khai báo frontmatter nhưng tracker hiện đánh dấu hoàn thiện.
-- Nháp theo frontmatter: 20 chương (33, 36–54).
+- Nháp theo frontmatter: 21 chương (33, 36–55).
 - Chương 35 có tệp nhưng chưa khai báo trạng thái; tracker cũng chưa xác định hoàn thiện hay nháp.
-- Chương 55 trở đi: chưa có tệp; các mốc tương lai giữ ở mức kế hoạch.
+- Chương 56 trở đi: chưa có tệp; các mốc tương lai giữ ở mức kế hoạch.
 
 ## Liên kết
 
 - Nhịp: [[Nhịp Truyện]]
-- Chương: [[Chương 1]] → [[Chương 54]]
+- Chương: [[Chương 1]] → [[Chương 55]]

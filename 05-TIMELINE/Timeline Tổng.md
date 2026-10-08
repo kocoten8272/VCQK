@@ -51,3 +51,13 @@ Dòng lịch sử xa được chia thành Thời Mạch Khai, Thời Vạn Đạ
 | Chiều ngày thứ bảy | Bản sao quyết toán Nam Phố nêu Kỷ Hành Chu, yêu cầu xác minh nơi làm trước mời hỏi. | Chưa trực tiếp xuất hiện, chưa có buổi đối chiếu/giấy đi đường mới được cấp cho việc này. |
 
 Nguồn: [[Chương 53]], [[Chương 54]], [[Trạng Thái Truyện Sau Chương 54]]. Không ấn định ngày lịch tuyệt đối hoặc rút ngắn thời gian hồi phục.
+
+## Mốc ngày thứ tám — Chương 55
+
+| Thời điểm | Sự kiện đã viết | Giới hạn |
+| --- | --- | --- |
+| Sáng sau Ch54 | Xác minh quầy Kỷ Hành Chu, giấy bổ sung; Mạnh Thanh Tễ xem tay trước đi. Tạ Nghiên Chi có báo cáo thợ khóa | Giấy có phạm vi/giờ, không gỡ quản thúc; báo cáo chưa xác định lượt chìa nhầm |
+| Buổi đối chiếu Nam Phố | Kỷ Hành Chu nhận phiếu, hoàn ba đồng, chủ quầy giữ thẻ trong ngày; hai phu nhận công. Đối tiếp phiếu lưu gian bờ/Phan Kính | Nối giấy nhận, chưa chứng minh danh tính/chất lượng hòm liên tục; chưa người mua cuối |
+| Trở về trước giờ cuối giấy | Lâm Uyên được xem/buộc băng; Tô Tín nghe tin/phiếu vật tư ngoài cọc sườn bắc | Không dựng chống/lệnh vào hầm hoặc tăng tu vi; khoản viện/gỗ trạm vẫn mở |
+
+Nguồn: [[Chương 55]], [[Trạng Thái Truyện Sau Chương 55]]. Không tự ấn định ngày lịch hoặc rút thời gian di chuyển ngoài những mốc đã kể.
