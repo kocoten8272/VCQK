@@ -58,12 +58,21 @@ tags:
 - `04E-Theo Dõi Và Lưu Vết`: tracker, trạng thái sau chương và tài liệu thiết kế cũ. Chỉ trạng thái mới nhất dùng làm bảng làm việc hiện hành; bản cũ là lịch sử.
 - `04F-Kế Hoạch Mở Rộng`: hướng phát triển tương lai chưa thành sự kiện.
 
+### `07-TƯ LIỆU & BÍ MẬT/07D-Xưởng Sáng Tác`
+
+- `01-Nguồn Tham Khảo`: ghi nguồn, phạm vi đã đọc và điều có thể xác nhận.
+- `02-Mẫu Kỹ Thuật`: nguyên lý kể chuyện được rút ra, điều kiện dùng và điểm không hợp.
+- `03-Chất Liệu VCQK`: ý tưởng/cảnh thử nguyên bản chưa thành sự kiện.
+- `04-Phản Hồi Và Áp Dụng`: phản hồi có nguồn/phạm vi, bản sửa và nơi đã dùng.
+- [[00-MỤC LỤC XƯỞNG SÁNG TÁC]] giữ ID REF/PAT/SEED/LOG và liên kết; quy trình [[13_STORY_LIBRARY_AND_LEARNING]].
+- Kỹ năng dự án nằm tại `.agents/skills/vcqk-story-library/SKILL.md`. Tạo file có nội dung và cập nhật mục lục khi phát sinh nhu cầu; không tạo thư mục rỗng hoặc di chuyển cấu trúc hiện hành chỉ để khớp một mẫu mới.
+
 ## Các phần đã có tổ chức ổn định
 
 - `01-NHÂN VẬT` có danh mục trung tâm, ID bất biến, sổ cái, hồ sơ cá nhân duy nhất, sơ đồ quan hệ, appearance tracker, ma trận tri thức/thế lực, theo dõi tu luyện/chiến lực và open threads. Sáu mục lục cục bộ 01A–01F giúp tìm hồ sơ; [[01-QUY TẮC VẬN HÀNH HỆ THỐNG NHÂN VẬT]] quy định cập nhật sau mỗi chương; [[09-BÁO CÁO HỆ THỐNG NHÂN VẬT]] là snapshot cần làm mới sau đợt rà soát.
 - `05-TIMELINE` có bốn file tổng quan lịch sử và các đời; giữ dạng phẳng vì hiện còn ít tài liệu.
 - `06-CHƯƠNG TRUYỆN` chia theo quyển; không phân chương theo trạng thái nháp/hoàn thiện vì trạng thái nằm trong frontmatter và [[Kết Chương]].
-- `07-TƯ LIỆU & BÍ MẬT` đã chia theo loại vật, sự kiện và địa điểm. Chưa tạo thư mục nguồn tham khảo cho tới khi có tài liệu cần lưu.
+- `07-TƯ LIỆU & BÍ MẬT` có nhóm vật, sự kiện, địa điểm và `07D-Xưởng Sáng Tác`. Xưởng giữ nguồn đã đọc, mẫu kỹ thuật, chất liệu chưa dùng và nhật ký áp dụng; tra qua [[00-MỤC LỤC XƯỞNG SÁNG TÁC]]. Không lưu bản sao hồ sơ nhân vật/lore trong Xưởng.
 - `08-FILE CƠ BẢN` giữ nguyên theo canon protection. Một liên kết dùng bí danh hiển thị `02_WORLD_LORE` để trỏ tới file nền có tên hiện tại `02_WORLD_LOR.md`; giữ nguyên tên file được bảo vệ.
 - `09-NGUYÊN TẮC PHONG CÁCH VIẾT` chứa các quy tắc viết, gồm `Luật Viết` được chuyển khỏi khung truyện. [[11_AUTONOMOUS_STORY_DESIGN]] quy định tự thiết kế bốn loại nội dung và cách dùng các mẫu trước khi viết.
 
@@ -84,10 +93,14 @@ tags:
 
 Trước khi xuất hiện, giữ nhãn **TỰ THIẾT KẾ — CHƯA XUẤT HIỆN** hoặc nhãn thiết kế đã duyệt thích hợp. Khi viết, chỉ chuyển phần thực sự có trong chương vào trạng thái sự kiện, cập nhật hồ sơ chính, danh mục và tracker bị tác động. Không yêu cầu tác giả duyệt từng chi tiết thường lệ đã được ủy quyền; giữ các thay đổi nền và UNKNOWN có chủ ý theo nguồn ưu tiên.
 
+## Bộ nhớ nghiên cứu và học từ thực hành
+
+[[13_STORY_LIBRARY_AND_LEARNING]] bổ sung việc tự tạo thư mục cần thiết, rút kỹ thuật từ nguồn đã đọc và lưu chất liệu riêng cho tác phẩm. Xưởng giữ lớp biên tập có nguồn, không tạo cơ sở canon song song. Khi chất liệu thành hồ sơ hoặc được dùng trong chương, liên kết sang nơi chính và cập nhật phần thực sự xuất hiện; giữ lại lịch sử nghiên cứu/áp dụng.
+
 ## Nguồn sự thật
 
 - Sự kiện đã xảy ra: bản thảo trong `06-CHƯƠNG TRUYỆN`, theo giới hạn canon tại `08-FILE CƠ BẢN`.
-- Trạng thái tiếp nối ở mốc hiện tại: [[Trạng Thái Truyện Sau Chương 53]].
+- Trạng thái tiếp nối ở mốc hiện tại: [[Trạng Thái Truyện Sau Chương 54]].
 - Kế hoạch tương lai: `04-KHUNG TRUYỆN`; không dùng kế hoạch để chứng minh sự kiện đã xảy ra.
 - Thông tin thế giới và tu hành: `02` và `03`, ưu tiên sổ thiết kế tác giả đã chốt mới nhất theo thẩm quyền nguồn; tự thiết kế ứng dụng thường lệ theo [[11_AUTONOMOUS_STORY_DESIGN]], không tự đổi nền hệ thống.
 
@@ -102,4 +115,4 @@ Trước khi xuất hiện, giữ nhãn **TỰ THIẾT KẾ — CHƯA XUẤT HI�
 - Các mục lục cục bộ tại `01-NHÂN VẬT/01A` đến `01-NHÂN VẬT/01F`
 - [[MẪU HỒ SƠ NHÂN VẬT]]
 - [[Kết Chương]]
-- [[Trạng Thái Truyện Sau Chương 53]]
+- [[Trạng Thái Truyện Sau Chương 54]]

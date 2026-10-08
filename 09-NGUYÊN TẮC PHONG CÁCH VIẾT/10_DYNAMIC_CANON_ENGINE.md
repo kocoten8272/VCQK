@@ -1404,3 +1404,11 @@ Một thiết kế hoàn tất khi có thể dùng trong cảnh và có nơi lư
 [[12_LOGIC_AND_LANGUAGE_CRAFT]] bổ sung cách lập cảnh và rà câu cho quy trình hiện hành. Kiểm tra văn phong cùng continuity nhưng chỉ ghi nhận thay đổi thực sự trong bản thảo. Câu giàu hình ảnh, tên minh họa hoặc bài tập kỹ thuật không trở thành nguồn sự kiện; sửa lời diễn đạt đơn thuần không tự thay thương tích, khả năng, thời hạn hoặc quan hệ.
 
 Giữ riêng điều nhân vật quan sát, chứng cứ, suy luận và sự thật tác giả. Ngôn ngữ rõ giúp độc giả hiểu hành động và hậu quả, vẫn giữ những ẩn ý và bí mật chưa tới nhịp tiết lộ.
+
+# XLII. THƯ VIỆN SÁNG TÁC VÀ NƠI LƯU TỰ TẠO
+
+Áp dụng [[13_STORY_LIBRARY_AND_LEARNING]] khi bước READ/DESIGN cần tra cứu chất liệu hoặc mở nhóm tài liệu. Tự tạo file/thư mục theo nhu cầu và cấu trúc hiện hành, kiểm node trùng, cập nhật mục lục trong cùng lượt. [[00-MỤC LỤC XƯỞNG SÁNG TÁC]] giữ nguồn, kỹ thuật, seed và nhật ký; không thay các hồ sơ/tracker chính.
+
+Một seed hoặc bài tập có `canonical: false` không phải STATE CHANGE của truyện. Khi một phần được dùng trong chương, ghi chương/phần thực sự dùng, cập nhật node chính theo nguồn và giữ ý đồ/phần chưa dùng ở lớp thiết kế. Việc lưu thư viện hoặc đổi đường dẫn không tự tạo năng lực, quan hệ, món nợ hay sự kiện mới.
+
+Ghi phản hồi có nguồn/phạm vi và kết quả chỉnh sửa để lần sau tra lại; không tự nâng phán đoán biên tập thành ý kiến độc giả hoặc chỉ thị chung của tác giả. Các file nền, thiết kế đã chốt và UNKNOWN có chủ ý tiếp tục theo quy tắc nguồn hiện hành.

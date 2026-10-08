@@ -36,6 +36,14 @@ Trước khi tạo, kiểm tra người/vật/thế lực hiện có có đáp �
 
 Phân biệt **TỰ THIẾT KẾ**, **ĐÃ VIẾT TRONG BẢN THẢO**, **TÁC GIẢ ĐÃ CHỐT** và **UNKNOWN CÓ CHỦ Ý**. Quy tắc “không biến đề xuất thành sự kiện” không cấm triển khai những chi tiết thường lệ đã được ủy quyền; nó cấm giả nhận kế hoạch chưa viết là quá khứ hoặc thay canon nền.
 
+## Tự xây thư viện và học từ thực hành
+
+Áp dụng [[13_STORY_LIBRARY_AND_LEARNING]] khi cần nghiên cứu, lưu chất liệu hoặc tạo nhóm tài liệu mới. Tra nguồn/trạng thái và nội dung đã có trước; tự tạo file/thư mục cần thiết, đồng bộ mục lục rồi báo kết quả, không chờ duyệt chi tiết thường lệ.
+
+Rút kỹ thuật từ nguồn được đọc và có dẫn chứng, thiết kế lại theo nhân quả riêng của VCQK; kiểm tổ hợp nhân vật, công năng, chuỗi cảnh và tiết lộ, không chỉ đổi tên. Lưu nguồn, kỹ thuật, chất liệu chưa dùng và phản hồi tại [[00-MỤC LỤC XƯỞNG SÁNG TÁC]]; không tạo bản sao hồ sơ chính hoặc nâng bài tập thành sự kiện.
+
+Bộ nhớ học qua tra cứu và kết quả sử dụng có nguồn, không huấn luyện trọng số mô hình. Giữ nhận xét tác giả tách với đánh giá biên tập/dự đoán độc giả; chỉ cập nhật canon động theo phần đã viết.
+
 ## Giọng văn & Nhịp
 
 - Miêu tả cảnh giới, chiến đấu rõ ràng, mạch lạc — tránh mơ hồ.

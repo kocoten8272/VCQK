@@ -1,7 +1,7 @@
 ---
 type: nguyen-tac
 status: hoan-thien
-updated: 2026-10-03
+updated: 2026-10-08
 tags:
   - nguyen-tac
   - logic
@@ -249,7 +249,7 @@ Câu sửa cho người đọc biết ai cần làm gì để việc có thể t
 Áp dụng trong **READ → DESIGN → WRITE → ANALYZE → UPDATE → VERIFY → COMMIT** cùng [[11_AUTONOMOUS_STORY_DESIGN]]:
 
 1. **READ:** Đọc trạng thái mới nhất, chương trước, hồ sơ và thiết kế liên quan. Ghi riêng kiến thức tác giả, nhân vật và độc giả.
-2. **DESIGN:** Lập phiếu cảnh khi cần; kiểm nguyên nhân, khả năng hành động, lựa chọn và hậu quả. Chọn trọng tâm cảm xúc, giọng nói và chi tiết có thể gợi cảnh.
+2. **DESIGN:** Lập phiếu cảnh khi cần; kiểm nguyên nhân, khả năng hành động, lựa chọn và hậu quả. Chọn trọng tâm cảm xúc, giọng nói và chi tiết có thể gợi cảnh. Nếu thiếu chất liệu, dùng [[13_STORY_LIBRARY_AND_LEARNING]] để tra kỹ thuật đã lưu/tìm nguồn có phạm vi, thiết kế lại theo VCQK; không nhập câu văn hoặc chuỗi cảnh đặc trưng từ nguồn.
 3. **WRITE:** Kể qua điểm nhìn, động tác và lời thoại. Dùng thuật ngữ đúng nguồn; cho các đoạn cảnh và tóm lược dung lượng theo vai trò thực tế.
 4. **ANALYZE:** Kiểm kết quả của cảnh trước; sau đó rà hình ảnh, nhịp câu, sắc thái từ và chỗ diễn đạt khó hiểu. Đọc thành tiếng đoạn cần kiểm nhịp. Không dùng trau chuốt câu để che lỗi nhân quả.
 5. **UPDATE:** Ghi những thay đổi thực sự đã xuất hiện theo [[10_DYNAMIC_CANON_ENGINE]]. Sửa văn phong đơn thuần không tự tạo sự kiện, năng lực hay quan hệ mới; chỉ cập nhật hồ sơ bị tác động.
@@ -280,6 +280,10 @@ Nếu có câu trả lời chưa rõ, sửa phần bị ảnh hưởng rồi đ�
 - [Trần Thị Kim Anh — Khả năng nhận biết và xu hướng sử dụng từ Hán Việt của học sinh, sinh viên](https://vjol.info.vn/index.php/JSTD/article/download/23885/20425): bản bài nghiên cứu trên VJOL, tác giả thuộc Trường ĐH KHXH&NV, ĐHQG-HCM; lưu ý sự phức tạp của nhận diện từ gốc Hán và nguy cơ hiểu sai do âm hoặc trật tự yếu tố. Không dùng khảo sát này làm tiêu chuẩn bắt buộc cho văn chương hoặc suy ra tỷ lệ từ nên dùng.
 
 Phiếu cảnh, các tiêu chí chọn giọng, ví dụ và cách tích hợp quy trình là thiết kế riêng cho tác phẩm theo yêu cầu tác giả. Các nguồn tham khảo không quy định tên, cơ chế, biến cố hoặc kết cục của truyện. Không sao chép ví dụ văn chương từ nguồn.
+
+## Ghi nhớ cách sửa hữu ích
+
+Khi có nhận xét cụ thể hoặc lỗi lặp đáng theo dõi, ghi nguồn, phạm vi và bản sửa tại [[00-MỤC LỤC XƯỞNG SÁNG TÁC]] theo [[13_STORY_LIBRARY_AND_LEARNING]]. Giữ lỗi nhân quả/canon riêng với lựa chọn văn phong của một cảnh. Ví dụ ở mục 7 vẫn là bài tập, không thành sự kiện do được lưu trong bộ nhớ; đánh giá “cảm động” chỉ ghi là phản hồi thực tế khi có người đọc nói rõ.
 
 ## Liên kết vận hành
 

@@ -1,7 +1,7 @@
 ---
 type: nguyen-tac
 status: hoan-thien
-updated: 2026-10-03
+updated: 2026-10-08
 tags:
   - sang-tac
   - tu-thiet-ke
@@ -189,7 +189,7 @@ Quỷ dị nên có điều quan sát được, tác động cụ thể và mứ
 
 **READ → DESIGN → WRITE → ANALYZE → UPDATE → VERIFY → COMMIT**
 
-1. **READ:** Đọc trạng thái mới nhất và nguồn liên quan; tách điều tác giả biết với điều nhân vật/độc giả đã biết.
+1. **READ:** Đọc trạng thái mới nhất và nguồn liên quan; tách điều tác giả biết với điều nhân vật/độc giả đã biết. Khi cần chất liệu, tra [[00-MỤC LỤC XƯỞNG SÁNG TÁC]] và phần đã dùng trước khi tìm nguồn mới.
 2. **DESIGN:** Xác định chức năng còn thiếu; dùng các mẫu ở trên để chọn phương án; ghi nguồn và giới hạn. Với arc lớn, chuẩn bị người/vật/sự kiện trước khi đến cao trào.
 3. **WRITE:** Kể qua hành động, lựa chọn, cảm giác và lời thoại; không đưa bảng thiết kế vào chương. Dùng [[12_LOGIC_AND_LANGUAGE_CRAFT]] để giữ nhân quả, chọn chi tiết/nhịp câu, dùng Hán Việt hợp nghĩa và diễn đạt tự nhiên.
 4. **ANALYZE:** Trích phần đã xuất hiện, ai biết nó, thay đổi trực tiếp và hậu quả lên các tuyến khác.
@@ -208,6 +208,12 @@ Quỷ dị nên có điều quan sát được, tác động cụ thể và mứ
 | Sự kiện tương lai | `04-KHUNG TRUYỆN`: bố cục theo chặng, điều kiện xảy ra, hậu quả dự kiến; chưa điền như lịch sử. |
 | Sự kiện đã viết | Chương nguồn, trạng thái sau chương và tracker liên quan; cập nhật timeline khi có mốc cần theo dõi, không dùng số chương như ngày tháng. |
 | Quy tắc sáng tác | `09-NGUYÊN TẮC PHONG CÁCH VIẾT`: tài liệu này cùng Writing Bible, Luật Viết và Dynamic Canon Engine. |
+
+### Tự tạo nơi lưu và học qua áp dụng
+
+Dùng [[13_STORY_LIBRARY_AND_LEARNING]] khi cần nhóm chất liệu hoặc thư mục chưa có. Xác định nhu cầu, tìm node trùng, chọn nơi chính rồi tạo file hoàn chỉnh cùng mục lục. Xưởng 07D giữ nguồn/kỹ thuật/seed/nhật ký; hồ sơ nhân vật, thế lực, vật phẩm và kế hoạch vẫn ở nơi chính theo bảng trên.
+
+Chuyển kỹ thuật tham khảo thành thiết kế từ mục tiêu, sinh kế, giới hạn, quyền hạn và hậu quả VCQK. Khi dùng, ghi chương/phần dùng; nhật ký tách chỉ thị tác giả, lỗi thực tế, nhận định biên tập và kết quả chưa biết. Không coi seed hay điểm giống chung với một bộ truyện là chứng cứ canon.
 
 ### Nhãn tối thiểu cho thiết kế
 
@@ -286,4 +292,5 @@ Các mẫu, quyền tự chủ và ví dụ áp dụng trong tài liệu này l�
 - [[01-QUY TẮC VẬN HÀNH HỆ THỐNG NHÂN VẬT]] · [[01-QUY TẮC VẬN HÀNH VÀ POWER SCALING]]
 - [[05-Thiết Kế Tác Giả Đã Chốt — Thế Giới, Lịch Sử Và Bí Mật]] · [[04-Thiết Kế Tác Giả Đã Chốt — Tu Hành, Sinh Tử Và Tài Nguyên]]
 - [[Cấu Trúc Kho Truyện]] · [[VẠN CỔ QUY KHƯ MENU]]
+- [[13_STORY_LIBRARY_AND_LEARNING]] · [[00-MỤC LỤC XƯỞNG SÁNG TÁC]]
 

@@ -38,6 +38,15 @@
 - [[01-QUY TẮC VẬN HÀNH VÀ POWER SCALING]] — phân biệt cảnh giới, tiến trình và chiến lực
 - [[02-BÁO CÁO KIỂM TOÁN HỆ THỐNG TU LUYỆN]] — giới hạn, unresolved rules và mục cần tác giả xem
 
+## XƯỞNG SÁNG TÁC VÀ BỘ NHỚ DỰ ÁN
+
+- [[00-MỤC LỤC XƯỞNG SÁNG TÁC]] — nguồn đã đọc, mẫu kỹ thuật, chất liệu riêng và nhật ký áp dụng
+- [[13_STORY_LIBRARY_AND_LEARNING]] — tự tạo thư mục theo nhu cầu, nghiên cứu và chuyển hóa thành sáng tác VCQK
+- [[REF-001-Nguồn Về Sinh Tồn Và Giới Hạn]] — bốn trang gốc, phạm vi đọc và phần suy luận riêng
+- [[PAT-001-Giới Hạn Làm Thay Đổi Lựa Chọn]] — mẫu lập cảnh theo mục tiêu, cái giá và kết quả hữu hạn
+- [[SEED-001-Ngày Công Bị Bỏ Trống]] · [[SEED-002-Một Thanh Chống Hai Lời Hứa]] — chất liệu chưa dùng, chưa phải sự kiện
+- [[LOG-001-Khởi Tạo Bộ Nhớ Sáng Tác]] — nguồn phản hồi và việc còn chưa được đánh giá qua sử dụng
+
 ## NHÂN VẬT
 
 - [[00-DANH MỤC NHÂN VẬT]] — mục lục hồ sơ theo nhóm nhân vật, gia tộc, địa bàn và thế lực
@@ -225,6 +234,7 @@
 - [[10_DYNAMIC_CANON_ENGINE]] — bộ quy tắc vận hành và quản lý canon động (State Change, Ripple Effect, Auto Node Detection, After-Chapter Protocol)
 - [[11_AUTONOMOUS_STORY_DESIGN]] — phạm vi tự chủ, bốn mẫu thiết kế, quy trình trước/sau khi viết và minh họa cho chặng sau Chương 53
 - [[12_LOGIC_AND_LANGUAGE_CRAFT]] — tư duy logic, thơ văn miêu tả, dùng từ Hán Việt và lời văn đời thường; phiếu cảnh, ví dụ sửa câu và bảng kiểm áp dụng cho chương mới
+- [[13_STORY_LIBRARY_AND_LEARNING]] — tra bộ nhớ dự án, tự tạo thư mục cần dùng và biến kỹ thuật tham khảo thành chất liệu nguyên bản
 
 ---
 
