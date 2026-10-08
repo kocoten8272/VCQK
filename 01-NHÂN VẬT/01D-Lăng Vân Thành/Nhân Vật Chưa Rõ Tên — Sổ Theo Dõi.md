@@ -90,3 +90,19 @@ Nguồn: [[Chương 54]], [[Trạng Thái Truyện Sau Chương 54]].
 Vai **người coi hàng trên thuyền mui xám Ch47** nay có tên [[Phan Kính]], hồ sơ CHAR-059. Giữ nguồn lần đầu vai/tên riêng, không tạo một hồ sơ khác cho cùng người. Phan Kính không trực tiếp có mặt Ch55.
 
 Nguồn: [[Chương 47]], [[Chương 55]], [[Trạng Thái Truyện Sau Chương 55]].
+
+## Vai trò được phân biệt ở Chương 56
+
+| Nhãn tra cứu | Hành động/nguồn | Giới hạn |
+| --- | --- | --- |
+| Người phu xe Nam Phố giao việc/giấy cho người coi thuyền | Vai từng được Phan Kính kể; Ch56 gọi đủ tên [[Đinh Bá Nghiêm]], hồ sơ chính CHAR-060. Phan Kính nói chính người này đưa tờ đổi có sẵn mặt sau và chuyển điều kiện. Sổ quầy có tên nhận phiếu, chủ quầy nhận làm theo chuyến. | Không giữ thêm một hồ sơ vô danh trùng vai. Lời Phan Kính chưa được kiểm bằng đối mặt; việc nhận phiếu được sổ ghi không tự xác nhận mọi lời giao việc hoặc tác giả mặt sau. Đinh Bá Nghiêm chưa có cảnh trực tiếp. |
+| Người thợ sửa mạn thuyền thuê | Trực tiếp làm cùng Phan Kính ở bậc sửa, hỏi phần ván/dây; công việc tiếp tục trong buổi lấy lời | Chưa tên/tuổi/cảnh giới; không tự đồng nhất với thợ chống HFS, thành viên tổ thuốc hoặc chủ thuê thuyền. |
+| Chủ quầy Nam Phố | Mở phần đã giữ theo lệnh, ký xác nhận phần lưu; nhận Đinh Bá Nghiêm làm theo chuyến và báo lượt xe về | Không nhận thay việc giao tờ tới Phan Kính, không thấy người viết mặt sau hoặc chứng nhận mặt sau trắng khi ra quầy; không mặc định thành viên Hạ Gia. |
+| Chấp sự hộ tống/nhận vật | Đọc phạm vi lệnh, nhận tờ gốc bằng biên nhận/sao, nhắc giờ và tiếp nhận báo cáo thử chống để trình | Các chức năng có thể do các cá nhân khác nhau; không tự gộp mọi chấp sự thành một người. Không hứa công thuê, không cho lệnh vào hầm. |
+| Người xác minh lượt xe về | Chỉ qua tin Tạ Nghiên Chi đem tới: chấp sự xác minh đúng người theo nơi nhận việc, gửi yêu cầu trình lời sáng sau | Không có cảnh đối người với Phan Kính, không phải lời giải thích của Đinh Bá Nghiêm; chưa xác nhận cùng chấp sự hộ tống ban ngày. |
+| Thợ chống vách HFS đem kết quả | Trực tiếp tới viện với phiếu/đầu dây: bộ chống thứ nhất giữ trong lượt thử, điểm thứ hai nền tụt nên nhả tải/tháo lại; nhận bản Tô Tín bổ sung | Chỉ báo phần ngoài cọc đã làm; chưa vào trong, chưa biết thi thể sau sập hoặc cơ quan cổ. Không tự gán tên/cảnh giới hay gộp thợ sửa thuyền. |
+| Người trực/đổi ca ở viện | Để cơm, bưng cơm qua phòng, trả ghế; một người trực được nhờ đỡ Tô Tín | Các lượt việc có thể do nhiều người; không mặc định Mạnh Thanh Tễ/viện chủ làm toàn bộ hoặc đặt tên từ suy đoán. |
+
+Người đem yêu cầu đổi tại quầy theo lời Kỷ Hành Chu vẫn là vai chưa nhận diện trong mục Ch55: Kỷ Hành Chu chưa nhận Đinh Bá Nghiêm là người mình thấy. Không hợp nhất hai vai chỉ vì Phan Kính nói một tên. Phan Kính đã có hồ sơ CHAR-059, trực tiếp Ch56, không ghi lại như người coi hàng vô danh.
+
+Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]], [[Phan Kính]], [[Đinh Bá Nghiêm]].

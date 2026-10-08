@@ -8,7 +8,7 @@ tags:
 
 # Sơ Đồ Quan Hệ Nhân Vật
 
-> Bảng nền có căn cứ đến Chương 52; cập nhật Chương 54 ở cuối. Đường liền là quan hệ được xác nhận; nét chấm là quan hệ xã hội/đang hình thành. Không suy chức quyền hay huyết thống từ cùng họ.
+> Bảng nền có căn cứ đến Chương 52; cập nhật Chương 54–56 ở cuối. Đường liền là quan hệ được xác nhận; nét chấm là quan hệ xã hội/đang hình thành. Không suy chức quyền hay huyết thống từ cùng họ.
 
 ## Gia đình Lâm Uyên
 
@@ -71,3 +71,19 @@ Nguồn: [[Chương 54]], [[Đỗ Hoài Chương]], [[Trạng Thái Truyện Sau
 | CHAR-034 | Kỷ Hành Chu | Chữ ký ở khâu trước trên chuỗi giấy nhận | CHAR-059 | Phan Kính | Không chứng minh quen nhau hoặc cùng tổ chức. |
 
 Không xác lập Kỷ Hành Chu/Phan Kính là thành viên Hạ Gia từ việc quầy thuê chỗ. Nguồn: [[Chương 47]], [[Chương 55]], [[Trạng Thái Truyện Sau Chương 55]].
+
+## Liên hệ được đối chiếu ở Chương 56
+
+| ID A | Nhân vật A | Quan hệ | ID B | Nhân vật B | Căn cứ và giới hạn |
+| --- | --- | --- | --- | --- | --- |
+| CHAR-005 | Lâm Uyên | Lần đầu trực tiếp hỏi tại bến | CHAR-059 | Phan Kính | Hỏi nguồn tờ đổi và lựa chọn giữ hàng; không phải lần gặp được hồi tố về Ch47, chưa thành thân hữu. |
+| CHAR-006 | Tô Thanh Ly | Đối chứng biên nhận/lựa chọn kéo dây | CHAR-059 | Phan Kính | Có cuộc gặp cũ Ch47; giữ cả chữ ký bồi hoàn của mình và trách nhiệm riêng của Phan Kính. |
+| CHAR-046 | Tạ Nghiên Chi | Ghi lời, sao đủ hai mặt tờ đổi | CHAR-059 | Phan Kính | Liên hệ công vụ; không xóa phần kéo dây hoặc bảo đảm chủ thuê sẽ trả công. |
+| CHAR-059 | Phan Kính | R: tự khai nhận việc/tờ đổi và lời điều kiện từ | CHAR-060 | Đinh Bá Nghiêm | Phan Kính nói từng đối công ở quầy, có thể nhận người; chưa có đối mặt kiểm lời. Sổ quầy xác nhận tên nhận phiếu, không tự chứng minh mọi phần khai. |
+| CHAR-034 | Kỷ Hành Chu | Cùng chuỗi chứng từ, chưa xác nhận quen biết | CHAR-059 | Phan Kính | Có mặt cùng quầy Ch56 nhưng không nhận Phan Kính từng lấy hàng từ mình; không nâng thành quan hệ đồng nghiệp thân quen. |
+| CHAR-034 | Kỷ Hành Chu | Chưa nhận người yêu cầu đổi là | CHAR-060 | Đinh Bá Nghiêm | Việc tên Đinh Bá Nghiêm có trong phần lưu không lấp được nhận diện còn thiếu của Kỷ Hành Chu. |
+| CHAR-037 | Mạnh Thanh Tễ | Hướng dẫn cách ghi điều trực tiếp thấy | CHAR-005 | Lâm Uyên | Sửa “chưa khô” thành quan sát mặt lá còn ẩm, nghe buổi lấy lời sau chuyến; không dự đối chứng hoặc biết đáp án mặt sau. |
+
+Người phu xe được nhắc trước đây nay dùng hồ sơ chính [[Đinh Bá Nghiêm]] (CHAR-060), không lập thêm người trung gian trùng vai. Không suy quan hệ huyết thống, tổ chức hoặc chủ mua từ cùng quầy/dấu phiếu.
+
+Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]], [[Phan Kính]], [[Đinh Bá Nghiêm]].

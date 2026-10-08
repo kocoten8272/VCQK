@@ -97,3 +97,18 @@ Nguồn: [[Chương 54]], [[Trạng Thái Truyện Sau Chương 54]]. Giữ bí 
 | Chìa không khớp do đâu? | Báo cáo chỗ thân chìa bị chặn | Chưa nhận nó là dự bị cũ hoặc thời điểm nhầm; trang gốc vẫn mất |
 
 Nguồn: [[Chương 55]], [[Trạng Thái Truyện Sau Chương 55]]. Không giải gói thuốc/niêm sáp từ chênh cước, không nối Hạ Gia/Hắc Nha/Tả tiên sinh thành chủ mưu.
+
+## Đầu mối tiến triển theo bản thảo Chương 56
+
+| Câu hỏi | Kết quả cục bộ / nguồn | Phần chưa giải và bước tiếp |
+| --- | --- | --- |
+| Tờ đổi gốc do ai giữ, có nội dung gì? | Phan Kính trực tiếp lấy từ giấy chuyến cũ, giao Tông Sảnh có biên nhận/bản sao. Mặt trước số mười bảy/hai hòm/nơi giao/dấu đối được với phần lưu quầy; mặt sau ghi đổi thuốc lấy bản chép lời khai và chia hai hòm làm hai lượt. | Nhận được bản gốc không giải thích ai viết hoặc viết khi nào; không chứng minh hòm nguyên trạng, thuốc bị gì hoặc người mua cuối. |
+| Ai đưa giấy/điều kiện cho Phan Kính? | R: Phan Kính khai Đinh Bá Nghiêm, nói đã có chữ mặt sau lúc nhận, không thấy người viết. Sổ quầy có tên Đinh Bá Nghiêm nhận phiếu, chủ quầy nhận việc theo chuyến. | Chưa đối mặt kiểm nhận người hoặc nghe Đinh Bá Nghiêm; không lấy tên nhận phiếu làm bằng chứng người ấy viết mặt sau/chủ mưu. |
+| Điều kiện đòi lời khai có phải do quầy ghi? | Phần lưu chỉ có đổi nơi giao/chuyển tiếp; chủ quầy ký xác nhận phần mình giữ và nói không thấy ai viết mặt sau. | Không chứng minh mặt sau trắng khi phiếu rời quầy. Cần đối người/thời điểm/nguồn chữ, không gán Hạ Gia từ dấu quầy hay sân thuê. |
+| Người yêu cầu đổi tại quầy có phải Đinh Bá Nghiêm? | Kỷ Hành Chu đọc tên nhưng không nhận ra là người mình đã thấy; chỉ được ca làm. | Giữ vai chưa nhận diện, không lấp bằng lời Phan Kính hoặc ép hỏi lại cho chuỗi khớp. |
+| Đinh Bá Nghiêm đang ở đâu để hỏi? | R cuối chương: lượt xe đã về, chấp sự xác minh theo nơi nhận việc, đã gửi yêu cầu trình lời sáng sau. | Chỉ tin có nguồn, chưa có cảnh trực tiếp/lời khai/đối người. Đây là đầu việc cụ thể cho lượt sau. |
+| Có thể đưa Tô Lạc về chưa? | Thợ trực tiếp trình báo cáo: bộ chống thứ nhất giữ trong lượt thử, nền điểm thứ hai tụt nên nhả tải/tháo. Tô Tín bổ sung giới hạn vào sơ đồ, xin giữ cả phần không làm được. | Chưa ai vào trong, chưa có lệnh vào hầm, chưa thu thi thể/miếng đồng; vị trí thi thể sau sập chưa xác nhận. Chờ tìm/thử nền khác và trình duyệt, không suy từ một bộ chống đạt. |
+
+Chuỗi chìa/trang vẫn chờ riêng tại Tông Sảnh; không đem tờ chìa theo buổi thuốc và không dùng kết quả hai mặt phiếu giải thay. Không thêm bí ẩn cấp thế giới hoặc nối Hắc Nha/Người Áo Đen, Tả Tiên Sinh, Di Kỷ Tộc với mạng mua thuốc. Trách nhiệm giữ hàng của Phan Kính được ghi cả khi hắn hợp tác giao giấy.
+
+Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]], [[Phan Kính]], [[Đinh Bá Nghiêm]].

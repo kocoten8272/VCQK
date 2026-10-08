@@ -91,3 +91,12 @@ Xem [[Triết Lý Văn Học Và Nhịp Điệu Bi Kịch]], [[Triển Khai Hệ
 - Nghe Lâm Uyên kể việc Kỷ Hành Chu nhận phần sai, hoàn tiền và không được nhận lượt mới; không trực tiếp dự đối chiếu hoặc gặp Kỷ Hành Chu. Hỏi Lâm Uyên có trả thay và có ai bị giữ thay phần chưa biết của người khác, không kết luận người mua hay chủ mưu.
 - Hướng dẫn Lâm Uyên ghi điều đã biết trước, tiếp tục xem chỗ học lá cuối nhưng chưa nhận đúng/sai; chưa giao tự cân/phối thuốc. Biến cố qua đời vẫn chưa xảy ra.
 - Nguồn: [[Chương 55]], [[Trạng Thái Truyện Sau Chương 55]].
+
+## Trạng thái mới theo bản thảo Chương 56
+
+- Còn sống, làm việc tại Tế Sinh Viện; xem cả hai tay, thay băng và ký tình trạng cho lượt đi mới của Lâm Uyên, dặn không đứng hết buổi. Khi Lâm Uyên về, cho ăn trước rồi xem lại băng; không hứa thương thế sẽ lành trước lúc cần dùng.
+- Hỏi nguồn nhận xét “chưa khô” trên tờ học lá. Lâm Uyên chưa biết lúc hái, lịch phơi hoặc từng ngấm nước; ông cho sửa thành phần quan sát mặt lá còn ẩm gần cuống, không xác nhận đã hiểu công dụng hoặc cho tự cân/phối thuốc.
+- Đặt chiếc lá mẫu vào đĩa riêng, không lẫn thuốc cho người bệnh. Dạy ghi điều đã biết và để trống điều chưa nhận, giữ công việc nghề nghiệp cụ thể.
+- **Qua Lâm Uyên kể:** Biết việc hai mặt tờ đổi, lựa chọn của Phan Kính và việc Kỷ Hành Chu chưa nhận Đinh Bá Nghiêm; không trực tiếp dự hỏi, gặp các người ấy hoặc xác định ai viết mặt sau/người mua.
+- Khoản chăm trẻ chưa quyết toán cuối, hai thanh gỗ trạm mượn chưa có tin đóng giá. Không tự bù/xóa các khoản còn chờ; biến cố qua đời và tai nạn nhà trú vẫn thuộc tương lai, chưa xảy ra.
+- Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]].

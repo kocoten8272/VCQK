@@ -8,7 +8,7 @@ tags:
 
 # Sổ Cái Nhân Vật
 
-> 59 hồ sơ cá nhân trong cây thư mục tại mốc Chương 55. Nhân vật thoáng qua chưa rõ tên được giữ trong sổ riêng.
+> 60 hồ sơ cá nhân trong cây thư mục tại mốc Chương 56. Nhân vật thoáng qua chưa rõ tên được giữ trong sổ riêng.
 
 ## Quy tắc ID
 
@@ -79,6 +79,7 @@ tags:
 | CHAR-057 | [[01F-Thế Lực Bí Ẩn/Tả Tiên Sinh (danh xưng, chưa rõ danh tính)|Tả Tiên Sinh (danh xưng, chưa rõ danh tính)]] | B | duoc-nhac-den | [[01F-Thế Lực Bí Ẩn/Tả Tiên Sinh (danh xưng, chưa rõ danh tính)]] |
 | CHAR-058 | [[01D-Lăng Vân Thành/Đỗ Hoài Chương|Đỗ Hoài Chương]] | C | da-xuat-hien | [[01D-Lăng Vân Thành/Đỗ Hoài Chương]] |
 | CHAR-059 | [[01D-Lăng Vân Thành/Phan Kính|Phan Kính]] | C | da-xuat-hien | [[01D-Lăng Vân Thành/Phan Kính]] |
+| CHAR-060 | [[01D-Lăng Vân Thành/Đinh Bá Nghiêm|Đinh Bá Nghiêm]] | C | duoc-nhac-den | [[01D-Lăng Vân Thành/Đinh Bá Nghiêm]] |
 
 ## Cấp biên tập
 
@@ -94,6 +95,6 @@ S: trục trung tâm; A: tuyến dài/ảnh hưởng lớn đã xác lập hoặ
 | dang-phat-trien | 3 |
 | unknown | 1 |
 | de-xuat | 18 |
-| duoc-nhac-den | 1 |
+| duoc-nhac-den | 2 |
 
 Điểm vào: [[00-DANH MỤC NHÂN VẬT]], [[01-QUY TẮC VẬN HÀNH HỆ THỐNG NHÂN VẬT]], [[03-SỔ THEO DÕI LẦN XUẤT HIỆN]], [[04-SƠ ĐỒ QUAN HỆ NHÂN VẬT]], [[05-MA TRẬN TRI THỨC]], [[06-MA TRẬN THẾ LỰC]], [[07-THỨ BẬC TU LUYỆN VÀ CHIẾN LỰC]], [[08-MẠCH NHÂN VẬT VÀ VẤN ĐỀ LIÊN TỤC]], [[09-BÁO CÁO HỆ THỐNG NHÂN VẬT]].

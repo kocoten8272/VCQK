@@ -9,7 +9,7 @@ tags:
 
 # Mạch Nhân Vật Và Vấn Đề Liên Tục
 
-> Bảng nền sau Chương 52; tiến triển Chương 53–54 được lưu ở cuối. Đây là sổ theo dõi, không phải lệnh tự giải quyết tuyến.
+> Bảng nền sau Chương 52; tiến triển Chương 53–56 được lưu ở cuối. Đây là sổ theo dõi, không phải lệnh tự giải quyết tuyến.
 
 ## Open Character Threads
 
@@ -71,3 +71,16 @@ ID Lâm Uyên trong bảng nền đã sửa về CHAR-005 theo [[02-SỔ CÁI NH
 - **Viện:** Mạnh Thanh Tễ còn sống, xem tay trước/sau chuyến; một chỗ học lá còn chờ kiểm. Khoản chăm trẻ/trạm chưa quyết toán cuối, gỗ trạm chưa có tin đóng giá; thuốc mua bù đã đủ.
 - **Ràng buộc:** Giấy bổ sung có hộ tống/phạm vi/giờ, kiếm và quản thúc còn; Dược Khế bảy/bốn tháng không đổi.
 - Nguồn: [[Chương 55]], [[Trạng Thái Truyện Sau Chương 55]].
+
+## Tiến triển theo bản thảo Chương 56
+
+- **Tờ đổi gốc/Phan Kính:** Đã tìm người, lấy lời và nhận bản gốc có đủ mặt trước/mặt sau, lập biên nhận/cho giữ bản sao. Phan Kính nhận đọc/chuyển điều kiện đổi thuốc lấy lời khai và muốn chở hàng đi; không xóa trách nhiệm kéo dây vì nay đưa giấy.
+- **Kết quả đối sổ:** Mặt trước khớp phần lưu quầy về số chặng/hòm/nơi giao/dấu. Phần lưu không có điều kiện chia hai hòm; chủ quầy không chứng kiến người viết, không xác nhận mặt sau trắng lúc phiếu rời quầy. Còn hỏi người viết, thời điểm thêm và người đặt thật.
+- **Đinh Bá Nghiêm (CHAR-060):** Tên lần đầu được Phan Kính khai, có trong dòng nhận phiếu của quầy. Vai phu xe cũ được dẫn về một hồ sơ chính. Cuối chương có tin lượt xe đã về/chấp sự xác minh theo nơi nhận việc và gửi yêu cầu trình lời sáng sau; chưa có cảnh trực tiếp, nhận mặt hoặc lời khai của người này.
+- **Kỷ Hành Chu:** Còn sửa phần chặng cũ, thẻ chưa trả; không nhận người yêu cầu đổi là Đinh Bá Nghiêm. Không ép lời để làm chuỗi tên khớp hơn.
+- **HFS/Tô Tín:** Thợ trình bộ chống thứ nhất giữ trong lượt thử, nền chân chống thứ hai tụt nên nhả tải/tháo. Tô Tín vẫn ở viện/còn nạng, bổ sung sơ đồ “điểm ngoài chưa chịu được chống, không dùng để xin vào”; giữ phần trí nhớ riêng. Chờ khảo sát nền khác/trình duyệt, chưa có lệnh vào hầm, thi thể Tô Lạc/miếng đồng chưa thu hồi.
+- **Học dược/thương tích:** Lâm Uyên sửa suy đoán “chưa khô” thành quan sát còn ẩm gần cuống, không tự điền lịch hái/phơi. Mạnh Thanh Tễ còn sống, xem tay trước/sau, cho nghỉ; Lâm Uyên chưa cân/phối thuốc hoặc tăng tu vi.
+- **Chìa/trang:** Tờ chìa không đem theo; hồ sơ vẫn ở Tông Sảnh chờ lời người nhận giỏ. Trang gốc/nguyên nhân chìa không khớp chưa giải, không dùng giấy thuốc trả lời thay.
+- **Ràng buộc/dân sinh:** Lượt bến/quầy có phạm vi/giờ/hộ tống, không tự theo thuyền. Quản thúc, kiếm bảo chứng, Dược Khế bảy/bốn tháng giữ nguyên; thuốc mua bù đã đủ Ch52. Khoản trẻ chưa quyết toán cuối, hai thanh gỗ ở trạm chưa có tin đóng giá/trả.
+- **Bước ngay tiếp theo:** Lấy lời Đinh Bá Nghiêm theo yêu cầu đã gửi, đối người với Phan Kính và nguồn chữ mặt sau; tiếp tục xử lý phần thợ chưa làm được trước khi xin vào HFS. Không bỏ tuyến điều trị/trang giấy, không ghép các mạng.
+- Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]].

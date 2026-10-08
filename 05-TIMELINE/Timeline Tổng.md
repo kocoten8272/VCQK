@@ -61,3 +61,14 @@ Nguồn: [[Chương 53]], [[Chương 54]], [[Trạng Thái Truyện Sau Chương
 | Trở về trước giờ cuối giấy | Lâm Uyên được xem/buộc băng; Tô Tín nghe tin/phiếu vật tư ngoài cọc sườn bắc | Không dựng chống/lệnh vào hầm hoặc tăng tu vi; khoản viện/gỗ trạm vẫn mở |
 
 Nguồn: [[Chương 55]], [[Trạng Thái Truyện Sau Chương 55]]. Không tự ấn định ngày lịch hoặc rút thời gian di chuyển ngoài những mốc đã kể.
+
+## Mốc ngày thứ chín — Chương 56
+
+| Thời điểm | Sự kiện đã viết | Giới hạn |
+| --- | --- | --- |
+| Sáng | Mạnh Thanh Tễ sửa ghi lá/xem tay; lượt mới tới bến nam và quầy, có lệnh mở phần sổ đổi | Không gỡ thương tích, quản thúc, kiếm bảo chứng hoặc Dược Khế |
+| Buổi hỏi bến/quầy | Phan Kính trình lời, bàn giao tờ đổi có hai mặt; sổ quầy khớp mặt trước/tên Đinh Bá Nghiêm | Thời điểm mặt sau có sẵn/người giao theo lời Phan; chưa ai thấy viết, chưa đối mặt Đinh |
+| Chiều về viện | Thợ trình bộ chống thứ nhất giữ trong thử, điểm thứ hai tụt/tháo; Tô Tín gửi hạn chế mới bên đường nhớ | Không tự vào hầm, vẽ đường sau sập hoặc thu hồi Tô Lạc/miếng đồng |
+| Cuối ngày | Qua tin, xe Đinh Bá Nghiêm đã trở về/chấp sự xác minh nơi việc, gửi yêu cầu trình lời sáng sau | Chưa có lời nhận hoặc cảnh gặp; người mua và tác giả mặt sau chưa biết |
+
+Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]]. Không ấn định cự ly/ngày lịch hoặc cho báo cáo thay kiểm toàn bộ an toàn.

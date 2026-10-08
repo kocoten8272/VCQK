@@ -54,7 +54,11 @@ Nhân vật dân sinh, Tế Sinh Viện, Nam Phố và các cơ quan/nhà có ho
 
 ## Tuyến bến nước — nhận diện qua hồ sơ
 
-- [Phan Kính](Phan%20K%C3%ADnh.md) — `da-xuat-hien` — Người coi hàng có mặt ở Chương 47, tên được nêu khi đối chứng từ Chương 55; không có cảnh gặp mới Chương 55.
+- [Phan Kính](Phan%20K%C3%ADnh.md) — `da-xuat-hien` — Người coi hàng có mặt Chương 47, gọi tên Chương 55; trực tiếp Chương 56 bàn giao tờ đổi gốc và trình lời. Chưa biết người mua/người viết mặt sau.
+
+## Chỉ được nhắc qua lời và hồ sơ
+
+- [Đinh Bá Nghiêm](%C4%90inh%20B%C3%A1%20Nghi%C3%AAm.md) — `duoc-nhac-den` — CHAR-060; tên ở lời Phan Kính và sổ nhận phiếu Chương 56. Qua tin đã gửi yêu cầu trình lời; chưa trực tiếp xuất hiện hoặc xác nhận tác giả mặt sau.
 
 ## Quy ước của thư mục
 

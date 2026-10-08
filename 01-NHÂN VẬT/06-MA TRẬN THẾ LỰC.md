@@ -50,3 +50,17 @@ Nguồn: [[Chương 54]], [[Đỗ Hoài Chương]], [[Kỷ Hành Chu]]. Không h
 | Thuyền mui xám/chuỗi giấy giao | Phan Kính | Vai coi hàng Ch47, tên đọc qua phiếu Ch55 | Chưa xác minh chủ thuê/tổ chức; chưa liên hệ Hạ Gia, Hắc Nha/Tả tiên sinh. |
 
 Các nhà/nhân vật gia phả khác vẫn là thiết kế chưa trực tiếp xuất hiện. Nguồn: [[Chương 55]], [[Hạ Gia]], [[Phan Kính]].
+
+## Liên hệ nghề nghiệp được đối chiếu ở Chương 56
+
+| Địa bàn/cơ quan | Người/nhóm | Liên hệ theo nguồn | Giới hạn |
+| --- | --- | --- | --- |
+| Bến phía nam / thuyền thuê đang sửa | Phan Kính | Trực tiếp coi việc sửa mạn, nhận lời về chuyến cũ; tự khai nhận việc coi/chuyển hàng | Chủ thuê còn chưa gặp/chốt công; chưa biết tổ chức hoặc gia tộc. Giữ điều kiện giao hàng là lựa chọn riêng, không miễn trách nhiệm do nghề. |
+| Quầy Nam Phố | Đinh Bá Nghiêm | Tên trong dòng nhận phiếu đổi; chủ quầy nhận làm theo chuyến. R: Phan Kính khai chính người này giao việc/giấy và lời điều kiện | Chỉ được nhắc; chưa đối mặt nhận người hoặc chứng minh tác giả mặt sau/chủ mua. Không mặc định thành viên Hạ Gia. |
+| Quầy Nam Phố | Kỷ Hành Chu | Tiếp tục điều chỉnh chặng, chưa nhận lại thẻ; không nhận ra người yêu cầu đổi | Không vì cùng quầy hoặc chuỗi giấy mà gán đồng phạm/chung phe với Phan Kính, Đinh Bá Nghiêm. |
+| Tông Sảnh | Tạ Nghiên Chi, chấp sự theo nhiệm vụ | Đối sổ theo lệnh bổ sung, nhận bản gốc có biên nhận/bản sao, gửi yêu cầu trình lời | Không hứa trả thay công chuyến, chưa kết án hoặc mở quyền tự đi sông/vào hầm. |
+| Sân kho biển Hạ Gia | Quầy thuê chỗ | Giữ mốc hiện diện nghề nghiệp Ch55, nay đối phần phiếu trong sổ quầy | Dấu quầy trên mặt trước không chứng minh Hạ Gia hoặc chủ quầy viết/biết mặt sau; không biến toàn mạng thuốc thành cơ cấu gia tộc. |
+
+Giữ riêng chuỗi mua/chuyển thuốc, Hắc Nha/Người Áo Đen, Tả Tiên Sinh và người lấy trang Tàng Thư Các; Ch56 chưa có chứng cứ độc lập nối các mạng.
+
+Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]], [[Đinh Bá Nghiêm]], [[Phan Kính]].

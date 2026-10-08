@@ -79,3 +79,11 @@ Quyết toán tuyến hàng, cân nhắc lời khai dựa trên ảnh hưởng t
 - **Qua hồ sơ/lời khai người trông gian:** Phần giao sau ghi Phan Kính nhận cho thuyền mui xám, có tờ đổi chuyến; Kỷ Hành Chu không nhận đã thấy tờ ấy. Chưa xác định người yêu cầu đổi tại quầy cũng là người cấp tờ đổi chuyến, chưa biết ai mở hòm.
 - Khoản hoàn cước và việc giữ thẻ là hậu quả nghề nghiệp địa phương; không có kết luận thông đồng, chủ mưu hoặc quan hệ với vụ chìa/Hắc Nha. Mạnh Thanh Tễ chưa trực tiếp gặp Kỷ Hành Chu.
 - Nguồn: [[Chương 55]], [[Trạng Thái Truyện Sau Chương 55]].
+
+## Trạng thái mới theo bản thảo Chương 56
+
+- Có mặt tại quầy Nam Phố, đang chép phần điều chỉnh chặng cũ; thẻ nhận sổ chưa được trả. Không có xác nhận phục hồi việc, nhận lượt mới, bị giam hoặc mất việc dài hạn.
+- Phan Kính theo tổ tới quầy; hai người không chào như thân quen, không nhận đã trực tiếp giao hàng cho nhau. Sự có mặt chung không xác lập quan hệ gia tộc hoặc tổ chức.
+- Được hỏi riêng về người yêu cầu đổi điểm giao. Đọc tên Đinh Bá Nghiêm mới có, vẫn chưa nhận đó là người mình từng thấy; chỉ có thể chỉ ca làm trong sổ. Chấp sự giữ nguyên giới hạn lời cũ, không ép nhận người theo tên Phan Kính nói.
+- Chứng từ quầy và lời Phan Kính không tự biến thành tri thức của Kỷ Hành Chu về người viết mặt sau, người mua cuối hoặc người phát điều kiện lấy lời khai. Phần lỗi quyết toán/hoàn ba đồng Chương 55 vẫn còn, không bị giấy mới xóa.
+- Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]].

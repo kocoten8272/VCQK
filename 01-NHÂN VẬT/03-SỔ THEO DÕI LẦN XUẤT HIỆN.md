@@ -9,7 +9,7 @@ tags:
 
 # Sổ Theo Dõi Lần Xuất Hiện
 
-> Bảng nền rà soát Chương 1–52; cập nhật Chương 53–54 ở các mục dưới. Mốc “lần cuối” có thể là hậu quả/nhắc lại, không khẳng định người có mặt trong cảnh. Mở hồ sơ nguồn trước khi viết tiếp.
+> Bảng nền rà soát Chương 1–52; cập nhật Chương 53–56 ở các mục dưới. Mốc “lần cuối” có thể là hậu quả/nhắc lại, không khẳng định người có mặt trong cảnh. Mở hồ sơ nguồn trước khi viết tiếp.
 
 ## Đã xuất hiện hoặc được nhận diện
 
@@ -97,3 +97,20 @@ Nguồn: [[Chương 54]], [[Trạng Thái Truyện Sau Chương 54]]. Bảng n�
 | CHAR-059 | Phan Kính | Nhắc tên qua chứng từ; vai đã trực tiếp Ch47 | Nơi hiện tại chưa xác minh, nơi cuối thấy là bến Ch47 | Tên khớp phiếu lưu và hồ sơ cũ; chưa lấy lời mới. |
 
 Hạ Gia hiện diện nghề nghiệp qua biển kho/lời thuê chỗ, không có thành viên gia phả mới trực tiếp xuất hiện. Tô Trạch/Trần Dực không có cảnh mới; Tô Lạc chưa thu hồi. Nguồn: [[Chương 55]], [[Trạng Thái Truyện Sau Chương 55]], [[Phan Kính]].
+
+## Mốc mới theo bản thảo Chương 56
+
+| ID | Nhân vật | Kiểu xuất hiện | Nơi cuối được biết | Giới hạn |
+| --- | --- | --- | --- | --- |
+| CHAR-005 | Lâm Uyên | Trực tiếp; lần đầu tới bến phía nam | Tế Sinh Viện | Chỉ đứng trên bờ, đi theo giấy/hộ tống; không hồi tố có mặt Ch47. Tay phải còn bỏng, tay trái phải nghỉ khi cầm bút lâu. |
+| CHAR-006 | Tô Thanh Ly | Trực tiếp tại viện, bến và quầy | Quầy Nam Phố trong cảnh cuối trực tiếp | Mang hai biên nhận cũ, dùng tay trái; nơi sau cảnh không tự suy. Kiếm bảo chứng/hạn chế đi lại chưa gỡ. |
+| CHAR-059 | Phan Kính | Trực tiếp; cùng người coi hàng Ch47, đã nhận tên Ch55 | Quầy Nam Phố trong cảnh cuối trực tiếp | Giao tờ đổi gốc, giữ bản sao; chưa có cảnh đối mặt Đinh Bá Nghiêm hoặc xác nhận chủ thuê/thanh toán công. |
+| CHAR-034 | Kỷ Hành Chu | Trực tiếp tại quầy | Quầy Nam Phố | Còn điều chỉnh chặng cũ, thẻ nhận sổ chưa trả; chưa nhận người yêu cầu đổi là Đinh Bá Nghiêm. |
+| CHAR-046 | Tạ Nghiên Chi | Trực tiếp tại bến/quầy/viện | Tế Sinh Viện | Mang tin xác minh lượt xe về và yêu cầu trình lời sáng sau; chưa có cuộc đối người hoặc lời mới của Đinh Bá Nghiêm. |
+| CHAR-037 | Mạnh Thanh Tễ | Trực tiếp | Tế Sinh Viện | Còn sống, sửa cách ghi lá, kiểm tay/cho nghỉ; chưa dạy phối thuốc. |
+| CHAR-019 | Tô Tín | Trực tiếp | Tế Sinh Viện | Còn nạng, bổ sung cảnh báo vào sơ đồ từ báo cáo thử chống; không tới núi. |
+| CHAR-060 | [[Đinh Bá Nghiêm]] | Lần đầu nhắc đủ tên, qua lời Phan Kính và phần lưu tại quầy | R: đã về nơi nhận việc theo tin người quầy/chấp sự xác minh | Không có cảnh trực tiếp; Phan Kính chưa đối mặt nhận người, chưa biết ai viết mặt sau hoặc chủ mua. |
+
+Tô Lạc chỉ được nhắc: thi thể chưa đưa về, vị trí sau sập chưa xác nhận. Tô Trạch/Trần Dực không có cảnh mới. Không nâng báo cáo thử chống thành cảnh nhân vật trực tiếp nhìn việc dưới núi.
+
+Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]], [[Phan Kính]], [[Đinh Bá Nghiêm]].

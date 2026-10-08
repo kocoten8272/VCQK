@@ -79,3 +79,13 @@ Nguồn: [[Chương 43]], [[Chương 50]], [[Chương 51]], [[Chương 52]], [[T
 - Đem về hai bản sao liên quan; bản gốc ở quầy/gian chứa có người giữ được ghi nhận. Sổ phiếu đổi lượt của quầy chưa mở, cần Tông Sảnh làm thủ tục tiếp.
 - Đọc kết quả thợ khóa rồi giữ riêng tuyến chìa; nhờ báo giờ lấy lời người nhận giỏ cuối, chưa có kết quả buổi ấy. Trang gốc vẫn mất, không nối đường thuốc với vụ chìa hoặc nhóm áo đen.
 - Nguồn: [[Chương 55]], [[Trạng Thái Truyện Sau Chương 55]].
+
+## Trạng thái mới theo bản thảo Chương 56
+
+- Dự lấy lời Phan Kính ở bậc sửa thuyền phía nam và đối sổ phiếu đổi Nam Phố theo lệnh bổ sung, có chấp sự hộ tống. Tay phải còn thương, thu/đặt giấy bằng tay trái; kiếm làm bảo chứng, hạn chế đi lại và Dược Khế bốn tháng chưa gỡ.
+- Gặp lại người coi hàng Chương 47, mang đủ hai biên nhận, phần giờ định rời và chữ ký bồi hoàn của mình. Hỏi cả nguồn tờ đổi lẫn lựa chọn kéo dây; không dùng việc Phan Kính giao giấy để xóa hành động cũ hoặc nhận hắn đã biết mọi khâu.
+- **Qua vật/chứng từ:** Tờ đổi gốc khớp mặt trước với phần lưu quầy, mặt sau có điều kiện giao hai hòm theo bản chép lời khai. Phần lưu chỉ ghi đổi nơi giao/chuyển tiếp; chủ quầy chưa thấy lúc viết mặt sau, không xác nhận phiếu rời quầy khi mặt sau trắng.
+- **Lời Phan Kính:** Người phu xe Đinh Bá Nghiêm đã chuyển lời và đưa giấy có sẵn chỉ dẫn; Phan Kính nhận có thể nhận người. Sổ quầy xác nhận tên nhận phiếu, chưa có cuộc đối mặt hoặc lời Đinh Bá Nghiêm trong chương; chưa xác định người viết, người đặt hay người mua cuối.
+- Xin gọi Đinh Bá Nghiêm và đối cả mặt sau; không giữ những phu khác thay người cần hỏi. Kỷ Hành Chu chưa nhận tên ấy là người mình từng thấy; giữ riêng giới hạn lời khai.
+- Hồ sơ chìa vẫn ở Tông Sảnh, chờ người nhận giỏ; trang gốc vẫn mất, bản nhớ còn hai chữ chưa chắc. Không nối thuốc/chìa hoặc Hắc Nha/Tả tiên sinh.
+- Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]].

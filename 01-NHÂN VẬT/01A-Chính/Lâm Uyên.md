@@ -106,3 +106,14 @@ Nguồn trạng thái: [[Chương 43]], [[Chương 50]], [[Chương 51]], [[Chư
 - Tay phải còn bỏng, đau khi băng chạm bàn; dùng tay trái giữ vải, nhờ người khác chuyển sổ. Về viện được xem lại tay; không khiêng cáng hoặc vận lực. Chỗ học lá cuối vẫn chờ Mạnh Thanh Tễ nhận xét, chưa tự cân/phối thuốc; không có tu vi mới, Dược Khế giữ bảy tháng.
 - Hồ sơ chìa giữ riêng; kết quả thợ khóa chưa xác định lượt nhầm hoặc người trả. Khoản chăm trẻ chưa quyết toán cuối, gỗ cho trạm mượn chưa có tin đóng giá; vật tư Hắc Phong Sơn chỉ có phiếu nhận ngoài cọc, chưa có lệnh vào hầm.
 - Nguồn: [[Chương 55]], [[Trạng Thái Truyện Sau Chương 55]].
+
+## Trạng thái mới theo bản thảo Chương 56
+
+- Ngày thứ chín sau chuyến Hắc Phong Sơn, được Mạnh Thanh Tễ xem cả hai tay và ký tình trạng trước lượt đi mới. Dự lấy lời Phan Kính ở bậc sửa thuyền phía nam rồi đối sổ phiếu đổi tại quầy Nam Phố theo giấy có hộ tống/giờ về; không được tự theo thuyền xuống sông.
+- Gặp Phan Kính trực tiếp lần đầu; không hồi tố Lâm Uyên có mặt tại bến Chương 47. Ngồi nghỉ khi lấy lời, dùng tay trái, không khiêng hoặc giao chiến; tay phải vẫn bỏng, tay trái còn phải dừng khi cầm bút lâu.
+- **Tận mắt đọc/chứng kiến:** Tờ đổi gốc số mười bảy ghi điểm nhận trên bờ và thuyền mui xám; mặt sau ghi đổi bản chép lời khai lấy hai hòm theo hai lượt. Chấp sự nhận bản gốc có biên nhận/bản sao; sổ quầy khớp mặt trước, có tên Đinh Bá Nghiêm ở dòng nhận phiếu, không chép điều kiện mặt sau.
+- **Lời Phan Kính:** Đinh Bá Nghiêm là phu xe đã đưa việc, chuyển điều kiện và trao tờ đổi có sẵn chữ mặt sau. Lâm Uyên chưa gặp Đinh Bá Nghiêm, không biết ai viết, người đặt hoặc người mua cuối; không biến lời nhận người thành kết quả đối mặt.
+- Không trả thay công chở chưa chốt, không dùng giấy bàn giao để xóa việc Phan Kính kéo dây. Chấp nhận Kỷ Hành Chu chưa nhận ra người yêu cầu đổi; về đúng phạm vi thay vì tự ở lại chờ xe.
+- **Nghe thợ/đọc phiếu tại viện:** Bộ chống thứ nhất giữ trong lượt thử ngoài cọc; điểm thứ hai tụt nền nên nhả tải, tháo lại. Chưa vào hầm hoặc đưa Tô Lạc/miếng đồng về. Nhờ người trực giúp Tô Tín khi bản thân không thể đỡ an toàn.
+- Sửa ghi học lá từ “chưa khô” thành điều thấy được: mặt lá còn ẩm gần cuống; chưa biết lịch hái/phơi/ngấm nước. Chưa tự cân/phối thuốc, không có tu vi mới; Dược Khế giữ bảy tháng. Cuối ngày biết Đinh Bá Nghiêm đã được xác minh nơi nhận việc và yêu cầu trình lời sáng sau, chưa có lời mới.
+- Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]].

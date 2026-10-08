@@ -21,6 +21,7 @@ tags:
 | SEED-002 | [[SEED-002-Một Thanh Chống Hai Lời Hứa]] | Chất liệu VCQK | seed | Chuẩn bị vật tư Hắc Phong Sơn; năng lực hữu hạn và trách nhiệm với người sống |
 | LOG-001 | [[LOG-001-Khởi Tạo Bộ Nhớ Sáng Tác]] | Phản hồi/áp dụng | recorded | Tra cơ sở học, nguồn phản hồi và việc chưa có kết quả sử dụng |
 | LOG-002 | [[LOG-002-Áp Dụng Kỹ Thuật Trong Chương 55]] | Phản hồi/áp dụng | recorded | Phần kỹ thuật đã dùng, giới hạn và các lỗi cục bộ được sửa ở Ch55 |
+| LOG-003 | [[LOG-003-Áp Dụng Kỹ Thuật Trong Chương 56]] | Phản hồi/áp dụng | recorded | Đào sâu vai cũ, vật gốc hai mặt, kết quả thử chống và giới hạn nguồn lời Ch56 |
 
 Các seed chưa được dùng trong chương. Không lấy chúng làm căn cứ xác nhận tiền công, hợp đồng hoặc tiến độ chống vách.
 
@@ -56,3 +57,7 @@ Mỗi nhóm đã có file thật. Chỉ mở nhóm mới khi nội dung không h
 - PAT-001 đã được dùng có phạm vi trong bản thảo; xem [[LOG-002-Áp Dụng Kỹ Thuật Trong Chương 55]] (LOG-002, `recorded`).
 - SEED-001/002 vẫn là chất liệu chưa dùng, không đổi `canonical: false` hoặc nhận các cảnh tập đã xảy ra.
 - Hồ sơ Kỷ Hành Chu/Phan Kính và tình trạng truyện ở nơi chính; Xưởng chỉ giữ kỹ thuật/lịch sử áp dụng.
+
+## Áp dụng ở Chương 56
+
+PAT-001 được dùng tiếp với lựa chọn bàn giao giấy và ghi hạn chế đường khảo sát. Tra [[LOG-003-Áp Dụng Kỹ Thuật Trong Chương 56]] trước khi viết tiếp; không lặp câu hỏi sổ nếu không thay đổi việc. SEED-001/002 vẫn chưa dùng. Đinh Bá Nghiêm có hồ sơ chính CHAR-060 ở01D; Phan Kính cùng trạng thái mới lưu ở node chính/04E.

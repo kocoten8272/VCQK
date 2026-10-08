@@ -47,3 +47,13 @@ tags:
 - **Lời người trông gian:** Chỉ giữ chỗ đặt tạm, không mua hàng; quầy chuyển tiền thuê, Phan Kính mang tờ đổi chuyến tới nhận. Bản gốc phần lưu còn trong hộp tại gian, phần quầy còn ở sổ; chưa mở sổ phiếu đổi lượt hoặc biết người mua cuối.
 - Hai mạng lưới tiếp tục độc lập; không suy biển Hạ Gia, dấu quầy hoặc nhiều khâu giao nhận thành chứng cứ phe bí mật. Quyền quản lý toàn Nam Phố và cấp phép bến vẫn chưa xác lập.
 - Nguồn: [[Chương 55]], [[Trạng Thái Truyện Sau Chương 55]].
+
+## Trạng thái mới theo bản thảo Chương 56
+
+- Tông Sảnh xác minh nơi nhận việc của Phan Kính và bổ sung quyền tới bậc sửa thuyền phía nam lấy lời, trở lại quầy đối đúng sổ phiếu đổi. Tổ chỉ đứng trên bờ; không có quyền tự đi thuyền xuống sông hoặc mở mọi phần sổ.
+- Bến có việc dỡ bao, nhận chỗ neo, vá mạn và thuyền thuê đang sửa; sinh kế thường nhật tiếp tục. Sự hiện diện của quầy/kho/điểm sửa chưa thiết lập quyền Hạ Gia quản lý toàn Nam Phố.
+- **Vật/chứng từ:** Tờ đổi gốc số mười bảy nối gian chứa mặt bờ với thuyền mui xám, có điều kiện lấy bản chép lời khai ở mặt sau. Phần lưu quầy khớp mặt trước và ghi Đinh Bá Nghiêm nhận phiếu, không chép mặt sau. Chủ quầy chỉ xác nhận phần lưu giữ, chưa thấy lúc viết chỉ dẫn.
+- **Lời Phan Kính:** Đinh Bá Nghiêm là phu xe làm theo chuyến tại quầy đã trao tờ đổi có sẵn chữ mặt sau/chuyển điều kiện. Chủ quầy xác nhận nghề/tên theo sổ, chưa xác nhận thay việc giao cho Phan Kính; Kỷ Hành Chu chưa nhận người yêu cầu đổi là Đinh Bá Nghiêm.
+- Cuối ngày có tin xe đã về, nơi nhận việc được Tông Sảnh xác minh và yêu cầu trình lời sáng sau. Đinh Bá Nghiêm chưa trực tiếp xuất hiện/đối mặt trong Chương 56; người viết, người đặt, người mua cuối và việc ai chạm thuốc vẫn chưa giải.
+- Kỷ Hành Chu chưa nhận lại thẻ hoặc được phục hồi lượt việc. Không đóng toàn quầy/giữ những phu khác, không suy con dấu thành phe bí mật hoặc nối mạng thuốc với Hắc Nha/Tả tiên sinh.
+- Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]].

@@ -78,3 +78,20 @@ Nguồn: [[Chương 54]], [[Trạng Thái Truyện Sau Chương 54]]. Chưa nố
 | Tô Tín | R: tin/phiếu thợ nhận vật tư ngoài cọc | Chưa chứng kiến dựng chống hoặc thi thể; không nâng phiếu nhận thành an toàn vào hầm. |
 
 Tô Thanh Ly là người có mặt tại thuyền Ch47; Lâm Uyên biết phần bến qua hồ sơ/lời kể, không hồi tố ký ức trực tiếp. Nguồn: [[Chương 55]], [[Trạng Thái Truyện Sau Chương 55]].
+
+## Cập nhật theo bản thảo Chương 56
+
+| Người | Tri thức theo nguồn | Giới hạn |
+| --- | --- | --- |
+| Lâm Uyên, Tô Thanh Ly, Tạ Nghiên Chi | K: thấy Phan Kính giao tờ đổi gốc, đọc cả hai mặt; mặt trước đối được số mười bảy/hai hòm/nơi giao/dấu với phần lưu của quầy. K: nghe lời nhận giữ hàng theo điều kiện và nguồn người đưa. | Các hành vi bàn giao/đối sổ hiện tại đã chứng kiến; đoạn cũ Phan Kính kể vẫn là lời tự nhận. Chưa biết hòm nguyên trạng toàn tuyến, người mua cuối hoặc ai viết mặt sau. |
+| Phan Kính | K theo lời tự nhận: nhận tờ đổi có sẵn mặt sau từ Đinh Bá Nghiêm, đọc và chuyển điều kiện đổi thuốc lấy bản chép; nhận hai hòm ở gian bờ, muốn chở đi. K: dự đối chứng và ký bàn giao Ch56. | Không thấy người viết mặt sau, chưa gặp chủ hàng, chưa đối mặt nhận Đinh Bá Nghiêm trong buổi này. Không lấy lời nhận hai hòm làm bảo đảm cho các khâu trước. |
+| Chủ quầy Nam Phố | K: phần lưu trong sổ chỉ ghi đổi nơi giao/chuyển tới thuyền, có tên Đinh Bá Nghiêm nhận phiếu; nhận người ấy làm theo chuyến. | Không nhận thay việc giao tới tay Phan Kính hoặc biết điều kiện đòi lời khai. Không thấy ai viết mặt sau; không xác nhận mặt sau trắng khi tờ gốc rời quầy. |
+| Kỷ Hành Chu | K: đọc tên mới, chỉ được ca làm; không nhận ra người mình từng thấy là Đinh Bá Nghiêm. | Không dùng tên đã được người khác nói để nâng thành ký ức nhận mặt. Thẻ/cước của hắn không xác định tác giả mặt sau. |
+| Đinh Bá Nghiêm | ? về lời khai/đối sổ Ch56 | Chỉ được nhắc và báo đã xác minh về nơi nhận việc; chưa trình lời. Không suy hắn viết, hiểu hoặc quyết định mọi nội dung trên phiếu. |
+| Tạ Nghiên Chi, sau đó Lâm Uyên | R: người quầy báo xe về, chấp sự xác minh đúng người theo nơi nhận việc; đã gửi yêu cầu trình lời sáng sau. | Nguồn tin được báo, chưa phải cuộc đối mặt giữa Phan Kính và Đinh Bá Nghiêm hoặc lời giải về mặt sau. |
+| Tô Tín, Lâm Uyên | K: nghe thợ trình phiếu/kết quả bộ chống thứ nhất giữ trong lượt thử, nền ở điểm thứ hai tụt nên nhả tải/tháo lại. | Không trực tiếp chứng kiến thử tại núi; chưa có người vào trong, không xác nhận nơi thi thể/miếng đồng sau sập hoặc an toàn cho lượt vào hầm. |
+| Mạnh Thanh Tễ | R: Lâm Uyên kể hai mặt phiếu, lời người coi hàng và việc mình không hỏi ép Kỷ Hành Chu | Không dự bến/quầy, không biết thêm đáp án mạng thuốc hoặc bí mật Quy Khư; K: tự xem lá và thương tích của người học. |
+
+Lâm Uyên lần đầu tới bến phía nam Ch56; hiểu biết về buổi Ch47 vẫn từ hồ sơ/lời kể. Mặt sau có chỉ dẫn đòi lời khai trên bản gốc đã nhận; thời điểm viết và người viết chưa xác định. Không nối Hắc Nha/Người Áo Đen, Tả Tiên Sinh, đường thuốc và vụ trang giấy.
+
+Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]].

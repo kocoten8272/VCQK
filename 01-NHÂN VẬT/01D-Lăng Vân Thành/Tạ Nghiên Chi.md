@@ -84,3 +84,13 @@ Giữ sổ trực và cung cấp lời chứng hữu hạn về ca trực, con d
 - **Qua hồ sơ/lời khai:** Người trông gian nhận chữ ký mặt bờ; phần giao sau có tên Phan Kính, số/dấu khớp hồ sơ bến. Sao phần lưu, ghi người giữ bản gốc; chưa chứng minh hòm nguyên trạng hoặc hai yêu cầu đổi giao/đổi chuyến cùng người phát.
 - Sổ phiếu đổi lượt của quầy chưa mở. Chưa biết người mua cuối, người đưa tờ đổi lượt cho Phan Kính hoặc ai mở hòm; không kết luận án hay nối hai mạng lưới.
 - Nguồn: [[Chương 55]], [[Trạng Thái Truyện Sau Chương 55]].
+
+## Trạng thái mới theo bản thảo Chương 56
+
+- Theo lệnh bổ sung tới bậc sửa thuyền và quầy Nam Phố; không mang chìa không khớp. Hồ sơ chìa riêng tại Tông Sảnh, chưa có lời người nhận giỏ mới.
+- Gặp Phan Kính lấy lời trực tiếp; ghi đúng việc hắn đã nhận chuyển điều kiện, muốn chở hàng và lý do hắn nói về trách nhiệm, không xóa phần kéo dây trên hồ sơ Chương 47.
+- **Vật/chứng từ trong cảnh:** Đọc cả hai mặt tờ đổi gốc số mười bảy, ghi tình trạng và sao đủ mặt sau. Chấp sự lập biên nhận nhận bản gốc, Phan Kính ký và giữ bản sao; không bảo đảm thay công chở.
+- Đối phần lưu quầy: mặt trước, số hòm và dấu khớp; dòng nhận phiếu có tên Đinh Bá Nghiêm, phần lưu không chép điều kiện lấy lời khai. Ghi chủ quầy chưa thấy lúc viết, chỉ ký xác nhận phần lưu mình giữ, không ký xác nhận mặt sau từng trắng.
+- **Lời Phan Kính:** Đinh Bá Nghiêm trao giấy có sẵn chữ mặt sau/chuyển điều kiện, có thể nhận người. Ghi nhận dạng riêng; Kỷ Hành Chu vẫn chưa nhận ra người yêu cầu đổi, không ép ghép hai lời.
+- Cuối ngày đem tin xe đã về, người của Tông Sảnh xác minh đúng Đinh Bá Nghiêm theo nơi nhận việc và gửi yêu cầu trình lời sáng sau. Chưa lấy lời/đối mặt mới, chưa biết người viết, người đặt hoặc người mua cuối; không nối hai mạng lưới.
+- Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]].

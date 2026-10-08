@@ -12,6 +12,7 @@ related_nodes:
   - "Trạng Thái Truyện Sau Chương 54"
 used_in_chapters:
   - 55
+  - 56
 created: 2026-10-08
 updated: 2026-10-08
 tags:
@@ -23,7 +24,7 @@ tags:
 
 # PAT-001-Giới Hạn Làm Thay Đổi Lựa Chọn
 
-> Mẫu kỹ thuật do người viết thiết kế cho VCQK từ [[REF-001-Nguồn Về Sinh Tồn Và Giới Hạn]]. `ready` nghĩa là dùng được để lập cảnh; đã áp dụng có phạm vi ở bản thảo Chương 55.
+> Mẫu kỹ thuật do người viết thiết kế cho VCQK từ [[REF-001-Nguồn Về Sinh Tồn Và Giới Hạn]]. `ready` nghĩa là dùng được để lập cảnh; đã áp dụng có phạm vi ở bản thảo Chương 55–56.
 
 ## Vấn đề cần xử lý
 
@@ -83,3 +84,9 @@ Khi được dùng, ghi **chương, phần thực sự áp dụng và kết qu�
 Kỷ Hành Chu nhận chênh chặng, hoàn ba đồng từ khoản mình nhận và mất lượt việc trong ngày; hai phu nhận công, tổ nối thêm một phiếu lưu. Đây là kết quả trong bản thảo, chưa phải đánh giá của độc giả. Giới hạn tay/giấy đi đường được giữ; chuỗi giấy chưa chứng minh hòm nguyên trạng hoặc người mua cuối.
 
 Chi tiết nguồn/phần sửa: [[LOG-002-Áp Dụng Kỹ Thuật Trong Chương 55]]. Các SEED-001/002 vẫn chưa được ghi là đã dùng; cảnh thử trong chúng không thành sự kiện.
+
+## Lần áp dụng tại bản thảo Chương 56
+
+Phan Kính chọn giao tờ đổi gốc và giữ bản sao/biên nhận, không được hứa trả công/xóa hành vi kéo dây. Lâm Uyên nhờ cách ghi nguồn thay việc trả thay; Tô Tín gửi giới hạn mới sau kết quả thử chống. Hai mặt phiếu làm rõ yêu cầu lấy lời nhưng chưa xác nhận ai viết. Đây là vận dụng riêng có giới hạn, không phản hồi độc giả.
+
+Chi tiết nguồn/phần sửa: [[LOG-003-Áp Dụng Kỹ Thuật Trong Chương 56]]. SEED-001/002 tiếp chưa được đánh dấu áp dụng.

@@ -54,3 +54,12 @@ Tuổi, gia đình, cảnh giới, thời điểm hồi phục và đường đi
 - **Tin/phiếu đem về:** Thợ đã ký nhận gỗ chống và dây tại điểm tập kết bên ngoài cọc sườn bắc Hắc Phong Sơn. Tô Tín hỏi đủ số, yêu cầu lần sau giữ cả kết quả không đặt được; không trực tiếp chứng kiến giao vật tư.
 - Chưa có kết quả dựng chống hoặc lệnh vào hầm. Tên Tô Lạc vẫn trên sơ đồ; không bổ sung đường xuống, vị trí thi thể mới hoặc xác nhận đã đưa Tô Lạc/miếng đồng về.
 - Nguồn: [[Chương 55]], [[Trạng Thái Truyện Sau Chương 55]].
+
+## Trạng thái mới theo bản thảo Chương 56
+
+- Còn ở Tế Sinh Viện, dùng nạng; phải vịn ghế khi tới bàn và nhận người trực giúp trở lại giường. Không tự đi núi hoặc có mốc hồi phục mới.
+- **Nghe người thợ đã thử/đọc phiếu:** Vật tư được đưa tới nơi thử bên ngoài cọc; bộ chống thứ nhất giữ trong lượt thử, điểm thứ hai tụt nền nên phải nhả tải và tháo lại. Không phải toàn sườn bắc đã an toàn; chưa ai vào phía trong.
+- Hỏi việc kê lại, nghe cần thử nền chỗ khác; không quyết thay kỹ thuật. Giữ sơ đồ trí nhớ gốc, ghi cạnh đường ngắn trên bản gửi: điểm ngoài chưa chịu được chống, không dùng để xin vào. Không biến vị trí nhớ của Tô Lạc thành điểm mới đã khảo sát.
+- Yêu cầu gửi bản có giới hạn ấy và lần sau đem cả phần không làm được; muốn nghe người thực sự thử trình kết quả. Chấp sự nhận đề nghị tìm điểm khác để trình người duyệt, chưa cấp lệnh vào hầm.
+- Vị trí thi thể hiện tại vẫn chưa biết; Tô Lạc và miếng đồng chưa được thu hồi. Không vẽ đường vòng như đã thấy, không xóa tên Tô Lạc hoặc biến trì hoãn thành từ bỏ.
+- Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]].
