@@ -57,3 +57,12 @@ tags:
 - Cuối ngày có tin xe đã về, nơi nhận việc được Tông Sảnh xác minh và yêu cầu trình lời sáng sau. Đinh Bá Nghiêm chưa trực tiếp xuất hiện/đối mặt trong Chương 56; người viết, người đặt, người mua cuối và việc ai chạm thuốc vẫn chưa giải.
 - Kỷ Hành Chu chưa nhận lại thẻ hoặc được phục hồi lượt việc. Không đóng toàn quầy/giữ những phu khác, không suy con dấu thành phe bí mật hoặc nối mạng thuốc với Hắc Nha/Tả tiên sinh.
 - Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]].
+
+## Trạng thái mới theo bản thảo Chương 57
+
+- Không có cảnh trực tiếp mới tại Nam Phố. Buổi trình ở Tông Sảnh đối người của chuỗi giao cũ: Phan Kính nhận Đinh Bá Nghiêm, Đinh Bá Nghiêm nhận đã đem tờ đổi quầy cho Phan Kính. Không nâng lời buổi trình thành nhân vật trực tiếp nhìn lại chặng hàng cũ.
+- **Theo lời Đinh Bá Nghiêm:** Sau nhận phiếu quầy, tới bàn nhận giấy cửa bên [[Dược Phường Hòa Sinh]], chép mặt sau theo người thuê đọc rồi đem cho Phan Kính; đây là lượt công ngoài phần quầy tính. Thời điểm/nơi viết và người đọc còn là lời cần đối, không tự chứng minh mặt sau trắng lúc rời quầy.
+- **Vật và nguồn trả lời:** Phiếu công gốc có biên nhận, trang sổ liên quan được sao. Bản trả lời có xác nhận đối được công năng dấu tại bàn nhận giấy giao Hòa Sinh và lượt chép/chuyển lời mang tên Đinh Bá Nghiêm; chưa có đối người đọc, người mua hoặc việc ai chạm hòm/thuốc. Không tự đặt bàn Hòa Sinh trong địa giới Nam Phố nếu chưa có bản chương xác nhận.
+- Phan Kính từ chối một lượt mới Đinh Bá Nghiêm đề nghị khi không biết người thuê; có thể hỏi lại nếu người thuê tới. Một hợp tác bị mất, chưa mất mọi công việc hoặc chịu phán quyết toàn chuyến. Kỷ Hành Chu chưa đối mặt Đinh Bá Nghiêm, người yêu cầu đổi tại quầy vẫn chưa nhận diện.
+- Nguồn dấu/quầy thuê sân không chứng minh Hạ Gia đứng sau hai hòm hoặc quản lý toàn Nam Phố. Cảnh Thẩm Từ Nghi tại viện thuộc giao dịch nguyên liệu khác, không nối Thẩm Gia với mạng thuốc. Các mạng vẫn được theo dõi riêng.
+- Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]], [[Đinh Bá Nghiêm]], [[Phan Kính]], [[Dược Phường Hòa Sinh]].

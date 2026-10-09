@@ -100,3 +100,12 @@ Xem [[Triết Lý Văn Học Và Nhịp Điệu Bi Kịch]], [[Triển Khai Hệ
 - **Qua Lâm Uyên kể:** Biết việc hai mặt tờ đổi, lựa chọn của Phan Kính và việc Kỷ Hành Chu chưa nhận Đinh Bá Nghiêm; không trực tiếp dự hỏi, gặp các người ấy hoặc xác định ai viết mặt sau/người mua.
 - Khoản chăm trẻ chưa quyết toán cuối, hai thanh gỗ trạm mượn chưa có tin đóng giá. Không tự bù/xóa các khoản còn chờ; biến cố qua đời và tai nạn nhà trú vẫn thuộc tương lai, chưa xảy ra.
 - Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]].
+
+## Trạng thái mới theo bản thảo Chương 57
+
+- Còn sống tại Tế Sinh Viện; xem tay Lâm Uyên trước lượt đi, dặn tránh mép bàn cọ băng. Không có biến cố nhà trú, truyền công hoặc năng lực chữa khỏi mới.
+- Trực tiếp làm việc với Thẩm Từ Nghi trong lượt kiểm nguyên liệu theo hẹn: lấy mẫu từng bao ra đĩa riêng, để Lâm Uyên giữ thẻ theo từng phần. Không trộn hai ngày sơ chế, không giao Lâm Uyên quyết phần dùng được; nói còn cần biết vị, lúc hái và cách giữ.
+- Viện chủ quyết mua phần đã kiểm phù hợp. Ông hỏi để lại phần chưa kiểm một buổi, không tự nhận mọi bao là thuốc dùng được; viện chủ xác nhận nơi kê/lượng/giờ kiểm và trách nhiệm giữ riêng. Một bao chưa kiểm ở lại giữ hộ, bao khác theo xe về; không tăng Dược Khế để trả hàng.
+- Hai thanh gỗ trạm trả được người trực kê dưới sạp giữ bao chờ; đã hết khoản mượn này, không là vật tư chống núi. Khoản chăm trẻ tiếp tục riêng, chưa quyết toán cuối.
+- **Qua Lâm Uyên kể:** Biết Đinh Bá Nghiêm tự nhận chép điều kiện và Phan Kính từ chối lượt mới. Dặn giữ nguyên lời đã đáp/hành động đã nhận, không tự dự trình lời, biết người đọc hoặc kết luận người mua.
+- Tiếp hướng dẫn cất/kiểm thẻ mẫu trước nghỉ; chưa cho tự cân/phối thuốc. Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]].

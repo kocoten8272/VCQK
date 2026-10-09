@@ -34,13 +34,13 @@ Nhân vật dân sinh, Tế Sinh Viện, Nam Phố và các cơ quan/nhà có ho
 - [Hạ Đình Khôi](H%E1%BA%A1%20%C4%90%C3%ACnh%20Kh%C3%B4i.md) — `de-xuat` — Thành viên **đề xuất**, chưa xuất hiện trong chương truyện. Hồ sơ này triển khai từ gia phả dự kiến; tên, tuổi, quan hệ và tiểu sử có thể thay đổi trước khi được tác giả chốt.
 - [Hạ Đình Vận](H%E1%BA%A1%20%C4%90%C3%ACnh%20V%E1%BA%ADn.md) — `de-xuat` — Thành viên **đề xuất**, chưa xuất hiện trong chương truyện. Hồ sơ này triển khai từ gia phả dự kiến; tên, tuổi, quan hệ và tiểu sử có thể thay đổi trước khi được tác giả chốt.
 
-## Thẩm Gia — hồ sơ đề xuất
+## Thẩm Gia — thiết kế đã duyệt và bản thảo
 
 - [Thẩm Chấn Nông](Th%E1%BA%A9m%20Ch%E1%BA%A5n%20N%C3%B4ng.md) — `de-xuat` — Thành viên **đề xuất**, chưa xuất hiện trong chương truyện. Hồ sơ này triển khai từ gia phả dự kiến; tên, tuổi, quan hệ và tiểu sử có thể thay đổi trước khi được tác giả chốt.
 - [Thẩm Hoài Sinh](Th%E1%BA%A9m%20Ho%C3%A0i%20Sinh.md) — `de-xuat` — Thành viên **đề xuất**, chưa xuất hiện trong chương truyện. Hồ sơ này triển khai từ gia phả dự kiến; tên, tuổi, quan hệ và tiểu sử có thể thay đổi trước khi được tác giả chốt.
 - [Thẩm Hương Dật](Th%E1%BA%A9m%20H%C6%B0%C6%A1ng%20D%E1%BA%ADt.md) — `de-xuat` — Thành viên **đề xuất**, chưa xuất hiện trong chương truyện. Hồ sơ này triển khai từ gia phả dự kiến; tên, tuổi, quan hệ và tiểu sử có thể thay đổi trước khi được tác giả chốt.
 - [Thẩm Minh Châu](Th%E1%BA%A9m%20Minh%20Ch%C3%A2u.md) — `de-xuat` — Thành viên **đề xuất**, chưa xuất hiện trong chương truyện. Hồ sơ này triển khai từ gia phả dự kiến; tên, tuổi, quan hệ và tiểu sử có thể thay đổi trước khi được tác giả chốt.
-- [Thẩm Từ Nghi](Th%E1%BA%A9m%20T%E1%BB%AB%20Nghi.md) — `de-xuat` — Thành viên **đề xuất**, chưa xuất hiện trong chương truyện. Hồ sơ này triển khai từ gia phả dự kiến; tên, tuổi, quan hệ và tiểu sử có thể thay đổi trước khi được tác giả chốt.
+- [Thẩm Từ Nghi](Th%E1%BA%A9m%20T%E1%BB%AB%20Nghi.md) — `da-xuat-hien` — CHAR-042, hạng B; gia chủ Thẩm Gia, trực tiếp Chương 57 đem nguyên liệu/đối điều kiện mua và giữ hộ tại viện. Tuổi/gia phả là thiết kế duyệt chưa tự lộ.
 - [Thẩm Vãn Đường](Th%E1%BA%A9m%20V%C3%A3n%20%C4%90%C6%B0%E1%BB%9Dng.md) — `de-xuat` — Thành viên **đề xuất**, chưa xuất hiện trong chương truyện. Hồ sơ này triển khai từ gia phả dự kiến; tên, tuổi, quan hệ và tiểu sử có thể thay đổi trước khi được tác giả chốt.
 
 ## Bùi Gia — hồ sơ đề xuất
@@ -56,9 +56,10 @@ Nhân vật dân sinh, Tế Sinh Viện, Nam Phố và các cơ quan/nhà có ho
 
 - [Phan Kính](Phan%20K%C3%ADnh.md) — `da-xuat-hien` — Người coi hàng có mặt Chương 47, gọi tên Chương 55; trực tiếp Chương 56 bàn giao tờ đổi gốc và trình lời. Chưa biết người mua/người viết mặt sau.
 
-## Chỉ được nhắc qua lời và hồ sơ
+## Người làm xe đã trực tiếp trình lời
 
-- [Đinh Bá Nghiêm](%C4%90inh%20B%C3%A1%20Nghi%C3%AAm.md) — `duoc-nhac-den` — CHAR-060; tên ở lời Phan Kính và sổ nhận phiếu Chương 56. Qua tin đã gửi yêu cầu trình lời; chưa trực tiếp xuất hiện hoặc xác nhận tác giả mặt sau.
+- [Đinh Bá Nghiêm](%C4%90inh%20B%C3%A1%20Nghi%C3%AAm.md) — `da-xuat-hien` — CHAR-060, hạng C; tên Chương 56, lần đầu trực tiếp Chương 57. Nhận giao phiếu/chép mặt sau, nguồn thuê vẫn cần kiểm.
+
 
 ## Quy ước của thư mục
 

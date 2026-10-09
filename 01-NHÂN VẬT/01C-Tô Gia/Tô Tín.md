@@ -63,3 +63,11 @@ Tuổi, gia đình, cảnh giới, thời điểm hồi phục và đường đi
 - Yêu cầu gửi bản có giới hạn ấy và lần sau đem cả phần không làm được; muốn nghe người thực sự thử trình kết quả. Chấp sự nhận đề nghị tìm điểm khác để trình người duyệt, chưa cấp lệnh vào hầm.
 - Vị trí thi thể hiện tại vẫn chưa biết; Tô Lạc và miếng đồng chưa được thu hồi. Không vẽ đường vòng như đã thấy, không xóa tên Tô Lạc hoặc biến trì hoãn thành từ bỏ.
 - Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]].
+
+## Trạng thái mới theo bản thảo Chương 57
+
+- Còn ở Tế Sinh Viện, nạng cạnh giường; không tự đi núi hoặc có mốc hồi phục mới.
+- Nhận phiếu mới cho phương án thử nền khác bên ngoài cọc làm tiếp. Đây là quyền tiếp tục khảo sát/thử, chưa có kết quả điểm mới đạt hoặc lệnh vào hầm.
+- Hỏi ai thực sự đi thử và nhờ giữ kết quả đem về. Giới hạn đường gần chưa chịu chống ở Chương 56 không bị phiếu mới xóa.
+- Tô Lạc/miếng đồng vẫn chưa thu hồi, vị trí thi thể sau sập chưa xác minh. Hai thanh gỗ trả từ trạm dùng kê sạp ở viện, không điều sang Hắc Phong Sơn.
+- Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]].

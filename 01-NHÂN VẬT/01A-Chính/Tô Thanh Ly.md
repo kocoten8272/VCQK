@@ -89,3 +89,12 @@ Nguồn: [[Chương 43]], [[Chương 50]], [[Chương 51]], [[Chương 52]], [[T
 - Xin gọi Đinh Bá Nghiêm và đối cả mặt sau; không giữ những phu khác thay người cần hỏi. Kỷ Hành Chu chưa nhận tên ấy là người mình từng thấy; giữ riêng giới hạn lời khai.
 - Hồ sơ chìa vẫn ở Tông Sảnh, chờ người nhận giỏ; trang gốc vẫn mất, bản nhớ còn hai chữ chưa chắc. Không nối thuốc/chìa hoặc Hắc Nha/Tả tiên sinh.
 - Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]].
+
+## Trạng thái mới theo bản thảo Chương 57
+
+- Theo giấy bổ sung/hộ tống dự buổi trình lời tại Tông Sảnh rồi về viện. Tay phải còn thương, dùng tay trái; Dược Khế bốn tháng, kiếm làm bảo chứng và giới hạn đi lại chưa gỡ.
+- Chứng kiến Phan Kính nhận người, Đinh Bá Nghiêm nhận giao phiếu và tự chép mặt sau; lời về viết/nguồn thuê vẫn là tự nhận, không có người trong buổi thấy lần viết trước. Chưa đối mặt Đinh Bá Nghiêm với Kỷ Hành Chu; không gộp người yêu cầu đổi nơi giao.
+- Đọc chỗ đối công Dược Phường Hòa Sinh trên phiếu riêng. Hỏi việc đối công/người tại bàn cửa bên, giữ riêng điểm gặp, khả năng nhận lại người và tri thức về người mua. Người được hỏi chưa thấy người đọc nhận hòm, mở hàng hoặc nhấc niêm.
+- Không tự theo lệnh xác minh tới dược phường. Cuối ngày đọc bản trả lời xác nhận nguồn dấu/phần lưu lượt chép/chuyển lời, xin Tông Sảnh chuẩn bị giấy đối mới; chưa mở kho hay đưa Đinh Bá Nghiêm đi nhận người.
+- Tại viện được Thẩm Từ Nghi chào trong buổi giao nguyên liệu; không tự thành giao dịch Dược Khế hoặc bằng chứng nối Thẩm Gia với lô Xích Tủy Tán.
+- Tuyến chìa/trang mất không có kết quả mới trong chương; hai mạng lưới chưa được nối. Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]].

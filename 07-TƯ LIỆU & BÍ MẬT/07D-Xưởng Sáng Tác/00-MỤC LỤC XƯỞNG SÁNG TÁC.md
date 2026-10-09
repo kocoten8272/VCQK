@@ -1,7 +1,7 @@
 ---
 type: muc-luc-xuong-sang-tac
 status: hoan-thien
-updated: 2026-10-08
+updated: 2026-10-09
 tags:
   - thu-vien
   - tra-cuu
@@ -16,12 +16,14 @@ tags:
 | ID | Tài liệu | Nhóm | Trạng thái | Dùng khi |
 | --- | --- | --- | --- | --- |
 | REF-001 | [[REF-001-Nguồn Về Sinh Tồn Và Giới Hạn]] | Nguồn tham khảo | verified | Cần xem nguồn thật đã đọc và phạm vi của bốn trang |
+| REF-002 | [[REF-002-Nguồn Về Trả Lời Bí Ẩn Và Chức Năng Cảnh]] | Nguồn tham khảo | verified | Đoạn đọc trang Microcasting chính thức, phạm vi và trả lời điều đã hứa |
 | PAT-001 | [[PAT-001-Giới Hạn Làm Thay Đổi Lựa Chọn]] | Mẫu kỹ thuật | ready | Cảnh có giải pháp quá dễ, cái giá chưa ảnh hưởng hoặc chuẩn bị thêm hệ thống |
 | SEED-001 | [[SEED-001-Ngày Công Bị Bỏ Trống]] | Chất liệu VCQK | seed | Hệ quả công việc của việc trình lời; phẩm giá người làm nghề |
 | SEED-002 | [[SEED-002-Một Thanh Chống Hai Lời Hứa]] | Chất liệu VCQK | seed | Chuẩn bị vật tư Hắc Phong Sơn; năng lực hữu hạn và trách nhiệm với người sống |
 | LOG-001 | [[LOG-001-Khởi Tạo Bộ Nhớ Sáng Tác]] | Phản hồi/áp dụng | recorded | Tra cơ sở học, nguồn phản hồi và việc chưa có kết quả sử dụng |
 | LOG-002 | [[LOG-002-Áp Dụng Kỹ Thuật Trong Chương 55]] | Phản hồi/áp dụng | recorded | Phần kỹ thuật đã dùng, giới hạn và các lỗi cục bộ được sửa ở Ch55 |
 | LOG-003 | [[LOG-003-Áp Dụng Kỹ Thuật Trong Chương 56]] | Phản hồi/áp dụng | recorded | Đào sâu vai cũ, vật gốc hai mặt, kết quả thử chống và giới hạn nguồn lời Ch56 |
+| LOG-004 | [[LOG-004-Áp Dụng Kỹ Thuật Trong Chương 57]] | Phản hồi/áp dụng | recorded | Cuộc gặp có kết quả, nguồn mới, Thẩm Từ Nghi và việc cũ khép được |
 
 Các seed chưa được dùng trong chương. Không lấy chúng làm căn cứ xác nhận tiền công, hợp đồng hoặc tiến độ chống vách.
 
@@ -61,3 +63,7 @@ Mỗi nhóm đã có file thật. Chỉ mở nhóm mới khi nội dung không h
 ## Áp dụng ở Chương 56
 
 PAT-001 được dùng tiếp với lựa chọn bàn giao giấy và ghi hạn chế đường khảo sát. Tra [[LOG-003-Áp Dụng Kỹ Thuật Trong Chương 56]] trước khi viết tiếp; không lặp câu hỏi sổ nếu không thay đổi việc. SEED-001/002 vẫn chưa dùng. Đinh Bá Nghiêm có hồ sơ chính CHAR-060 ở01D; Phan Kính cùng trạng thái mới lưu ở node chính/04E.
+
+## Áp dụng ở Chương 57
+
+Tra REF-002/LOG-004 cho phần kỹ thuật mới, PAT-001 cho giới hạn đã dùng. SEED-001/002 chưa dùng. Node Hòa Sinh ở02B và hai người đã có hồ sơ chính; không lưu một dàn người/thế lực thứ hai tại Xưởng.

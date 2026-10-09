@@ -83,7 +83,7 @@ Mẫu dùng khi lập hồ sơ: [Mẫu Hồ Sơ Nhân Vật](M%E1%BA%AAU%20H%E1%
 
 - [Kỷ Hành Chu](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/K%E1%BB%B7%20H%C3%A0nh%20Chu.md) — `da-xuat-hien`
 - [Phan Kính](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Phan%20K%C3%ADnh.md) — `da-xuat-hien`
-- [Đinh Bá Nghiêm](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/%C4%90inh%20B%C3%A1%20Nghi%C3%AAm.md) — `duoc-nhac-den`
+- [Đinh Bá Nghiêm](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/%C4%90inh%20B%C3%A1%20Nghi%C3%AAm.md) — `da-xuat-hien`
 - [Lão Bán Pháp Khí](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/L%C3%A3o%20B%C3%A1n%20Ph%C3%A1p%20Kh%C3%AD.md) — `da-xuat-hien`
 - [Mạnh Thanh Tễ](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/M%E1%BA%A1nh%20Thanh%20T%E1%BB%85.md) — `da-xuat-hien`
 - [Trần Dực](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Tr%E1%BA%A7n%20D%E1%BB%B1c.md) — `da-xuat-hien`
@@ -103,7 +103,7 @@ Mẫu dùng khi lập hồ sơ: [Mẫu Hồ Sơ Nhân Vật](M%E1%BA%AAU%20H%E1%
 
 #### Thẩm Gia — dược điền
 - [Thẩm Chấn Nông](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Th%E1%BA%A9m%20Ch%E1%BA%A5n%20N%C3%B4ng.md) — `de-xuat`
-- [Thẩm Từ Nghi](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Th%E1%BA%A9m%20T%E1%BB%AB%20Nghi.md) — `de-xuat`
+- [Thẩm Từ Nghi](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Th%E1%BA%A9m%20T%E1%BB%AB%20Nghi.md) — `da-xuat-hien`
 - [Thẩm Minh Châu](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Th%E1%BA%A9m%20Minh%20Ch%C3%A2u.md) — `de-xuat`
 - [Thẩm Hoài Sinh](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Th%E1%BA%A9m%20Ho%C3%A0i%20Sinh.md) — `de-xuat`
 - [Thẩm Hương Dật](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Th%E1%BA%A9m%20H%C6%B0%C6%A1ng%20D%E1%BA%ADt.md) — `de-xuat`
@@ -133,7 +133,7 @@ Mẫu dùng khi lập hồ sơ: [Mẫu Hồ Sơ Nhân Vật](M%E1%BA%AAU%20H%E1%
 - [Người Áo Đen (chưa rõ danh tính)](01F-Th%E1%BA%BF%20L%E1%BB%B1c%20B%C3%AD%20%E1%BA%A8n/Ng%C6%B0%E1%BB%9Di%20%C3%81o%20%C4%90en%20%28ch%C6%B0a%20r%C3%B5%20danh%20t%C3%ADnh%29.md) — `da-xuat-hien`
 - [Hắc Nha](01F-Th%E1%BA%BF%20L%E1%BB%B1c%20B%C3%AD%20%E1%BA%A8n/H%E1%BA%AFc%20Nha.md) — `chua-xuat-hien`
 
-## Nhân vật đã xuất hiện trong truyện (đối chiếu đến hết Chương 56)
+## Nhân vật đã xuất hiện trong truyện (đối chiếu đến hết Chương 57)
 
 > Danh sách này chỉ ghi người có mặt trong cảnh, được gọi tên trong lời kể/hồi ức có căn cứ, hoặc có vai trò cá nhân rõ. Nhân vật đề xuất và người chỉ được nhắc qua lời khai được tách riêng. Hồ sơ vẫn có thể ghi tuổi, cảnh giới hoặc quá khứ là “chưa nêu” nếu bản thảo chưa xác nhận.
 
@@ -175,10 +175,10 @@ Mẫu dùng khi lập hồ sơ: [Mẫu Hồ Sơ Nhân Vật](M%E1%BA%AAU%20H%E1%
 
 - [Người Áo Đen (chưa rõ danh tính)](01F-Th%E1%BA%BF%20L%E1%BB%B1c%20B%C3%AD%20%E1%BA%A8n/Ng%C6%B0%E1%BB%9Di%20%C3%81o%20%C4%90en%20(ch%C6%B0a%20r%C3%B5%20danh%20t%C3%ADnh).md) — các lần xuất hiện được ghi riêng; chưa kết luận là một tổ chức duy nhất.
 
+- [Đinh Bá Nghiêm](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/%C4%90inh%20B%C3%A1%20Nghi%C3%AAm.md) — tên Chương 56, trực tiếp Chương 57 nhận phần giao/chép; lời về người thuê còn cần đối.
+- [Thẩm Từ Nghi](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Th%E1%BA%A9m%20T%E1%BB%AB%20Nghi.md) — gia chủ Thẩm Gia, trực tiếp Chương 57 trong giao dịch nguyên liệu tại viện.
+
 ### Chỉ được nhắc đến, chưa trực tiếp xuất hiện
-
-- [Đinh Bá Nghiêm](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/%C4%90inh%20B%C3%A1%20Nghi%C3%AAm.md) — phu xe Nam Phố, tên lần đầu Chương 56; lời Phan Kính và sổ nhận phiếu, chưa trực tiếp trình lời.
-
 
 - [Tả Tiên Sinh (danh xưng, chưa rõ danh tính)](01F-Th%E1%BA%BF%20L%E1%BB%B1c%20B%C3%AD%20%E1%BA%A8n/T%E1%BA%A3%20Ti%C3%AAn%20Sinh%20(danh%20x%C6%B0ng%2C%20ch%C6%B0a%20r%C3%B5%20danh%20t%C3%ADnh).md) — được nhắc qua lời Trần Dực; chưa xác minh danh tính hoặc liên hệ với người mua thuốc.
 
@@ -188,7 +188,7 @@ Mẫu dùng khi lập hồ sơ: [Mẫu Hồ Sơ Nhân Vật](M%E1%BA%AAU%20H%E1%
 
 ## Theo dõi trạng thái hiện tại
 
-Trạng thái mỗi người nằm trong frontmatter của hồ sơ. Danh sách “đã xuất hiện” ở trên được đối chiếu với Chương 1–56; mốc chi tiết và kiểu xuất hiện xem [[03-SỔ THEO DÕI LẦN XUẤT HIỆN]]. Những nhân vật mới được đặt hồ sơ tạm có thể chưa có tuổi, cảnh giới hoặc tên thật; không điền suy đoán thành canon.
+Trạng thái mỗi người nằm trong frontmatter của hồ sơ. Danh sách “đã xuất hiện” ở trên được đối chiếu với Chương 1–57; mốc chi tiết và kiểu xuất hiện xem [[03-SỔ THEO DÕI LẦN XUẤT HIỆN]]. Những nhân vật mới được đặt hồ sơ tạm có thể chưa có tuổi, cảnh giới hoặc tên thật; không điền suy đoán thành canon.
 
 | Trạng thái | Ý nghĩa |
 | --- | --- |
@@ -215,7 +215,6 @@ Trạng thái mỗi người nằm trong frontmatter của hồ sơ. Danh sách 
 - [[MỐI QUAN HỆ]]
 - [[Gia Phả Và Cơ Cấu Nhân Sự Các Thế Lực]]
 - [[VẠN CỔ QUY KHƯ MENU]]
-
 
 ## Hệ thống dữ liệu nhân vật
 

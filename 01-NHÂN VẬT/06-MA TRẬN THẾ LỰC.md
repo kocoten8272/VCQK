@@ -64,3 +64,19 @@ Các nhà/nhân vật gia phả khác vẫn là thiết kế chưa trực tiếp
 Giữ riêng chuỗi mua/chuyển thuốc, Hắc Nha/Người Áo Đen, Tả Tiên Sinh và người lấy trang Tàng Thư Các; Ch56 chưa có chứng cứ độc lập nối các mạng.
 
 Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]], [[Đinh Bá Nghiêm]], [[Phan Kính]].
+
+## Liên hệ nghề nghiệp được thể hiện/kiểm nguồn ở Chương 57
+
+| Địa bàn/cơ quan | Người/nhóm | Liên hệ theo nguồn | Giới hạn |
+| --- | --- | --- | --- |
+| Thẩm Gia | Thẩm Từ Nghi | Gia chủ được giới thiệu trực tiếp; đem nguyên liệu/thẻ sơ chế theo hẹn kiểm tại Tế Sinh Viện | Đây là lần đầu nhân vật trực tiếp Ch57. Gia phả đã duyệt vẫn là thiết kế với phần chưa thể hiện; không làm các thành viên khác xuất hiện theo. |
+| Tế Sinh Viện | Thẩm Từ Nghi, Mạnh Thanh Tễ, viện chủ | Đối mẫu, mua phần phù hợp đã kiểm; giữ hộ một bao, trả bao khác; điều khoản riêng về lượng/giờ/báo trước xe | Giao dịch nguyên liệu mới, không gắn vào Dược Khế Lâm Uyên/Tô Thanh Ly, không nối Thẩm Gia với mạng thuốc bến. |
+| Quầy Nam Phố | Đinh Bá Nghiêm | Trực tiếp nhận phiếu quầy và khâu giao cho Phan Kính; tự nhận thêm lượt chép/chuyển lời ngoài phần quầy tính | Theo lời hắn, quầy không giao viết mặt sau; thời điểm/nơi/người đọc còn phải đối. Không miễn trách nhiệm cá nhân hoặc suy thành viên Hạ Gia. |
+| Dược Phường Hòa Sinh | Đinh Bá Nghiêm | Phiếu công/trang sổ; R từ văn bản trả lời: phần lưu có lượt chép/chuyển lời mang tên, dấu dùng tại bàn nhận giấy giao | Khâu nghề nghiệp có đối nguồn về dấu/lượt, chưa nhận người thuê/người đọc hoặc chủ mua cuối. |
+| Bàn nhận giấy cửa bên Hòa Sinh | Người được Đinh Bá Nghiêm gọi là người giữ việc giao | Chỉ lời tự nhận: gặp, được đọc cho chép và hẹn đối công tại bàn; tên chưa rõ | Không tự đồng nhất mọi người giữ bàn/người trả lời văn bản hoặc suy dược phường là chủ mưu. Chưa có cảnh trực tiếp/đối người. |
+| Thuyền thuê / việc coi hàng | Phan Kính | Từ chối một lượt mới Đinh Bá Nghiêm đề nghị khi không có người thuê tới | Lựa chọn nghề nghiệp cá nhân, không phải hình phạt Tông Sảnh hoặc mất mọi việc của Đinh Bá Nghiêm. |
+| Tông Sảnh | Tạ Nghiên Chi, chấp sự theo nhiệm vụ | Lấy lời/nhận phần giấy cần đối, yêu cầu xác minh dấu và chuẩn bị buổi kế | Không giữ toàn sổ công, không hứa tiền thuê, không cấp quyền tự tới Hòa Sinh/mở mọi kho hoặc vào HFS. |
+
+Mốc chuẩn bị của Thẩm Gia trong bảng nền được triển khai một phần bằng cảnh Ch57; các gia phả/nhân vật còn lại chưa thành sự kiện chỉ vì cùng nhà. Các mạng Hắc Nha/Người Áo Đen, Tả Tiên Sinh, đường thuốc và người lấy trang vẫn độc lập.
+
+Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]], [[Thẩm Gia]], [[Thẩm Từ Nghi]], [[Dược Phường Hòa Sinh]].

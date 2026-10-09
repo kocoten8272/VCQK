@@ -94,3 +94,12 @@ Giữ sổ trực và cung cấp lời chứng hữu hạn về ca trực, con d
 - **Lời Phan Kính:** Đinh Bá Nghiêm trao giấy có sẵn chữ mặt sau/chuyển điều kiện, có thể nhận người. Ghi nhận dạng riêng; Kỷ Hành Chu vẫn chưa nhận ra người yêu cầu đổi, không ép ghép hai lời.
 - Cuối ngày đem tin xe đã về, người của Tông Sảnh xác minh đúng Đinh Bá Nghiêm theo nơi nhận việc và gửi yêu cầu trình lời sáng sau. Chưa lấy lời/đối mặt mới, chưa biết người viết, người đặt hoặc người mua cuối; không nối hai mạng lưới.
 - Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]].
+
+## Trạng thái mới theo bản thảo Chương 57
+
+- Dự trình lời tại Tông Sảnh, mở tờ đổi gốc trên vải sạch. Ghi Phan Kính nhận người và Đinh Bá Nghiêm nhận giao phiếu số mười bảy; không lấy việc tới đúng giờ làm chứng minh mọi lời.
+- **Lời Đinh Bá Nghiêm:** Tự chép mặt sau sau khi nhận phiếu, theo người thuê đọc tại bàn nhận giấy cửa bên Dược Phường Hòa Sinh; nhận lượt chép/chuyển lời ngoài quầy. Ghi giới hạn chưa thấy người đọc nhận hòm, không biết người mua cuối, không nhận đã yêu cầu Kỷ Hành Chu đổi chỗ dỡ.
+- Đọc phiếu công riêng, cho sao trang sổ liên quan và giữ câu người thuê chưa trả hết công. Chấp sự nhận phiếu gốc có biên nhận, không giữ cả sổ; không hứa trả tiền hoặc kết luận thuốc bị thay. Nhận viết vẫn là tự nhận, không có nhân chứng trong buổi đã thấy lần viết cũ.
+- Chứng kiến Phan Kính từ chối lượt mới chỉ có giấy không biết người thuê, không ghi thành lệnh cấm việc chung. Đinh Bá Nghiêm ký theo từng phần mình khai, chưa có phán quyết toàn chuyến.
+- Cuối ngày đem bản trả lời có xác nhận từ Hòa Sinh: dấu phiếu dùng tại bàn nhận giấy giao, phần lưu có lượt chép/chuyển lời mang tên Đinh Bá Nghiêm, đồng ý mở phần đối công buổi kế. Nguồn này xác minh điểm/dấu/lượt lưu, chưa xác minh danh tính người đọc hoặc người mua.
+- Hồ sơ chìa tiếp riêng, không có lời mới/trang được tìm lại. Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]].

@@ -112,3 +112,19 @@ Nguồn: [[Chương 55]], [[Trạng Thái Truyện Sau Chương 55]]. Không gi�
 Chuỗi chìa/trang vẫn chờ riêng tại Tông Sảnh; không đem tờ chìa theo buổi thuốc và không dùng kết quả hai mặt phiếu giải thay. Không thêm bí ẩn cấp thế giới hoặc nối Hắc Nha/Người Áo Đen, Tả Tiên Sinh, Di Kỷ Tộc với mạng mua thuốc. Trách nhiệm giữ hàng của Phan Kính được ghi cả khi hắn hợp tác giao giấy.
 
 Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]], [[Phan Kính]], [[Đinh Bá Nghiêm]].
+
+## Đầu mối tiến triển theo bản thảo Chương 57
+
+| Câu hỏi | Kết quả cục bộ / nguồn | Phần chưa giải và bước tiếp |
+| --- | --- | --- |
+| Ai đưa tờ đổi tới Phan Kính? | Đinh Bá Nghiêm lần đầu trực tiếp; Phan Kính nhận người, Đinh Bá Nghiêm nhận giao phiếu số mười bảy. | Khâu giao có lời nhận hai bên; không tự làm đúng mọi nội dung về người thuê hoặc thời điểm viết. |
+| Ai chép mặt sau và theo lời ai? | Đinh Bá Nghiêm tự nhận chép sau khi lấy phiếu quầy, tại bàn nhận giấy cửa bên Hòa Sinh, theo điều một người thuê đọc; nhận thêm lượt công ngoài quầy. | Chưa nhân chứng lần viết/đối người đọc, chưa tên thật người thuê hoặc chứng minh người đọc, người giữ công và người mua là một. |
+| Nơi hẹn đối công/dấu phiếu có thật không? | Phiếu gốc/trang sổ cần đối đã được nhận/sao có biên nhận; R: bản trả lời xác nhận dấu ở bàn nhận giấy giao Hòa Sinh và phần lưu có lượt chép/chuyển lời mang tên Đinh Bá Nghiêm. | Đã có nguồn độc lập về dấu/chức năng/lượt công, chưa nhận người đọc hoặc xác định dược phường/người giữ bàn là chủ mưu. Chuẩn bị đối công đúng phạm vi ở buổi kế. |
+| Đinh Bá Nghiêm có phải người yêu cầu đổi tại quầy? | Hắn không nhận đã yêu cầu Kỷ Hành Chu đổi chỗ dỡ; chưa có cuộc đối mặt hai người. | Giữ lời từng nguồn, chưa giải nhận diện cũ chỉ vì có tên người giao giấy. |
+| Sự hợp tác giữa hai người chở hàng thay đổi gì? | Phan Kính từ chối một lượt mới thiếu người thuê; nếu gọi được người thuê tới có thể hỏi lại. | Một mất mát cụ thể trong nghề, không là bằng chứng chủ mưu hoặc hình phạt mất mọi việc/bắt giam. |
+| Có thể đưa Tô Lạc về chưa? | Phương án thử nền khác ngoài cọc đã được cho làm tiếp, Tô Tín yêu cầu giữ kết quả đem về. | Mới được phép thử, chưa kết quả/lệnh vào hầm/thu thi thể hoặc miếng đồng; không nâng lời duyệt thành an toàn. |
+| Khoản mượn gỗ trạm đã xong chưa? | Hai thanh trả đủ, có phiếu đã dùng kê giá lúc sửa; viện nhận, dùng kê sạp nhỏ hiện có cho bao nguyên liệu chờ. | Khép khoản vật mượn, không khép tiền chăm trẻ; không nhập với vật tư chống HFS. |
+
+Cảnh Thẩm Từ Nghi bán/giữ hộ nguyên liệu mở hoạt động nghề nghiệp của Thẩm Gia, không gieo bằng chứng về mạng mua thuốc hoặc biến cố mái trú. Mạnh Thanh Tễ còn sống. Chuỗi chìa/trang và các bí ẩn lớn giữ riêng, không nối Hắc Nha/Người Áo Đen, Tả Tiên Sinh, Di Kỷ Tộc qua tên Hòa Sinh.
+
+Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]], [[Dược Phường Hòa Sinh]], [[Đinh Bá Nghiêm]], [[Thẩm Từ Nghi]].

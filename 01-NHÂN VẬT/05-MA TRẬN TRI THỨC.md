@@ -95,3 +95,21 @@ Tô Thanh Ly là người có mặt tại thuyền Ch47; Lâm Uyên biết phầ
 Lâm Uyên lần đầu tới bến phía nam Ch56; hiểu biết về buổi Ch47 vẫn từ hồ sơ/lời kể. Mặt sau có chỉ dẫn đòi lời khai trên bản gốc đã nhận; thời điểm viết và người viết chưa xác định. Không nối Hắc Nha/Người Áo Đen, Tả Tiên Sinh, đường thuốc và vụ trang giấy.
 
 Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]].
+
+## Cập nhật theo bản thảo Chương 57
+
+| Người | Tri thức theo nguồn | Giới hạn |
+| --- | --- | --- |
+| Lâm Uyên, Tô Thanh Ly, Tạ Nghiên Chi | K: chứng kiến Phan Kính nhận Đinh Bá Nghiêm và cả hai nhận khâu giao phiếu; nghe Đinh Bá Nghiêm tự nhận chép mặt sau, nhận lượt chép/chuyển lời ngoài công quầy. | Khâu giao có hai lời nhận trước mặt; ai đọc, viết lúc nào/ở đâu vẫn theo lời Đinh Bá Nghiêm, không có nhân chứng trực tiếp lần viết cũ trong buổi này. |
+| Đinh Bá Nghiêm | K theo lời tự nhận: nhận phiếu quầy, chép sau khi lấy phiếu tại bàn nhận giấy cửa bên Hòa Sinh theo điều người thuê đọc, rồi giao Phan Kính; có khoản công ngoài còn chờ. | Chưa biết tên thật người đọc hoặc người mua cuối; không thấy người đó nhận hòm/mở hòm/nhấc sáp. Không tự nhận đã yêu cầu Kỷ Hành Chu đổi chỗ dỡ; chưa đối mặt Kỷ Hành Chu. |
+| Phan Kính | K: nhận người giao trước mặt; nghe Đinh Bá Nghiêm nhận phần viết/chuyển lời, thấy phiếu công và từ chối một lượt mới | Không nhờ nguồn giấy được làm rõ mà xóa việc đã giữ thuốc/kéo dây. Chưa nhận người thuê, chưa biết toàn bộ đầu mối Hòa Sinh. |
+| Lâm Uyên, Tô Thanh Ly, Tạ Nghiên Chi | K: đọc phiếu công gốc/trang sổ liên quan. R: bản trả lời có xác nhận cho biết dấu dùng ở bàn nhận giấy giao Hòa Sinh, phần lưu có lượt chép/chuyển lời mang tên Đinh Bá Nghiêm. | Có đối chiếu độc lập về nơi/công năng dấu/lượt công qua văn bản; chưa có đối người đọc cho chép, chưa chứng minh người giữ bàn là chủ mua hoặc ai can thiệp vào thuốc. |
+| Kỷ Hành Chu | ? về buổi trình Ch57 | Không có mặt mới; tên được người khác nhắc không chứng minh đã biết lời Đinh Bá Nghiêm hoặc thay đổi nhận mặt cũ. |
+| Lâm Uyên | K: gặp Thẩm Từ Nghi, giữ thẻ mẫu theo chỉ dẫn, thấy phần mua/giữ hộ/trả về và hai thanh gỗ đã được trả | Chưa được chọn nguyên liệu sử dụng hoặc quyết kiểm chất lượng; không suy Thẩm Gia biết vụ phiếu/thuốc bến. |
+| Thẩm Từ Nghi, Mạnh Thanh Tễ, viện chủ | K: kiểm/đối phần mẫu, ngày sơ chế/thẻ; giao dịch phần đã kiểm, giữ riêng bao chờ và điều kiện báo kết quả | Vai trồng/sơ chế, kiểm và quyết mua được tách; không biến cả ba bao thành thuốc dùng được. Thẩm Từ Nghi chưa được báo tuyến Hòa Sinh. |
+| Mạnh Thanh Tễ | R: Lâm Uyên kể phần tự nhận chép/chuyển lời và Phan Kính từ chối lượt mới | Không tham dự buổi trình, không biết độc lập người thuê/tác giả hoặc bí mật mạng; vẫn hướng dẫn căn bản và giới hạn sức tay. |
+| Tô Tín, Lâm Uyên | R/K theo cảnh nghe: phương án thử nền khác ngoài cọc đã được cho làm tiếp | Mới cho phép việc thử, chưa kết quả, chưa quyền vào hầm hoặc thu thi thể/miếng đồng. Tô Tín còn nạng tại viện. |
+
+Nguồn lời về thời điểm viết/mặt sau rời quầy vẫn cần đối, không dùng tự nhận để xác nhận mọi phần đúng. Thẩm Từ Nghi và lô nguyên liệu mới thuộc tuyến mua bán của viện, không là chứng cứ về hai hòm Xích Tủy Tán.
+
+Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]], [[Dược Phường Hòa Sinh]].

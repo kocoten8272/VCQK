@@ -8,7 +8,7 @@ tags:
 
 # Sơ Đồ Quan Hệ Nhân Vật
 
-> Bảng nền có căn cứ đến Chương 52; cập nhật Chương 54–56 ở cuối. Đường liền là quan hệ được xác nhận; nét chấm là quan hệ xã hội/đang hình thành. Không suy chức quyền hay huyết thống từ cùng họ.
+> Bảng nền có căn cứ đến Chương 52; cập nhật Chương 54–57 ở cuối. Đường liền là quan hệ được xác nhận; nét chấm là quan hệ xã hội/đang hình thành. Không suy chức quyền hay huyết thống từ cùng họ.
 
 ## Gia đình Lâm Uyên
 
@@ -87,3 +87,19 @@ Không xác lập Kỷ Hành Chu/Phan Kính là thành viên Hạ Gia từ việ
 Người phu xe được nhắc trước đây nay dùng hồ sơ chính [[Đinh Bá Nghiêm]] (CHAR-060), không lập thêm người trung gian trùng vai. Không suy quan hệ huyết thống, tổ chức hoặc chủ mua từ cùng quầy/dấu phiếu.
 
 Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]], [[Phan Kính]], [[Đinh Bá Nghiêm]].
+
+## Liên hệ tiến triển ở Chương 57
+
+| ID A | Nhân vật A | Quan hệ / chuyển biến | ID B | Nhân vật B | Căn cứ và giới hạn |
+| --- | --- | --- | --- | --- | --- |
+| CHAR-059 | Phan Kính | Trực tiếp nhận người giao giấy, cùng nhận việc bàn giao | CHAR-060 | Đinh Bá Nghiêm | Phan Kính gọi đủ tên, Đinh Bá Nghiêm nhận đã đưa tờ đổi. Hai lời nhận củng cố khâu giao, không chứng minh toàn bộ người thuê/nguồn tiền/việc thuốc bị gì. |
+| CHAR-059 | Phan Kính | Từ chối một lượt hợp tác mới | CHAR-060 | Đinh Bá Nghiêm | Không nhận lượt mới chỉ có giấy, thiếu người thuê; nếu gọi được người thuê thì hỏi lại. Chưa cắt mọi hợp tác vĩnh viễn hoặc có lệnh của Tông Sảnh. |
+| CHAR-005 | Lâm Uyên | Hỏi trách nhiệm nhận chuyển điều kiện | CHAR-060 | Đinh Bá Nghiêm | Quan hệ trong buổi trình lời; không trả công để lấy lời, chưa thân hữu/thầy trò hoặc biết hết cuộc sống người này. |
+| CHAR-046 | Tạ Nghiên Chi | Ghi lời và nhận phần giấy liên quan | CHAR-060 | Đinh Bá Nghiêm | Sao phần sổ cần đối, nhận phiếu công gốc có biên nhận; không giữ toàn sổ hoặc xóa phần trách nhiệm đã nhận. |
+| CHAR-042 | Thẩm Từ Nghi | Đối mẫu/điều kiện giao nguyên liệu | CHAR-037 | Mạnh Thanh Tễ | Tiếp xúc nghề nghiệp trực tiếp, giữ thẻ/ngày sơ chế riêng; không xác nhận quan hệ riêng lâu năm. |
+| CHAR-042 | Thẩm Từ Nghi | Bán phần đã kiểm, giao giữ hộ phần chờ | CHAR-047 | Viện Chủ Tế Sinh Viện (chưa rõ tên) | Giao dịch mới với viện, điều khoản giữ riêng/báo trước khi gọi xe; không dùng Dược Khế cũ hoặc nhận mua hết. |
+| CHAR-005 | Lâm Uyên | Tiếp xúc trong việc giữ thẻ mẫu | CHAR-042 | Thẩm Từ Nghi | Gặp trực tiếp, thấy lựa chọn/người làm được trả công; không tạo quan hệ lãng mạn, nợ riêng hoặc người hướng dẫn mới. |
+
+Theo lời Đinh Bá Nghiêm, người đọc cho chép ở bàn cửa bên [[Dược Phường Hòa Sinh]] là người nhận việc/giữ khoản công chưa chốt; tên thật chưa biết và chưa được đối mặt. Văn bản xác minh dấu/lượt công không tự nối người đó với người mua cuối. Kỷ Hành Chu chưa đối mặt Đinh Bá Nghiêm, lời chưa nhận người Ch56 vẫn giữ riêng.
+
+Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]], [[Thẩm Từ Nghi]], [[Đinh Bá Nghiêm]].

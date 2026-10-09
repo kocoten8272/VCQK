@@ -13,6 +13,7 @@ related_nodes:
 used_in_chapters:
   - 55
   - 56
+  - 57
 created: 2026-10-08
 updated: 2026-10-08
 tags:
@@ -24,7 +25,7 @@ tags:
 
 # PAT-001-Giới Hạn Làm Thay Đổi Lựa Chọn
 
-> Mẫu kỹ thuật do người viết thiết kế cho VCQK từ [[REF-001-Nguồn Về Sinh Tồn Và Giới Hạn]]. `ready` nghĩa là dùng được để lập cảnh; đã áp dụng có phạm vi ở bản thảo Chương 55–56.
+> Mẫu kỹ thuật do người viết thiết kế cho VCQK từ [[REF-001-Nguồn Về Sinh Tồn Và Giới Hạn]]. `ready` nghĩa là dùng được để lập cảnh; đã áp dụng có phạm vi ở bản thảo Chương 55–57.
 
 ## Vấn đề cần xử lý
 
@@ -90,3 +91,7 @@ Chi tiết nguồn/phần sửa: [[LOG-002-Áp Dụng Kỹ Thuật Trong Chươn
 Phan Kính chọn giao tờ đổi gốc và giữ bản sao/biên nhận, không được hứa trả công/xóa hành vi kéo dây. Lâm Uyên nhờ cách ghi nguồn thay việc trả thay; Tô Tín gửi giới hạn mới sau kết quả thử chống. Hai mặt phiếu làm rõ yêu cầu lấy lời nhưng chưa xác nhận ai viết. Đây là vận dụng riêng có giới hạn, không phản hồi độc giả.
 
 Chi tiết nguồn/phần sửa: [[LOG-003-Áp Dụng Kỹ Thuật Trong Chương 56]]. SEED-001/002 tiếp chưa được đánh dấu áp dụng.
+
+## Lần áp dụng tại bản thảo Chương 57
+
+Phan Kính từ chối một loại lượt mới qua Đinh Bá Nghiêm; Thẩm Từ Nghi/viện chọn mua phần kiểm được, giữ riêng một bao và trả công lượt xong. Có kết quả khác với hoàn tiền/giao giấy các chương trước, vẫn trong giới hạn nguồn/quyền/tay. Xem [[LOG-004-Áp Dụng Kỹ Thuật Trong Chương 57]]. Không đánh dấu SEED-001/002 đã dùng hoặc nhận đã có phản hồi độc giả.

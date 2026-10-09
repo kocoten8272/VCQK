@@ -9,7 +9,7 @@ tags:
 
 # Sổ Theo Dõi Lần Xuất Hiện
 
-> Bảng nền rà soát Chương 1–52; cập nhật Chương 53–56 ở các mục dưới. Mốc “lần cuối” có thể là hậu quả/nhắc lại, không khẳng định người có mặt trong cảnh. Mở hồ sơ nguồn trước khi viết tiếp.
+> Bảng nền rà soát Chương 1–52; cập nhật Chương 53–57 ở các mục dưới. Mốc “lần cuối” có thể là hậu quả/nhắc lại, không khẳng định người có mặt trong cảnh. Mở hồ sơ nguồn trước khi viết tiếp.
 
 ## Đã xuất hiện hoặc được nhận diện
 
@@ -114,3 +114,21 @@ Hạ Gia hiện diện nghề nghiệp qua biển kho/lời thuê chỗ, không 
 Tô Lạc chỉ được nhắc: thi thể chưa đưa về, vị trí sau sập chưa xác nhận. Tô Trạch/Trần Dực không có cảnh mới. Không nâng báo cáo thử chống thành cảnh nhân vật trực tiếp nhìn việc dưới núi.
 
 Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]], [[Phan Kính]], [[Đinh Bá Nghiêm]].
+
+## Mốc mới theo bản thảo Chương 57
+
+| ID | Nhân vật | Kiểu xuất hiện | Nơi cuối được biết | Giới hạn |
+| --- | --- | --- | --- | --- |
+| CHAR-005 | Lâm Uyên | Trực tiếp | Tế Sinh Viện | Tay phải còn băng, đi Tông Sảnh theo giấy/hộ tống rồi về; chỉ giữ thẻ mẫu bằng tay trái, chưa tự kiểm/chọn/phối thuốc. |
+| CHAR-006 | Tô Thanh Ly | Trực tiếp | Tế Sinh Viện | Dùng tay trái, xin chuẩn bị giấy cho buổi đối mới; không tự mở kho hoặc hết bảo chứng/quản thúc. |
+| CHAR-060 | [[Đinh Bá Nghiêm]] | Lần đầu trực tiếp, đã được nhắc tên Ch56 | Tông Sảnh trong cảnh cuối trực tiếp, còn trình phần nhận lượt ngoài quầy | Phan Kính nhận người, hắn nhận giao phiếu và tự chép mặt sau; chưa có phán quyết toàn chuyến, lệnh bắt hoặc mất mọi việc. |
+| CHAR-059 | Phan Kính | Trực tiếp | Rời buổi trình tại Tông Sảnh cùng chấp sự, đích sau chưa xác nhận | Nhận Đinh Bá Nghiêm, từ chối một lượt mới người này đề nghị; không nâng thành bỏ mọi nghề hoặc miễn phần giữ hàng. |
+| CHAR-042 | [[Thẩm Từ Nghi]] | Lần đầu trực tiếp, có đủ tên/chức trách | Đã rời sân Tế Sinh Viện bằng xe; đích sau chưa xác nhận | Gia chủ Thẩm Gia theo giới thiệu trong cảnh; bán phần đã kiểm, giữ hộ một bao/chở về bao khác. Không có liên hệ mới với thuốc ở bến. |
+| CHAR-047 | Viện Chủ Tế Sinh Viện (chưa rõ tên) | Trực tiếp | Tế Sinh Viện trong cảnh mua/giữ hộ dược liệu | Quyết phần mua và trách nhiệm giữ riêng; không tự đồng nhất người giữ sổ/người trực hoặc nâng toàn lô thành thuốc đã kiểm. |
+| CHAR-037 | Mạnh Thanh Tễ | Trực tiếp | Tế Sinh Viện | Còn sống, kiểm mẫu/hướng dẫn giữ thẻ, nghe Lâm Uyên kể; không dự buổi hỏi Đinh Bá Nghiêm. |
+| CHAR-046 | Tạ Nghiên Chi | Trực tiếp | Tế Sinh Viện sau khi mang bản trả lời Hòa Sinh | Ghi nguồn tự nhận/nhận vật, đọc văn bản xác minh; chưa có đối người đọc cho chép. |
+| CHAR-019 | Tô Tín | Trực tiếp tại gian bên | Tế Sinh Viện | Còn nạng, hỏi người đi thử/giữ kết quả; mới có phương án thử nền khác ngoài cọc được duyệt, chưa kết quả hoặc vào hầm. |
+
+Kỷ Hành Chu chỉ được nhắc qua lời/chứng từ cũ, chưa có cảnh mới hoặc đối mặt Đinh Bá Nghiêm. Trần Dực/Tô Lạc chỉ được nhắc; không suy tiến triển sức khỏe/thu hồi thi thể. Người giữ bàn nhận giấy của Hòa Sinh chỉ qua lời/văn bản, chưa trực tiếp hiện diện.
+
+Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]], [[Đinh Bá Nghiêm]], [[Thẩm Từ Nghi]].

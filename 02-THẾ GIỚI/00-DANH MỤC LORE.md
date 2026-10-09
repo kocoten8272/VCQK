@@ -31,7 +31,7 @@ tags:
 
 ## Sổ node
 
-Tổng cộng **77 hồ sơ nguồn** trong các nhóm thế giới, tu luyện, timeline và tư liệu bí mật tại snapshot này. ID định danh hồ sơ lưu trữ, không khẳng định mọi khái niệm trong đó là canon hoặc đã xuất hiện trong truyện.
+Tổng cộng **78 hồ sơ nguồn** trong các nhóm thế giới, tu luyện, timeline và tư liệu bí mật tại snapshot này. ID định danh hồ sơ lưu trữ, không khẳng định mọi khái niệm trong đó là canon hoặc đã xuất hiện trong truyện.
 
 
 ### Địa điểm và địa lý (02A)
@@ -63,13 +63,14 @@ Tổng cộng **77 hồ sơ nguồn** trong các nhóm thế giới, tu luyện,
 | FAC-009 | [[02-THẾ GIỚI/02B-Thế Lực/Liễu Gia|Liễu Gia]] | `dang-phat-trien` |
 | FAC-010 | [[02-THẾ GIỚI/02B-Thế Lực/Mục Đích Và Động Cơ Thế Lực Vân Châu|Mục Đích Và Động Cơ Thế Lực Vân Châu]] | `hoan-thien` |
 | FAC-011 | [[02-THẾ GIỚI/02B-Thế Lực/Tầm Chân Ti - Đội Sưu Tróc Dị Số|Tầm Chân Ti — Đội Sưu Tróc Dị Số]] | `dang-phat-trien` |
-| FAC-012 | [[02-THẾ GIỚI/02B-Thế Lực/Thẩm Gia|Thẩm Gia]] | `de-xuat` |
+| FAC-012 | [[02-THẾ GIỚI/02B-Thế Lực/Thẩm Gia|Thẩm Gia]] | `author-approved-design` |
 | FAC-013 | [[02-THẾ GIỚI/02B-Thế Lực/Thế Lực Vân Châu|Thế Lực Vân Châu]] | `dang-phat-trien` |
 | FAC-014 | [[02-THẾ GIỚI/02B-Thế Lực/Thính Phong Lâu|Thính Phong Lâu]] | `dang-phat-trien` |
 | FAC-015 | [[02-THẾ GIỚI/02B-Thế Lực/Thủ Danh Phường|Thủ Danh Phường]] | `dang-phat-trien` |
 | FAC-016 | [[02-THẾ GIỚI/02B-Thế Lực/Thương Hội Hắc Đạo|Thương Hội Hắc Đạo]] | `hoan-thien` |
 | FAC-017 | [[02-THẾ GIỚI/02B-Thế Lực/Tô Gia|Tô Gia]] | `dang-phat-trien` |
 | FAC-018 | [[02-THẾ GIỚI/02B-Thế Lực/Vĩnh Sinh Môn|Vĩnh Sinh Môn]] | `bi-mat` |
+| FAC-019 | [[02-THẾ GIỚI/02B-Thế Lực/Dược Phường Hòa Sinh|Dược Phường Hòa Sinh]] | `dang-phat-trien` |
 
 ### Di tích và hiện tượng (02C)
 

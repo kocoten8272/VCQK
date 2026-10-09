@@ -5,7 +5,7 @@ importance-tier: C
 vai-tro: nhan-vat-phu
 status: da-xuat-hien
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-09
 tags:
   - nhan-vat
   - nam-pho
@@ -88,3 +88,12 @@ Vai trò trước mắt phục vụ điều tra một chặng, có đời sống
 - Theo tổ tới quầy. Phần lưu khớp mặt trước và có tên Đinh Bá Nghiêm ở dòng nhận phiếu, không chép điều kiện mặt sau; chưa xác định ai viết, phiếu rời quầy với mặt sau thế nào, người đặt hoặc người mua cuối.
 - Không được xác nhận thuộc Hạ Gia, Hắc Nha hoặc phe bí mật. Thuyền đang sửa không phải đã chạy trốn/khởi hành; tuổi, gia đình, cảnh giới và quan hệ với người mua vẫn chưa được công bố.
 - Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]].
+
+## Trạng thái mới theo bản thảo Chương 57
+
+- Dự trình lời tại Tông Sảnh, nhận trực tiếp đúng Đinh Bá Nghiêm là người giao việc/tờ đổi; Đinh Bá Nghiêm nhận đã trao phiếu. Đây là cuộc đối mặt sau lời nhận người Chương 56, không lần ra người mua cuối.
+- **Nghe Đinh Bá Nghiêm tự nhận:** Chính tay chép mặt sau theo người thuê đọc sau khi nhận phiếu quầy, có lượt chép/chuyển lời ngoài quầy. Chưa có ai trong buổi thấy việc viết cũ hoặc đối mặt người đọc; Phan Kính không được coi là nhân chứng lần viết.
+- Hỏi người đọc có phải chủ hàng đã nhận hòm không, nghe Đinh Bá Nghiêm chưa thấy người ấy nhận. Giữ trách nhiệm mình từng giữ thuốc Chương 47/đã khai Chương 56, không chuyển sạch sang người đưa giấy.
+- Tự từ chối lượt mới Đinh Bá Nghiêm vừa mời nếu chỉ đem giấy mà không cho biết người thuê; nói khi người thuê cùng tới thì hỏi lại. Chưa cắt mọi quan hệ vĩnh viễn, chưa mất sinh kế hoặc bị Tông Sảnh cấm nghề.
+- Nhận xác nhận buổi trình rồi ra cùng chấp sự đưa mình tới; chiếc thuyền vẫn chưa sửa hết theo lời đáp. Phần công chở chưa có xác nhận được trả, không có ai trả thay.
+- Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]].

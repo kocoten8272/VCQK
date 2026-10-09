@@ -72,3 +72,15 @@ Nguồn: [[Chương 55]], [[Trạng Thái Truyện Sau Chương 55]]. Không t�
 | Cuối ngày | Qua tin, xe Đinh Bá Nghiêm đã trở về/chấp sự xác minh nơi việc, gửi yêu cầu trình lời sáng sau | Chưa có lời nhận hoặc cảnh gặp; người mua và tác giả mặt sau chưa biết |
 
 Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]]. Không ấn định cự ly/ngày lịch hoặc cho báo cáo thay kiểm toàn bộ an toàn.
+
+## Mốc ngày thứ mười — Chương 57
+
+| Thời điểm | Sự kiện đã viết | Giới hạn |
+| --- | --- | --- |
+| Sáng tại Tông Sảnh | Phan Kính nhận Đinh Bá Nghiêm; Đinh nhận giao/chép mặt sau theo lời người thuê, giao phiếu công. Phan từ chối kiểu lượt mới qua Đinh | Nguồn viết/nơi/người đọc là lời tự nhận; chưa giải người mua, chưa phán quyết toàn chuyến |
+| Về viện | Trạm trả hai thanh gỗ/kê giá; viện khép khoản mượn, chăm trẻ vẫn tờ riêng | Không lấy gỗ trạm dùng dưới núi hoặc nhận viện phí đã chốt |
+| Buổi kiểm nguyên liệu | Thẩm Từ Nghi lần đầu trực tiếp: viện mua phần kiểm được, giữ hộ một bao/chuyển bao khác về, công lượt xong được trả | Chưa nhận mọi nguyên liệu là thuốc, không dùng Dược Khế hoặc nối lô Xích Tủy Tán |
+| Cùng ngày | Phương án thử nền khác ngoài cọc được cho tiếp; Tô Tín hỏi người đi | Chưa kết quả mới/lệnh vào hoặc thu hồi Tô Lạc/miếng đồng |
+| Trước hết nắng sân | Phản hồi Hòa Sinh xác nhận dấu/lượt công, đồng ý mở phần liên quan buổi kế | Chưa đối người đọc cho chép hoặc xác nhận người mua cuối |
+
+Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]]. Giữ thời gian tương đối, không tự tạo ngày lịch/cự ly.

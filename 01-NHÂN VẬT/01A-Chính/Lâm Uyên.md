@@ -117,3 +117,14 @@ Nguồn trạng thái: [[Chương 43]], [[Chương 50]], [[Chương 51]], [[Chư
 - **Nghe thợ/đọc phiếu tại viện:** Bộ chống thứ nhất giữ trong lượt thử ngoài cọc; điểm thứ hai tụt nền nên nhả tải, tháo lại. Chưa vào hầm hoặc đưa Tô Lạc/miếng đồng về. Nhờ người trực giúp Tô Tín khi bản thân không thể đỡ an toàn.
 - Sửa ghi học lá từ “chưa khô” thành điều thấy được: mặt lá còn ẩm gần cuống; chưa biết lịch hái/phơi/ngấm nước. Chưa tự cân/phối thuốc, không có tu vi mới; Dược Khế giữ bảy tháng. Cuối ngày biết Đinh Bá Nghiêm đã được xác minh nơi nhận việc và yêu cầu trình lời sáng sau, chưa có lời mới.
 - Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]].
+
+## Trạng thái mới theo bản thảo Chương 57
+
+- Ngày thứ mười sau Hắc Phong Sơn, dự trình lời tại Tông Sảnh theo giấy bổ sung, có hộ tống/giờ về. Tay phải còn băng, kê vải và đổi chỗ để mép bàn không cọ; không tự rẽ tới dược phường, vận lực hoặc có tu vi mới. Dược Khế giữ bảy tháng.
+- **Tận mắt/chứng kiến:** Phan Kính nhận đúng Đinh Bá Nghiêm; người được hỏi nhận đã giao phiếu số mười bảy. Tờ đổi gốc, phiếu công riêng và trang sổ liên quan được xem; phiếu công có chỗ đối tại Dược Phường Hòa Sinh. Phiếu công gốc được nhận có biên nhận, chỉ sao phần cần, không giữ mọi lượt trong sổ.
+- **Lời tự nhận của Đinh Bá Nghiêm:** Tự chép mặt sau sau khi nhận phiếu quầy, theo người thuê đọc tại bàn nhận giấy cửa bên Hòa Sinh; nhận thêm lượt chép/chuyển lời ngoài quầy, chưa trả hết công. Chưa có người trong buổi chứng kiến lần viết cũ; không xác định người đọc, người trả tiền và người mua cuối là một.
+- Không trả công để đổi thêm lời, không ép Đinh Bá Nghiêm nhận đã yêu cầu Kỷ Hành Chu đổi nơi giao. Thấy Phan Kính từ chối lượt mới chỉ có giấy mà không biết người thuê; đây là lựa chọn riêng của Phan Kính, không hình phạt của Tông Sảnh.
+- Trở lại viện, trực tiếp thấy hai thanh gỗ mượn từ trạm được trả; giấy trạm nói đã dùng kê giá lúc sửa, giá mới bằng gỗ khác. Người trực kê hai thanh dưới sạp có sẵn giữ bao chờ; không gộp với gỗ chống Hắc Phong Sơn. Khoản chăm trẻ còn chờ quyết toán.
+- Gặp Thẩm Từ Nghi, được giới thiệu là gia chủ Thẩm Gia. Dùng tay trái giữ/đặt thẻ đúng mẫu và bao theo hướng dẫn Mạnh Thanh Tễ; phần nâng sạp/chuyển bao do người có tay lành làm. Chưa tự chọn nguyên liệu dùng, cân/phối thuốc hoặc biết khô hơn là tốt hơn.
+- **Qua bản trả lời Hòa Sinh Tạ Nghiên Chi đem về:** Dấu phiếu công dùng ở bàn nhận giấy, phần lưu có lượt chép/chuyển lời mang tên Đinh Bá Nghiêm, đồng ý mở phần đối công buổi kế. Chưa đối người thuê hoặc kiểm trực tiếp lời đọc cho chép; giao dịch nguyên liệu Thẩm Gia không thuộc lô Xích Tủy Tán.
+- Nghe Tô Tín nhận phương án thử nền khác ngoài cọc được làm tiếp, không có lệnh vào hầm hay thu hồi Tô Lạc/miếng đồng. Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]].

@@ -9,7 +9,7 @@ tags:
 
 # Mạch Nhân Vật Và Vấn Đề Liên Tục
 
-> Bảng nền sau Chương 52; tiến triển Chương 53–56 được lưu ở cuối. Đây là sổ theo dõi, không phải lệnh tự giải quyết tuyến.
+> Bảng nền sau Chương 52; tiến triển Chương 53–57 được lưu ở cuối. Đây là sổ theo dõi, không phải lệnh tự giải quyết tuyến.
 
 ## Open Character Threads
 
@@ -84,3 +84,17 @@ ID Lâm Uyên trong bảng nền đã sửa về CHAR-005 theo [[02-SỔ CÁI NH
 - **Ràng buộc/dân sinh:** Lượt bến/quầy có phạm vi/giờ/hộ tống, không tự theo thuyền. Quản thúc, kiếm bảo chứng, Dược Khế bảy/bốn tháng giữ nguyên; thuốc mua bù đã đủ Ch52. Khoản trẻ chưa quyết toán cuối, hai thanh gỗ ở trạm chưa có tin đóng giá/trả.
 - **Bước ngay tiếp theo:** Lấy lời Đinh Bá Nghiêm theo yêu cầu đã gửi, đối người với Phan Kính và nguồn chữ mặt sau; tiếp tục xử lý phần thợ chưa làm được trước khi xin vào HFS. Không bỏ tuyến điều trị/trang giấy, không ghép các mạng.
 - Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]].
+
+## Tiến triển theo bản thảo Chương 57
+
+- **Đối người giao phiếu:** Đinh Bá Nghiêm lần đầu trực tiếp; Phan Kính nhận người và hai bên cùng nhận việc giao tờ đổi. Trách nhiệm giữ hòm/kéo dây của Phan Kính và chuyển điều kiện của Đinh Bá Nghiêm được ghi riêng.
+- **Mặt sau/lượt ngoài quầy:** Đinh Bá Nghiêm tự nhận đã chép sau khi lấy phiếu quầy, tại bàn nhận giấy cửa bên Hòa Sinh theo người thuê đọc. Phiếu công/trang sổ xác lập một nguồn để đối; thời điểm viết, người đọc và quan hệ với chủ mua vẫn là lời cần kiểm, không phải toàn bộ đã chứng minh.
+- **Hòa Sinh:** Qua bản trả lời có xác nhận, dấu/công năng bàn nhận giấy và lượt chép/chuyển lời mang tên Đinh Bá Nghiêm được đối nguồn. Chuẩn bị mở phần đối công ở buổi kế, chưa đối người đọc hoặc kết luận người mua/ai mở hòm/thuốc bị gì.
+- **Lựa chọn có hậu quả:** Phan Kính từ chối một lượt mới Đinh Bá Nghiêm đề nghị vì chỉ có giấy/không biết người thuê; có thể hỏi lại nếu gọi người thuê tới. Đây là một hợp tác cụ thể mất đi, không phải cắt mọi công việc, bắt giam hoặc phán quyết toàn chuyến.
+- **Kỷ Hành Chu/chìa-trang:** Chưa có cuộc đối mặt Kỷ Hành Chu với Đinh Bá Nghiêm hoặc thay lời nhận người cũ. Tuyến chìa/trang không có kết quả mới; giữ riêng nguồn/chờ người nhận giỏ.
+- **Thẩm Từ Nghi (CHAR-042):** Gia chủ Thẩm Gia lần đầu trực tiếp ở viện, nhận tiền phần đã kiểm, để một bao giữ hộ kiểm sau và đưa bao khác về. Giữ thẻ/ngày sơ chế/công phu riêng; không đưa cả gia phả vào cảnh hoặc nối lô nguyên liệu với thuốc bến.
+- **Hai thanh gỗ trạm:** Đã dùng kê giá khi sửa, giá mới đóng từ gỗ khác của trạm; trả đủ kèm phiếu, viện nhận xong khoản mượn. Hai thanh được kê dưới sạp nhỏ đã có cho bao chờ, không nhập với gỗ chống HFS. Khoản chăm trẻ vẫn chưa quyết toán cuối.
+- **HFS/Tô Tín:** Phương án thử nền khác ngoài cọc đã được cho làm tiếp; Tô Tín ở viện/còn nạng, hỏi người đi/đòi kết quả. Chưa thử xong, vào hầm, thu Tô Lạc hoặc miếng đồng.
+- **Học dược/ràng buộc:** Mạnh Thanh Tễ còn sống, chỉ cho Lâm Uyên giữ thẻ, chưa kiểm/chọn/phối thuốc độc lập. Tay phải còn băng, không nâng bao; giấy Tông Sảnh có hộ tống/phạm vi/giờ, không tự theo yêu cầu tới dược phường. Dược Khế, kiếm bảo chứng và quản thúc giữ nguyên.
+- **Bước ngay tiếp theo:** Đối phần công/dấu và gọi người giữ việc giao Hòa Sinh bằng thẩm quyền đúng; phân biệt người đọc, người trả tiền, chủ mua. Tiếp tục chờ kết quả thử ngoài cọc và kiểm bao giữ hộ; không bỏ tuyến dân sinh/thương tích.
+- Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]].

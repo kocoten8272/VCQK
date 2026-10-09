@@ -8,10 +8,10 @@
 
 - **Tên truyện:** Vạn Cổ Quy Khư
 - **Nhân vật chính:** [[Lâm Uyên]]
-- **Địa điểm ở cuối Chương 56:** Tế Sinh Viện; đã nhận tờ đổi gốc, chờ Đinh Bá Nghiêm trình lời; thử chống có điểm phải dỡ, chưa vào Hắc Phong Sơn
+- **Địa điểm ở cuối Chương 57:** Tế Sinh Viện; Đinh Bá Nghiêm đã trình lời, chuẩn bị đối công Hòa Sinh; Thẩm Từ Nghi có nguyên liệu giữ hộ, HFS chỉ cho thử tiếp ngoài cọc
 - **Thế lực gắn với arc hiện tại:** [[Tô Gia]]
-- **Chương mới nhất trên main:** [[Chương 56]] (nháp)
-- **Chương tiếp theo:** Chương 57 (dự kiến)
+- **Chương mới nhất trên main:** [[Chương 57]] (nháp)
+- **Chương tiếp theo:** Chương 58 (dự kiến)
 - **Trạng thái:** Đang sáng tác
 
 ---
@@ -47,6 +47,7 @@
 - [[SEED-001-Ngày Công Bị Bỏ Trống]] · [[SEED-002-Một Thanh Chống Hai Lời Hứa]] — chất liệu chưa dùng, chưa phải sự kiện
 - [[LOG-001-Khởi Tạo Bộ Nhớ Sáng Tác]] — nguồn phản hồi và việc còn chưa được đánh giá qua sử dụng
 - [[LOG-003-Áp Dụng Kỹ Thuật Trong Chương 56]] — cách dùng yếu tố cũ, hai mặt tờ phiếu và giới hạn chứng cứ
+- [[LOG-004-Áp Dụng Kỹ Thuật Trong Chương 57]] — kết quả cuộc gặp, quan hệ nghề nghiệp và nguồn tham khảo mới
 
 ## NHÂN VẬT
 
@@ -183,13 +184,14 @@
 - [[Chương 53]] — Người Giữ Chìa Khóa; nháp
 - [[Chương 54]] — Chiếc Chìa Không Khớp; nháp
 - [[Chương 55]] — Cước Của Một Chặng; nháp
-- [[Chương 56]] — Mặt Sau Tờ Phiếu; nháp mới
+- [[Chương 56]] — Mặt Sau Tờ Phiếu; nháp
+- [[Chương 57]] — Một Lượt Ngoài Sổ; nháp mới
 
 ### Chuẩn bị
 
-- Chương 57 — hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 56]].
+- Chương 58 — hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 57]].
 - [[Kết Chương]] — trạng thái từng chương, bao gồm các bản nháp và chương chưa có frontmatter.
-- [[Trạng Thái Truyện Sau Chương 56]] — trạng thái continuity hiện hành; các bản sau chương trước đó là lưu vết lịch sử.
+- [[Trạng Thái Truyện Sau Chương 57]] — trạng thái continuity hiện hành; các bản sau chương trước đó là lưu vết lịch sử.
 
 ---
 

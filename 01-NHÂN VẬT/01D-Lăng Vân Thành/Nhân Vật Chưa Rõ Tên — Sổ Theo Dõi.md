@@ -106,3 +106,19 @@ Nguồn: [[Chương 47]], [[Chương 55]], [[Trạng Thái Truyện Sau Chương
 Người đem yêu cầu đổi tại quầy theo lời Kỷ Hành Chu vẫn là vai chưa nhận diện trong mục Ch55: Kỷ Hành Chu chưa nhận Đinh Bá Nghiêm là người mình thấy. Không hợp nhất hai vai chỉ vì Phan Kính nói một tên. Phan Kính đã có hồ sơ CHAR-059, trực tiếp Ch56, không ghi lại như người coi hàng vô danh.
 
 Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]], [[Phan Kính]], [[Đinh Bá Nghiêm]].
+
+## Vai trò được phân biệt ở Chương 57
+
+| Nhãn tra cứu | Hành động/nguồn | Giới hạn |
+| --- | --- | --- |
+| Người giữ việc giao tại bàn nhận giấy cửa bên Hòa Sinh | R: Đinh Bá Nghiêm nói gặp tại bàn, được đọc cho chép mặt sau/hẹn đối công; có thể nhận người, chưa biết tên thật | Chưa trực tiếp hiện diện hoặc đối mặt. Không tự đồng nhất người đọc/người trả tiền/người mua thuốc; việc có bàn/dấu/lượt công không chứng minh mọi lời nhận diện. |
+| Người phụ trách trả lời tại Hòa Sinh | Chỉ qua bản trả lời có xác nhận về dấu, bàn nhận giấy và lượt chép/chuyển lời; đồng ý mở phần đối công liên quan buổi kế | Chưa tên/cảnh trực tiếp; chưa chứng minh là cùng người giữ việc giao mà Đinh Bá Nghiêm kể. |
+| Người mang yêu cầu đi Hòa Sinh | Chấp sự giao xác minh; về trước khi Tạ Nghiên Chi đem tin tới viện | Không tự gán tên hoặc gộp với chấp sự hộ tống/người đọc cho chép; chỉ chuyển yêu cầu và nguồn trả lời. |
+| Hai người làm/xe nguyên liệu của Thẩm Từ Nghi | Chờ ở sân, giữ đòn gánh; đặt bao riêng, một người theo bao trả về; được dặn nhận công lượt đã xong | Chưa tên/tuổi/quan hệ gia phả; nghề làm thuê không xác nhận huyết thống hoặc biết tuyến điều tra thuốc. |
+| Người của trạm trả hai thanh gỗ | Đưa đủ vật mượn/phiếu đã dùng kê giá lúc sửa, giá mới từ gỗ khác của trạm | Không xác nhận là Lưu Định hoặc cùng người đưa phiếu các chương trước. Khoản gỗ đã trả, khoản trẻ vẫn riêng/chưa quyết toán cuối. |
+| Người trực/người giữ sổ viện | Nhận/đếm gỗ, kê dưới sạp nhỏ đã có; ghi mua/giữ hộ/giờ báo, giúp giữ thẻ và trả tiền phần đã nhận | Nhiều chức năng có thể thuộc nhiều người; không đồng nhất tất cả với viện chủ hoặc người trực cũ. |
+| Người đi thử nền HFS lượt mới | Tô Tín hỏi qua phiếu phương án đã cho làm tiếp ngoài cọc, yêu cầu đem phần kết quả về | Chưa có cảnh thử/kết quả, không tạo người có tên/cảnh giới hoặc coi đã vào hầm. |
+
+Đinh Bá Nghiêm (CHAR-060) đã trực tiếp Ch57, Phan Kính nhận người và hắn nhận khâu giao; dùng hồ sơ chính [[Đinh Bá Nghiêm]], không lập thêm một phu xe vô danh. Người yêu cầu đổi tại quầy theo lời Kỷ Hành Chu vẫn chưa nhận diện, chưa gộp với Đinh Bá Nghiêm. Thẩm Từ Nghi đã có hồ sơ CHAR-042, lần đầu trực tiếp Ch57; không tạo gia chủ Thẩm Gia vô danh trùng người.
+
+Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]], [[Dược Phường Hòa Sinh]], [[Thẩm Từ Nghi]].

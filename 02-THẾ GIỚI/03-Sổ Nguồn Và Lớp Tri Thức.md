@@ -90,3 +90,15 @@ Một hồ sơ có thể chứa nhiều mệnh đề ở các trạng thái khá
 - [[03_PLOT_STRUCTURE]]
 - [[00-DANH MỤC LORE]]
 - [[04-Báo Cáo Audit Lore]]
+
+## Đối chiếu có phạm vi sau Chương 57 — 2026-10-09
+
+| Node/mệnh đề | Lớp nguồn | Giới hạn |
+| --- | --- | --- |
+| FAC-019 [[Dược Phường Hòa Sinh]] phối lô ba hiệu | DRAFT TEXT Ch49–50; node mới tổng hợp nguồn cũ và Ch57 | Không tự xác định nguyên nhân vón, người mua hoặc gian lận |
+| Đinh nhận mình chép mặt sau và nơi nhận chỉ dẫn | Lời tự nhận trong DRAFT TEXT Ch57 | Chưa có người chứng kiến viết/đối người đọc; không xem như chứng cứ hoàn chỉnh |
+| Dấu/bàn nhận giấy/lượt công Hòa Sinh | Văn bản xác nhận được báo cuối Ch57 | Không tự nâng người giữ bàn thành người mua hoặc toàn cơ sở thành chủ mưu |
+| [[Thẩm Từ Nghi]] được giới thiệu gia chủ/đối nguyên liệu | DRAFT TEXT Ch57, gia chủ/gia phả là thiết kế tác giả đã duyệt trước | Tuổi/tu vi/người nhà khác không tự lộ; giao dịch không thuộc lô Xích Tủy Tán |
+| Gỗ trạm được trả, thử nền ngoài cọc được cho tiếp | DRAFT TEXT Ch57 | Không kết luận đã vào hầm/thu hồi Tô Lạc hoặc viện phí trẻ đã chốt |
+
+Phần mới chỉ đối các nguồn liên quan ở mốc này; các số lượng/snapshot cũ trên đây là lịch sử đợt audit, không nhận đã quét lại toàn repository. Tình trạng thật Lâm Chinh tiếp UNKNOWN theo chỉ thị tác giả, không mở lại một xung đột đã được chốt cách xử lý.
