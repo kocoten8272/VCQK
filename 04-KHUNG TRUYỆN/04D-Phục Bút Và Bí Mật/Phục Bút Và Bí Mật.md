@@ -128,3 +128,19 @@ Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]], [[Phan Kí
 Cảnh Thẩm Từ Nghi bán/giữ hộ nguyên liệu mở hoạt động nghề nghiệp của Thẩm Gia, không gieo bằng chứng về mạng mua thuốc hoặc biến cố mái trú. Mạnh Thanh Tễ còn sống. Chuỗi chìa/trang và các bí ẩn lớn giữ riêng, không nối Hắc Nha/Người Áo Đen, Tả Tiên Sinh, Di Kỷ Tộc qua tên Hòa Sinh.
 
 Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]], [[Dược Phường Hòa Sinh]], [[Đinh Bá Nghiêm]], [[Thẩm Từ Nghi]].
+
+## Đầu mối tiến triển theo bản thảo Chương 58
+
+| Câu hỏi | Kết quả cục bộ / nguồn | Phần chưa giải và bước tiếp |
+| --- | --- | --- |
+| Người đọc cho Đinh Bá Nghiêm chép là ai? | Ngày 11, thẻ trực/người phụ trách xác nhận Tề Duy Cẩn; Đinh Bá Nghiêm nhận người, Tề Duy Cẩn nhận đọc/lập phiếu và thấy chép/đọc lại. | Danh tính người giữ bàn được đối, chưa xác định người đặt/chủ mua hoặc ai mở hòm/niêm. Không giải mẫu lưu vón chỉ từ nguồn chữ. |
+| Ai đề nghị giữ hòm thứ hai? | Tề Duy Cẩn tự nhận đề nghị chia hai lượt để kiểm đủ bản chép; lý do “đối một lô hàng” được ghi là lời hắn kể. | Còn đối nguồn yêu cầu/phần tự thêm/quan hệ nguồn tiền; lời ký không tự chứng minh lý do hoặc chủ mưu mọi tuyến. |
+| Có chốt công bằng việc nhận trọn chuyến không? | Đinh Bá Nghiêm không ký việc giao hòm mình không làm; người phụ trách đối đúng phần chép/chuyển lời, khoản chưa trả ngay. | Giữ tranh chấp/chờ khoản công; không biến thành bắt giam hoặc xóa trách nhiệm chép. Câu hỏi tới Trần Dực phải trình Tông Sảnh, không đổi lời lấy thuốc tiếp. |
+| Bao nguyên liệu giữ hộ đã quyết chưa? | Tối ngày 10, viện không mua thêm trong lượt nhập, báo trước xe/trả đủ lượng/thẻ có ký; hai thanh gỗ vẫn dưới sạp viện. | Khép bao giữ hộ, không chứng minh hàng giả/hỏng hoặc liên hệ vụ bến/nhà trú; khoản chăm trẻ vẫn riêng. |
+| Có thể tiếp tục tìm Tô Lạc chưa? | Ngày 12, tin mưa làm lượt thử nền mới chậm lại, chưa kết quả nhận đường vào; Tô Tín xin lưu cả phần bị ngăn. | Chưa có kết quả mới/lệnh vào hầm/thu thi thể hoặc đồng; tuyến chìa/người nhận giỏ vẫn chờ riêng. |
+| Người ở nhà trú được đưa đi những đâu? | Ngày 13, cứu trợ mở điểm cáng/lối xe, ghi chuyển; Khương Tố Nương nhận con, mẹ con đã đi cùng lượt tới viện. | Chưa có cảnh tới viện/đối hai danh sách, chưa đếm đủ người gian sau hoặc kết quả trị. Giỏ áo/lời kể không thay nhận người. |
+| Vì sao nhà trú sập, ai chịu trách nhiệm? | Nhà ven Nam Phố sập sau mưa ngày 11–13, hiện trường có mái/gỗ/ngói/lối bị chặn. | Chưa có kiểm nguyên nhân/bảo trì/cơ quan sở hữu, chưa chứng minh Bùi Gia hoặc nối mạng thuốc; cứu người là việc hiện tại, không biến tai nạn thành đáp án âm mưu. |
+
+Mạnh Thanh Tễ còn sống cuối Ch58, ở phần làm việc được người cứu xem gần lỗ vách, chờ chuyển người tỉnh mắc chân. Chưa áp kết cục tương lai vào cảnh đang diễn ra. Người gian sau/số chuyển chưa được chốt; Lâm Uyên giữ tên đã có bằng chứng thay vì đoán người chết.
+
+Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]], [[Nhà Trú Tạm Ven Nam Phố]], [[Tề Duy Cẩn]], [[Khương Tố Nương]].

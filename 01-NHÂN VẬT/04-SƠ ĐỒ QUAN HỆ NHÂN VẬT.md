@@ -8,7 +8,7 @@ tags:
 
 # Sơ Đồ Quan Hệ Nhân Vật
 
-> Bảng nền có căn cứ đến Chương 52; cập nhật Chương 54–57 ở cuối. Đường liền là quan hệ được xác nhận; nét chấm là quan hệ xã hội/đang hình thành. Không suy chức quyền hay huyết thống từ cùng họ.
+> Bảng nền có căn cứ đến Chương 52; cập nhật Chương 54–58 ở cuối. Đường liền là quan hệ được xác nhận; nét chấm là quan hệ xã hội/đang hình thành. Không suy chức quyền hay huyết thống từ cùng họ.
 
 ## Gia đình Lâm Uyên
 
@@ -103,3 +103,20 @@ Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]], [[Phan Kí
 Theo lời Đinh Bá Nghiêm, người đọc cho chép ở bàn cửa bên [[Dược Phường Hòa Sinh]] là người nhận việc/giữ khoản công chưa chốt; tên thật chưa biết và chưa được đối mặt. Văn bản xác minh dấu/lượt công không tự nối người đó với người mua cuối. Kỷ Hành Chu chưa đối mặt Đinh Bá Nghiêm, lời chưa nhận người Ch56 vẫn giữ riêng.
 
 Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]], [[Thẩm Từ Nghi]], [[Đinh Bá Nghiêm]].
+
+## Liên hệ được nhận diện/triển khai ở Chương 58
+
+| ID A | Nhân vật A | Quan hệ | ID B | Nhân vật B | Căn cứ và giới hạn |
+| --- | --- | --- | --- | --- | --- |
+| CHAR-060 | Đinh Bá Nghiêm | Trực tiếp nhận người đã đọc cho chép | CHAR-061 | Tề Duy Cẩn | Tề Duy Cẩn nhận đã đọc/lập phiếu, nhận Đinh Bá Nghiêm chép trước mặt và đọc lại. Hai lời đối cùng phiếu/phần lưu củng cố khâu thuê chép, không chứng minh chủ mua hoặc mọi nguồn tiền. |
+| CHAR-005 | Lâm Uyên | Hỏi trách nhiệm giữ thuốc thành hai lượt | CHAR-061 | Tề Duy Cẩn | Liên hệ trong buổi đối công, chưa bạn bè/địch thù thuộc tổ chức hoặc biết toàn bộ đời sống người giữ bàn. |
+| CHAR-006 | Tô Thanh Ly | Đối lời và từ chối giao lời Trần Dực thay thuốc | CHAR-061 | Tề Duy Cẩn | Đề nghị trình câu hỏi tới Tông Sảnh; không nói thay Trần Dực hoặc nhận trách nhiệm trả lời cho cả nhóm. |
+| CHAR-046 | Tạ Nghiên Chi | Ghi phần tự nhận/sao nguồn liên quan | CHAR-061 | Tề Duy Cẩn | Giữ riêng lý do hắn kể và phần tự thêm; không kết án chủ mua từ tên/thẻ trực. |
+| CHAR-062 | Khương Tố Nương | Mẹ | — | Đứa trẻ chưa rõ tên, sáu tuổi theo lời mẹ | Mẹ trực tiếp nhận đứa áo nâu/vạt vá đỏ, trẻ gọi mẹ; giới tính/tên cha chưa nêu, không đồng nhất trẻ xóm lò ngói. |
+| CHAR-037 | Mạnh Thanh Tễ | Y sư tiếp nhận/cứu giúp | CHAR-062 | Khương Tố Nương | Xem người trên cáng, hướng dẫn trước chuyển, cho mẹ con cùng tới viện; không xác nhận đã khỏi hoặc thân hữu có từ trước. |
+| CHAR-005 | Lâm Uyên | Ghi nhận/đối mẹ con và nơi chuyển | CHAR-062 | Khương Tố Nương | Ghi đủ tên theo lời bà, nhờ người trực dẫn trẻ cho mẹ nhận, ghi cùng lượt; chưa trở thành người chẩn trị hoặc người thân. |
+| CHAR-037 | Mạnh Thanh Tễ | Tiếp tục hướng dẫn việc nhẹ trong cứu trợ | CHAR-005 | Lâm Uyên | Giao giữ điểm cáng/danh sách, gọi mới đưa đồ; dừng bước theo tiếng gọi và giữ riêng vải rơi bùn, không dạy quyền tự chữa bệnh. |
+
+Khương Tố Nương và con là gia đình mới trong cảnh nhà trú, tách khỏi mẹ con xóm lò ngói và người mẹ đưa trẻ tới viện sáng ngày 13. Tề Duy Cẩn là hồ sơ chính của vai người đọc cho chép được Đinh Bá Nghiêm nhận; không lập thêm người giữ bàn vô danh trùng vai.
+
+Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]], [[Tề Duy Cẩn]], [[Khương Tố Nương]].

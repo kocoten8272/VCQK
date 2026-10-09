@@ -122,3 +122,23 @@ Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]], [[Phan Kí
 Đinh Bá Nghiêm (CHAR-060) đã trực tiếp Ch57, Phan Kính nhận người và hắn nhận khâu giao; dùng hồ sơ chính [[Đinh Bá Nghiêm]], không lập thêm một phu xe vô danh. Người yêu cầu đổi tại quầy theo lời Kỷ Hành Chu vẫn chưa nhận diện, chưa gộp với Đinh Bá Nghiêm. Thẩm Từ Nghi đã có hồ sơ CHAR-042, lần đầu trực tiếp Ch57; không tạo gia chủ Thẩm Gia vô danh trùng người.
 
 Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]], [[Dược Phường Hòa Sinh]], [[Thẩm Từ Nghi]].
+
+## Vai trò được phân biệt ở Chương 58
+
+| Nhãn tra cứu | Hành động/nguồn | Giới hạn |
+| --- | --- | --- |
+| Người giữ việc giao/đọc cho chép ở Hòa Sinh | Nay trực tiếp có tên [[Tề Duy Cẩn]], hồ sơ CHAR-061; thẻ trực/người phụ trách xác nhận, Đinh Bá Nghiêm nhận người, hắn nhận đọc/lập phiếu/đề nghị chia hai lượt | Dùng hồ sơ chính, không lập người vô danh trùng vai. Không đồng nhất với chủ mua/người giữ tiền hoặc mọi người phụ trách dược phường. |
+| Người phụ trách/người giữ tiền Hòa Sinh | Người phụ trách mở phần lưu, đối công đúng phần thuê; người giữ tiền chỉ qua lời chốt khoản | Không tự gộp hai vai hoặc coi cùng Tề Duy Cẩn/người trả lời văn bản Ch57; công chưa trả ngay. |
+| Người làm nhận trả bao của Thẩm Từ Nghi | Tối ngày 10 nhận đủ lượng/thẻ, ký trả trước khi đưa bao đi | Không phải cảnh gia chủ trực tiếp, không chứng minh bao hỏng; hai thanh gỗ vẫn ở viện. |
+| Người mẹ/con nhỏ tới lấy thuốc sáng ngày 13 | Trực tiếp được Mạnh Thanh Tễ xem lại/nhắc giữ gói khỏi nước | Chưa tên, không tự gộp mẹ con xóm lò ngói, trẻ Ch48 hoặc Khương Tố Nương/con bị thương tại nhà trú. |
+| Đứa trẻ của Khương Tố Nương | Sáu tuổi theo lời mẹ, áo nâu/vạt vá đỏ; gọi mẹ/được nhận, nhặt mẩu dây, theo người trực đi cùng lượt cáng mẹ | Chưa tên/giới tính/tên cha; mẹ con đã đi tới viện, chưa có cảnh tới nơi. Khương Tố Nương dùng hồ sơ chính CHAR-062, không thêm mẹ vá áo vô danh trùng người. |
+| Người chạy tin nhà trú sập | Áo bết nước/bùn, báo cửa bị chặn/còn người dưới mái, chưa đếm đủ | Chưa tên/nghề/tổ chức; tin ban đầu không giải nguyên nhân hoặc số người cuối. |
+| Người trông coi nhà trú | Kể còn người già/người vá áo ở gian sau, nhận giỏ áo là đồ người làm gian ấy | Chưa xác lập cơ quan sở hữu/bảo trì; đồ vật/lời nhớ không chứng minh người đã chết hoặc vẫn mắc đúng chỗ. |
+| Người cứu/y sư/người khiêng/địa phương | Xem lối, dỡ phần vách, chuyển cáng; y sư quyết việc có nghề, chấp sự giữ lối/danh sách | Nhiều người/chức năng, không gộp thành một cá nhân hoặc mặc định là thợ HFS; phần mái cao chưa được chạm. |
+| Người nhà/những người bị thương khác | Người muốn tìm vợ, người thở yếu được chuyển trước, người đau tay chửi, thêm lượt cáng | Giữ từng vai/cảnh riêng, không đặt tên/tuổi/số phận từ suy đoán; chưa đủ tổng số hoặc kết quả viện. |
+| Người già/người vá áo ở gian sau | Chỉ theo lời người trông coi/Khương Tố Nương báo gian; sau có người trả lời, một người tỉnh mắc chân | Chưa xác nhận danh tính/trùng vai/số còn lại; không ghi cả hai đã chết hoặc đã cứu xong. |
+| Đứa trẻ tới tìm cha | Được Lâm Uyên ghi lời, gọi đối danh sách lối khác và dẫn tới nơi người trực giữ trẻ | Chưa tên/giới tính/quan hệ với gia đình khác; không mặc định tìm thấy cha. |
+
+Địa điểm có hồ sơ chính [[Nhà Trú Tạm Ven Nam Phố]] (LOC-010). Tạ Nghiên Chi ở tuyến hồ sơ Tông Sảnh, không phải người ghi danh sách tại cứu trợ; Lâm Uyên làm việc ghi chuyển, không thay y sư.
+
+Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]], [[Tề Duy Cẩn]], [[Khương Tố Nương]].

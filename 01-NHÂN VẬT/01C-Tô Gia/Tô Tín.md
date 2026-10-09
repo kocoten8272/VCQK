@@ -71,3 +71,10 @@ Tuổi, gia đình, cảnh giới, thời điểm hồi phục và đường đi
 - Hỏi ai thực sự đi thử và nhờ giữ kết quả đem về. Giới hạn đường gần chưa chịu chống ở Chương 56 không bị phiếu mới xóa.
 - Tô Lạc/miếng đồng vẫn chưa thu hồi, vị trí thi thể sau sập chưa xác minh. Hai thanh gỗ trả từ trạm dùng kê sạp ở viện, không điều sang Hắc Phong Sơn.
 - Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]].
+
+## Trạng thái mới theo bản thảo Chương 58
+
+- Trong các ngày mưa vẫn ở Tế Sinh Viện, còn nạng; không đi Hắc Phong Sơn hoặc tới nhà trú cứu trợ, không có mốc hồi phục mới.
+- **Theo tin thợ ngày mười hai:** Lượt thử nền khác ngoài cọc được phép ở Chương 57 phải chậm lại vì mưa; chưa có kết quả mới đạt/nhận đường vào. Tô Tín gửi lời xin giữ cả phần bị mưa ngăn.
+- Tên Tô Lạc vẫn trên sơ đồ; thi thể/miếng đồng chưa thu hồi, vị trí sau sập chưa xác minh. Không lấy tin trì hoãn làm mất lời hứa hoặc tự cấp phép vào hầm.
+- Hai thanh gỗ trạm trả vẫn ở viện, không bổ sung cho khảo sát núi. Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]].

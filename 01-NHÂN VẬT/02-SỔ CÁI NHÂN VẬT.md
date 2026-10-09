@@ -8,7 +8,7 @@ tags:
 
 # Sổ Cái Nhân Vật
 
-> 60 hồ sơ cá nhân trong cây thư mục tại mốc Chương 57. Nhân vật thoáng qua chưa rõ tên được giữ trong sổ riêng.
+> 62 hồ sơ cá nhân trong cây thư mục tại mốc Chương 58. Nhân vật thoáng qua chưa rõ tên được giữ trong sổ riêng.
 
 ## Quy tắc ID
 
@@ -80,6 +80,8 @@ tags:
 | CHAR-058 | [[01D-Lăng Vân Thành/Đỗ Hoài Chương|Đỗ Hoài Chương]] | C | da-xuat-hien | [[01D-Lăng Vân Thành/Đỗ Hoài Chương]] |
 | CHAR-059 | [[01D-Lăng Vân Thành/Phan Kính|Phan Kính]] | C | da-xuat-hien | [[01D-Lăng Vân Thành/Phan Kính]] |
 | CHAR-060 | [[01D-Lăng Vân Thành/Đinh Bá Nghiêm|Đinh Bá Nghiêm]] | C | da-xuat-hien | [[01D-Lăng Vân Thành/Đinh Bá Nghiêm]] |
+| CHAR-061 | [[01D-Lăng Vân Thành/Tề Duy Cẩn|Tề Duy Cẩn]] | C | da-xuat-hien | [[01D-Lăng Vân Thành/Tề Duy Cẩn]] |
+| CHAR-062 | [[01D-Lăng Vân Thành/Khương Tố Nương|Khương Tố Nương]] | C | da-xuat-hien | [[01D-Lăng Vân Thành/Khương Tố Nương]] |
 
 ## Cấp biên tập
 
@@ -91,7 +93,7 @@ S: trục trung tâm; A: tuyến dài/ảnh hưởng lớn đã xác lập hoặ
 | --- | ---: |
 | chua-xuat-hien | 16 |
 | da-qua-doi | 4 |
-| da-xuat-hien | 18 |
+| da-xuat-hien | 20 |
 | dang-phat-trien | 3 |
 | unknown | 1 |
 | de-xuat | 17 |

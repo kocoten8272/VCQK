@@ -66,3 +66,14 @@ tags:
 - Phan Kính từ chối một lượt mới Đinh Bá Nghiêm đề nghị khi không biết người thuê; có thể hỏi lại nếu người thuê tới. Một hợp tác bị mất, chưa mất mọi công việc hoặc chịu phán quyết toàn chuyến. Kỷ Hành Chu chưa đối mặt Đinh Bá Nghiêm, người yêu cầu đổi tại quầy vẫn chưa nhận diện.
 - Nguồn dấu/quầy thuê sân không chứng minh Hạ Gia đứng sau hai hòm hoặc quản lý toàn Nam Phố. Cảnh Thẩm Từ Nghi tại viện thuộc giao dịch nguyên liệu khác, không nối Thẩm Gia với mạng thuốc. Các mạng vẫn được theo dõi riêng.
 - Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]], [[Đinh Bá Nghiêm]], [[Phan Kính]], [[Dược Phường Hòa Sinh]].
+
+## Trạng thái mới theo bản thảo Chương 58
+
+- **Ngày 11, tuyến giấy:** Buổi đối ở Hòa Sinh nhận diện Tề Duy Cẩn qua thẻ trực/người phụ trách và Đinh Bá Nghiêm. Tề Duy Cẩn nhận đọc/lập phiếu/đề nghị giữ hòm thứ hai; người đặt, chủ mua, nguồn tiền và việc thuốc bị gì còn phải kiểm. Không tự đặt dược phường trong địa giới Nam Phố hoặc gán Hạ Gia từ chuỗi quầy.
+- **Mưa ngày 11–13:** Đường xe/rãnh nước cản hoạt động viện/khám và làm lượt thử HFS chậm. Mưa không lớn từng giờ, có lúc dứt rồi lại tới; chưa là chứng cứ một hiện tượng siêu nhiên.
+- **Ngày 13, địa điểm mới:** [[Nhà Trú Tạm Ven Nam Phố]] (LOC-010), nơi có dân ở/chờ phát thuốc, bị sập. Cửa trước bị mái/ngói/gỗ chặn; sân bên còn đường nhưng người/xe chắn, phần mái cao chưa được chạm. Cơ quan sở hữu/bảo trì/tọa độ chính xác và nguyên nhân sập chưa xác lập.
+- **Cứu trợ đang diễn ra:** Tổ Tế Sinh Viện có hộ tống được ghi phạm vi mới; chọn nền cao ngoài tầm mảnh rơi đặt cáng, nhờ người khỏe mở lối/chuyển xe, đưa người qua phần ngoài đã được xem. Không xác nhận toàn nhà an toàn hoặc đã cứu hết người.
+- **Người/các bản chuyển:** Khương Tố Nương tự khai vá áo thuê/cùng con ở gian sát sân, nhận đứa sáu tuổi áo nâu/vạt vá đỏ; mẹ con đã rời điểm cáng cùng lượt tới viện, chưa có cảnh tới nơi. Lâm Uyên ghi tên/người đi cùng/nơi chuyển, Tô Thanh Ly giữ lối và gọi người khỏe nâng; hai người còn thương, không thay y sư.
+- **Cuối chương:** Mạnh Thanh Tễ còn sống, cùng người cứu làm việc gần lỗ vách đã dọn và chờ chuyển một người tỉnh mắc chân. Người gian sau chưa tìm hết, số chuyển/nhận ở viện còn cần đối. Tạ Nghiên Chi/hồ sơ gốc ở tuyến Tông Sảnh, không có mặt cứu trợ.
+- Chưa tái thiết nhà trú hoặc chứng minh trách nhiệm bảo trì/Bùi Gia/quan hệ với thuốc. Hai thanh gỗ trạm đã trả vẫn dưới sạp viện, không trở thành vật chống cứu hộ. Các mạng được theo dõi riêng.
+- Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]], [[Nhà Trú Tạm Ven Nam Phố]], [[Khương Tố Nương]], [[Tề Duy Cẩn]].

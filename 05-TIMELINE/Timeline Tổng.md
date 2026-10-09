@@ -41,7 +41,7 @@ Mốc trong Chương 1 chỉ xác nhận gia đình nhận tin báo tử và là
 
 Dòng lịch sử xa được chia thành Thời Mạch Khai, Thời Vạn Đạo, Thời Lập Tịch và Thời Dần Tịch hiện tại. Đại Nạn Đứt Mạch dẫn đến việc dựng Thiên Tịch để ổn định ghi nhận và các đường nhân quả; nguyên nhân đầy đủ và trách nhiệm lịch sử được để đa nguồn, không quy cho một cá nhân hay tộc. Chi tiết thuộc lớp tác giả: [[Thiết Kế Tác Giả Đã Chốt — Thế Giới, Lịch Sử Và Bí Mật]].
 
-## Mốc hiện hành — Chương 53–54
+## Mốc Chương 53–54
 
 | Thời điểm tương đối | Sự kiện đã viết | Giới hạn |
 | --- | --- | --- |
@@ -84,3 +84,15 @@ Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]]. Không ấ
 | Trước hết nắng sân | Phản hồi Hòa Sinh xác nhận dấu/lượt công, đồng ý mở phần liên quan buổi kế | Chưa đối người đọc cho chép hoặc xác nhận người mua cuối |
 
 Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]]. Giữ thời gian tương đối, không tự tạo ngày lịch/cự ly.
+
+## Mốc ngày thứ mười đến mười ba — Chương 58
+
+| Thời điểm | Sự kiện đã viết | Giới hạn |
+| --- | --- | --- |
+| Tối ngày thứ mười, sau cảnh cuối Ch57 | Kiểm đúng hẹn bao giữ hộ, viện không mua thêm; báo Thẩm Từ Nghi rồi trả người làm đủ lượng/thẻ. Hai gỗ ở lại viện | Không kéo thời hạn một buổi qua đoạn nhảy ngày, không tự dùng bao giữ hộ phát thuốc |
+| Sáng ngày thứ mười một | Mưa bắt đầu; giấy bổ sung tới bàn giấy Hòa Sinh. Đinh Bá Nghiêm nhận Tề Duy Cẩn; Tề Duy Cẩn nhận đọc/lập phiếu và đề nghị chia hai lượt; hồ sơ gốc được giữ theo biên nhận | Các lời tự nhận/đối người và phần lưu có phạm vi riêng; chưa người mua cuối, người nhấc sáp hoặc nguyên nhân mẫu vón |
+| Ngày thứ mười hai | Mưa ngắt rồi lại tới, sân phơi thu vào hiên; tin thử nền HFS chậm lại | Không có lệnh vào hầm/kết quả nhận đường; thương tích giữ, không tăng tu vi |
+| Ngày thứ mười ba, ngày thứ ba có mưa | Tin nhà trú ven Nam Phố sập; tổ cứu trợ có phạm vi mới/hộ tống tới nơi. Lập điểm cáng/lối chuyển; Khương Tố Nương và con được nhận nhau rồi cùng chuyển về viện | Không mặc định nguyên nhân, người chịu tội hoặc nối đường thuốc; giới tính đứa trẻ chưa nêu |
+| Cuối Ch58 tại điểm cứu | Lâm Uyên ghi/báo/chuyển thông tin, Tô Thanh Ly giữ lối và gọi người nâng; Mạnh Thanh Tễ còn sống, làm việc với tổ cứu tại lỗ vách đã tiếp cận | Chưa sụp lần hai, chưa cái chết của Mạnh Thanh Tễ; Tạ Nghiên Chi/Đinh Bá Nghiêm không có cảnh ở hiện trường |
+
+Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]]. Ch57 có nắng nên không hồi tố mưa liên tục nhiều ngày trước; hai thanh gỗ đã trả và ở viện, không tự chuyển ra nhà trú hoặc lên núi.

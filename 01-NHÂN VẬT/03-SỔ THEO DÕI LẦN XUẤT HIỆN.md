@@ -9,7 +9,7 @@ tags:
 
 # Sổ Theo Dõi Lần Xuất Hiện
 
-> Bảng nền rà soát Chương 1–52; cập nhật Chương 53–57 ở các mục dưới. Mốc “lần cuối” có thể là hậu quả/nhắc lại, không khẳng định người có mặt trong cảnh. Mở hồ sơ nguồn trước khi viết tiếp.
+> Bảng nền rà soát Chương 1–52; cập nhật Chương 53–58 ở các mục dưới. Mốc “lần cuối” có thể là hậu quả/nhắc lại, không khẳng định người có mặt trong cảnh. Mở hồ sơ nguồn trước khi viết tiếp.
 
 ## Đã xuất hiện hoặc được nhận diện
 
@@ -132,3 +132,21 @@ Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]], [[Phan Kí
 Kỷ Hành Chu chỉ được nhắc qua lời/chứng từ cũ, chưa có cảnh mới hoặc đối mặt Đinh Bá Nghiêm. Trần Dực/Tô Lạc chỉ được nhắc; không suy tiến triển sức khỏe/thu hồi thi thể. Người giữ bàn nhận giấy của Hòa Sinh chỉ qua lời/văn bản, chưa trực tiếp hiện diện.
 
 Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]], [[Đinh Bá Nghiêm]], [[Thẩm Từ Nghi]].
+
+## Mốc mới theo bản thảo Chương 58
+
+| ID | Nhân vật | Kiểu xuất hiện / mốc | Nơi cuối được biết | Giới hạn |
+| --- | --- | --- | --- | --- |
+| CHAR-005 | Lâm Uyên | Trực tiếp; tối ngày 10, đối công ngày 11, việc viện/cứu trợ ngày 12–13 | Điểm đặt cáng ngoài phần nhà trú sập, ven Nam Phố | Tay phải vẫn bỏng/băng ẩm; ghi tên, người đi cùng/nơi chuyển và đưa đồ được gọi, không tự phân bệnh, nâng cáng hoặc dùng linh lực chữa tay. |
+| CHAR-006 | Tô Thanh Ly | Trực tiếp; Hòa Sinh ngày 11 và cứu trợ ngày 13 | Điểm cáng/đầu lối xe tại nhà trú | Giữ lối, gọi người khỏe chuyển xe/cáng, dùng tay trái; chưa khỏi thương hoặc bỏ quản thúc/bảo chứng. |
+| CHAR-061 | [[Tề Duy Cẩn]] | Lần đầu trực tiếp, có tên ngày 11 | Bàn nhận giấy giao cửa bên Dược Phường Hòa Sinh | Tên trên thẻ trực được người phụ trách xác nhận, Đinh Bá Nghiêm nhận người. Nhận đọc/lập phiếu/đề nghị chia hai lượt; chưa xác định là người mua cuối. |
+| CHAR-060 | Đinh Bá Nghiêm | Trực tiếp ngày 11 | Buổi đối công Hòa Sinh trong cảnh cuối trực tiếp | Không ký nhận giao trọn hai hòm theo điều kiện; khoản công còn lại chưa trả ngay, chưa phán quyết toàn chuyến. |
+| CHAR-046 | Tạ Nghiên Chi | Trực tiếp ngày 11 | Trở về Tông Sảnh cùng hồ sơ | Ngày 13 chỉ được nhờ báo giữ hồ sơ; không có cảnh tham gia cứu trợ. |
+| CHAR-037 | Mạnh Thanh Tễ | Trực tiếp tại viện và cứu trợ ngày 13 | Phần làm việc đã được người cứu xem chỗ bước, gần lỗ vách mới dọn | Còn sống, còn nói/xem người mắc chân, chờ đủ tay cứu; người ở gian sau chưa tìm hết, không xác nhận kết cục tương lai. |
+| CHAR-062 | [[Khương Tố Nương]] | Lần đầu trực tiếp, có tên ngày 13 | Đã lên cáng rời điểm tiếp nhận, chuyển tới Tế Sinh Viện cùng con | Chân đã giải khỏi ván nhưng còn cần khám/điều trị; chưa có cảnh tới viện hoặc xác nhận đã khỏi. |
+| CHAR-047 | Viện Chủ Tế Sinh Viện (chưa rõ tên) | Trực tiếp tại viện | Tế Sinh Viện trong việc chọn tổ cứu trợ | Quyết không nhập thêm bao giữ hộ, chọn người có nghề/người khiêng; giữ người chăm bệnh nhân ở lại, không tự gộp mọi chấp sự/y sư. |
+| CHAR-019 | Tô Tín | Được nhắc/gửi lời theo tin ngày 12 | Tế Sinh Viện theo mạch hồi phục đang có | Còn nạng; nhờ giữ phần bị mưa ngăn, không có cảnh tới núi hoặc cứu trợ nhà trú. |
+
+Thẩm Từ Nghi chỉ được nhắc qua việc báo/trả bao tối ngày 10; người làm nhận bao, bà không trực tiếp có mặt mới. Phan Kính, Kỷ Hành Chu, Trần Dực, Tô Lạc chỉ được nhắc, không tự cập nhật vị trí/sức khỏe. Đứa trẻ sáu tuổi được Khương Tố Nương nhận là con, mặc áo nâu/vạt vá đỏ; giới tính chưa nêu, chưa tạo hồ sơ tên riêng.
+
+Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]], [[Tề Duy Cẩn]], [[Khương Tố Nương]], [[Nhà Trú Tạm Ven Nam Phố]].

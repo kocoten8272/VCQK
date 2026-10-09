@@ -17,13 +17,16 @@ Nhân vật dân sinh, Tế Sinh Viện, Nam Phố và các cơ quan/nhà có ho
 
 - [Lão Bán Pháp Khí](L%C3%A3o%20B%C3%A1n%20Ph%C3%A1p%20Kh%C3%AD.md) — `da-xuat-hien` — Chủ quầy pháp khí cũ trong Chợ Tu Hành phía đông Lăng Vân Thành, người bán cho Lâm Uyên thanh đoản đao và bình thuốc cầm máu.
 - [Lưu Định](L%C6%B0u%20%C4%90%E1%BB%8Bnh.md) — `da-xuat-hien` — Phu xe chở thuê bị thương trong lúc xe chở vải đổ nghiêng ở chợ phía tây; người lao động dân thường, không có hồ sơ tu hành.
-- [Mạnh Thanh Tễ](M%E1%BA%A1nh%20Thanh%20T%E1%BB%85.md) — `da-xuat-hien` — Y sư/giám dược tại Tế Sinh Viện, người đang hướng dẫn Lâm Uyên những căn bản về dược liệu và cứu chữa bách tính nghèo.
+- [Mạnh Thanh Tễ](M%E1%BA%A1nh%20Thanh%20T%E1%BB%85.md) — `da-xuat-hien` — Y sư/giám dược tại Tế Sinh Viện, người đang hướng dẫn Lâm Uyên những căn bản về dược liệu và cứu chữa bách tính nghèo. Cuối Chương 58 còn sống, làm việc tại phần nhà trú đang được tổ cứu tiếp cận; chưa sụp lần hai.
 - [Trần Dực](Tr%E1%BA%A7n%20D%E1%BB%B1c.md) — `da-xuat-hien` — Người được nhóm Lâm Uyên gặp trong phế tích ở Chương 40; đến Chương 50 đang chữa trị tại Tế Sinh Viện. Hồ sơ tách lời khai khỏi sự thật đã quan sát.
 - [Tạ Hạnh](T%E1%BA%A1%20H%E1%BA%A1nh.md) — `da-xuat-hien` — Người giữ sổ cân tại một hiệu thuốc ở chợ phía tây; chỉ xuất hiện trong một cuộc đối chiếu chứng từ tính đến hết Chương 52.
 - [Tạ Nghiên Chi](T%E1%BA%A1%20Nghi%C3%AAn%20Chi.md) — `da-xuat-hien` — Thư lại giữ sổ trực dãy phòng Tô Thanh Ly, xuất hiện lần đầu trong Chương 51 khi Tông Sảnh mở hồ sơ sau vụ cháy Tàng Thư Các.
 - [Viện Chủ Tế Sinh Viện (chưa rõ tên)](Vi%E1%BB%87n%20Ch%E1%BB%A7%20T%E1%BA%BF%20Sinh%20Vi%E1%BB%87n%20(ch%C6%B0a%20r%C3%B5%20t%C3%AAn).md) — `da-xuat-hien` — Chức danh của người đứng đầu Tế Sinh Viện. Tên riêng chưa được nêu trong bản thảo đến hết Chương 52; không tự đặt tên hoặc chốt giới tính nếu chưa có bằng chứng.
 
 - [Đỗ Hoài Chương](%C4%90%E1%BB%97%20Ho%C3%A0i%20Ch%C6%B0%C6%A1ng.md) — `da-xuat-hien` — Thợ sửa sách nhà hong; trực tiếp nhận việc mượn hai chìa ở Chương 54, trách nhiệm chiếc thứ hai chưa rõ.
+
+- [Tề Duy Cẩn](T%E1%BB%81%20Duy%20C%E1%BA%A9n.md) — `da-xuat-hien` — CHAR-061, hạng C; lần đầu trực tiếp Chương 58 tại Hòa Sinh. Đinh Bá Nghiêm nhận người; hắn nhận đọc chỉ dẫn, lập phiếu công và đề nghị chia hai lượt. Chưa xác nhận là người mua cuối.
+- [Khương Tố Nương](Kh%C6%B0%C6%A1ng%20T%E1%BB%91%20N%C6%B0%C6%A1ng.md) — `da-xuat-hien` — CHAR-062, hạng C; lần đầu trực tiếp Chương 58, người vá áo thuê ở nhà trú Nam Phố. Mẹ được giải chân và chuyển cùng con sáu tuổi tới viện; không tự gán giới tính cho đứa trẻ.
 
 ## Hạ Gia — hồ sơ đề xuất
 
@@ -40,7 +43,7 @@ Nhân vật dân sinh, Tế Sinh Viện, Nam Phố và các cơ quan/nhà có ho
 - [Thẩm Hoài Sinh](Th%E1%BA%A9m%20Ho%C3%A0i%20Sinh.md) — `de-xuat` — Thành viên **đề xuất**, chưa xuất hiện trong chương truyện. Hồ sơ này triển khai từ gia phả dự kiến; tên, tuổi, quan hệ và tiểu sử có thể thay đổi trước khi được tác giả chốt.
 - [Thẩm Hương Dật](Th%E1%BA%A9m%20H%C6%B0%C6%A1ng%20D%E1%BA%ADt.md) — `de-xuat` — Thành viên **đề xuất**, chưa xuất hiện trong chương truyện. Hồ sơ này triển khai từ gia phả dự kiến; tên, tuổi, quan hệ và tiểu sử có thể thay đổi trước khi được tác giả chốt.
 - [Thẩm Minh Châu](Th%E1%BA%A9m%20Minh%20Ch%C3%A2u.md) — `de-xuat` — Thành viên **đề xuất**, chưa xuất hiện trong chương truyện. Hồ sơ này triển khai từ gia phả dự kiến; tên, tuổi, quan hệ và tiểu sử có thể thay đổi trước khi được tác giả chốt.
-- [Thẩm Từ Nghi](Th%E1%BA%A9m%20T%E1%BB%AB%20Nghi.md) — `da-xuat-hien` — CHAR-042, hạng B; gia chủ Thẩm Gia, trực tiếp Chương 57 đem nguyên liệu/đối điều kiện mua và giữ hộ tại viện. Tuổi/gia phả là thiết kế duyệt chưa tự lộ.
+- [Thẩm Từ Nghi](Th%E1%BA%A9m%20T%E1%BB%AB%20Nghi.md) — `da-xuat-hien` — CHAR-042, hạng B; gia chủ Thẩm Gia, trực tiếp Chương 57 đem nguyên liệu/đối điều kiện mua và giữ hộ tại viện. Tuổi/gia phả là thiết kế duyệt chưa tự lộ. Bao giữ hộ được kiểm và trả tối ngày thứ mười trong Chương 58; không tự thành hàng viện mua.
 - [Thẩm Vãn Đường](Th%E1%BA%A9m%20V%C3%A3n%20%C4%90%C6%B0%E1%BB%9Dng.md) — `de-xuat` — Thành viên **đề xuất**, chưa xuất hiện trong chương truyện. Hồ sơ này triển khai từ gia phả dự kiến; tên, tuổi, quan hệ và tiểu sử có thể thay đổi trước khi được tác giả chốt.
 
 ## Bùi Gia — hồ sơ đề xuất
@@ -54,12 +57,16 @@ Nhân vật dân sinh, Tế Sinh Viện, Nam Phố và các cơ quan/nhà có ho
 
 ## Tuyến bến nước — nhận diện qua hồ sơ
 
-- [Phan Kính](Phan%20K%C3%ADnh.md) — `da-xuat-hien` — Người coi hàng có mặt Chương 47, gọi tên Chương 55; trực tiếp Chương 56 bàn giao tờ đổi gốc và trình lời. Chưa biết người mua/người viết mặt sau.
+- [Phan Kính](Phan%20K%C3%ADnh.md) — `da-xuat-hien` — Người coi hàng có mặt Chương 47, gọi tên Chương 55; trực tiếp Chương 56 bàn giao tờ đổi gốc và trình lời. Người mua cuối chưa rõ; Đinh Bá Nghiêm nhận chép ở Chương 57, Tề Duy Cẩn nhận đọc ở Chương 58. Phan Kính không có cảnh tại nhà trú.
 
 ## Người làm xe đã trực tiếp trình lời
 
-- [Đinh Bá Nghiêm](%C4%90inh%20B%C3%A1%20Nghi%C3%AAm.md) — `da-xuat-hien` — CHAR-060, hạng C; tên Chương 56, lần đầu trực tiếp Chương 57. Nhận giao phiếu/chép mặt sau, nguồn thuê vẫn cần kiểm.
+- [Đinh Bá Nghiêm](%C4%90inh%20B%C3%A1%20Nghi%C3%AAm.md) — `da-xuat-hien` — CHAR-060, hạng C; tên Chương 56, lần đầu trực tiếp Chương 57. Nhận giao phiếu/chép mặt sau; Chương 58 trực tiếp nhận Tề Duy Cẩn là người đọc cho chép, trách nhiệm người mua cuối vẫn chưa được giải. Không có mặt ở hiện trường nhà trú.
 
+
+## Mốc cảnh hiện hành — cuối Chương 58
+
+Ngày thứ mười ba sau Hắc Phong Sơn: Lâm Uyên ghi/chuyển thông tin ở điểm cáng ngoài nhà trú Nam Phố, Tô Thanh Ly mở đường chuyển người, Mạnh Thanh Tễ còn sống và sơ cứu cùng người có nghề. Tạ Nghiên Chi giữ hồ sơ tại Tông Sảnh; không đưa nàng hoặc Đinh Bá Nghiêm tới hiện trường qua suy đoán. Tra [[Trạng Thái Truyện Sau Chương 58]] trước khi viết tiếp.
 
 ## Quy ước của thư mục
 

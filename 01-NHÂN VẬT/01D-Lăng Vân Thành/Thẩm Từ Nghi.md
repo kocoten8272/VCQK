@@ -62,3 +62,11 @@ Gia phả, tên, quan hệ, độ tuổi, động cơ và chức năng trong h�
 - Quan hệ nghề nghiệp trực tiếp với Mạnh Thanh Tễ, viện chủ và người giữ sổ qua kiểm/mua/giữ nguyên liệu; gặp Tô Thanh Ly, Lâm Uyên tại viện. Không tự tạo thân hữu lâu năm hoặc quan hệ chính trị.
 - Lô mang tới là nguyên liệu riêng cho công việc viện, không lô Xích Tủy Tán ở bến, không chứng minh ai thuê Đinh Bá Nghiêm. Hai thanh gỗ trạm trả dùng kê sạp giữ bao tại viện; không vật tư khảo sát núi.
 - Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]].
+
+## Trạng thái mới theo bản thảo Chương 58
+
+- Chỉ được nhắc qua giao dịch, không có cảnh trực tiếp mới. Tối ngày mười, buổi kiểm bao giữ hộ được thực hiện đúng giờ; viện chủ không nhận mua thêm phần này trong lượt nhập.
+- Người giữ sổ báo kết quả tới Thẩm Từ Nghi trước gọi xe; người làm của bà đối đủ lượng/thẻ, ký phần trả và khiêng bao về. Chưa có lời đáp hoặc quyết định mới của chính bà; không tự cho bà ở viện hoặc nhà trú.
+- Khoản giữ hộ một buổi đã kết thúc trước quãng mưa ngày mười một tới mười ba. Không tự nói nguyên liệu hỏng, gian lận hoặc viện mua chịu; phần mua ở Chương 57 tiếp riêng, không tạo Dược Khế mới.
+- Hai thanh gỗ trạm trả ở lại viện sau bao rời sạp; không chuyển sang Hắc Phong Sơn hoặc giải thích nhà trú sập. Không nối Thẩm Gia với lô Xích Tủy Tán, Tề Duy Cẩn, người đặt hoặc cứu trợ chỉ vì cùng dược liệu.
+- Tuổi 53/gia phả và các chi tiết chưa nói vẫn là thiết kế. Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]].

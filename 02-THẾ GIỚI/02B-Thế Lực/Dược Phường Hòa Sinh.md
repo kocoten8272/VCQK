@@ -11,7 +11,7 @@ tags:
 
 # Dược Phường Hòa Sinh
 
-> Cơ sở phối/niêm dược liệu đã xuất hiện trong bản thảo Chương 49–50, có bàn nhận giấy giao được kiểm thêm ở Chương 57. Node này tổng hợp nguồn đã viết; không tự nâng cơ sở nghề nghiệp thành phe bí mật.
+> Cơ sở phối/niêm dược liệu đã xuất hiện Chương 49–50; bàn nhận giấy giao được kiểm qua phản hồi Chương 57 và đối người trực tiếp Chương 58. Node tổng hợp nguồn đã viết, không tự nâng cơ sở nghề nghiệp thành phe bí mật.
 
 ## Vị trí và chức năng theo bản thảo
 
@@ -38,8 +38,8 @@ tags:
 
 ## Nhân sự và giới hạn
 
-- Người cân, người phụ trách phòng sổ, người giữ bàn nhận giấy chưa có tên công khai. Vai có thể khác người; không tự gộp.
-- Người đọc cho Đinh Bá Nghiêm chép chưa được độc lập nhận mặt hoặc xác định chức vụ thật. Lời “người giữ việc giao” là cách hắn gọi, không chức danh đã xác minh.
+- Người cân và người phụ trách phòng sổ chưa có tên công khai; người giữ bàn nhận giấy được xác minh là [[Tề Duy Cẩn]] ở Chương 58. Vai có thể khác người, không tự gộp.
+- Chương 58: Đinh Bá Nghiêm trực tiếp nhận Tề Duy Cẩn, người này nhận đọc lời; thẻ trực/người phụ trách xác nhận nhiệm vụ cửa bên. Nguồn đọc được đối, còn nguồn yêu cầu gốc/người mua chưa xác minh.
 - Không tự thiết kế chủ sở hữu, tu vi nhân sự, lực lượng võ trang hoặc quyền chấp pháp khi chưa cần.
 - Địa điểm/lượt công có thể kiểm tiếp theo lệnh. Lâm Uyên và Tô Thanh Ly vẫn bị giới hạn đi lại; không tự mở kho/gọi đối người.
 
@@ -49,4 +49,15 @@ Một nguồn có thể hỏi cả công việc phối thuốc và chỉ dẫn g
 
 ## Liên kết
 
-[[Chương 49]] · [[Chương 50]] · [[Chương 57]] · [[Trạng Thái Truyện Sau Chương 57]] · [[Đinh Bá Nghiêm]] · [[Phan Kính]] · [[Nam Phố]] · [[Viện Chủ Tế Sinh Viện (chưa rõ tên)|Tế Sinh Viện]] · [[Thẩm Gia]] · [[03-Sổ Nguồn Và Lớp Tri Thức]]
+[[Chương 49]] · [[Chương 50]] · [[Chương 57]] · [[Chương 58]] · [[Trạng Thái Truyện Sau Chương 58]] · [[Đinh Bá Nghiêm]] · [[Phan Kính]] · [[Nam Phố]] · [[Viện Chủ Tế Sinh Viện (chưa rõ tên)|Tế Sinh Viện]] · [[Thẩm Gia]] · [[03-Sổ Nguồn Và Lớp Tri Thức]]
+
+## Trạng thái mới theo bản thảo Chương 58
+
+- Sáng ngày mười một sau Hắc Phong Sơn, mở đúng bàn nhận giấy giao cửa bên/phần hồ sơ liên quan theo lệnh bổ sung, có chấp sự. Không mở mọi sổ/kho hoặc quyền quản lý cơ sở.
+- **Tên/chức được đối:** Tề Duy Cẩn trên thẻ trực, người phụ trách xác nhận nhận việc giao cửa bên. Đinh Bá Nghiêm nhận đúng người đọc cho chép; Tề Duy Cẩn nhận dấu/lập phiếu/đọc mặt sau, thấy Đinh Bá Nghiêm chép và đọc lại. Không tự gộp người cân/phụ trách sổ hoặc chủ sở hữu vào vai này.
+- Tề Duy Cẩn muốn chốt công bằng dòng chuyến đã xong; Đinh Bá Nghiêm từ chối nhận thay toàn việc giao hòm. Người phụ trách yêu cầu đối đúng phần thuê, khoản còn lại chưa trả ngay; không tự xác định ai cuối cùng giữ nguồn tiền.
+- **Lời Tề Duy Cẩn:** Người đặt cần lời đường dược liệu Hắc Phong Sơn; chia hai lần để chắc nhận đủ bản chép là cách hắn đề nghị. Đây là phần tự nhận/nguồn lý do cần kiểm thêm, chưa xác định người đặt gốc/người mua hoặc trách nhiệm toàn dược phường.
+- Hai lời nhận, phiếu công/phần lưu làm rõ nguồn đọc và khâu chép. Chưa kết luận người mở hòm/nhấc sáp, vì sao mẫu nguyên niêm vón hoặc người trả tiền mua thuốc. Hắc Nha/Tả tiên sinh chưa được nối.
+- Tô Thanh Ly yêu cầu câu hỏi Trần Dực trình Tông Sảnh, không lấy lời thay thuốc; chấp sự yêu cầu không tiếp đặt điều kiện ấy lên giao thuốc vụ đang kiểm. Chưa có lời Trần Dực mới hoặc phương án trả lời thay hắn.
+- Tạ Nghiên Chi đem hồ sơ về Tông Sảnh, Lâm Uyên/Tô Thanh Ly về viện theo giấy. Không có cảnh nhân sự Hòa Sinh ở nhà trú sập ngày mười ba hoặc bằng chứng cơ sở gây tai nạn.
+- Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]].

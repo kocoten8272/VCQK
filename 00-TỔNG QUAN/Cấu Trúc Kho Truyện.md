@@ -100,7 +100,7 @@ Trước khi xuất hiện, giữ nhãn **TỰ THIẾT KẾ — CHƯA XUẤT HI�
 ## Nguồn sự thật
 
 - Sự kiện đã xảy ra: bản thảo trong `06-CHƯƠNG TRUYỆN`, theo giới hạn canon tại `08-FILE CƠ BẢN`.
-- Trạng thái tiếp nối ở mốc hiện tại: [[Trạng Thái Truyện Sau Chương 57]].
+- Trạng thái tiếp nối ở mốc hiện tại: [[Trạng Thái Truyện Sau Chương 58]].
 - Kế hoạch tương lai: `04-KHUNG TRUYỆN`; không dùng kế hoạch để chứng minh sự kiện đã xảy ra.
 - Thông tin thế giới và tu hành: `02` và `03`, ưu tiên sổ thiết kế tác giả đã chốt mới nhất theo thẩm quyền nguồn; tự thiết kế ứng dụng thường lệ theo [[11_AUTONOMOUS_STORY_DESIGN]], không tự đổi nền hệ thống.
 
@@ -115,4 +115,4 @@ Trước khi xuất hiện, giữ nhãn **TỰ THIẾT KẾ — CHƯA XUẤT HI�
 - Các mục lục cục bộ tại `01-NHÂN VẬT/01A` đến `01-NHÂN VẬT/01F`
 - [[MẪU HỒ SƠ NHÂN VẬT]]
 - [[Kết Chương]]
-- [[Trạng Thái Truyện Sau Chương 57]]
+- [[Trạng Thái Truyện Sau Chương 58]]

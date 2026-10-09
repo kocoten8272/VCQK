@@ -78,21 +78,22 @@ tags:
 | Chương 55 | 🔶 | Cước Của Một Chặng | `status: nhap` |
 | Chương 56 | 🔶 | Mặt Sau Tờ Phiếu | `status: nhap` |
 | Chương 57 | 🔶 | Một Lượt Ngoài Sổ | `status: nhap` |
+| Chương 58 | 🔶 | Chỗ Đặt Cáng | `status: nhap` |
 
 ## Chương tiếp theo
 
-- Chương 58: hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 57]]. Chương 51–57 đã có bản nháp trên `main`; áp dụng [[11_AUTONOMOUS_STORY_DESIGN]] để chuẩn bị nội dung mới phù hợp.
+- Chương 59: hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 58]]. Chương 51–58 đã có bản nháp trên `main`; áp dụng [[11_AUTONOMOUS_STORY_DESIGN]] để chuẩn bị nội dung mới phù hợp.
 - Các ý tưởng cũ cho chương 39–44 trong hồ sơ hỗ trợ thuộc mạch trước bản Chương 37–38 hiện tại. Chỉ dùng làm chất liệu sau khi đối chiếu, không coi là sự kiện đã xảy ra.
 
 ## Tổng số
 
-- Có tệp chương 1–57 trên `main`: 57.
+- Có tệp chương 1–58 trên `main`: 58.
 - Hoàn thiện: 33 chương theo tracker (1–25) và frontmatter (26–32, 34). Chương 2–7 thiếu khai báo frontmatter nhưng tracker hiện đánh dấu hoàn thiện.
-- Nháp theo frontmatter: 23 chương (33, 36–57).
+- Nháp theo frontmatter: 24 chương (33, 36–58).
 - Chương 35 có tệp nhưng chưa khai báo trạng thái; tracker cũng chưa xác định hoàn thiện hay nháp.
-- Chương 58 trở đi: chưa có tệp; các mốc tương lai giữ ở mức kế hoạch.
+- Chương 59 trở đi: chưa có tệp; các mốc tương lai giữ ở mức kế hoạch.
 
 ## Liên kết
 
 - Nhịp: [[Nhịp Truyện]]
-- Chương: [[Chương 1]] → [[Chương 57]]
+- Chương: [[Chương 1]] → [[Chương 58]]

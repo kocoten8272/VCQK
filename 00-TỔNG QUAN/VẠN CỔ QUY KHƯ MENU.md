@@ -8,10 +8,10 @@
 
 - **Tên truyện:** Vạn Cổ Quy Khư
 - **Nhân vật chính:** [[Lâm Uyên]]
-- **Địa điểm ở cuối Chương 57:** Tế Sinh Viện; Đinh Bá Nghiêm đã trình lời, chuẩn bị đối công Hòa Sinh; Thẩm Từ Nghi có nguyên liệu giữ hộ, HFS chỉ cho thử tiếp ngoài cọc
+- **Địa điểm ở cuối Chương 58:** Điểm cáng ngoài nhà trú ven Nam Phố, ngày thứ mười ba sau Hắc Phong Sơn; Lâm Uyên ghi/chuyển người, Tô Thanh Ly mở đường, Mạnh Thanh Tễ còn sống và làm việc cùng tổ cứu
 - **Thế lực gắn với arc hiện tại:** [[Tô Gia]]
-- **Chương mới nhất trên main:** [[Chương 57]] (nháp)
-- **Chương tiếp theo:** Chương 58 (dự kiến)
+- **Chương mới nhất trên main:** [[Chương 58]] (nháp)
+- **Chương tiếp theo:** Chương 59 (dự kiến)
 - **Trạng thái:** Đang sáng tác
 
 ---
@@ -48,6 +48,8 @@
 - [[LOG-001-Khởi Tạo Bộ Nhớ Sáng Tác]] — nguồn phản hồi và việc còn chưa được đánh giá qua sử dụng
 - [[LOG-003-Áp Dụng Kỹ Thuật Trong Chương 56]] — cách dùng yếu tố cũ, hai mặt tờ phiếu và giới hạn chứng cứ
 - [[LOG-004-Áp Dụng Kỹ Thuật Trong Chương 57]] — kết quả cuộc gặp, quan hệ nghề nghiệp và nguồn tham khảo mới
+- [[REF-003-Nguồn Về Mưa Lũ Và Không Gian Cứu Trợ]] — nguồn Red Cross đã đọc ngày 2026-10-09, giới hạn tham khảo và bố trí nơi cứu trợ
+- [[LOG-005-Áp Dụng Kỹ Thuật Trong Chương 58]] — thời gian mưa, cuộc đối công và cứu người với năng lực hữu hạn
 
 ## NHÂN VẬT
 
@@ -185,13 +187,14 @@
 - [[Chương 54]] — Chiếc Chìa Không Khớp; nháp
 - [[Chương 55]] — Cước Của Một Chặng; nháp
 - [[Chương 56]] — Mặt Sau Tờ Phiếu; nháp
-- [[Chương 57]] — Một Lượt Ngoài Sổ; nháp mới
+- [[Chương 57]] — Một Lượt Ngoài Sổ; nháp
+- [[Chương 58]] — Chỗ Đặt Cáng; nháp mới
 
 ### Chuẩn bị
 
-- Chương 58 — hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 57]].
+- Chương 59 — hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 58]].
 - [[Kết Chương]] — trạng thái từng chương, bao gồm các bản nháp và chương chưa có frontmatter.
-- [[Trạng Thái Truyện Sau Chương 57]] — trạng thái continuity hiện hành; các bản sau chương trước đó là lưu vết lịch sử.
+- [[Trạng Thái Truyện Sau Chương 58]] — trạng thái continuity hiện hành; các bản sau chương trước đó là lưu vết lịch sử.
 
 ---
 

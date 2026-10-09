@@ -17,6 +17,7 @@ tags:
 | --- | --- | --- | --- | --- |
 | REF-001 | [[REF-001-Nguồn Về Sinh Tồn Và Giới Hạn]] | Nguồn tham khảo | verified | Cần xem nguồn thật đã đọc và phạm vi của bốn trang |
 | REF-002 | [[REF-002-Nguồn Về Trả Lời Bí Ẩn Và Chức Năng Cảnh]] | Nguồn tham khảo | verified | Đoạn đọc trang Microcasting chính thức, phạm vi và trả lời điều đã hứa |
+| REF-003 | [[REF-003-Nguồn Về Mưa Lũ Và Không Gian Cứu Trợ]] | Nguồn tham khảo | verified | Red Cross về an toàn mưa lũ, đọc ngày 2026-10-09; giới hạn nguồn và tổ chức điểm chuyển người |
 | PAT-001 | [[PAT-001-Giới Hạn Làm Thay Đổi Lựa Chọn]] | Mẫu kỹ thuật | ready | Cảnh có giải pháp quá dễ, cái giá chưa ảnh hưởng hoặc chuẩn bị thêm hệ thống |
 | SEED-001 | [[SEED-001-Ngày Công Bị Bỏ Trống]] | Chất liệu VCQK | seed | Hệ quả công việc của việc trình lời; phẩm giá người làm nghề |
 | SEED-002 | [[SEED-002-Một Thanh Chống Hai Lời Hứa]] | Chất liệu VCQK | seed | Chuẩn bị vật tư Hắc Phong Sơn; năng lực hữu hạn và trách nhiệm với người sống |
@@ -24,6 +25,7 @@ tags:
 | LOG-002 | [[LOG-002-Áp Dụng Kỹ Thuật Trong Chương 55]] | Phản hồi/áp dụng | recorded | Phần kỹ thuật đã dùng, giới hạn và các lỗi cục bộ được sửa ở Ch55 |
 | LOG-003 | [[LOG-003-Áp Dụng Kỹ Thuật Trong Chương 56]] | Phản hồi/áp dụng | recorded | Đào sâu vai cũ, vật gốc hai mặt, kết quả thử chống và giới hạn nguồn lời Ch56 |
 | LOG-004 | [[LOG-004-Áp Dụng Kỹ Thuật Trong Chương 57]] | Phản hồi/áp dụng | recorded | Cuộc gặp có kết quả, nguồn mới, Thẩm Từ Nghi và việc cũ khép được |
+| LOG-005 | [[LOG-005-Áp Dụng Kỹ Thuật Trong Chương 58]] | Phản hồi/áp dụng | recorded | Khép bao giữ hộ, đối người Hòa Sinh và điểm cáng ngoài nhà trú trong mưa |
 
 Các seed chưa được dùng trong chương. Không lấy chúng làm căn cứ xác nhận tiền công, hợp đồng hoặc tiến độ chống vách.
 
@@ -67,3 +69,7 @@ PAT-001 được dùng tiếp với lựa chọn bàn giao giấy và ghi hạn 
 ## Áp dụng ở Chương 57
 
 Tra REF-002/LOG-004 cho phần kỹ thuật mới, PAT-001 cho giới hạn đã dùng. SEED-001/002 chưa dùng. Node Hòa Sinh ở02B và hai người đã có hồ sơ chính; không lưu một dàn người/thế lực thứ hai tại Xưởng.
+
+## Áp dụng ở Chương 58
+
+Tra [[REF-003-Nguồn Về Mưa Lũ Và Không Gian Cứu Trợ]] và [[LOG-005-Áp Dụng Kỹ Thuật Trong Chương 58]] cho phạm vi nghiên cứu/kỹ thuật đã áp dụng. PAT-001 dùng tiếp với thương tích, việc không ký chốt thay toàn chuyến và phần cứu trợ thực sự làm được; đây chưa phải phản hồi độc giả. SEED-001/002 vẫn chưa dùng, không đổi `canonical: false`. Tề Duy Cẩn (CHAR-061) và Khương Tố Nương (CHAR-062) có hồ sơ chính ở01D; trạng thái sau58 ở04E, không lập bản sao lore/nhân vật trong Xưởng.

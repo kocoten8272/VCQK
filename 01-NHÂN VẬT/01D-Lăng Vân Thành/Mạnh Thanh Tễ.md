@@ -109,3 +109,15 @@ Xem [[Triết Lý Văn Học Và Nhịp Điệu Bi Kịch]], [[Triển Khai Hệ
 - Hai thanh gỗ trạm trả được người trực kê dưới sạp giữ bao chờ; đã hết khoản mượn này, không là vật tư chống núi. Khoản chăm trẻ tiếp tục riêng, chưa quyết toán cuối.
 - **Qua Lâm Uyên kể:** Biết Đinh Bá Nghiêm tự nhận chép điều kiện và Phan Kính từ chối lượt mới. Dặn giữ nguyên lời đã đáp/hành động đã nhận, không tự dự trình lời, biết người đọc hoặc kết luận người mua.
 - Tiếp hướng dẫn cất/kiểm thẻ mẫu trước nghỉ; chưa cho tự cân/phối thuốc. Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]].
+
+## Trạng thái mới theo bản thảo Chương 58
+
+- Tối ngày mười, bao Thẩm Từ Nghi giữ hộ được kiểm đúng hẹn; viện chủ không mua thêm, người làm nhận lại theo phiếu đủ lượng/thẻ. Ông cất mẫu riêng và dặn Lâm Uyên ăn trước ghi; giao dịch kết thúc trước nhiều ngày mưa, không làm nguyên liệu này thành lô Xích Tủy Tán.
+- Không dự buổi đối người Hòa Sinh ngày mười một. Trong các ngày mưa ở viện, xem/thay băng hoặc đổi chỗ buộc khi tay Lâm Uyên ẩm/cọ đau; không bảo cố thêm, không cho nâng vật nặng hoặc năng lực dược lý mới.
+- Ngày mười ba đang khám/nhắc bảo quản gói cho người bệnh thì nhận tin nhà trú Nam Phố sập. Giao ca tại viện cho người có nghề ở lại, theo tổ cứu trợ cùng y sư/người khiêng, không rút cả phòng thuốc khỏi viện.
+- Giao Lâm Uyên ghi người đã đưa ra/nơi chuyển, chỉ đưa dụng cụ nhẹ theo gọi; nhắc báo đội cứu thay vì đi theo tiếng rên, ở lại điểm cáng để giữ thông tin. Không giao hắn tự phân loại bệnh nhân, kê thuốc hoặc khiêng.
+- Trực tiếp chăm Khương Tố Nương, giữ tránh xoay chân và gọi y sư/người chuyển; mẹ nhận đúng trẻ rồi chuyển cùng lượt. Không nhận đã chữa khỏi hoặc biết vị trí mọi người ở gian sau.
+- Phân phần cần chuyển trước theo tình trạng người đang thở yếu, để y sư chăm người còn chờ. Vải Lâm Uyên làm rơi bùn được để riêng, không đưa lại túi sạch; việc nghề vẫn tiếp.
+- Cuối chương ở ranh/chỗ đội cứu đang kiểm và làm, cùng người xem chỗ bước, y sư và đủ người chuyển để tiếp cận người còn mắc; không kéo một mình hoặc bước vào phần mái chưa được kiểm. Trực tiếp gọi Lâm Uyên báo lượt Khương Tố Nương, gật rồi cúi chăm người.
+- **Sinh tử:** Còn sống và còn nói/làm ở cuối Chương 58; chưa có thương tích mới, sụp tiếp hoặc biến cố qua đời được viết. Không có sức mạnh bí mật; nguyên nhân sập và trách nhiệm bảo trì chưa kết luận.
+- Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]].

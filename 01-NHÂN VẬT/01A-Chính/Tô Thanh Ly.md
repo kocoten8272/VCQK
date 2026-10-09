@@ -98,3 +98,14 @@ Nguồn: [[Chương 43]], [[Chương 50]], [[Chương 51]], [[Chương 52]], [[T
 - Không tự theo lệnh xác minh tới dược phường. Cuối ngày đọc bản trả lời xác nhận nguồn dấu/phần lưu lượt chép/chuyển lời, xin Tông Sảnh chuẩn bị giấy đối mới; chưa mở kho hay đưa Đinh Bá Nghiêm đi nhận người.
 - Tại viện được Thẩm Từ Nghi chào trong buổi giao nguyên liệu; không tự thành giao dịch Dược Khế hoặc bằng chứng nối Thẩm Gia với lô Xích Tủy Tán.
 - Tuyến chìa/trang mất không có kết quả mới trong chương; hai mạng lưới chưa được nối. Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]].
+
+## Trạng thái mới theo bản thảo Chương 58
+
+- Sáng ngày mười một theo giấy bổ sung tới bàn nhận giấy Hòa Sinh, dùng tay trái che/thu giấy, tay phải còn thương. Dự đối người Đinh Bá Nghiêm/Tề Duy Cẩn và phần lưu; hỏi việc trực tiếp thấy chép/đọc lại.
+- Tề Duy Cẩn nhận đọc và đề nghị chia hai lượt, chưa xác định người đặt/mua/trả tiền hoặc can thiệp lô thuốc. Nàng yêu cầu câu hỏi Trần Dực trình Tông Sảnh, không giao lời người khác thay thuốc. Không tự mở mọi hồ sơ/kho hoặc hứa thay Trần Dực.
+- Về viện theo giấy; tuyến chìa/người nhận giỏ/trang gốc tiếp riêng, không kết luận mới. Kiếm/bảo chứng/quản thúc chưa gỡ; Dược Khế bốn tháng giữ nguyên, không có hồi phục tay hoặc cảnh giới mới.
+- Ngày mười ba nhận phạm vi cứu trợ có hộ tống tới nhà trú Nam Phố. Nhờ báo Tạ Nghiên Chi giữ hồ sơ ở Tông Sảnh; không đưa Tạ Nghiên Chi tới hiện trường.
+- Tự làm phần mở đường xe/cáng với người địa phương/chấp sự: tìm chỗ cao đặt đồ người chủ xe, gọi người có sức chuyển xe, dẫn đường qua phần tường đã kiểm. Không giật xe/khiêng cáng hoặc bước vào mái còn treo bằng tay bị thương.
+- Gửi người về viện chuẩn bị nhận cả số chưa chốt, chuyển yêu cầu thuốc theo người có nghề chứ không tự kê. Dẫn người tìm vợ tới chỗ nhận danh sách, không hứa đã tìm được.
+- Cuối ngày mười ba còn tại hiện trường, có người nâng thay và người trực bổ sung. Nhờ thay phần che áo cho Lâm Uyên, yêu cầu hắn được xem tay lúc nghỉ; muốn tiếp làm không xóa thương tích. Mạnh Thanh Tễ còn sống/nói ở chỗ đội cứu đang làm.
+- Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]].

@@ -31,7 +31,7 @@ tags:
 
 ## Sổ node
 
-Tổng cộng **78 hồ sơ nguồn** trong các nhóm thế giới, tu luyện, timeline và tư liệu bí mật tại snapshot này. ID định danh hồ sơ lưu trữ, không khẳng định mọi khái niệm trong đó là canon hoặc đã xuất hiện trong truyện.
+Tổng cộng **79 hồ sơ nguồn** trong các nhóm thế giới, tu luyện, timeline và tư liệu bí mật tại snapshot này. ID định danh hồ sơ lưu trữ, không khẳng định mọi khái niệm trong đó là canon hoặc đã xuất hiện trong truyện.
 
 
 ### Địa điểm và địa lý (02A)
@@ -47,6 +47,7 @@ Tổng cộng **78 hồ sơ nguồn** trong các nhóm thế giới, tu luyện,
 | LOC-007 | [[02-THẾ GIỚI/02A-Địa Lý Và Xã Hội/Tiểu Vực|Tiểu Vực]] | `dang-phat-trien` |
 | LOC-008 | [[02-THẾ GIỚI/02A-Địa Lý Và Xã Hội/Vân Châu|Vân Châu]] | `dang-phat-trien` |
 | LOC-009 | [[02-THẾ GIỚI/02A-Địa Lý Và Xã Hội/Vọng Sơn Trấn|Vọng Sơn Trấn]] | `dang-phat-trien` |
+| LOC-010 | [[02-THẾ GIỚI/02A-Địa Lý Và Xã Hội/Nhà Trú Tạm Ven Nam Phố|Nhà Trú Tạm Ven Nam Phố]] | `dang-phat-trien` |
 
 ### Thế lực (02B)
 

@@ -14,8 +14,9 @@ used_in_chapters:
   - 55
   - 56
   - 57
+  - 58
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-09
 tags:
   - nhan-qua
   - cai-gia
@@ -25,7 +26,7 @@ tags:
 
 # PAT-001-Giới Hạn Làm Thay Đổi Lựa Chọn
 
-> Mẫu kỹ thuật do người viết thiết kế cho VCQK từ [[REF-001-Nguồn Về Sinh Tồn Và Giới Hạn]]. `ready` nghĩa là dùng được để lập cảnh; đã áp dụng có phạm vi ở bản thảo Chương 55–57.
+> Mẫu kỹ thuật do người viết thiết kế cho VCQK từ [[REF-001-Nguồn Về Sinh Tồn Và Giới Hạn]]. `ready` nghĩa là dùng được để lập cảnh; đã áp dụng có phạm vi ở bản thảo Chương 55–58.
 
 ## Vấn đề cần xử lý
 
@@ -95,3 +96,9 @@ Chi tiết nguồn/phần sửa: [[LOG-003-Áp Dụng Kỹ Thuật Trong Chươn
 ## Lần áp dụng tại bản thảo Chương 57
 
 Phan Kính từ chối một loại lượt mới qua Đinh Bá Nghiêm; Thẩm Từ Nghi/viện chọn mua phần kiểm được, giữ riêng một bao và trả công lượt xong. Có kết quả khác với hoàn tiền/giao giấy các chương trước, vẫn trong giới hạn nguồn/quyền/tay. Xem [[LOG-004-Áp Dụng Kỹ Thuật Trong Chương 57]]. Không đánh dấu SEED-001/002 đã dùng hoặc nhận đã có phản hồi độc giả.
+
+## Lần áp dụng tại bản thảo Chương 58
+
+Đinh Bá Nghiêm không ký việc giao cả chuyến để chốt công chép/chuyển lời; đối người và lời Tề Duy Cẩn làm rõ một phần trách nhiệm. Bao giữ hộ được trả đúng lượt trước đoạn chuyển ngày. Tại nhà trú, Lâm Uyên ghi/báo/chuyển đồ nhẹ, Tô Thanh Ly mở lối và nhờ người nâng; Mạnh Thanh Tễ cùng tổ cứu điều phối nơi đặt cáng/phân thứ tự chuyển. Thương tích làm thay đổi việc từng người thực sự được giao, không chỉ xuất hiện trong lời kể. Cuối Ch58 Mạnh Thanh Tễ còn sống, chưa sụp lần hai.
+
+Chi tiết tham khảo/phạm vi nguồn và kiểm cục bộ tại [[LOG-005-Áp Dụng Kỹ Thuật Trong Chương 58]], liên hệ [[REF-003-Nguồn Về Mưa Lũ Và Không Gian Cứu Trợ]]. SEED-001/002 tiếp chưa dùng; không nhận có đánh giá của độc giả hoặc biến mẫu kỹ thuật thành canon.

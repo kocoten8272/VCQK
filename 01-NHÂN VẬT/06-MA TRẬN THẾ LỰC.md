@@ -80,3 +80,19 @@ Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]], [[Đinh B�
 Mốc chuẩn bị của Thẩm Gia trong bảng nền được triển khai một phần bằng cảnh Ch57; các gia phả/nhân vật còn lại chưa thành sự kiện chỉ vì cùng nhà. Các mạng Hắc Nha/Người Áo Đen, Tả Tiên Sinh, đường thuốc và người lấy trang vẫn độc lập.
 
 Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]], [[Thẩm Gia]], [[Thẩm Từ Nghi]], [[Dược Phường Hòa Sinh]].
+
+## Liên hệ nghề nghiệp/cứu trợ ở Chương 58
+
+| Địa bàn/cơ quan | Người/nhóm | Liên hệ theo nguồn | Giới hạn |
+| --- | --- | --- | --- |
+| Dược Phường Hòa Sinh, bàn nhận giấy cửa bên | Tề Duy Cẩn | Thẻ trực/người phụ trách xác nhận nhận việc giao; trực tiếp nhận dấu/lập phiếu/đọc cho chép/đề nghị hai lượt | Nghề/nhiệm vụ có nguồn, không mặc định chủ dược phường/người mua cuối/chủ mưu mọi vụ. |
+| Hòa Sinh, đối công | Đinh Bá Nghiêm, Tề Duy Cẩn, người phụ trách | Mở đúng phần liên quan, tranh phần chép/chuyển lời với câu chốt toàn chuyến; công còn chưa trả ngay | Không mở mọi giao dịch, không suy người giữ tiền/người đặt/người mua là một hoặc miễn phần trách nhiệm đã nhận. |
+| Tông Sảnh | Tạ Nghiên Chi/chấp sự theo nhiệm vụ | Đối nguồn, giữ bản gốc theo biên nhận; câu hỏi tới Trần Dực phải trình, yêu cầu không tiếp đặt điều kiện thuốc trong vụ đang kiểm | Không có kết luận chủ mua hoặc quyền lấy lời bằng giữ thuốc. Hồ sơ gốc về Tông Sảnh, Tạ Nghiên Chi không ở hiện trường cứu trợ. |
+| Tế Sinh Viện / tổ cứu trợ có hộ tống | Mạnh Thanh Tễ, Lâm Uyên, Tô Thanh Ly, y sư/người khiêng được chọn | Ngày 13 được ghi phạm vi đi nhà trú; y sư quyết việc khám/chuyển, người khỏe nâng, hai người bị thương làm việc nhẹ/giữ lối | Không đưa cả viện ra hiện trường, không tăng năng lực hay gỡ quản thúc; không gộp mọi chấp sự/người trực thành một cá nhân. |
+| Nhà Trú Tạm Ven Nam Phố | Khương Tố Nương và con | R: bà vá áo thuê/cùng con ở gian sát sân, chờ thuốc ngày mưa; trực tiếp bị thương/được chuyển ra | Không mặc định thành viên thế lực, biết đường thuốc hoặc có huyết thống với gia đình bệnh nhân cũ. |
+| Nhà trú / cộng đồng tại chỗ | Người trông coi, người địa phương, người cứu/người nhà | Kể người còn thiếu, giữ danh sách/lối và chuyển người ở phạm vi đã xem | Cơ quan sở hữu/bảo trì/chủ thuê chưa được xác nhận. Vụ sập chưa chứng minh trách nhiệm Bùi Gia hoặc liên hệ mạng thuốc. |
+| Thẩm Gia / viện | Thẩm Từ Nghi qua người làm nhận trả | Tối ngày 10 trả đủ bao giữ hộ/thẻ, ký trả sau viện không mua thêm | Không có cảnh trực tiếp mới của gia chủ hoặc chứng cứ lô hỏng; giao dịch riêng, không nối tai nạn/mạng thuốc. |
+
+Các mạng Hắc Nha/Người Áo Đen, Tả Tiên Sinh, thuốc và người lấy trang tiếp tục giữ riêng. Mưa/sập nhà trú tạo sự kiện dân sinh, chưa là chứng cứ âm mưu hay lỗi bảo trì.
+
+Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]], [[Tề Duy Cẩn]], [[Khương Tố Nương]], [[Nhà Trú Tạm Ven Nam Phố]].

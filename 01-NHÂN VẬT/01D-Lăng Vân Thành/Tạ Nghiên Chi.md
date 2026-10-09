@@ -103,3 +103,12 @@ Giữ sổ trực và cung cấp lời chứng hữu hạn về ca trực, con d
 - Chứng kiến Phan Kính từ chối lượt mới chỉ có giấy không biết người thuê, không ghi thành lệnh cấm việc chung. Đinh Bá Nghiêm ký theo từng phần mình khai, chưa có phán quyết toàn chuyến.
 - Cuối ngày đem bản trả lời có xác nhận từ Hòa Sinh: dấu phiếu dùng tại bàn nhận giấy giao, phần lưu có lượt chép/chuyển lời mang tên Đinh Bá Nghiêm, đồng ý mở phần đối công buổi kế. Nguồn này xác minh điểm/dấu/lượt lưu, chưa xác minh danh tính người đọc hoặc người mua.
 - Hồ sơ chìa tiếp riêng, không có lời mới/trang được tìm lại. Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]].
+
+## Trạng thái mới theo bản thảo Chương 58
+
+- Sáng ngày mười một theo chấp sự đem bản gốc tới bàn nhận giấy giao Hòa Sinh theo lệnh bổ sung chỉ phần liên quan. Đinh Bá Nghiêm trực tiếp nhận Tề Duy Cẩn; thẻ trực và người phụ trách xác nhận tên/nhiệm vụ cửa bên.
+- Ghi riêng Tề Duy Cẩn nhận dấu/lập phiếu/đọc mặt sau và thấy Đinh Bá Nghiêm chép/đọc lại; đối hai lời với phần lưu. Đây là kiểm khâu thuê chép/nguồn đọc, không xác nhận mọi lời về người đặt, người mua hoặc mẫu vón.
+- Ghi tranh chấp công: Đinh Bá Nghiêm không ký chốt cả chuyến chưa làm, chưa nhận khoản còn lại ngay. Không dùng tiền hoặc giờ tới để quyết độ thật lời khai.
+- Ghi Tề Duy Cẩn tự nhận đề nghị chia hai lần; hỏi nguồn yêu cầu và phần hắn tự thêm. Người phụ trách cho sao phần liên quan, không mở mọi giao dịch; bản gốc giữ theo biên nhận.
+- Sau buổi trở lại Tông Sảnh cùng hồ sơ, là nơi cuối trực tiếp trong Chương 58. Ngày mười ba Tô Thanh Ly nhờ báo giữ hồ sơ; không có cảnh Tạ Nghiên Chi dự cứu trợ, thấy nhà sập hoặc biết danh sách nạn nhân.
+- Chìa/người nhận giỏ/trang mất vẫn chưa có kết luận mới. Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]].

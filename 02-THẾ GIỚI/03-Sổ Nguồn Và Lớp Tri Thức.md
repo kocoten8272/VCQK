@@ -102,3 +102,19 @@ Một hồ sơ có thể chứa nhiều mệnh đề ở các trạng thái khá
 | Gỗ trạm được trả, thử nền ngoài cọc được cho tiếp | DRAFT TEXT Ch57 | Không kết luận đã vào hầm/thu hồi Tô Lạc hoặc viện phí trẻ đã chốt |
 
 Phần mới chỉ đối các nguồn liên quan ở mốc này; các số lượng/snapshot cũ trên đây là lịch sử đợt audit, không nhận đã quét lại toàn repository. Tình trạng thật Lâm Chinh tiếp UNKNOWN theo chỉ thị tác giả, không mở lại một xung đột đã được chốt cách xử lý.
+
+## Đối chiếu có phạm vi sau Chương 58 — 2026-10-09
+
+| Node/mệnh đề | Lớp nguồn | Giới hạn |
+| --- | --- | --- |
+| CHAR-061 [[Tề Duy Cẩn]], nhận việc giao cửa bên Hòa Sinh | DRAFT TEXT Ch58: thẻ trực, xác nhận người phụ trách, Đinh Bá Nghiêm nhận mặt | Không xác định người mua/nguồn tiền hoặc trách nhiệm toàn cơ sở |
+| Tề Duy Cẩn đọc/lập phiếu và đề nghị chia lượt giữ hòm sau | Lời tự nhận được ghi Ch58; lời Đinh Bá Nghiêm đối lần đọc/chép, phiếu công/phần lưu | Không giám định chữ, chưa giải ai mở hòm/niêm hoặc mẫu vón; động cơ người đặt là lời cần kiểm |
+| Bao nguyên liệu Thẩm Từ Nghi giữ hộ trả tối ngày10 | DRAFT TEXT Ch58: báo kết quả, người làm nhận lượng/thẻ/ký trả | Không kéo giữ hộ nhiều ngày, không tự nhận viện đã mua tất cả |
+| LOC-010 [[Nhà Trú Tạm Ven Nam Phố]] sập giữa buổi ngày13 | DRAFT TEXT Ch58: tin báo và hiện trường một phần mái/vách sập | Chủ nhà, kết cấu/nguyên nhân, người sửa và trách nhiệm UNKNOWN |
+| Mưa lặp ngày11–13, đường cáng/nền cao | DRAFT TEXT Ch58 | Mưa hiện diện không là điều tra xác định nguyên nhân; không quy Bùi Gia hoặc mạng thuốc |
+| CHAR-062 [[Khương Tố Nương]], con sáu tuổi, nghề vá áo/chỗ ở | Tên/nghề/tuổi trẻ/chỗ ở qua lời mẹ; nhận con trực tiếp trong Ch58 | Tuổi thiết kế35 chưa nêu, giới tính/tên trẻ UNKNOWN; khác mẹ con ở viện buổi sáng/xóm lò ngói |
+| Mẹ con cùng lượt rời điểm cứu trợ hướng về viện | DRAFT TEXT Ch58, Mạnh Thanh Tễ quyết chuyển/người trực đi cùng | Chưa có cảnh viện nhận/chữa khỏi; chân bị kẹt chưa là chẩn đoán gãy hoặc thương tật cuối |
+| Mạnh Thanh Tễ làm cùng đội cứu gần lỗ vách và còn nói cuối58 | DRAFT TEXT Ch58 | Chỗ làm được xem từng phần, không toàn nhà an toàn; biến cố tiếp58–60 vẫn kế hoạch |
+| Thử nền Hắc Phong Sơn chậm vì mưa, Tô Tín còn ở viện | Tin/lời gửi ngày12 trong DRAFT TEXT Ch58 | Chưa kết quả mới, lệnh vào hoặc thu hồi Tô Lạc/miếng đồng |
+
+Chỉ đối nguồn liên quan chương mới; số lượng nguồn của snapshot audit đầu vẫn là lịch sử, không nhận đã quét lại toàn kho. Hắc Nha/Cổ Sử và mạng mua thuốc chưa có chứng cứ đồng nhất. Tu vi chính thức Lâm Uyên chưa xác lập hoặc tăng, Dược Khế giữ7/4tháng; sinh tử thật Lâm Chinh tiếp UNKNOWN theo chỉ thị tác giả.

@@ -113,3 +113,22 @@ Nguồn: [[Chương 56]], [[Trạng Thái Truyện Sau Chương 56]].
 Nguồn lời về thời điểm viết/mặt sau rời quầy vẫn cần đối, không dùng tự nhận để xác nhận mọi phần đúng. Thẩm Từ Nghi và lô nguyên liệu mới thuộc tuyến mua bán của viện, không là chứng cứ về hai hòm Xích Tủy Tán.
 
 Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]], [[Dược Phường Hòa Sinh]].
+
+## Cập nhật theo bản thảo Chương 58
+
+| Người | Tri thức theo nguồn | Giới hạn |
+| --- | --- | --- |
+| Lâm Uyên, Tô Thanh Ly, Tạ Nghiên Chi | K ngày 11: xem thẻ trực/nghe xác nhận nhiệm vụ của Tề Duy Cẩn, chứng kiến Đinh Bá Nghiêm nhận người; nghe Tề Duy Cẩn nhận đọc/lập phiếu/đề nghị chia hai lượt và xem phần lưu liên quan. | Khâu thuê chép có lời đối hai bên/phiếu/phần lưu; lý do “đối một lô hàng”, nguồn người đặt và những gì chưa nói vẫn cần kiểm. Không biết chủ mua, ai mở hòm, thuốc bị gì hoặc vì sao mẫu lưu nguyên niêm vón. |
+| Tề Duy Cẩn | K theo tự nhận: đã đọc, xem Đinh Bá Nghiêm chép/đọc lại; đề nghị giữ hòm thứ hai để kiểm bản chép | Không nhận có thể chỉ người mua cuối hoặc ai can thiệp hòm; phần yêu cầu của người đặt là lời hắn kể, không mặc định đáp án đúng. |
+| Đinh Bá Nghiêm | K: đối mặt nhận Tề Duy Cẩn; chỉ phần chép/chuyển lời mình nhận, không ký chốt cả chuyến giao hòm | Có người giữ bàn được nhận không xóa trách nhiệm tự chép/chuyển điều kiện; công còn lại chưa trả ngay, không nâng thành bị bắt/mất mọi việc. |
+| Tạ Nghiên Chi | K ngày 11: giữ lời/bản gốc theo biên nhận và đưa hồ sơ về Tông Sảnh | Không có mặt cứu trợ ngày 13; lời Tô Thanh Ly nhờ báo không tự chứng minh đã được nghe toàn bộ hiện trường/người bị thương. |
+| Mạnh Thanh Tễ, Lâm Uyên, Tô Thanh Ly | R lúc nhận tin: nhà trú sập/có người còn dưới mái. K tại hiện trường: thấy phần sập, lối bị chặn/điểm cáng, chứng kiến người được đưa ra trong phạm vi cảnh | Chưa đếm đủ người, chưa biết nguyên nhân/trách nhiệm bảo trì hoặc người gian sau đã ra qua lối khác. Không gán Bùi Gia/đường thuốc từ địa điểm hay mưa. |
+| Lâm Uyên, Mạnh Thanh Tễ | K: nghe Khương Tố Nương tự khai tên/nghề/gian ở và tuổi và đặc điểm áo của con; trực tiếp thấy bà nhận đứa trẻ, mẹ con rời cùng lượt cáng | Chưa chứng kiến tới viện hoặc biết chân đã khỏi; không đoán giới tính trẻ/tên cha. Lời về gian cuối được ghi để báo, chưa là hai người đã chết. |
+| Lâm Uyên | K: ghi nơi chuyển/người đi cùng, nhờ đối danh sách lối khác; học giữ riêng vải rơi bùn | Chưa được phân bệnh/khám/kê thuốc, không nhận người chỉ từ màu áo hoặc đoán kết cục từ giỏ áo. Hai danh sách còn cần đối sau chuyển. |
+| Tô Thanh Ly | K: cùng người địa phương kiểm lối xe, thấy cáng vướng/chuyển đồ, phân người giữ lối/đưa tin chuẩn bị nơi nhận | Không tự kê thuốc, không nâng cáng bằng tay thương hoặc khẳng định viện đã nhận đủ từng lượt. |
+| Tô Tín, Lâm Uyên | R ngày 12: tin thợ cho biết mưa làm lượt thử nền mới chậm lại, chưa kết quả nhận đường vào | Không có kết quả mới/an toàn vào hầm/thu Tô Lạc hoặc miếng đồng; Tô Tín còn nạng, không có tri thức trực tiếp tại núi. |
+| Lâm Uyên | K tối ngày 10: bao giữ hộ được kiểm/báo kết quả rồi trả, người làm ký nhận; hai thanh gỗ ở lại dưới sạp | Bao không được mua trong lượt nhập này không tự chứng minh hỏng/giả; không đem hai thanh gỗ sang cứu trợ. |
+
+Người trông coi nhà trú kể còn người già/người vá áo ở gian sau, chưa xác nhận họ vẫn ở đó hoặc đã được chuyển qua lối khác. Cuối chương có người trả lời/người còn tỉnh mắc chân; danh tính và số người còn lại chưa đủ. Mạnh Thanh Tễ còn sống, ở phần người cứu đang làm việc gần lỗ vách được dọn.
+
+Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]], [[Nhà Trú Tạm Ven Nam Phố]].

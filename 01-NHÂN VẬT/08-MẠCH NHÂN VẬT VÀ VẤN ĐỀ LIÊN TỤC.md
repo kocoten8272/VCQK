@@ -9,7 +9,7 @@ tags:
 
 # Mạch Nhân Vật Và Vấn Đề Liên Tục
 
-> Bảng nền sau Chương 52; tiến triển Chương 53–57 được lưu ở cuối. Đây là sổ theo dõi, không phải lệnh tự giải quyết tuyến.
+> Bảng nền sau Chương 52; tiến triển Chương 53–58 được lưu ở cuối. Đây là sổ theo dõi, không phải lệnh tự giải quyết tuyến.
 
 ## Open Character Threads
 
@@ -98,3 +98,17 @@ ID Lâm Uyên trong bảng nền đã sửa về CHAR-005 theo [[02-SỔ CÁI NH
 - **Học dược/ràng buộc:** Mạnh Thanh Tễ còn sống, chỉ cho Lâm Uyên giữ thẻ, chưa kiểm/chọn/phối thuốc độc lập. Tay phải còn băng, không nâng bao; giấy Tông Sảnh có hộ tống/phạm vi/giờ, không tự theo yêu cầu tới dược phường. Dược Khế, kiếm bảo chứng và quản thúc giữ nguyên.
 - **Bước ngay tiếp theo:** Đối phần công/dấu và gọi người giữ việc giao Hòa Sinh bằng thẩm quyền đúng; phân biệt người đọc, người trả tiền, chủ mua. Tiếp tục chờ kết quả thử ngoài cọc và kiểm bao giữ hộ; không bỏ tuyến dân sinh/thương tích.
 - Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]].
+
+## Tiến triển theo bản thảo Chương 58
+
+- **Đối người đọc, ngày 11:** Tề Duy Cẩn (CHAR-061) lần đầu trực tiếp, được thẻ trực/người phụ trách xác nhận nhiệm vụ; Đinh Bá Nghiêm nhận người. Tề Duy Cẩn nhận đọc/lập phiếu, thấy chép/đọc lại, tự đề nghị giữ hòm thứ hai để kiểm bản chép. Khâu thuê chép có hai lời/phiếu/phần lưu; người đặt, nguồn tiền/chủ mua và lý do “đối lô” còn phải đối.
+- **Khoản công/giới hạn:** Đinh Bá Nghiêm không ký nhận đã giao trọn hai hòm theo điều kiện; người phụ trách yêu cầu đối đúng phần thuê, công chưa trả ngay. Không có phán quyết toàn chuyến/bắt giam. Tông Sảnh yêu cầu trình câu hỏi tới Trần Dực, không tiếp đặt điều kiện ấy lên việc giao thuốc của vụ đang kiểm; chưa ai trả lời thay Trần Dực.
+- **Khép bao giữ hộ, tối ngày 10:** Đã kiểm đúng hẹn, viện không mua thêm trong lượt này; báo trước xe, trả đủ lượng/thẻ và ký nhận. Thẩm Từ Nghi không trực tiếp có mặt mới. Hai thanh gỗ trạm đã trả vẫn dưới sạp nhỏ hiện có ở viện, không mang sang cứu hộ; khoản chăm trẻ xóm lò ngói còn riêng.
+- **Mưa/ngày 12:** Lượt thử nền HFS chậm lại, chưa kết quả nhận đường vào. Tô Tín còn nạng, xin giữ phần bị mưa ngăn; Tô Lạc/miếng đồng chưa thu, tuyến chìa/người nhận giỏ chưa có kết luận mới.
+- **Nhà trú sập, ngày 13:** [[Nhà Trú Tạm Ven Nam Phố]] (LOC-010) có người ở/chờ phát thuốc, sập sau mưa ngày 11–13. Tổ viện tới cứu trợ có phạm vi/hộ tống; mở lối/điểm cáng và chuyển người, cứu tiếp phần gian sau. Chưa xác định số người/thiệt hại cuối, nguyên nhân bảo trì/chủ chịu trách nhiệm, chưa tái thiết hoặc nối Bùi Gia/đường thuốc.
+- **Khương Tố Nương (CHAR-062):** Lần đầu trực tiếp, chân được giải khỏi ván, tự khai vá áo thuê và cùng con ở gian sát sân. Nhận đứa sáu tuổi áo nâu/vạt vá đỏ; mẹ con đã rời điểm cáng cùng lượt tới viện theo chỉ định, chưa có cảnh đến viện/kết quả trị. Không gộp với trẻ xóm lò ngói hoặc mẹ con đến lấy thuốc sáng ngày 13.
+- **Giới hạn hai người bị thương:** Lâm Uyên ghi đủ tên/người cùng lượt/nơi chuyển, báo người chuyên trách; không tự khám/kê/phân bệnh, không nâng cáng. Tô Thanh Ly giữ lối/gọi người khỏe chuyển xe và nâng; tay phải vẫn thương. Phạm vi cứu trợ mới không gỡ quản thúc, kiếm bảo chứng hoặc Dược Khế.
+- **Mạnh Thanh Tễ:** Còn sống cuối chương, ở phần làm việc gần lỗ vách đã dọn, xem người mắc chân/chờ người cứu chuyển. Lâm Uyên ở điểm cáng theo lời ông, đưa túi qua người trực, không theo vào. Chưa có sự mất mát tương lai hoặc xác định người gian sau đều đã tìm được.
+- **Nguồn/danh sách:** Hồ sơ đối Hòa Sinh đã về Tông Sảnh với Tạ Nghiên Chi; cô không có cảnh cứu trợ. Danh sách điểm cáng và bản chuyển về viện còn cần đối, không viết người chưa thấy thành đã chết/đã tới viện.
+- **Bước tiếp:** Tiếp cứu, kiểm tên/người còn thiếu và lượt nhận ở viện; giữ sức tay/việc có nghề. Hồ sơ nguồn yêu cầu của Tề Duy Cẩn và câu hỏi tới Trần Dực tiếp tục ở cơ quan có quyền; không dùng tai nạn thay đáp án mạng thuốc.
+- Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]].

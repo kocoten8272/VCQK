@@ -16,7 +16,7 @@ tags:
 
 # Đinh Bá Nghiêm
 
-> Phu xe nhận lượt tại quầy Nam Phố; tên được nêu lần đầu ở [[Chương 56]], xuất hiện trực tiếp lần đầu tại Tông Sảnh trong [[Chương 57]]. Nhận giao phiếu và tự chép mặt sau theo lời thuê; nguồn người đọc và người mua cuối chưa được xác minh đầy đủ.
+> Phu xe nhận lượt tại quầy Nam Phố; tên nêu lần đầu [[Chương 56]], trực tiếp lần đầu [[Chương 57]]. Nhận giao/chép phiếu; [[Chương 58]] đối Tề Duy Cẩn là nguồn đọc trực tiếp. Người đặt gốc, người mua và can thiệp thuốc tiếp chưa xác minh.
 
 ## Nguồn và mức xác nhận
 
@@ -36,7 +36,7 @@ tags:
 | Giới tính thiết kế | Nam; lời về người phu dùng hắn |
 | Tuổi thiết kế | 34; dành cho lần xuất hiện tương lai, bản thảo chưa nêu |
 | Cảnh giới/chiến lực | UNKNOWN; nghề và sức lao động không chứng minh tu vi |
-| Nơi cuối trực tiếp | Tông Sảnh, buổi trình lời Chương 57; chưa có cảnh đi Hòa Sinh nhận người |
+| Nơi cuối trực tiếp | Bàn nhận giấy giao Dược Phường Hòa Sinh, sáng ngày mười một trong Chương 58 |
 | Huyết thống/gia đình | Chưa xác lập; không ghép với bất kỳ người cùng họ |
 | Thuộc gia tộc/bí mật | Chưa có căn cứ là người Hạ Gia hoặc thành viên mạng lưới bí mật |
 
@@ -76,7 +76,7 @@ Các câu hỏi trên được đặt trước buổi Chương 57; phần nào �
 
 ## Cách xuất hiện tiếp
 
-Yêu cầu trình lời sáng ngày thứ mười sau Hắc Phong Sơn đã được thực hiện trong Chương 57. Bước kế là đối phiếu công/phần lưu và nhận người tại bàn nhận giấy Hòa Sinh theo quyền bổ sung; không lấy lời đã nhận chép để giải cả đường dây.
+Buổi trình ngày thứ mười ở Chương 57 và đối người Hòa Sinh sáng mười một ở Chương 58 đã thực hiện. Bước còn mở là nguồn yêu cầu gốc, tiền và phần công tranh chấp; không lấy việc nhận nguồn đọc để giải cả đường dây.
 
 Giữ một hồ sơ chính này. Các sổ vai, lần xuất hiện và tri thức chỉ dẫn về đây; không tạo hồ sơ thứ hai mang tên “phu xe đưa giấy”.
 
@@ -94,3 +94,12 @@ Giữ một hồ sơ chính này. Các sổ vai, lần xuất hiện và tri th�
 - Phan Kính từ chối lượt mới chỉ có giấy mà không biết người thuê; đây là mất một sự hợp tác cụ thể theo điều kiện người làm bến chọn, không kết luận bị mất mọi việc. Đinh Bá Nghiêm ký từng phần mình khai, còn phải trình lượt ngoài quầy; chưa có phán quyết toàn chuyến.
 - **Nguồn độc lập cuối chương:** Hòa Sinh trả lời xác nhận dấu dùng tại bàn nhận giấy và phần lưu có lượt chép/chuyển lời mang tên Đinh Bá Nghiêm. Xác minh nơi/lượt lưu không xác nhận ai đọc, người thuê hay người mua; chưa có cuộc nhận người ở dược phường.
 - Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]].
+
+## Trạng thái mới theo bản thảo Chương 58
+
+- Sáng ngày mười một trực tiếp tới bàn nhận giấy cửa bên Hòa Sinh, đem sổ/bản được trả, không đưa cả xe vào sân. Nhận Tề Duy Cẩn là người đã đọc cho mình chép; Tề Duy Cẩn nhận dấu/lập phiếu và trực tiếp đọc, thấy chép/đọc lại.
+- Khâu đọc/chép có hai lời đối nhau, phiếu công và phần lưu; khác với chỉ tự nhận Chương 57. Chưa xác minh nguồn yêu cầu gốc, người mua/trả tiền hoặc ai can thiệp thuốc.
+- Tề Duy Cẩn muốn ký “chuyến đã xong” để chốt công. Đinh Bá Nghiêm từ chối ký thay việc hai hòm giao đủ điều kiện; chỉ nhận chép/chuyển phiếu/lời tới Phan Kính. Người phụ trách yêu cầu đối đúng phần thuê, chấp sự giữ tranh chấp ở lời riêng.
+- Khoản công còn lại chưa được trả ngay; không có người trong tổ trả thay, không bị tuyên mất mọi việc. Hậu quả từ chối hợp tác của Phan Kính Chương 57 không tự được xóa.
+- Tuổi 34, gia đình, tu vi vẫn chưa nêu. Nơi cuối trực tiếp là Hòa Sinh ngày mười một; không có cảnh ở cứu trợ Nam Phố ngày mười ba hoặc nối hắn với nguyên nhân sập.
+- Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]].

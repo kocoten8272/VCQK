@@ -128,3 +128,16 @@ Nguồn trạng thái: [[Chương 43]], [[Chương 50]], [[Chương 51]], [[Chư
 - Gặp Thẩm Từ Nghi, được giới thiệu là gia chủ Thẩm Gia. Dùng tay trái giữ/đặt thẻ đúng mẫu và bao theo hướng dẫn Mạnh Thanh Tễ; phần nâng sạp/chuyển bao do người có tay lành làm. Chưa tự chọn nguyên liệu dùng, cân/phối thuốc hoặc biết khô hơn là tốt hơn.
 - **Qua bản trả lời Hòa Sinh Tạ Nghiên Chi đem về:** Dấu phiếu công dùng ở bàn nhận giấy, phần lưu có lượt chép/chuyển lời mang tên Đinh Bá Nghiêm, đồng ý mở phần đối công buổi kế. Chưa đối người thuê hoặc kiểm trực tiếp lời đọc cho chép; giao dịch nguyên liệu Thẩm Gia không thuộc lô Xích Tủy Tán.
 - Nghe Tô Tín nhận phương án thử nền khác ngoài cọc được làm tiếp, không có lệnh vào hầm hay thu hồi Tô Lạc/miếng đồng. Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]].
+
+## Trạng thái mới theo bản thảo Chương 58
+
+- Tối ngày thứ mười sau Hắc Phong Sơn, thấy bao nguyên liệu giữ hộ được kiểm đúng hẹn rồi trả cho người làm Thẩm Từ Nghi theo đủ lượng/thẻ/biên nhận. Giữ giấy bằng tay trái, không khiêng; viện không mua thêm phần ấy, không có khoản Dược Khế mới. Hai thanh gỗ trạm trả vẫn ở viện.
+- Sáng ngày thứ mười một tới bàn nhận giấy Hòa Sinh theo giấy bổ sung, có chấp sự/hộ tống, chỉ đối phần liên quan. Đinh Bá Nghiêm nhận Tề Duy Cẩn là người đọc; thẻ trực/người phụ trách xác nhận việc giao tại cửa bên, Tề Duy Cẩn nhận dấu/lập phiếu/đọc mặt sau.
+- **Lời Tề Duy Cẩn:** Đề nghị chia hai lượt để chắc người nhận đưa đủ bản chép; nói người đặt cần lời về đường dược liệu Hắc Phong Sơn. Đây là lời về nguồn/mục đích chưa kiểm hết, không xác định người mua, người trả tiền, người mở hòm hoặc lý do mẫu nguyên niêm vón.
+- Thấy Đinh Bá Nghiêm không ký “chuyến đã xong” thay việc chưa làm, khoản công chưa trả ngay. Không trả thay hoặc hứa lời của Trần Dực; về viện theo giấy, không tự lần xe trong mưa.
+- Mưa ngày mười một tới mười ba: giúp giữ thẻ/khay và đồ nhẹ tay trái; tay phải vẫn băng, phải xem/thay khi ẩm hoặc áo cọ đau. Chưa tự chọn thuốc, chẩn trị, cân/phối, nâng vật nặng, vận lực hoặc có tu vi mới; Dược Khế bảy tháng giữ nguyên.
+- Ngày mười ba theo tổ cứu trợ và giấy phạm vi mới tới nhà trú Nam Phố sập. Ở điểm đặt cáng ngoài phần mái còn rơi: gọi/báo vị trí, ghi người đã đưa ra/người đi cùng/nơi nhận, chuyển dụng cụ nhẹ khi Mạnh Thanh Tễ gọi; không bước vào theo tiếng rên hoặc khiêng người.
+- Trực tiếp ghi Khương Tố Nương; nhờ người trực đưa trẻ áo nâu vá đỏ cho mẹ nhận, không đoán từ áo. Theo lệnh Mạnh Thanh Tễ ghi mẹ con chuyển cùng lượt về viện; tin về gian cuối vẫn là lời cần báo, không danh sách người chết.
+- Sửa thiếu người đi cùng trước cáng rời, để riêng vải rơi bùn khỏi túi sạch, nhờ người khác chuyển bàn/đồ nặng. Nhận người trực hỗ trợ, cần xem lại tay khi nghỉ; không tự coi muốn ở lại là đã lành.
+- Cuối chương vẫn ở điểm cáng. Mạnh Thanh Tễ trực tiếp gọi, gật rồi chăm người còn mắc trong chỗ đội cứu đang làm; còn sống, chưa có thương tích mới được xác nhận. Nguyên nhân sập/quản lý bảo trì chưa giải, không nối Bùi Gia hoặc mạng thuốc.
+- Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]].
