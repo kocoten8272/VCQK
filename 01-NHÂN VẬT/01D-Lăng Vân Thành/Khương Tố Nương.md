@@ -71,3 +71,13 @@ Làm rõ cứu trợ gồm cả việc giữ mẹ con cùng lượt và biết n
 Chương kế chỉ được ghi kết quả khi viện nhận/khám có cảnh hoặc báo cáo rõ nguồn. Nếu nhân vật chỉ phục vụ biến cố, vẫn giữ kết thúc đời thường và hậu quả chỗ ở/nghề; không bắt buộc theo Lâm Uyên rời thành.
 
 [[Chương 58]] · [[Trạng Thái Truyện Sau Chương 58]] · [[Nhà Trú Tạm Ven Nam Phố]] · [[Nam Phố]] · [[Nhân Vật Chưa Rõ Tên — Sổ Theo Dõi]]
+
+## Trạng thái mới theo bản thảo Chương 59
+
+- Lúc nối hiện trường ngày13, người trực từ viện báo đã nhận bà/con cùng lượt, y sư xem lại chân. Nguồn tin mới khép phần chuyển chưa biết tới nơi ở58.
+- Có cảnh trực tiếp ở gian bên viện: trẻ áo nâu/mẩu dây hỏi người xem chân mẹ đã về chưa, chuyển câu trả lời Lâm Uyên vào; bà nhờ được báo lúc ông về và nhờ chỉnh chăn khỏi đè chân.
+- Khi cáng sau tới, nhờ người trực nhìn giúp. Chân chưa khỏi, không tự đứng dậy ra cửa hoặc theo cứu Mạnh Thanh Tễ.
+- Hồ Nhuận Chi có hồ sơ riêng CHAR-063: người vá áo gian sau/chủ giỏ, không phải bà hoặc mẹ của trẻ. Không tự cho hai người là bạn thân/họ hàng.
+- Bà còn sống, tại viện với con sáu tuổi; tên/giới tính trẻ/gia đình khác và kết quả trị vẫn chưa nêu.
+
+Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhuận Chi]].

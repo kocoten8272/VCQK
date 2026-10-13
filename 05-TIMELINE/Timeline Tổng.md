@@ -96,3 +96,16 @@ Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]]. Giữ th�
 | Cuối Ch58 tại điểm cứu | Lâm Uyên ghi/báo/chuyển thông tin, Tô Thanh Ly giữ lối và gọi người nâng; Mạnh Thanh Tễ còn sống, làm việc với tổ cứu tại lỗ vách đã tiếp cận | Chưa sụp lần hai, chưa cái chết của Mạnh Thanh Tễ; Tạ Nghiên Chi/Đinh Bá Nghiêm không có cảnh ở hiện trường |
 
 Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]]. Ch57 có nắng nên không hồi tố mưa liên tục nhiều ngày trước; hai thanh gỗ đã trả và ở viện, không tự chuyển ra nhà trú hoặc lên núi.
+
+## Cùng ngày thứ mười ba — Chương 59
+
+| Thời điểm | Sự kiện đã viết | Giới hạn |
+| --- | --- | --- |
+| Nối lỗ vách cuối58 | Đội đưa Hồ Nhuận Chi ra, bà tự tên/nghề/nhận giỏ. Tin viện nhận mẹ con Khương Tố Nương; người già được nhận đã ra lối sau từ trước | Không chốt mọi người còn thiếu, không gộp hai người vá áo |
+| Lệnh rút/sụp tiếp | Ngói/vữa/gỗ dịch; đội gọi lùi, vách sụp giữ Mạnh Thanh Tễ khi rút cùng người cứu | Không tự vào mái chưa kiểm một mình, không nguyên nhân/chủ chịu tội |
+| Chuyển trước | Hồ Nhuận Chi yếu hơi, y sư gọi đi; thầy giao Lâm Uyên báo nơi nhận, chấp sự cho người cùng tổ chuyển và giao bàn ghi | Lâm Uyên không khiêng/giải gỗ, chưa bỏ quản thúc hoặc hết thương |
+| Viện nhận | Hồ Nhuận Chi trực tiếp được nhận, Khương Tố Nương/con ở gian bên; Tô Tín nạng hỏi qua lời, chờ việc gửi lời thử nền | Chưa ai khỏi, không kết quả HFS/thu hồi Tô Lạc |
+| Lượt sau/chiều tới tối | Tô Thanh Ly về cùng chấp sự/tổ, cáng Mạnh Thanh Tễ tới; ông trọng thương/còn thở, đang được cứu | Chưa cái chết/tang/di sản hoặc tiên lượng; người ở nhà còn cứu |
+| Cuối ngày | Tin Tông đã nhận câu hỏi Hòa Sinh; người trực đối bản cáng, Lâm Uyên chờ ngoài gian cứu | Chưa người mua/mẫu vón/lời Trần Dực mới hoặc đối hết mọi người |
+
+Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]]. Không nhảy ngày; bao nguyên liệu trả tối10 vẫn là mốc cũ, thương tay chỉ được xem/thay băng.

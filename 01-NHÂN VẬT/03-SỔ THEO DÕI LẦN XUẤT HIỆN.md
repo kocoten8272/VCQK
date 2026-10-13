@@ -150,3 +150,19 @@ Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]], [[Đinh B�
 Thẩm Từ Nghi chỉ được nhắc qua việc báo/trả bao tối ngày 10; người làm nhận bao, bà không trực tiếp có mặt mới. Phan Kính, Kỷ Hành Chu, Trần Dực, Tô Lạc chỉ được nhắc, không tự cập nhật vị trí/sức khỏe. Đứa trẻ sáu tuổi được Khương Tố Nương nhận là con, mặc áo nâu/vạt vá đỏ; giới tính chưa nêu, chưa tạo hồ sơ tên riêng.
 
 Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]], [[Tề Duy Cẩn]], [[Khương Tố Nương]], [[Nhà Trú Tạm Ven Nam Phố]].
+
+## Mốc mới theo bản thảo Chương 59
+
+| ID | Nhân vật | Kiểu/mốc | Nơi cuối và giới hạn |
+| --- | --- | --- | --- |
+| CHAR-005 | Lâm Uyên | Trực tiếp, cùng ngày13 | Ngoài gian cứu Mạnh Thanh Tễ tại viện; tay phải được thay băng khô, chưa lành. Theo tổ chuyển Hồ Nhuận Chi, không thấy toàn lần nhấc gỗ sau khi rời |
+| CHAR-006 | Tô Thanh Ly | Trực tiếp tại nhà/viện | Giữ lối rồi về cùng chấp sự/lượt cáng sau, tay phải thương; ở viện cuối chương |
+| CHAR-037 | Mạnh Thanh Tễ | Trực tiếp | Sụp tiếp khi rút cùng đội, trọng thương ngực/người; còn thở ở gian cứu viện cuối59, chưa tử vong hoặc tiên lượng |
+| CHAR-063 | [[Hồ Nhuận Chi]] | Có tên lần đầu Chương 59; nối vai trực tiếp chưa tên cuối58 | Tự tên/nghề/giỏ, chuyển viện khi yếu hơi và được nhận trực tiếp; còn sống, chưa khỏi |
+| CHAR-062 | Khương Tố Nương | Tin nhận rồi trực tiếp lời/cảnh ở gian bên | Đã ở viện với trẻ sáu tuổi; chưa khỏi chân, trẻ chưa tên/giới tính |
+| CHAR-019 | Tô Tín | Trực tiếp tại viện | Nạng/ngồi ghế tránh lối, nghe kể; không ở nhà sập/núi, không kết quả thử mới |
+| CHAR-047 | Viện Chủ Tế Sinh Viện (chưa rõ tên) | Trực tiếp tại viện | Chuẩn bị nhận và cùng y sư cứu Mạnh Thanh Tễ; không tự đặt tên/giới tính |
+
+Tạ Nghiên Chi, Đinh Bá Nghiêm, Tề Duy Cẩn, Trần Dực không có cảnh trực tiếp mới. Tin Tông chỉ câu hỏi đã nhận, không người mua/lời khai mới. Người già đã ra lối sau được nhận qua người trông nhà/đối gian, không khẳng định toàn bộ người thiếu đã tìm.
+
+Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhuận Chi]].

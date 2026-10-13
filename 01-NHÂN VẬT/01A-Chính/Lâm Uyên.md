@@ -141,3 +141,15 @@ Nguồn trạng thái: [[Chương 43]], [[Chương 50]], [[Chương 51]], [[Chư
 - Sửa thiếu người đi cùng trước cáng rời, để riêng vải rơi bùn khỏi túi sạch, nhờ người khác chuyển bàn/đồ nặng. Nhận người trực hỗ trợ, cần xem lại tay khi nghỉ; không tự coi muốn ở lại là đã lành.
 - Cuối chương vẫn ở điểm cáng. Mạnh Thanh Tễ trực tiếp gọi, gật rồi chăm người còn mắc trong chỗ đội cứu đang làm; còn sống, chưa có thương tích mới được xác nhận. Nguyên nhân sập/quản lý bảo trì chưa giải, không nối Bùi Gia hoặc mạng thuốc.
 - Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]].
+
+## Trạng thái mới theo bản thảo Chương 59
+
+- Cùng ngày13: ghi Hồ Nhuận Chi tại điểm cáng, nhận giỏ qua lời bà; báo viện đã nhận mẹ con Khương Tố Nương qua người trực về trước.
+- Thấy vách sụp tiếp khi đội/Mạnh Thanh Tễ đang rút; muốn tới thầy nhưng bị chấp sự giữ ngoài vùng cứu. Thấy đội cứu/y sư đang làm, không biết cách nhấc gỗ hoặc đủ tay để cứu thay.
+- Nghe Mạnh Thanh Tễ gọi đi cùng cáng Hồ Nhuận Chi đang yếu hơi; theo tổ có người đi cùng, bàn ghi giao người trực. Không khiêng cáng/đẩy trục xe, không bỏ người bệnh để quay lại.
+- Viện nhận Hồ Nhuận Chi trực tiếp; báo phần mình thấy/nghe về thầy, không đoán chẩn đoán. Tay phải trên đường vẫn đau/băng ẩm; người có nghề xem/thay băng khô ở viện, chưa lành. Tay trái mỏi, chưa tăng tu vi/dược lý; Dược Khế7tháng giữ.
+- Trực tiếp thấy Khương Tố Nương/con ở gian bên, Tô Tín với nạng, Tô Thanh Ly trở lại và cáng Mạnh Thanh Tễ tới. Không chứng kiến toàn quá trình nhấc gỗ sau khi rời; phần ấy nghe người báo/Tô Thanh Ly.
+- Mạnh Thanh Tễ trọng thương nhưng còn phản ứng/thở. Hắn báo việc chuyển, không nghe đáp rõ, đứng ngoài gian cứu và giao đồ sạch khi được gọi; chưa khóc/tang/lời thề báo thù hoặc đột phá.
+- Nhận ra việc hợp lý vẫn không xóa nỗi sợ cho thầy; đây là phản ứng bản thảo, không kết luận đã từ bỏ hoặc gây tai nạn. Tình trạng thật Lâm Chinh vẫn UNKNOWN.
+
+Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhuận Chi]].

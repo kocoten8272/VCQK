@@ -121,3 +121,14 @@ Xem [[Triết Lý Văn Học Và Nhịp Điệu Bi Kịch]], [[Triển Khai Hệ
 - Cuối chương ở ranh/chỗ đội cứu đang kiểm và làm, cùng người xem chỗ bước, y sư và đủ người chuyển để tiếp cận người còn mắc; không kéo một mình hoặc bước vào phần mái chưa được kiểm. Trực tiếp gọi Lâm Uyên báo lượt Khương Tố Nương, gật rồi cúi chăm người.
 - **Sinh tử:** Còn sống và còn nói/làm ở cuối Chương 58; chưa có thương tích mới, sụp tiếp hoặc biến cố qua đời được viết. Không có sức mạnh bí mật; nguyên nhân sập và trách nhiệm bảo trì chưa kết luận.
 - Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]].
+
+## Trạng thái mới theo bản thảo Chương 59
+
+- Cùng ngày13, đội giải người ở lỗ vách đưa tới điểm chuyển. Ông nghe tin viện nhận mẹ con Khương Tố Nương, xem người được đưa ra rồi về miệng vách cùng đội và người đang rút.
+- Khi ngói/vữa/gỗ xê dịch, đội gọi lùi. Ông cùng người cứu rút, gỡ gấu áo một người mắc/giúp người ấy ra trước; vách cạnh lỗ sụp giữ ông. Không tự chạy vào mái chưa kiểm một mình hoặc đứng dùng sức giữ mái.
+- Đội cứu tới từ mép khác, y sư cùng làm. Ông còn gọi Lâm Uyên theo cáng Hồ Nhuận Chi yếu hơi, nói nơi mình có người cứu; lựa chọn chăm người bệnh không là lời tiên tri/trăng trối.
+- Qua tin về trước và lời Tô Thanh Ly: đội nhấc gỗ/chuyển ra. Cáng tới viện có y sư đi cùng, thương ngực/người nặng, còn mở mắt/mấp máy nhưng không có lời rõ cho Lâm Uyên.
+- Cuối chương được viện chủ/y sư cứu trong gian viện, hơi thở còn nhìn thấy. **Còn sống, trọng thương; chưa kết luận qua nguy, chết, tàn phế hoặc khỏi.**
+- Không bí thuật/đột phá, chưa bàn giao sổ nghề/di sản. Kết cục qua đời đã duyệt vẫn là hướng tiếp, không dùng nó sửa sinh tử trong58–59.
+
+Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhuận Chi]].

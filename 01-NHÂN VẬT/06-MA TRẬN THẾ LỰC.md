@@ -96,3 +96,14 @@ Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]], [[Thẩm G
 Các mạng Hắc Nha/Người Áo Đen, Tả Tiên Sinh, thuốc và người lấy trang tiếp tục giữ riêng. Mưa/sập nhà trú tạo sự kiện dân sinh, chưa là chứng cứ âm mưu hay lỗi bảo trì.
 
 Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]], [[Tề Duy Cẩn]], [[Khương Tố Nương]], [[Nhà Trú Tạm Ven Nam Phố]].
+
+## Phạm vi nghề nghiệp và quyền hạn Chương 59
+
+- Tổ cứu trợ/chấp sự: gọi lùi trước dấu kết cấu đổi, giữ vùng cứu, giao bàn ghi cho người trực và cử người cùng Lâm Uyên trong tổ chuyển. Không gỡ quản thúc hoặc cho tự đi mọi nơi.
+- Tế Sinh Viện: nhận Hồ Nhuận Chi, chuẩn bị/cứu Mạnh Thanh Tễ bằng viện chủ/y sư; để người khỏe nâng và người học việc báo/đưa đồ nhẹ. Không tự ban năng lực dược lý.
+- Tông Sảnh: tin câu hỏi được nhận để đối người đặt Hòa Sinh; không đổi lời Trần Dực lấy thuốc. Chưa lời giải mạng, người mua hoặc bắt ai.
+- Hồ Nhuận Chi/Khương Tố Nương: thường dân có sinh kế, không tự thành thành viên thế lực. Hồ sơ CHAR-063 tách CHAR-062 và trẻ.
+- Nhờ của Tô Tín về gửi lời thử nền là việc trong viện chờ người rảnh, không cấp lệnh cho thợ. Các tuyến Hắc Nha, người áo đen, thuốc và chìa vẫn riêng.
+- Vụ sụp chưa xác lập chủ sở hữu/bảo trì/Bùi Gia có tội hoặc tổ chức gây nạn. Điểm cuối ở viện không kết thúc cứu ở Nam Phố.
+
+Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhuận Chi]].

@@ -78,3 +78,12 @@ Tuổi, gia đình, cảnh giới, thời điểm hồi phục và đường đi
 - **Theo tin thợ ngày mười hai:** Lượt thử nền khác ngoài cọc được phép ở Chương 57 phải chậm lại vì mưa; chưa có kết quả mới đạt/nhận đường vào. Tô Tín gửi lời xin giữ cả phần bị mưa ngăn.
 - Tên Tô Lạc vẫn trên sơ đồ; thi thể/miếng đồng chưa thu hồi, vị trí sau sập chưa xác minh. Không lấy tin trì hoãn làm mất lời hứa hoặc tự cấp phép vào hầm.
 - Hai thanh gỗ trạm trả vẫn ở viện, không bổ sung cho khảo sát núi. Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]].
+
+## Trạng thái mới theo bản thảo Chương 59
+
+- Trực tiếp ở viện ngày13: chống nạng ra cửa, ngồi ghế người khác đặt, để nạng sát cột tránh lối cáng. Không đi nhà trú/núi hoặc có hồi phục mới.
+- Nghe Lâm Uyên kể, hỏi đội cứu/y sư còn cạnh Mạnh Thanh Tễ. Tri thức về sụp/người giữ lại qua lời, không trực tiếp thấy hiện trường.
+- Nhờ giữ việc gửi thêm lời lên chỗ thử nền tới khi người phụ trách rảnh, không gọi người đang nhận cáng ra đối hộ. Đây là nhờ trong viện, không lệnh cho thợ ngừng hoặc kết quả thử mới.
+- Nhờ người mang đặt bát cháo cạnh Lâm Uyên; không khiêng/đi cứu bằng nạng. Tô Lạc/miếng đồng còn chưa thu hồi, việc tìm không tự bị xóa vì cứu trợ.
+
+Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhuận Chi]].

@@ -8,10 +8,10 @@
 
 - **Tên truyện:** Vạn Cổ Quy Khư
 - **Nhân vật chính:** [[Lâm Uyên]]
-- **Địa điểm ở cuối Chương 58:** Điểm cáng ngoài nhà trú ven Nam Phố, ngày thứ mười ba sau Hắc Phong Sơn; Lâm Uyên ghi/chuyển người, Tô Thanh Ly mở đường, Mạnh Thanh Tễ còn sống và làm việc cùng tổ cứu
+- **Địa điểm ở cuối Chương 59:** Tế Sinh Viện, tối ngày thứ mười ba sau Hắc Phong Sơn; Mạnh Thanh Tễ trọng thương/còn sống trong gian cứu, Lâm Uyên chờ ngoài và Tô Thanh Ly đã trở về
 - **Thế lực gắn với arc hiện tại:** [[Tô Gia]]
-- **Chương mới nhất trên main:** [[Chương 58]] (nháp)
-- **Chương tiếp theo:** Chương 59 (dự kiến)
+- **Chương mới nhất trên main:** [[Chương 59]] (nháp)
+- **Chương tiếp theo:** Chương 60 (dự kiến)
 - **Trạng thái:** Đang sáng tác
 
 ---
@@ -50,6 +50,8 @@
 - [[LOG-004-Áp Dụng Kỹ Thuật Trong Chương 57]] — kết quả cuộc gặp, quan hệ nghề nghiệp và nguồn tham khảo mới
 - [[REF-003-Nguồn Về Mưa Lũ Và Không Gian Cứu Trợ]] — nguồn Red Cross đã đọc ngày 2026-10-09, giới hạn tham khảo và bố trí nơi cứu trợ
 - [[LOG-005-Áp Dụng Kỹ Thuật Trong Chương 58]] — thời gian mưa, cuộc đối công và cứu người với năng lực hữu hạn
+- [[REF-004-Nguồn Về Mất Mát Và Hậu Quả Nhân Vật]] — nguồn Writing Excuses đã đọc ngày 2026-10-13, giới hạn và suy luận riêng
+- [[LOG-006-Áp Dụng Kỹ Thuật Trong Chương 59]] — lựa chọn chuyển người, thương tích thầy và phần việc tại viện
 
 ## NHÂN VẬT
 
@@ -188,13 +190,14 @@
 - [[Chương 55]] — Cước Của Một Chặng; nháp
 - [[Chương 56]] — Mặt Sau Tờ Phiếu; nháp
 - [[Chương 57]] — Một Lượt Ngoài Sổ; nháp
-- [[Chương 58]] — Chỗ Đặt Cáng; nháp mới
+- [[Chương 58]] — Chỗ Đặt Cáng; nháp
+- [[Chương 59]] — Người Trên Cáng Sau; nháp mới
 
 ### Chuẩn bị
 
-- Chương 59 — hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 58]].
+- Chương 60 — hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 59]].
 - [[Kết Chương]] — trạng thái từng chương, bao gồm các bản nháp và chương chưa có frontmatter.
-- [[Trạng Thái Truyện Sau Chương 58]] — trạng thái continuity hiện hành; các bản sau chương trước đó là lưu vết lịch sử.
+- [[Trạng Thái Truyện Sau Chương 59]] — trạng thái continuity hiện hành; các bản sau chương trước đó là lưu vết lịch sử.
 
 ---
 

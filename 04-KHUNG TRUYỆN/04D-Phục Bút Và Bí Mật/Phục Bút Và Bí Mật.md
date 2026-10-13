@@ -144,3 +144,18 @@ Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]], [[Dược 
 Mạnh Thanh Tễ còn sống cuối Ch58, ở phần làm việc được người cứu xem gần lỗ vách, chờ chuyển người tỉnh mắc chân. Chưa áp kết cục tương lai vào cảnh đang diễn ra. Người gian sau/số chuyển chưa được chốt; Lâm Uyên giữ tên đã có bằng chứng thay vì đoán người chết.
 
 Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]], [[Nhà Trú Tạm Ven Nam Phố]], [[Tề Duy Cẩn]], [[Khương Tố Nương]].
+
+## Tiến triển theo bản thảo Chương 59
+
+| Đầu mối/hứa | Phần được trả | Còn mở |
+| --- | --- | --- |
+| Người mắc cuối58/giỏ áo | Hồ Nhuận Chi tự tên/nghề/nhận giỏ, chân được giải, viện nhận | Kết quả chữa/chỗ ở/người khác còn thiếu; gói kim qua lời chưa lấy |
+| Mẹ con đã chuyển đi đâu | Tin người trực và cảnh viện xác nhận Khương Tố Nương/con cùng nơi | Chưa khỏi chân, tên/giới tính trẻ vẫn chưa nêu |
+| Mạnh Thanh Tễ/cứu trợ | Sụp tiếp lúc tổ rút, ông trọng thương; Lâm Uyên đi cáng cần gấp, ông được cứu/chuyển tới viện còn sống | Tiên lượng/kết cục, hậu quả dân sinh/những người chưa tìm; chưa di sản/tang |
+| Nguyên nhân sụp | Dấu kết cấu đổi được thấy trước lệnh rút | Chưa điều tra sở hữu/bảo trì/culprit; không mặc định Bùi Gia hoặc mạng thuốc |
+| Hòa Sinh/người đặt | Tin Tông đã nhận câu hỏi, không lấy lời đổi thuốc | Người mua/lý do mẫu vón/người can thiệp, không Trần Dực khai mới |
+| HFS/Tô Lạc | Tô Tín nhờ chờ gửi lời để người đang nhận cáng làm cứu trước | Chưa kết quả thử/lệnh vào/thu thi thể hoặc đồng |
+
+Nỗi sợ mới là người hướng dẫn không trả lời rõ trong gian cứu. Đây là hậu quả quan hệ, không thêm bí ẩn cấp thế giới, không cho đau buồn thức tỉnh sức mạnh hoặc tiên tri cái chết.
+
+Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhuận Chi]].

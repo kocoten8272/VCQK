@@ -142,3 +142,19 @@ Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]], [[Dược 
 Địa điểm có hồ sơ chính [[Nhà Trú Tạm Ven Nam Phố]] (LOC-010). Tạ Nghiên Chi ở tuyến hồ sơ Tông Sảnh, không phải người ghi danh sách tại cứu trợ; Lâm Uyên làm việc ghi chuyển, không thay y sư.
 
 Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]], [[Tề Duy Cẩn]], [[Khương Tố Nương]].
+
+## Vai trò được đối ở Chương 59
+
+| Vai | Điều mới | Giới hạn |
+| --- | --- | --- |
+| Người vá áo/người mắc chân ở lỗ vách cuối58 | Nay Hồ Nhuận Chi — CHAR-063, tự tên/nghề/nhận giỏ, được đưa viện | Dùng hồ sơ chính [[Hồ Nhuận Chi]], không giữ một người vá áo vô danh trùng vai; không Khương Tố Nương |
+| Người già từng được báo gian sau | Người trông nhà nhận đã ra cửa sau trước khi tổ viện tới, chấp sự gọi đối | Chưa tên/giới tính/tuổi, không chốt những người khác hoặc đã được viện nhận |
+| Người cứu mắc gấu áo | Trong tổ rút, Mạnh Thanh Tễ gỡ/giúp ra trước lúc vách sụp | Chưa tên/tình trạng sau, không gộp với người bị bệnh/thợ HFS |
+| Người trực về báo mẹ con/giữ bàn ghi | Báo đã nhận mẹ con, sau bàn giao người trực giữ phần ghi | Chức năng chưa chứng minh mọi người trực là cùng cá nhân |
+| Y sư trên xe/người đi cùng Lâm Uyên | Quyết chuyển/cứu, chấp sự cho người cùng tổ về viện | Không gộp y sư và hộ tống; không tự đặt tên/tu vi |
+| Trẻ của Khương Tố Nương | Trực tiếp áo nâu/mẩu dây, hỏi người xem chân mẹ đã về chưa | Sáu tuổi theo lời mẹ, tên/giới tính vẫn UNKNOWN; không tạo con cho Hồ Nhuận Chi |
+| Người báo lượt Mạnh Thanh Tễ/người mang tin Tông | Tin nhấc gỗ đang chuyển; tin câu hỏi đã nhận | Tin có phạm vi, không biết trước tiên lượng/cả mạng |
+
+Người còn thiếu/đứa tìm cha ở58 chưa tự được khép vì một người già được nhận. Sổ vai giữ riêng mọi người nhà/cứu/y sư; không lấp danh tính để cho đủ bảng.
+
+Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhuận Chi]].

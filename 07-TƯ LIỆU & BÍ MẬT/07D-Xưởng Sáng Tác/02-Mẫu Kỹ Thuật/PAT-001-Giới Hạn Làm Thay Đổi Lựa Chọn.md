@@ -15,8 +15,9 @@ used_in_chapters:
   - 56
   - 57
   - 58
+  - 59
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - nhan-qua
   - cai-gia
@@ -26,7 +27,7 @@ tags:
 
 # PAT-001-Giới Hạn Làm Thay Đổi Lựa Chọn
 
-> Mẫu kỹ thuật do người viết thiết kế cho VCQK từ [[REF-001-Nguồn Về Sinh Tồn Và Giới Hạn]]. `ready` nghĩa là dùng được để lập cảnh; đã áp dụng có phạm vi ở bản thảo Chương 55–58.
+> Mẫu kỹ thuật do người viết thiết kế cho VCQK từ [[REF-001-Nguồn Về Sinh Tồn Và Giới Hạn]]. `ready` nghĩa là dùng được để lập cảnh; đã áp dụng có phạm vi ở bản thảo Chương 55–59.
 
 ## Vấn đề cần xử lý
 
@@ -102,3 +103,9 @@ Phan Kính từ chối một loại lượt mới qua Đinh Bá Nghiêm; Thẩm 
 Đinh Bá Nghiêm không ký việc giao cả chuyến để chốt công chép/chuyển lời; đối người và lời Tề Duy Cẩn làm rõ một phần trách nhiệm. Bao giữ hộ được trả đúng lượt trước đoạn chuyển ngày. Tại nhà trú, Lâm Uyên ghi/báo/chuyển đồ nhẹ, Tô Thanh Ly mở lối và nhờ người nâng; Mạnh Thanh Tễ cùng tổ cứu điều phối nơi đặt cáng/phân thứ tự chuyển. Thương tích làm thay đổi việc từng người thực sự được giao, không chỉ xuất hiện trong lời kể. Cuối Ch58 Mạnh Thanh Tễ còn sống, chưa sụp lần hai.
 
 Chi tiết tham khảo/phạm vi nguồn và kiểm cục bộ tại [[LOG-005-Áp Dụng Kỹ Thuật Trong Chương 58]], liên hệ [[REF-003-Nguồn Về Mưa Lũ Và Không Gian Cứu Trợ]]. SEED-001/002 tiếp chưa dùng; không nhận có đánh giá của độc giả hoặc biến mẫu kỹ thuật thành canon.
+
+## Lần áp dụng tại bản thảo Chương 59
+
+Tay thương/năng lực giới hạn khiến Lâm Uyên không vào nhấc gỗ; theo cáng cần tới viện dù muốn chờ thầy. Tô Thanh Ly giữ đường bằng người có sức rồi trở về. Viện có người có nghề nhưng chưa thể cho người học việc câu về ngày mai; giới hạn đổi từ công việc sang quan hệ phụ thuộc. Mạnh Thanh Tễ còn sống/trọng thương cuối59, không dùng mẫu để chốt cái chết chưa viết.
+
+Tra [[LOG-006-Áp Dụng Kỹ Thuật Trong Chương 59]] và [[REF-004-Nguồn Về Mất Mát Và Hậu Quả Nhân Vật]]. SEED-001/002 vẫn chưa dùng; không có phản hồi độc giả hoặc bảo đảm hiệu quả cho mọi cảnh.

@@ -132,3 +132,20 @@ Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]], [[Dược 
 Người trông coi nhà trú kể còn người già/người vá áo ở gian sau, chưa xác nhận họ vẫn ở đó hoặc đã được chuyển qua lối khác. Cuối chương có người trả lời/người còn tỉnh mắc chân; danh tính và số người còn lại chưa đủ. Mạnh Thanh Tễ còn sống, ở phần người cứu đang làm việc gần lỗ vách được dọn.
 
 Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]], [[Nhà Trú Tạm Ven Nam Phố]].
+
+## Tri thức theo bản thảo Chương 59
+
+| Người | Điều biết và nguồn | Phần chưa biết |
+| --- | --- | --- |
+| Lâm Uyên | Trực tiếp dấu rơi/lệnh rút/sụp, đội cứu ở cạnh thầy và lời ông gọi; theo cáng Hồ Nhuận Chi, thấy viện nhận/cáng thầy tới | Quá trình nhấc gỗ sau khi rời chỉ qua tin/Tô Thanh Ly, không nguyên nhân toàn vụ/tiên lượng |
+| Tô Thanh Ly | Ở hiện trường rồi kể đội đổi chỗ nhấc/chuyển Mạnh Thanh Tễ; trực tiếp viện/việc tay | Không biết kết cục/chủ mưu; từng vùng xem được không toàn nhà an toàn |
+| Mạnh Thanh Tễ | Nghe mẹ con Khương Tố Nương đã được viện nhận; thấy Hồ Nhuận Chi yếu cần đi; biết đội đang cứu mình | Không đọc ra tương lai hoặc bí mật toàn cơ sở |
+| Khương Tố Nương/con | Đã được nhận cùng lượt, trực tiếp hỏi người xem chân về chưa | Trẻ chưa được nêu tên/giới tính; không tự biết thầy qua đời hoặc tiên lượng |
+| Hồ Nhuận Chi | Tự tên/nghề/giỏ, nhắc người phía sau/gói kim | Không biết tất cả người còn trong, không nguyên nhân kết cấu |
+| Tô Tín | Nghe Lâm Uyên kể, hỏi cứu/y sư; ở viện với nạng | Không có tri thức trực tiếp núi/nhà sập hoặc kết quả thử mới |
+| Viện chủ/y sư | Nhận báo, trực tiếp khám/cứu người trọng thương | Chương không cho kết luận đã qua nguy hoặc chắc chết |
+| Người nghe tin Tông tại viện | Câu hỏi Hòa Sinh đã nhận, giữ để đối người đặt, không đổi lời lấy thuốc | Chưa người mua/lý do mẫu vón, chưa lời Trần Dực mới |
+
+Tin mẹ con về viện đầu chương sau đó có cảnh trực tiếp tại gian bên. Người già được nhận là đã ra qua lối khác, phần còn thiếu chưa đủ. Không suy mưa/sụp thành âm mưu hoặc trách nhiệm gia tộc.
+
+Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhuận Chi]].

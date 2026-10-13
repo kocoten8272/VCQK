@@ -118,3 +118,19 @@ Phần mới chỉ đối các nguồn liên quan ở mốc này; các số lư�
 | Thử nền Hắc Phong Sơn chậm vì mưa, Tô Tín còn ở viện | Tin/lời gửi ngày12 trong DRAFT TEXT Ch58 | Chưa kết quả mới, lệnh vào hoặc thu hồi Tô Lạc/miếng đồng |
 
 Chỉ đối nguồn liên quan chương mới; số lượng nguồn của snapshot audit đầu vẫn là lịch sử, không nhận đã quét lại toàn kho. Hắc Nha/Cổ Sử và mạng mua thuốc chưa có chứng cứ đồng nhất. Tu vi chính thức Lâm Uyên chưa xác lập hoặc tăng, Dược Khế giữ7/4tháng; sinh tử thật Lâm Chinh tiếp UNKNOWN theo chỉ thị tác giả.
+
+## Đối chiếu có phạm vi sau Chương 59 — 2026-10-13
+
+| Mệnh đề | Lớp nguồn | Giới hạn |
+| --- | --- | --- |
+| Hồ Nhuận Chi — CHAR-063/nghề/giỏ | DRAFT TEXT59: tên/nghề/giỏ tự nhận, nối vai mắc cuối58 | Tuổi44 là thiết kế chưa nêu, gia đình UNKNOWN, khác Khương Tố Nương |
+| Mẹ con Khương Tố Nương ở viện | Tin người trực đầu59, sau cảnh/lời trực tiếp gian bên | Không chữa khỏi hoặc tên/giới tính trẻ |
+| Dấu kết cấu đổi/lệnh rút/sụp tiếp | DRAFT TEXT59: ngói/vữa/gỗ dịch, người đang rút | Không kết luận toàn nguyên nhân, lỗi quản/bảo trì hoặc Bùi Gia/mạng thuốc |
+| Mạnh Thanh Tễ trọng thương tại viện còn sống | DRAFT TEXT59: bị giữ, tin đội cứu, cáng tới/phản ứng/thở, viện chủ/y sư cứu | Chưa qua nguy, chết hoặc di sản; kế hoạch58–60 khác sự kiện |
+| Lâm Uyên chuyển cáng có người cùng, Tô Thanh Ly giữ đường/rồi về | DRAFT TEXT59 | Không nâng cáng/tự y thuật, thương/quản thúc/Dược Khế giữ |
+| Tô Tín tại viện/nạng/nhờ hoãn gửi lời | DRAFT TEXT59, trực tiếp và lời nhờ | Không tới HFS/nhà, không lệnh thợ ngừng/kết quả thử hoặc thu Tô Lạc |
+| Câu hỏi Hòa Sinh đã nhận | Tin Tông trong DRAFT TEXT59 | Không nguồn người mua/mẫu vón/lời Trần Dực mới |
+
+Chỉ đối nguồn chương này, không nhận quét lại toàn kho. Giữ sinh tử thật Lâm Chinh UNKNOWN, các mạng riêng và tài liệu nền được bảo vệ.
+
+Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhuận Chi]].

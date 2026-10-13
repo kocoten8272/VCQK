@@ -77,3 +77,13 @@ tags:
 - **Cuối chương:** Mạnh Thanh Tễ còn sống, cùng người cứu làm việc gần lỗ vách đã dọn và chờ chuyển một người tỉnh mắc chân. Người gian sau chưa tìm hết, số chuyển/nhận ở viện còn cần đối. Tạ Nghiên Chi/hồ sơ gốc ở tuyến Tông Sảnh, không có mặt cứu trợ.
 - Chưa tái thiết nhà trú hoặc chứng minh trách nhiệm bảo trì/Bùi Gia/quan hệ với thuốc. Hai thanh gỗ trạm đã trả vẫn dưới sạp viện, không trở thành vật chống cứu hộ. Các mạng được theo dõi riêng.
 - Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]], [[Nhà Trú Tạm Ven Nam Phố]], [[Khương Tố Nương]], [[Tề Duy Cẩn]].
+
+## Trạng thái mới theo bản thảo Chương 59
+
+- Cùng ngày13 tại nhà trú: Hồ Nhuận Chi được đưa ra/nhận giỏ và chuyển tới viện khi hơi yếu. Người trông nhà nhận người già đã ra lối sau từ trước; không chốt tất cả người còn thiếu.
+- Ngói/vữa/gỗ có dấu dịch, lệnh rút được gọi; vách cạnh lỗ mở sụp tiếp, Mạnh Thanh Tễ trọng thương trong lúc rút cùng người cứu. Việc xem một vùng trước không bảo đảm kết cấu luôn ổn.
+- Cáng Hồ Nhuận Chi được đưa đi trước theo y sư, Lâm Uyên trong tổ chuyển có người đi cùng; Tô Thanh Ly ở lại giữ lối rồi trở về với lượt sau/chấp sự.
+- Đội cứu tiếp làm, chuyển Mạnh Thanh Tễ tới viện sống/trọng thương. Vẫn có người chưa tìm/list cần đối, xe tiếp quay lại; chưa toàn khu hết cứu, tái thiết hoặc kết luận trách nhiệm.
+- Không xác định mưa là toàn nguyên nhân, Bùi Gia gây sập, mạng thuốc/nhóm áo đen can thiệp. Chưa bản đồ/chủ quản mới.
+
+Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhuận Chi]].

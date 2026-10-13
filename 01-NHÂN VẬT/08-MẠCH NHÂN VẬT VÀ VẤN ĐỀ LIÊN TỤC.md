@@ -112,3 +112,15 @@ ID Lâm Uyên trong bảng nền đã sửa về CHAR-005 theo [[02-SỔ CÁI NH
 - **Nguồn/danh sách:** Hồ sơ đối Hòa Sinh đã về Tông Sảnh với Tạ Nghiên Chi; cô không có cảnh cứu trợ. Danh sách điểm cáng và bản chuyển về viện còn cần đối, không viết người chưa thấy thành đã chết/đã tới viện.
 - **Bước tiếp:** Tiếp cứu, kiểm tên/người còn thiếu và lượt nhận ở viện; giữ sức tay/việc có nghề. Hồ sơ nguồn yêu cầu của Tề Duy Cẩn và câu hỏi tới Trần Dực tiếp tục ở cơ quan có quyền; không dùng tai nạn thay đáp án mạng thuốc.
 - Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]].
+
+## Tiến triển theo bản thảo Chương 59
+
+- **Cứu trợ đổi giá:** Dấu mới dẫn lệnh rút, vách sụp trong lúc rút; Mạnh Thanh Tễ trọng thương, còn sống/cứu ở viện cuối ngày13. Chưa cái chết hoặc tang. Không lặp lại khởi đầu vụ nhà sập.
+- **Lâm Uyên:** Theo cáng Hồ Nhuận Chi dưới chỉ dẫn y sư/thầy, có người đi cùng; nhìn lại nhưng tiếp báo nơi nhận. Tay phải thương/thay băng khô, tay trái mỏi, chưa đủ y thuật hoặc tăng tu vi.
+- **Tô Thanh Ly:** Giữ đường với người có sức, về viện theo lượt sau/chấp sự; thương tay giữ. Quan hệ hỗ trợ chưa xóa nỗi day dứt Lâm Uyên.
+- **Người được nhận:** Khương Tố Nương/con đã tới viện, có cảnh trực tiếp. Hồ Nhuận Chi — CHAR-063 tự nhận giỏ/nghề, được viện nhận; cả hai chưa khỏi, không gộp gia đình. Người già được đối là đã ra cửa sau, không chốt mọi người.
+- **Tô Tín/HFS:** Trực tiếp nạng/viện, nhờ chờ việc gửi lời tới lúc người phụ trách rảnh; không kết quả thử/lệnh vào, Tô Lạc/miếng đồng chưa thu.
+- **Thuốc/Tô Gia:** Tin Tông nhận câu hỏi, đối người đặt còn mở; không lời Trần Dực mới/người mua/mẫu vón. Chìa/trang riêng, không nối mọi phe từ nạn.
+- **Phần tiếp:** Nối đêm viện/cứu Mạnh Thanh Tễ và việc nhận các cáng; giữ công việc người sống, nguy cơ/chỗ ở ở Nam Phố. Chưa lời thề báo thù, di sản hoặc thuốc đảo sinh tử.
+
+Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhuận Chi]].

@@ -45,3 +45,12 @@ tags:
 - [[Tô Thanh Ly]]
 - [[Tô Trạch]]
 - [[Lăng Vân Thành]]
+
+## Trạng thái mới theo bản thảo Chương 59
+
+- Trực tiếp tại Tế Sinh Viện cùng ngày13: nhận báo tình trạng Hồ Nhuận Chi, tin Lâm Uyên thấy thầy bị giữ và lời còn gọi; không yêu cầu người học việc đoán chẩn đoán.
+- Chọn thêm người có nghề/chuẩn bị gian nhận, tiếp tin đội đang chuyển rồi nhận cáng Mạnh Thanh Tễ với y sư. Cùng y sư cứu người trọng thương ngực/người, còn phản ứng/thở cuối chương; chưa tiên lượng hoặc xác nhận chết/qua nguy.
+- Nhận tin Tông câu hỏi Hòa Sinh đã nhận, giao phần ấy người giữ sổ, giữ thuốc bệnh nhân theo chuyên môn; không giải người mua/thuốc vón hoặc đổi lời lấy thuốc.
+- Tên thật/giới tính/tu vi chưa được xác lập. Không gộp mọi người trực/y sư/chấp sự vào cùng người hoặc xóa quyền của cơ quan khác.
+
+Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]].

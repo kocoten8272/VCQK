@@ -120,3 +120,18 @@ Nguồn: [[Chương 57]], [[Trạng Thái Truyện Sau Chương 57]], [[Thẩm T
 Khương Tố Nương và con là gia đình mới trong cảnh nhà trú, tách khỏi mẹ con xóm lò ngói và người mẹ đưa trẻ tới viện sáng ngày 13. Tề Duy Cẩn là hồ sơ chính của vai người đọc cho chép được Đinh Bá Nghiêm nhận; không lập thêm người giữ bàn vô danh trùng vai.
 
 Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]], [[Tề Duy Cẩn]], [[Khương Tố Nương]].
+
+## Quan hệ theo bản thảo Chương 59
+
+| Người | Liên hệ/đổi trạng thái | Căn cứ và giới hạn |
+| --- | --- | --- |
+| Mạnh Thanh Tễ → Lâm Uyên | Giao phần chuyển người cần đi gấp khi chính mình bị giữ | Ông còn gọi, đội cứu ở cạnh. Hắn làm theo nhưng vẫn day dứt/sợ; chưa nghi thức bái sư, lời trăng trối hoặc di sản |
+| Lâm Uyên → Hồ Nhuận Chi | Ghi/báo tình trạng theo cáng tới viện | Người có nghề quyết và chữa, không để bà thành nguyên nhân có lỗi vì thầy bị nạn |
+| Tô Thanh Ly → Lâm Uyên | Giữ đường cáng thầy, trở lại/ngồi cạnh | Không hứa cứu chắc, không nói một lời đã chữa nỗi sợ; nhắc người trên cáng cần tới viện |
+| Tô Tín → Lâm Uyên | Hỏi người còn cạnh thầy, nhờ bát cháo | Nạng/viện, không tự tới hiện trường; chưa bỏ việc Tô Lạc |
+| Mạnh Thanh Tễ → Hồ Nhuận Chi | Chăm và nhắc đưa gấp | Nghề/trách nhiệm trong cứu trợ, không kết luận quen lâu hoặc nợ tiền |
+| Khương Tố Nương/con → người đã xem chân | Hỏi khi nào về | Biết người chăm mình vắng, chưa tự biết chẩn đoán/tương lai của ông |
+
+Hồ Nhuận Chi khác Khương Tố Nương; cùng nghề/chỗ trú không xác lập họ hàng/bạn thân/chung con. Không nhập quan hệ tình cảm thành cơ chế tu luyện.
+
+Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhuận Chi]].

@@ -53,3 +53,14 @@ Khương Tố Nương/đứa trẻ được nhận cùng lượt rời đi hư�
 Tiếp việc đưa người ra, kiểm nguy cơ ở mái còn treo và đối danh sách viện/điểm cáng. Địa điểm có thể tiếp ảnh hưởng nơi ở/nghề của người sống, không chỉ dùng như cảnh chết.
 
 [[Nam Phố]] · [[Lăng Vân Thành]] · [[Khương Tố Nương]] · [[Mạnh Thanh Tễ]] · [[Chương 58]] · [[Trạng Thái Truyện Sau Chương 58]]
+
+## Trạng thái mới theo bản thảo Chương 59
+
+- Nối người mắc chân cuối58: đội đưa Hồ Nhuận Chi tới điểm cáng, bà tự tên/nghề/nhận giỏ. Người trông nhà nhận một người già đã ra lối sau từ trước, gọi đối gian ở; chưa mọi người ở gian sau đều được tìm.
+- Dấu thay đổi kết cấu gồm ngói trượt/vữa rơi/gỗ xê dịch. Đội gọi lùi, người/cáng được chuyển xa; một phần vách cạnh lỗ mở sụp tiếp trong lúc người ở vùng đã dọn đang rút.
+- Mạnh Thanh Tễ bị giữ sau khi giúp người cứu mắc gấu áo ra trước; không vào mái cao chưa kiểm một mình. Đội cứu/y sư tiếp cận từ mép khác, nhấc gỗ/chuyển ông ra.
+- Hồ Nhuận Chi cần chuyển gấp vì hơi yếu, viện đã nhận trực tiếp. Cáng Mạnh Thanh Tễ về sau, còn sống/trọng thương được trị. Phần cứu ở nhà vẫn tiếp, chưa tổng thương vong/hoàn toàn an toàn.
+- Bàn ghi giao người trực khác, các bản về viện để đối; giỏ của Hồ Nhuận Chi tới gian bà, gói kim trong áo còn ở nhà chỉ qua lời. Hai gỗ sạp viện không dùng chống ở đây.
+- Nguyên nhân kết cấu/sở hữu/bảo trì/trách nhiệm chưa xác định; không quy một gia tộc/mạng bí mật vì địa điểm hoặc kế hoạch sau này.
+
+Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhuận Chi]].

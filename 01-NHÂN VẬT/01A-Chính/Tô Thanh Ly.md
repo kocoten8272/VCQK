@@ -109,3 +109,14 @@ Nguồn: [[Chương 43]], [[Chương 50]], [[Chương 51]], [[Chương 52]], [[T
 - Gửi người về viện chuẩn bị nhận cả số chưa chốt, chuyển yêu cầu thuốc theo người có nghề chứ không tự kê. Dẫn người tìm vợ tới chỗ nhận danh sách, không hứa đã tìm được.
 - Cuối ngày mười ba còn tại hiện trường, có người nâng thay và người trực bổ sung. Nhờ thay phần che áo cho Lâm Uyên, yêu cầu hắn được xem tay lúc nghỉ; muốn tiếp làm không xóa thương tích. Mạnh Thanh Tễ còn sống/nói ở chỗ đội cứu đang làm.
 - Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]].
+
+## Trạng thái mới theo bản thảo Chương 59
+
+- Ngày13 cứu trợ: giữ đầu lối, gọi người khỏe đưa cáng ra khi có dấu ngói/vữa/gỗ xê dịch. Vách sụp tiếp trong lúc Mạnh Thanh Tễ/đội rút, không phải nàng dẫn ông một mình vào mái chưa kiểm.
+- Giữ đường cho cáng thầy khi Lâm Uyên theo tổ chuyển Hồ Nhuận Chi; nói phần việc mình giữ, không bảo đảm kết quả hoặc cho phép Lâm Uyên tự vào vùng cứu.
+- Sau đó trở về viện cùng chấp sự/lượt chuyển, báo Mạnh Thanh Tễ ở cáng sau. Kể phần đội cứu đưa ông ra; không nói thay tiên lượng của y sư.
+- Tay phải vẫn thương, tay trái giữ giấy; được xem/thay vải ướt tại viện, gọi người nâng thay. Không có sức mạnh mới/gỡ kiếm bảo chứng/quản thúc, Dược Khế4tháng giữ.
+- Giúp giữ lối cửa cứu và ngồi cạnh Lâm Uyên. Khi hắn nói đã quay đi, nhắc người trên cáng cần tới viện, không áp câu “không có lỗi” để xóa ngay nỗi sợ/day dứt.
+- Cuối chương tại viện; Mạnh Thanh Tễ còn sống và đang cứu, không biết ngày mai/kết cục hoặc nguyên nhân sập.
+
+Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhuận Chi]].
