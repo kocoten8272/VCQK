@@ -40,17 +40,17 @@ tags:
 
 ## Trạng thái cập nhật đến hết Chương 52
 
-- Ở Hắc Phong Sơn, Thanh Ly xuống giếng cứu Tô Tín và chấp nhận bỏ miếng đồng khi không thể vừa lấy vật chứng vừa cứu người. Tay phải bị dây đồng quất; kiếm sứt gần mũi khi chém xích.
+- Ở Hắc Phong Sơn, Tô Thanh Ly xuống giếng cứu Tô Tín và chấp nhận bỏ miếng đồng khi không thể vừa lấy vật chứng vừa cứu người. Tay phải bị dây đồng quất; kiếm sứt gần mũi khi chém xích.
 - Đến Chương 52, tay phải vẫn bị thương và nàng dùng tay trái cẩn thận. Chưa có xác nhận được trả kiếm hoặc được gỡ mọi hạn chế của Tô Gia.
 - Dược Khế vẫn là bốn tháng nguyệt lệ nếu khoản cũ không đổi; Chương 51–52 không ghi điều chỉnh mới.
-- Trang gốc liên quan vụ cháy vẫn mất. Tạ Nghiên Chi đã giúp mở sổ trực; ở cuối Chương 52, Thanh Ly nhận lệnh triệu người nhận ca và hai người gác đêm cháy trình lời riêng vào sáng hôm sau trước người chứng kiến. Chưa xác định người lấy trang hoặc nội dung lời khai.
-- Thanh Ly chủ động giới hạn câu hỏi để từng người kể trước khi nghe lời người khác; nàng chỉ tham gia nếu có giấy hộ tống. Đây là lựa chọn điều tra của riêng nàng.
+- Trang gốc liên quan vụ cháy vẫn mất. Tạ Nghiên Chi đã giúp mở sổ trực; ở cuối Chương 52, Tô Thanh Ly nhận lệnh triệu người nhận ca và hai người gác đêm cháy trình lời riêng vào sáng hôm sau trước người chứng kiến. Chưa xác định người lấy trang hoặc nội dung lời khai.
+- Tô Thanh Ly chủ động giới hạn câu hỏi để từng người kể trước khi nghe lời người khác; nàng chỉ tham gia nếu có giấy hộ tống. Đây là lựa chọn điều tra của riêng nàng.
 - Lâm Uyên đã hoàn tất giao thuốc bù tới trạm; việc đó không tự giải quyết Dược Khế hay khoản viện phí khác.
 - Cảnh giới chính xác chưa được chương xác nhận; không tự cấp kiếm thay thế hoặc xóa thương thế.
 
 ## Hướng phát triển đã duyệt
 
-Để nàng theo đuổi sự thật về trang giấy, quyền quyết định với món nợ và quan hệ với Tô Gia. Nàng có thể chọn cách khác Lâm khi lợi ích mâu thuẫn. Mục tiêu riêng không bị hòa hết vào tình cảm; mỗi lần bất đồng cần có điều nàng thực sự mất hoặc giữ được.
+Để nàng theo đuổi sự thật về trang giấy, quyền quyết định với món nợ và quan hệ với Tô Gia. Nàng có thể chọn cách khác Lâm Uyên khi lợi ích mâu thuẫn. Mục tiêu riêng không bị hòa hết vào tình cảm; mỗi lần bất đồng cần có điều nàng thực sự mất hoặc giữ được.
 
 Nguồn: [[Chương 43]], [[Chương 50]], [[Chương 51]], [[Chương 52]], [[Trạng Thái Truyện Sau Chương 52]].
 
@@ -120,3 +120,13 @@ Nguồn: [[Chương 43]], [[Chương 50]], [[Chương 51]], [[Chương 52]], [[T
 - Cuối chương tại viện; Mạnh Thanh Tễ còn sống và đang cứu, không biết ngày mai/kết cục hoặc nguyên nhân sập.
 
 Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhuận Chi]].
+## Trạng thái mới theo bản thảo Chương 60
+
+- Đêm ngày thứ mười ba tại viện, tay phải đã thay vải khô nhưng còn thương, giữ sát người; dùng tay trái dời ghế nhỏ và gọi người có sức giữ lối/chuyển thầy. Không khiêng giường/cáng, không có hồi phục hoặc sức mạnh mới.
+- Tới cửa gian cứu sau khi viện chủ xác nhận Mạnh Thanh Tễ đã mất, ở cạnh Lâm Uyên, đưa vải khô/nước ấm và để hắn có khoảng riêng. Nói mình cũng tưởng về viện còn kịp; không dùng lời trấn an để xóa ngay đau buồn.
+- Giữ cửa khi người có sức chuyển Mạnh Thanh Tễ tới gian yên trong viện, giúp Lâm Uyên ra hiên bằng phần tay lành có người phụ giúp. Chưa quyết tang, nhận đồ của thầy hoặc đưa hắn tự ra phố giữa đêm.
+- Gần sáng nhờ chấp sự giữ tên người trông coi nhà trú, hỏi nguồn giấy về người quản và các lần sửa trước khi xét trách nhiệm. Chấp sự nhận việc; chưa có giấy tới, người bị kết tội hoặc kết luận nguyên nhân sập.
+- Rạng ngày thứ mười bốn còn trong viện, nhờ mang ghế để Lâm Uyên không đứng suốt buổi khi làm thẻ nhẹ. Không kê thuốc hoặc nhận thay quyền giám dược/y sư.
+- Dược Khế bốn tháng, kiếm làm bảo chứng và giới hạn đi lại vẫn giữ. Tuyến chìa/trang mất, nguồn người mua thuốc và quan hệ hai mạng lưới chưa có kết quả mới.
+
+Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]].

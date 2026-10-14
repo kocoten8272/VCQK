@@ -8,10 +8,10 @@
 
 - **Tên truyện:** Vạn Cổ Quy Khư
 - **Nhân vật chính:** [[Lâm Uyên]]
-- **Địa điểm ở cuối Chương 59:** Tế Sinh Viện, tối ngày thứ mười ba sau Hắc Phong Sơn; Mạnh Thanh Tễ trọng thương/còn sống trong gian cứu, Lâm Uyên chờ ngoài và Tô Thanh Ly đã trở về
+- **Địa điểm ở cuối Chương 60:** Tế Sinh Viện, sáng ngày thứ mười bốn; Mạnh Thanh Tễ đã mất trong đêm, Lâm Uyên tiếp việc thẻ dưới giám sát và Tô Thanh Ly hỗ trợ; tang sự chưa tổ chức
 - **Thế lực gắn với arc hiện tại:** [[Tô Gia]]
-- **Chương mới nhất trên main:** [[Chương 59]] (nháp)
-- **Chương tiếp theo:** Chương 60 (dự kiến)
+- **Chương mới nhất trên main:** [[Chương 60]] (nháp)
+- **Chương tiếp theo:** Chương 61 (dự kiến)
 - **Trạng thái:** Đang sáng tác
 
 ---
@@ -52,6 +52,7 @@
 - [[LOG-005-Áp Dụng Kỹ Thuật Trong Chương 58]] — thời gian mưa, cuộc đối công và cứu người với năng lực hữu hạn
 - [[REF-004-Nguồn Về Mất Mát Và Hậu Quả Nhân Vật]] — nguồn Writing Excuses đã đọc ngày 2026-10-13, giới hạn và suy luận riêng
 - [[LOG-006-Áp Dụng Kỹ Thuật Trong Chương 59]] — lựa chọn chuyển người, thương tích thầy và phần việc tại viện
+- [[LOG-007-Áp Dụng Kỹ Thuật Trong Chương 60]] — mất thầy, phản ứng đầu và công việc người sống; lượt tra nguồn ngày 2026-10-15
 
 ## NHÂN VẬT
 
@@ -191,13 +192,14 @@
 - [[Chương 56]] — Mặt Sau Tờ Phiếu; nháp
 - [[Chương 57]] — Một Lượt Ngoài Sổ; nháp
 - [[Chương 58]] — Chỗ Đặt Cáng; nháp
-- [[Chương 59]] — Người Trên Cáng Sau; nháp mới
+- [[Chương 59]] — Người Trên Cáng Sau; nháp
+- [[Chương 60]] — Gian Thuốc Vẫn Sáng; nháp mới
 
 ### Chuẩn bị
 
-- Chương 60 — hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 59]].
+- Chương 61 — hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 60]].
 - [[Kết Chương]] — trạng thái từng chương, bao gồm các bản nháp và chương chưa có frontmatter.
-- [[Trạng Thái Truyện Sau Chương 59]] — trạng thái continuity hiện hành; các bản sau chương trước đó là lưu vết lịch sử.
+- [[Trạng Thái Truyện Sau Chương 60]] — trạng thái continuity hiện hành; các bản sau chương trước đó là lưu vết lịch sử.
 
 ---
 

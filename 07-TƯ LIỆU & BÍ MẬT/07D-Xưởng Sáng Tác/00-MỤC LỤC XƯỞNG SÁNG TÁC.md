@@ -1,7 +1,7 @@
 ---
 type: muc-luc-xuong-sang-tac
 status: hoan-thien
-updated: 2026-10-13
+updated: 2026-10-15
 tags:
   - thu-vien
   - tra-cuu
@@ -28,6 +28,7 @@ tags:
 | LOG-004 | [[LOG-004-Áp Dụng Kỹ Thuật Trong Chương 57]] | Phản hồi/áp dụng | recorded | Cuộc gặp có kết quả, nguồn mới, Thẩm Từ Nghi và việc cũ khép được |
 | LOG-005 | [[LOG-005-Áp Dụng Kỹ Thuật Trong Chương 58]] | Phản hồi/áp dụng | recorded | Khép bao giữ hộ, đối người Hòa Sinh và điểm cáng ngoài nhà trú trong mưa |
 | LOG-006 | [[LOG-006-Áp Dụng Kỹ Thuật Trong Chương 59]] | Phản hồi/áp dụng | recorded | Sụp trong lúc rút, lựa chọn chuyển người và thầy chưa trả lời ở viện |
+| LOG-007 | [[LOG-007-Áp Dụng Kỹ Thuật Trong Chương 60]] | Phản hồi/áp dụng | recorded | Mất thầy, phần việc trao người khác và sáng đầu; nguồn REF-004 mở lại có phạm vi |
 
 Các seed chưa được dùng trong chương. Không lấy chúng làm căn cứ xác nhận tiền công, hợp đồng hoặc tiến độ chống vách.
 
@@ -79,3 +80,7 @@ Tra [[REF-003-Nguồn Về Mưa Lũ Và Không Gian Cứu Trợ]] và [[LOG-005-
 ## Áp dụng ở Chương 59
 
 Tra [[REF-004-Nguồn Về Mất Mát Và Hậu Quả Nhân Vật]]/[[LOG-006-Áp Dụng Kỹ Thuật Trong Chương 59]] trước khi nối biến cố. PAT-001 dùng59 với lựa chọn và thương tay; SEED-001/002 chưa dùng, không đổi thành sự kiện. Hồ Nhuận Chi — CHAR-063 có hồ sơ chính ở 01D; không lưu hồ sơ thứ hai ở Xưởng. Mạnh Thanh Tễ còn sống cuối59, kế hoạch kết cục khác trạng thái đã viết.
+
+## Áp dụng ở Chương 60
+
+Tra [[LOG-007-Áp Dụng Kỹ Thuật Trong Chương 60]] cho phản biện/sửa động tác, cảnh trở lại của Lưu Định và lượt Exa mở lại REF-004 ngày 2026-10-15. Ngày truy cập gốc REF-004 vẫn giữ 2026-10-13, không thêm nguồn trùng. PAT-001 dùng60; SEED-001/002 chưa dùng. Sinh tử Mạnh Thanh Tễ theo DRAFT TEXT ở hồ sơ chính ở 01D/trạng thái60, không chuyển ghi chú Xưởng thành canon nền.

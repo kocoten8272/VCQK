@@ -158,3 +158,21 @@ Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]], [[Tề Duy
 Người còn thiếu/đứa tìm cha ở58 chưa tự được khép vì một người già được nhận. Sổ vai giữ riêng mọi người nhà/cứu/y sư; không lấp danh tính để cho đủ bảng.
 
 Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhuận Chi]].
+
+## Vai trò được phân biệt ở Chương 60
+
+| Vai | Điều mới theo cảnh/nguồn | Giới hạn |
+| --- | --- | --- |
+| Y sư/phụ giúp gian cứu Mạnh Thanh Tễ | Tiếp cứu đêm ngày 13, thay người/nhận đồ/gọi nhường ghế; viện chủ xác nhận mất | Nhiều người có chức năng riêng, không gộp mọi y sư thành viện chủ hoặc đặt tên/cảnh giới từ vai nghề. |
+| Người chuyển thi thể/người giữ việc của viện | Chuyển tới gian yên, giữ riêng đồ, tìm nguồn trong hồ sơ để báo người cần biết | Chưa danh tính/thân nhân/kế hoạch tang; không trao sổ/túi thuốc cho Lâm Uyên làm của riêng. |
+| Người giám dược nhận việc đêm/người giám dược trực rạng ngày 14 | Tự đối thuốc, kiểm phần thẻ và giao Lâm Uyên ghi tên/giữ thẻ, nhắc nghỉ | Không đủ nhận diện để gộp các ca thành cùng một người, không tự lập sư phụ mới hoặc cho học trò quyền kê/cân/phối thuốc. |
+| Người trực báo tin Khương Tố Nương/Hồ Nhuận Chi | Báo rõ tin mất, đưa người có nghề tiếp chăm, nhận lời nhờ chuyển tới người cứu | Không gộp mọi người trực từ các chương trước; lời nhờ chưa chứng minh đã tới đúng mọi người hoặc bệnh nhân đã khỏi. |
+| Con Khương Tố Nương | Được mẹ nói rõ người xem chân đã mất, nhìn cửa rồi ngủ cạnh mẹ; mẩu dây đứt còn trong tay | Sáu tuổi theo nguồn Ch58, chưa tên/giới tính, không gộp trẻ xóm lò ngói/đứa tìm cha hoặc gán quan hệ cho Hồ Nhuận Chi. |
+| Người mang phần ghi từ nhà trú gần sáng | Đưa phần người đã chuyển trong lối mình làm, viện giao đối; người khác còn phải trả tiếp | Không chốt số người cuối, mọi người đã an toàn hoặc nguồn quản/sửa nhà. |
+| Chấp sự nhận lời về quản/sửa nhà | Nhận cho người hỏi tên người trông coi/nơi có giấy theo lời Tô Thanh Ly | Chưa tên, giấy đã lấy hoặc kết luận lỗi; không tự đồng nhất với mọi chấp sự trong tuyến thuốc. |
+| Người gửi tin nhận phần nhờ Tô Tín | Nhận chuyển phần thử nền bị mưa ngăn tới người phụ trách | Không bằng chứng đã chuyển tới nơi, kết quả thử hoặc phép vào hầm. |
+| Người giữ hàng chờ khám/người tới viện | Dẫn Lưu Định đúng hàng, nhận xin thăm sau khám khi được phép; một số người còn hỏi Mạnh Thanh Tễ | Không phải đã khám/thăm hoặc toàn dân biết tin, không hứa đủ thuốc/miễn toàn bộ phí. |
+
+Lưu Định có hồ sơ chính CHAR-036, nhận diện trực tiếp nối Ch49; không tạo phu xe vô danh trùng người. Người nhà Mạnh Thanh Tễ vẫn chưa rõ, nguồn liên hệ đang được tìm, không kết luận ông không có thân nhân. Khương Tố Nương và Hồ Nhuận Chi dùng hai hồ sơ chính đã có; người cứu/người còn thiếu ngoài nhà vẫn giữ từng vai chưa nhận diện.
+
+Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]], [[Chương 49]], [[Lưu Định]].

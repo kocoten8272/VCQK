@@ -16,8 +16,9 @@ used_in_chapters:
   - 57
   - 58
   - 59
+  - 60
 created: 2026-10-08
-updated: 2026-10-13
+updated: 2026-10-15
 tags:
   - nhan-qua
   - cai-gia
@@ -27,7 +28,7 @@ tags:
 
 # PAT-001-Giới Hạn Làm Thay Đổi Lựa Chọn
 
-> Mẫu kỹ thuật do người viết thiết kế cho VCQK từ [[REF-001-Nguồn Về Sinh Tồn Và Giới Hạn]]. `ready` nghĩa là dùng được để lập cảnh; đã áp dụng có phạm vi ở bản thảo Chương 55–59.
+> Mẫu kỹ thuật do người viết thiết kế cho VCQK từ [[REF-001-Nguồn Về Sinh Tồn Và Giới Hạn]]. `ready` nghĩa là dùng được để lập cảnh; đã áp dụng có phạm vi ở bản thảo Chương 55–60.
 
 ## Vấn đề cần xử lý
 
@@ -109,3 +110,9 @@ Chi tiết tham khảo/phạm vi nguồn và kiểm cục bộ tại [[LOG-005-�
 Tay thương/năng lực giới hạn khiến Lâm Uyên không vào nhấc gỗ; theo cáng cần tới viện dù muốn chờ thầy. Tô Thanh Ly giữ đường bằng người có sức rồi trở về. Viện có người có nghề nhưng chưa thể cho người học việc câu về ngày mai; giới hạn đổi từ công việc sang quan hệ phụ thuộc. Mạnh Thanh Tễ còn sống/trọng thương cuối59, không dùng mẫu để chốt cái chết chưa viết.
 
 Tra [[LOG-006-Áp Dụng Kỹ Thuật Trong Chương 59]] và [[REF-004-Nguồn Về Mất Mát Và Hậu Quả Nhân Vật]]. SEED-001/002 vẫn chưa dùng; không có phản hồi độc giả hoặc bảo đảm hiệu quả cho mọi cảnh.
+
+## Lần áp dụng tại bản thảo Chương 60
+
+Người học việc không có một kỹ thuật để cứu thay y sư, dù muốn câu trả lời cuối chưa đúng. Sau cái chết, người có nghề nhận việc, Lâm Uyên chỉ giữ thẻ/tên/chờ kiểm và nghỉ tay; Tô Thanh Ly gọi người lành nâng. Giới hạn không được xóa bằng tình cảm hoặc trao sổ.
+
+Tra [[LOG-007-Áp Dụng Kỹ Thuật Trong Chương 60]]. Đây là sử dụng có phạm vi, không quy tắc bắt mọi cảnh buồn phải cùng nhịp. SEED-001/002 tiếp chưa dùng; không đo được phản ứng độc giả.

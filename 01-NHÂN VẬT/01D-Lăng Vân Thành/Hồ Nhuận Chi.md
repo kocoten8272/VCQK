@@ -5,7 +5,7 @@ importance-tier: C
 vai-tro: nhan-vat-phu
 status: da-xuat-hien
 created: 2026-10-13
-updated: 2026-10-13
+updated: 2026-10-15
 tags:
   - nhan-vat
   - nam-pho
@@ -70,3 +70,11 @@ Người Lâm Uyên phải đưa thông tin về viện trong lúc thầy bị g
 Tra việc chữa trị/chỗ ở/giỏ khi dùng tiếp. Cảnh sau phải có nguồn mới để xác nhận hồi phục, nhận lại đồ hoặc góp lời về công trình; không tự cho bà biết nguyên nhân sập.
 
 [[Chương 58]] · [[Chương 59]] · [[Trạng Thái Truyện Sau Chương 59]] · [[Nhà Trú Tạm Ven Nam Phố]] · [[Nhân Vật Chưa Rõ Tên — Sổ Theo Dõi]]
+## Trạng thái mới theo bản thảo Chương 60
+
+- Đêm ngày thứ mười ba còn nằm ở gian trong Tế Sinh Viện, cần người có nghề theo dõi hơi thở. Được báo tin Mạnh Thanh Tễ đã mất; hỏi người đã đưa mình ra có còn ở viện không, muốn gửi lời tới họ nhưng phải dừng để lấy hơi.
+- Qua người trực biết người cứu còn làm ngoài nhà, Mạnh Thanh Tễ đã được chuyển sang gian yên. Không trực tiếp thấy lúc mất hoặc toàn bộ việc cứu ông.
+- Chiếc giỏ áo vẫn do người trực giữ, chưa đưa lên giường hoặc có cảnh nhận trả lại. Lời nhờ gửi chưa có cảnh người cứu đã nhận; không ghi thành món nợ được trả.
+- Rạng ngày thứ mười bốn vẫn cần y sư. Chưa khỏi, xuất viện hoặc có kết quả mới về chỗ ở/đồ nghề; không tự hiểu nguyên nhân nhà trú sập.
+
+Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]].

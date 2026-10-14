@@ -107,3 +107,17 @@ Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]], [[Tề Duy
 - Vụ sụp chưa xác lập chủ sở hữu/bảo trì/Bùi Gia có tội hoặc tổ chức gây nạn. Điểm cuối ở viện không kết thúc cứu ở Nam Phố.
 
 Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhuận Chi]].
+
+## Phạm vi nghề nghiệp và quyền hạn Chương 60
+
+- **Tế Sinh Viện:** viện chủ/y sư tiếp cứu Mạnh Thanh Tễ rồi xác nhận mất trong đêm ngày 13; chuyển thi thể tới gian yên trong viện, giao người trực giữ riêng đồ và tìm nguồn báo thân nhân. Chưa có tang, chôn cất, giao di sản hoặc quyền của Lâm Uyên đối với đồ người mất.
+- **Chăm bệnh sau mất mát:** y sư/giám dược khác nhận phần việc, tiếp Khương Tố Nương, Hồ Nhuận Chi và người tới khám. Lâm Uyên chỉ ghi/giữ thẻ được giao, chờ kiểm, không tự chọn thuốc hoặc quyết sức lao động của Lưu Định.
+- **Chấp sự tại viện:** giữ lối/việc đi lại, không cho Lâm Uyên tự ra phố giữa đêm; nhận lời Tô Thanh Ly nhờ giữ tên người trông nhà và nơi có giấy quản/sửa. Đây là nhận việc hỏi nguồn, chưa lệnh kết tội, hồ sơ đã thu hoặc bằng chứng trách nhiệm Bùi Gia.
+- **Tuyến Tông Sảnh/Hòa Sinh:** không có người mua, lời Trần Dực hoặc kết quả mẫu mới trong Ch60. Chấp sự nghe yêu cầu về nhà trú không làm các tuyến thuốc/chìa/cứu trợ thành cùng vụ đã chứng minh.
+- **Hắc Phong Sơn:** Tô Tín nhờ người gửi tin chuyển phần đã không làm được vì mưa tới người phụ trách; vẫn ở viện với nạng. Chưa báo kết quả thử, lệnh vào hầm, thu Tô Lạc hoặc miếng đồng.
+- **Dân sinh:** Lưu Định, Khương Tố Nương/con, Hồ Nhuận Chi còn nhu cầu khám, theo dõi và sinh kế/chỗ ở. Không tự xếp họ vào thế lực hoặc cho quan hệ được cứu tạo nghĩa vụ gia nhập.
+- **Giới hạn nhân vật:** tay phải Lâm Uyên và Tô Thanh Ly đã thay băng khô từ Ch59 nhưng còn thương; không tăng tu vi, lấy lại kiếm, gỡ bảo chứng/quản thúc hoặc đổi Dược Khế 7/4 tháng.
+
+Sự tiếp việc của viện là hoạt động của những người có chức trách cụ thể, không chứng minh toàn cơ sở biết hết các bí mật hoặc toàn thành đã nghe tin. Cứu hộ/chỗ ở và đối tên ngoài Nam Phố còn việc chưa xong; chưa quy mạng thuốc, Hắc Nha, người áo đen hoặc Tả Tiên Sinh gây nạn.
+
+Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]], [[Lưu Định]].

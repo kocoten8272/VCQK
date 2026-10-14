@@ -64,3 +64,14 @@ Tiếp việc đưa người ra, kiểm nguy cơ ở mái còn treo và đối d
 - Nguyên nhân kết cấu/sở hữu/bảo trì/trách nhiệm chưa xác định; không quy một gia tộc/mạng bí mật vì địa điểm hoặc kế hoạch sau này.
 
 Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhuận Chi]].
+
+## Hậu quả theo bản thảo Chương 60
+
+- Tại viện, Mạnh Thanh Tễ được y sư/viện chủ cứu tiếp rồi xác nhận mất trong đêm ngày13; thi thể sang gian yên trong viện. Không thêm một vụ sập/thương tích mới ở nhà hoặc cho ông chết từ58/59.
+- Thông tin từ các lối cứu vẫn về viện để đối; chưa danh sách cuối/mọi người được tìm. Người mất chỗ ở còn chờ, chưa tái thiết/giải quyết chỗ trú.
+- Tô Thanh Ly nhờ giữ người trông coi và tìm nơi có giấy quản/lần sửa, chấp sự nhận tìm. Quyền quản/chủ sở hữu/bảo trì/nguyên nhân/thiệt hại cuối còn UNKNOWN; không nhập trách nhiệm của Bùi Gia hoặc một mạng bí mật.
+- Khương Tố Nương/con và Hồ Nhuận Chi nghe tin, vẫn ở viện cần chăm. Giỏ áo còn người trực giữ; gói kim chưa lấy, không coi đã thu mọi tài sản.
+- Lưu Định tới viện sáng14 theo nhu cầu xem cổ tay, không là nhân chứng vụ nhà sập. Không dùng người mới nghe tin làm người biết nguyên nhân công trình.
+- Lâm Uyên tiếp việc thẻ nhẹ dưới người có nghề, không nhận quyền chữa bệnh hoặc di sản do cứu trợ. Hậu quả người/chỗ ở/thuốc còn tiếp ở Chương61.
+
+Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]], [[Mạnh Thanh Tễ]], [[Nam Phố]].

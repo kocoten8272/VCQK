@@ -124,3 +124,15 @@ ID Lâm Uyên trong bảng nền đã sửa về CHAR-005 theo [[02-SỔ CÁI NH
 - **Phần tiếp:** Nối đêm viện/cứu Mạnh Thanh Tễ và việc nhận các cáng; giữ công việc người sống, nguy cơ/chỗ ở ở Nam Phố. Chưa lời thề báo thù, di sản hoặc thuốc đảo sinh tử.
 
 Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhuận Chi]].
+
+## Tiến triển theo bản thảo Chương 60
+
+- **Mốc mất mát:** nối ngay gian cứu cuối Ch59; trong đêm ngày 13 viện chủ xác nhận Mạnh Thanh Tễ đã mất sau y sư tiếp cứu. Thi thể chuyển tới gian yên trong viện, đồ giữ riêng bởi người trực, thân nhân đang tìm nguồn để báo. Không hồi tố cái chết vào Ch58–59, chưa tang/chôn cất/di sản hoặc cơ chế linh hồn.
+- **Lâm Uyên:** ở cạnh thầy, hỏi còn cách cứu, lau bụi dưới sự cho phép, khóc và nhiều lần quay theo thói quen tìm lời chỉ. Rạng ngày 14 xin làm phần nhẹ nhưng còn đau tay phải dưới băng khô; chỉ ghi/giữ thẻ bằng tay trái, tự dừng đợi người có nghề kiểm. Chưa học xong, nỗi đau chưa được giải bằng công việc, lời thề hoặc tăng tu vi.
+- **Tô Thanh Ly:** ở lại, đưa nước/vải/ghế, không ép hắn quên bằng việc làm. Tay phải thương, dùng tay trái/gọi người khỏe. Nhờ giữ nguồn về người quản/sửa nhà, chấp sự mới nhận hỏi; chưa thu giấy, biết nguyên nhân hoặc quy trách nhiệm.
+- **Người được cứu:** Khương Tố Nương/con và Hồ Nhuận Chi biết tin nhưng vẫn cần chăm. Trẻ sáu tuổi chưa tên/giới tính, không tự gán mất cha hoặc mồ côi. Người ở các lối nhà trú còn cần đối, không khép cứu hộ/chỗ ở vì thầy mất.
+- **Lưu Định trở lại:** rạng ngày 14 mang giấy trạm cũ, tự kể đã tới trạm/được hướng về viện, hỏi bao giờ nhận chuyến nặng. Lâm Uyên báo tin; anh theo hàng khám và xin thăm khi được phép. Chưa kết quả khám, thăm thực tế, miễn phí hoặc hồi phục khả năng kéo xe.
+- **Tô Tín/HFS:** còn nạng/viện, giao lời nhờ giữ cả phần bị mưa ngăn cho người gửi tin chuyển tới người phụ trách. Tô Lạc còn trên sơ đồ; chưa kết quả thử/lệnh vào/thu thi thể hoặc đồng.
+- **Mạch còn mở:** Hòa Sinh/người đặt/nguồn tiền, mẫu vón, chìa/trang và các mạng giữ riêng. Phần kế cần nối việc báo người thân, chăm bệnh và trách nhiệm/chỗ ở từ nguồn có thật; chưa dùng mất mát làm đáp án âm mưu hoặc trao năng lực vượt học nghề.
+
+Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]], [[Chương 49]], [[Lưu Định]].

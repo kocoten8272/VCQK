@@ -87,3 +87,13 @@ tags:
 - Không xác định mưa là toàn nguyên nhân, Bùi Gia gây sập, mạng thuốc/nhóm áo đen can thiệp. Chưa bản đồ/chủ quản mới.
 
 Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhuận Chi]].
+
+## Hậu quả theo bản thảo Chương 60
+
+- Mạnh Thanh Tễ qua đời trong đêm ngày13 tại viện sau thương tích/cứu chữa; tin chỉ tới người trong viện/những người được báo. Không tự cho toàn thành/các phe biết.
+- Người từ nhà trú đem thêm phần chuyển/nhận; viện còn đối từng lối, có người nhà chưa tìm nhau. Góc hiên cho chờ, chưa tổng số thương vong hoặc chỗ ở sau nạn.
+- Tô Thanh Ly nhờ giữ tên người trông coi/hỏi nơi có giấy quản và các lần sửa, chấp sự nhận cho người hỏi. Chưa nhận giấy/có chứng cứ lỗi hoặc xác định Bùi Gia/mạng thuốc đứng sau.
+- Người có nghề nhận công việc dược của Mạnh Thanh Tễ; bệnh nhân còn cần chăm, không trao trách nhiệm cho người học việc. Đây là hậu quả dân sinh, không lời giải Hắc Nha/Hòa Sinh/chìa.
+- Mưa ngừng một quãng sáng14, không xác nhận hết mùa lũ/toàn vùng an toàn hoặc dựng xong nhà trú. Hai gỗ viện vẫn không được đưa ra đây.
+
+Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]], [[Nhà Trú Tạm Ven Nam Phố]].

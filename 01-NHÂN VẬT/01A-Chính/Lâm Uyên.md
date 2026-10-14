@@ -32,7 +32,7 @@ tags:
 
 ## Sự kiện chính
 
-1. **Chương 1:** Đào mộ cha, phát hiện [[Hắc Quan]] chứa thi thể giống hệt mình, dòng chữ *"đã chết lần thứ chín"*; trải nghiệm những mảnh hình ảnh về [[Vĩnh Sinh Môn]] (không xác nhận là ký ức đời thứ chín; theo canon, Lâm không thừa hưởng ký ức ấy); mất [[Chiếc Nhẫn Bạc|nhẫn bạc]] của cha.
+1. **Chương 1:** Đào mộ cha, phát hiện [[Hắc Quan]] chứa thi thể giống hệt mình, dòng chữ *"đã chết lần thứ chín"*; trải nghiệm những mảnh hình ảnh về [[Vĩnh Sinh Môn]] (không xác nhận là ký ức đời thứ chín; theo canon, Lâm Uyên không thừa hưởng ký ức ấy); mất [[Chiếc Nhẫn Bạc|nhẫn bạc]] của cha.
 2. **Chương 2:** Lấy [[Ngọc Giản Quy Khư|ngọc giản Quy Khư]], tiếp nhận **Đệ nhất thức: [[Nạp Vô]]**.
 3. **Chương 3:** Gặp [[Tô Thanh Ly]], kể lại toàn bộ chuyện đào mộ; được đưa về [[Lăng Vân Thành]].
 4. **Chương 4:** Trên đường đi bị [[Người Áo Đen]] tập kích; lần đầu vận hành Nạp Vô, hút cạn linh khí trong xe.
@@ -54,7 +54,7 @@ tags:
 
 ## Trạng thái cập nhật đến hết Chương 52
 
-- Rời Hắc Phong Sơn cùng Thanh Ly, Tô Trạch và những người sống sót. Tô Tín được cứu; Tô Lạc đã chết và thi thể còn dưới phế tích.
+- Rời Hắc Phong Sơn cùng Tô Thanh Ly, Tô Trạch và những người sống sót. Tô Tín được cứu; Tô Lạc đã chết và thi thể còn dưới phế tích.
 - Ở Chương 52, Lâm Uyên trở về Tế Sinh Viện sau chuyến giao thuốc bù tới trạm xóm lò ngói. Việc giao thuốc đã được xác nhận bằng cân, biên nhận và chữ ký; khoản chăm đứa trẻ chuyển viện vẫn chờ quyết toán.
 - Tay phải còn bỏng; chỗ bị kéo căng đỏ hơn sau chuyến đi. Viện chủ dặn ngày kế tiếp không giữ dây hoặc nâng vật nặng. Lâm Uyên dùng tay trái ghi và tiếp tục nhận lỗi khi ghi thiếu chi tiết.
 - Dược Khế hiện vẫn ở mức bảy tháng nguyệt lệ nếu các khoản trước không đổi; Chương 51–52 không ghi khoản tăng mới. Nghĩa vụ mua bù thuốc cho trạm đã hoàn tất, cần giữ riêng với khoản Dược Khế.
@@ -64,13 +64,13 @@ tags:
 
 ## Hướng phát triển đã duyệt
 
-Lâm cần lựa chọn cách chia sức, thời gian và tài nguyên giữa học nghề, chữa thương, đưa người chết về và điều tra. Kết quả phải làm thay đổi đời sống của những người liên quan. Sự khác biệt Nạp Vô được đối chiếu với [[Tu Hành Ba Cảnh Giới Đầu]], không thay kỹ năng đã học.
+Lâm Uyên cần lựa chọn cách chia sức, thời gian và tài nguyên giữa học nghề, chữa thương, đưa người chết về và điều tra. Kết quả phải làm thay đổi đời sống của những người liên quan. Sự khác biệt Nạp Vô được đối chiếu với [[Tu Hành Ba Cảnh Giới Đầu]], không thay kỹ năng đã học.
 
 **Mong muốn cả đời đã chốt:** có một nơi để trở về, nơi những người hắn thương được sống tiếp cuộc đời của họ. Tên hướng phát triển: **Giữ một chốn trở về**.
 
 Ước mơ cụ thể để gieo là một gian nhà có sân phơi thuốc, bàn dưới mái và chỗ đón người quen; hiện hắn chưa có nhà hoặc đủ nghề tự nuôi mình. Niềm tin “đủ mạnh thì không mất thêm ai” có thể khiến hắn bảo vệ quá mức. Sự trưởng thành là học bảo vệ mà vẫn tôn trọng quyền chọn ở hay đi của người khác.
 
-Các chặng, cách gieo và giới hạn: [[Mong Muốn Cả Đời Lâm Uyên - Giữ Một Chốn Trở Về]]. Đây là hướng đã duyệt cho chương tương lai, chưa phải lời Lâm đã nói; kết cục vẫn mở.
+Các chặng, cách gieo và giới hạn: [[Mong Muốn Cả Đời Lâm Uyên - Giữ Một Chốn Trở Về]]. Đây là hướng đã duyệt cho chương tương lai, chưa phải lời Lâm Uyên đã nói; kết cục vẫn mở.
 
 Nguồn trạng thái: [[Chương 43]], [[Chương 50]], [[Chương 51]], [[Chương 52]], [[Trạng Thái Truyện Sau Chương 52]].
 
@@ -153,3 +153,15 @@ Nguồn trạng thái: [[Chương 43]], [[Chương 50]], [[Chương 51]], [[Chư
 - Nhận ra việc hợp lý vẫn không xóa nỗi sợ cho thầy; đây là phản ứng bản thảo, không kết luận đã từ bỏ hoặc gây tai nạn. Tình trạng thật Lâm Chinh vẫn UNKNOWN.
 
 Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhuận Chi]].
+## Trạng thái mới theo bản thảo Chương 60
+
+- Đêm ngày thứ mười ba tại Tế Sinh Viện, tiếp tục giao vải sạch/nước theo người phụ giúp gọi và chừa cửa cứu. Chỉ vào ngồi cạnh Mạnh Thanh Tễ khi viện chủ cho phép; không tự đổi cách cứu hoặc yêu cầu dùng một thuốc mình chưa biết.
+- Trực tiếp nghe viện chủ xác nhận Mạnh Thanh Tễ đã mất sau khi viện chủ/y sư tiếp tục cứu và kiểm lại. Chạm bàn tay, lau phần bụi còn bên tóc bằng tay trái theo phép của người có nghề; khóc, chưa chấp nhận được việc những câu hỏi dành cho thầy không còn được đáp.
+- Đi sau người có sức chuyển thầy tới gian yên trong viện. Không khiêng, không nhận sổ/túi thuốc làm di sản, chưa biết thân nhân hoặc việc lo tang; chưa có chôn cất hay tang lễ hoàn chỉnh.
+- Tay phải vẫn đau dưới băng khô đã thay ở Chương 59, tay trái còn run/mỏi; không có hồi phục, vận lực hoặc tu vi mới. Dược Khế vẫn bảy tháng, không có khoản điều chỉnh trong chương.
+- Trong đêm chỉ hộ nơi giữ thẻ từng ghi cho giám dược khác tự kiểm. Rạng ngày thứ mười bốn được y sư xem tay trước khi nhận phần nhẹ: hỏi đủ tên người nhận, giữ/ghi thẻ bằng tay trái, chờ người có nghề kiểm. Chưa tự chọn thuốc, cân, phối hoặc chẩn trị.
+- Gặp lại Lưu Định tới khám cổ tay. Nghe anh tự nói đã tới trạm theo giấy và được bảo tới viện xem lại; trực tiếp báo Mạnh Thanh Tễ mất và kể phần cứu trợ mình biết. Không xác nhận anh đã lành hoặc được nhận chuyến nặng.
+- Nghe Tô Thanh Ly nhờ giữ nguồn về người quản/những lần sửa nhà trú; chưa biết nguyên nhân sập hay người chịu trách nhiệm. Việc đưa Tô Lạc về vẫn chưa xong; không dùng cái chết của thầy để quy tội Bùi Gia, mạng thuốc hoặc nối hai phe.
+- Cuối chương ở gian thuốc, làm từng phần nhẹ dưới người giám dược mới trong khi còn đau buồn. Việc phụ giúp không có nghĩa đã vượt qua mất mát hay nhận toàn bộ nghề của thầy. Tình trạng thật của Lâm Chinh vẫn UNKNOWN.
+
+Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]].

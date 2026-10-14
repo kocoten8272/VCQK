@@ -159,3 +159,19 @@ Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]], [[Nhà Tr�
 Nỗi sợ mới là người hướng dẫn không trả lời rõ trong gian cứu. Đây là hậu quả quan hệ, không thêm bí ẩn cấp thế giới, không cho đau buồn thức tỉnh sức mạnh hoặc tiên tri cái chết.
 
 Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhuận Chi]].
+
+## Tiến triển theo bản thảo Chương 60
+
+| Đầu mối/hứa | Phần được trả trong chương | Còn mở và giới hạn |
+| --- | --- | --- |
+| Mạnh Thanh Tễ ở gian cứu cuối59 | Nối đêm ngày 13, y sư tiếp làm rồi viện chủ xác nhận mất; Lâm Uyên ở cạnh, thi thể chuyển tới gian yên | Kết cục đã có trong bản thảo60, không hồi tố58–59. Thân nhân/tin báo/tang/di sản chưa xác lập, không cơ chế phục sinh hoặc phần thưởng tu vi. |
+| Lâm Uyên học thuốc chưa xong | Trực tiếp nhớ lỗi quấn băng Ch49, quay hỏi theo thói quen; được người giám dược khác giao thẻ và kiểm | Khả năng học tiếp còn mở; chưa thành y sư/kê thuốc hoặc nhận tài sản thầy. Công việc không xóa nỗi đau tức thì. |
+| Người được cứu phải sống tiếp thế nào | Khương Tố Nương/con, Hồ Nhuận Chi được báo tin và tiếp chăm; Lưu Định trở lại hỏi khả năng nhận chuyến nặng | Chưa khỏi thương/chỗ ở/kết quả khám/sinh kế cuối. Lưu Định tự kể đã tới trạm; xin thăm chưa thành cảnh đã thăm. |
+| Trách nhiệm nhà trú | Tô Thanh Ly nhờ giữ tên người trông nhà, nơi có giấy quản/sửa; chấp sự nhận cho người hỏi | Mới mở đường giữ nguồn, chưa nhận giấy, chỉ rõ chủ quản/nguyên nhân/người có lỗi, chưa chứng minh Bùi Gia hoặc mạng thuốc. |
+| Đối người tại các lối nhà trú | Gần sáng viện nhận thêm phần ghi người đã chuyển, giữ chỗ chờ người nhà | Phần một lối không chốt tất cả người hoặc việc tìm cha của trẻ Ch58; cứu hộ/chỗ ở chưa khép. |
+| HFS/Tô Lạc | Người gửi tin nhận lời nhờ giữ cả phần bị mưa ngăn, chuyển qua người phụ trách | Chưa kết quả thử/lệnh vào hầm/thu thi thể hoặc đồng; Tô Tín còn nạng/viện. |
+| Hòa Sinh/người đặt, chìa/trang | Không có chứng từ/lời mới trong60 | Giữ tiến triển cục bộ58–59 và các phần chưa giải riêng; cái chết không là chứng cứ nối Hắc Nha/Người Áo Đen/Tả Tiên Sinh hoặc các thế lực. |
+
+Tin mất đến từng người trong phạm vi cảnh, không tự ghi toàn thành đã biết. Vệt màu thuốc/ngón tay, câu hỏi còn dở và chỗ ngồi trống là hậu quả ký ức/quan hệ, không manh mối của linh hồn hoặc bí ẩn cấp thế giới mới.
+
+Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]], [[Chương 49]], [[Lưu Định]].

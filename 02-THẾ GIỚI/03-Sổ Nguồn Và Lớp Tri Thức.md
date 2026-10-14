@@ -134,3 +134,20 @@ Chỉ đối nguồn liên quan chương mới; số lượng nguồn của snap
 Chỉ đối nguồn chương này, không nhận quét lại toàn kho. Giữ sinh tử thật Lâm Chinh UNKNOWN, các mạng riêng và tài liệu nền được bảo vệ.
 
 Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhuận Chi]].
+
+## Đối chiếu có phạm vi sau Chương 60 — 2026-10-15
+
+| Mệnh đề | Lớp nguồn | Giới hạn |
+| --- | --- | --- |
+| Mạnh Thanh Tễ mất trong đêm ngày13 | DRAFT TEXT60: y sư tiếp cứu, viện chủ xác nhận trực tiếp trước Lâm Uyên, sau chuyển thi thể tới gian yên | Kết cục60 khác trạng thái còn sống58–59; không mô tả chết từ lúc cứu nhà, không xác lập quy luật linh hồn/phục sinh. |
+| Đồ/thân nhân của Mạnh Thanh Tễ | DRAFT TEXT60: viện giao người trực giữ đồ, tìm nguồn hồ sơ để báo | Chưa thân nhân/tang/chôn cất hoặc trao di sản. Chưa biết người nhà không có nghĩa ông không có gia đình. |
+| Lâm Uyên học tiếp phần nhẹ rạng14 | DRAFT TEXT60: nhớ lỗi Ch49, nói phần chưa học, giữ/ghi thẻ, chờ người giám dược kiểm | Không tự phối/cân/chọn thuốc hoặc tăng tu vi; tay phải còn đau dưới băng khô đã thay59. Dược Khế/quản thúc giữ. |
+| Lưu Định trở lại viện rạng14 | DRAFT TEXT60: nhận diện nối phu xe Ch49, cổ tay còn quấn/giấy cũ, hỏi chuyến nặng | Việc đến trạm/được hướng về viện là lời Lưu Định, chưa nguồn trạm độc lập hoặc kết quả khám; xin thăm chưa thành đã thăm. |
+| Khương Tố Nương/con, Hồ Nhuận Chi được báo và tiếp chăm | DRAFT TEXT60: lời/cảnh tại viện | Chưa khỏi thương/chỗ ở mới; trẻ sáu tuổi chưa tên/giới tính, hai người lớn/gia đình không nhập nhau. |
+| Tô Thanh Ly nhờ giữ nguồn quản/sửa nhà trú | DRAFT TEXT60: lời nhờ/chấp sự nhận việc hỏi | Chưa thu giấy/biết nguyên nhân/chủ quản hoặc quy trách nhiệm Bùi Gia/mạng thuốc; mưa và cái chết không thay bằng chứng. |
+| Phần người chuyển tại nhà trú | DRAFT TEXT60: người mang phần ghi theo lối mình làm, viện đối và giữ nơi chờ người nhà | Chưa tổng số/khép người còn thiếu, không mọi người đã được viện nhận/chữa khỏi. |
+| Tô Tín giao lời nhờ qua người gửi tin | DRAFT TEXT60: trực tiếp tại viện/gần sáng, nhắc phần không làm được vì mưa | Chưa chuyển tới nơi/kết quả thử/lệnh vào hoặc thu Tô Lạc/miếng đồng; không tri thức trực tiếp núi. |
+
+Chỉ đối các nguồn liên quan Ch60 và cảnh Lưu Định Ch49, không nhận quét lại toàn repository hoặc đổi nhãn mọi chương thành canon nền. Tình trạng thật Lâm Chinh vẫn UNKNOWN theo chỉ thị tác giả; những mạng ẩn danh/tuyến Hòa Sinh, chìa/trang, Hắc Nha/Cổ Sử giữ riêng. Các tài liệu nền được bảo vệ không sửa trong cập nhật này.
+
+Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]], [[Chương 49]], [[Lưu Định]].

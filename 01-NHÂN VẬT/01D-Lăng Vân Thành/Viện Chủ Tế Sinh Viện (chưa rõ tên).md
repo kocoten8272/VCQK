@@ -12,7 +12,7 @@ tags:
 
 # Viện Chủ Tế Sinh Viện (chưa rõ tên)
 
-> Chức danh của người đứng đầu Tế Sinh Viện. Tên riêng chưa được nêu trong bản thảo đến hết Chương 52; không tự đặt tên hoặc chốt giới tính nếu chưa có bằng chứng.
+> Chức danh của người đứng đầu Tế Sinh Viện. Tên riêng chưa được nêu trong bản thảo đến hết Chương 60; không tự đặt tên hoặc chốt giới tính nếu chưa có bằng chứng.
 
 ## Thông tin đã xác nhận
 
@@ -54,3 +54,13 @@ tags:
 - Tên thật/giới tính/tu vi chưa được xác lập. Không gộp mọi người trực/y sư/chấp sự vào cùng người hoặc xóa quyền của cơ quan khác.
 
 Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]].
+## Trạng thái mới theo bản thảo Chương 60
+
+- Đêm ngày thứ mười ba cùng y sư tiếp tục cứu Mạnh Thanh Tễ, hỏi tin người theo cáng, đổi phần chăm và kiểm lại; không chỉ bỏ cuộc ngay từ lúc nhận. Sau lượt cứu trực tiếp xác nhận Mạnh Thanh Tễ đã mất với Lâm Uyên.
+- Cho người học việc ngồi cạnh/chạm tay khi phù hợp, nhắc không kéo tay và nhường chỗ lúc người có nghề làm. Không giao hắn chẩn đoán, thuốc mới hoặc trách nhiệm cứu thay y sư.
+- Sau khi mất, cho người có sức chuyển Mạnh Thanh Tễ sang gian yên trong viện, giữ riêng đồ và tìm trong hồ sơ người cần được báo. Chưa xác định thân nhân, bàn giao di sản, lo đủ tang hoặc chôn cất.
+- Tiếp tục xem người ở gian khác, phân y sư/giám dược/người trực nhận việc chuyên môn và giữ sổ; tin tang không khiến bệnh nhân phải chờ hết mới được chăm. Giám dược khác tự kiểm thẻ Lâm Uyên chỉ/ghi, không để người học việc tự chọn/cân/phối thuốc.
+- Gần sáng nhận phần ghi những người đã chuyển từ nhà trú, giao đối tại chỗ giữ sổ để y sư không bỏ bệnh nhân. Nguồn từng lối còn giới hạn; chưa xác nhận tổng số người được cứu/mất/tất cả người còn thiếu.
+- Tên thật, giới tính, tuổi, tu vi và gia đình vẫn UNKNOWN. Không nhận quyền điều tra công trình hoặc giải mạng mua thuốc thay cơ quan liên quan.
+
+Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]].

@@ -109,3 +109,16 @@ Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]]. Ch57 có n
 | Cuối ngày | Tin Tông đã nhận câu hỏi Hòa Sinh; người trực đối bản cáng, Lâm Uyên chờ ngoài gian cứu | Chưa người mua/mẫu vón/lời Trần Dực mới hoặc đối hết mọi người |
 
 Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]]. Không nhảy ngày; bao nguyên liệu trả tối10 vẫn là mốc cũ, thương tay chỉ được xem/thay băng.
+
+## Đêm thứ mười ba đến sáng thứ mười bốn — Chương 60
+
+| Thời điểm | Sự kiện đã viết | Giới hạn |
+| --- | --- | --- |
+| Đêm13 nối gian cứu | Viện chủ/y sư tiếp cứu, Lâm Uyên được ngồi/chạm tay trong giới hạn | Mạnh Thanh Tễ còn phản ứng yếu lúc đầu, không diễn văn trăng trối/thuật mới |
+| Trong đêm13 | Kiểm/gọi lại, viện chủ xác nhận Mạnh Thanh Tễ đã mất | Không hồi tố thành chết58/59; không thêm độc/thủ phạm |
+| Sau báo mất | Lâm Uyên khóc/chạm/lau bụi bằng trái, người khỏe chuyển thi thể tới gian yên; viện giữ đồ/tìm người cần báo | Chưa thân nhân được xác định, tang/chôn hoặc trao sổ/đồ |
+| Trong đêm/gần sáng | Khương Tố Nương/con và Hồ Nhuận Chi nghe tin, tiếp được chăm. Giám dược khác nhận việc thuốc, Lâm Uyên chỉ thẻ/chờ kiểm | Bệnh nhân chưa khỏi, tay người chính băng khô còn thương, không tự kê/cân |
+| Gần sáng | Phần ghi từ nhà tiếp đối, nhờ tìm nguồn quản/sửa được chấp sự nhận; phần nhờ Tô Tín được giao chuyển | Chưa nguồn công trình/người có lỗi/kết quả HFS, không lệnh vào |
+| Rạng/sáng14 | Mưa dứt một quãng, Lưu Định tới xem cổ tay, kể chuyện trạm/giấy49 và được báo chết; Lâm Uyên xin phụ sau y sư xem tay | Chưa kết quả khám/nhận chuyến nặng/thăm thầy; nỗi buồn tiếp, không công pháp/đột phá |
+
+Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]], liên hệ [[Chương 49]]. Không ngày lịch tuyệt đối/giờ chết, không đổi sinh tử thật Lâm Chinh UNKNOWN.

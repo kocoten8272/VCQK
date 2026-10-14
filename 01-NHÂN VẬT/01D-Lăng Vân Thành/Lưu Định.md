@@ -28,14 +28,14 @@ Không lớn tiếng đòi bồi thường hay than đau; ban đầu muốn ti�
 ## Quan hệ và ảnh hưởng
 
 - **[[Mạnh Thanh Tễ]]:** Được ông sơ cứu; nhận giấy giới thiệu đến trạm khám.
-- **[[Lâm Uyên]]:** Để Lâm Uyên quấn lại băng; Lâm Uyên siết quá chặt, rồi sửa sau khi Mạnh chỉ ra dấu hiệu giảm tuần hoàn.
+- **[[Lâm Uyên]]:** Để Lâm Uyên quấn lại băng; Lâm Uyên siết quá chặt, rồi sửa sau khi Mạnh Thanh Tễ chỉ ra dấu hiệu giảm tuần hoàn.
 - **[[Tô Thanh Ly]]:** Nàng hỏi người thuê xe đã ghi nhận thương tích và giờ xảy ra sự việc chưa.
 - **Bà bán nước:** Cho anh chiếc bánh nóng; tên bà chưa được tiết lộ.
 - Trở thành cảnh đời thường cho thấy tác động của việc làm theo ngày, tiền công bị khấu trừ và khả năng tiếp cận chăm sóc.
 
 ## Giới hạn continuity
 
-Xuất hiện ở [[Chương 49]]. Chưa có căn cứ về chủ xe, nguyên nhân xe đổ, việc anh có đến trạm khám hay kết quả chấn thương. Không gắn anh với mạng lưới thuốc hoặc thế lực nào.
+Xuất hiện ở [[Chương 49]] và trở lại trong bản thảo [[Chương 60]]. Chủ xe, nguyên nhân xe đổ và kết quả chấn thương vẫn chưa xác định. Việc tới trạm được anh tự kể ở Chương 60, chưa có cảnh chuyến đi hoặc hồ sơ đối độc lập. Không gắn anh với mạng lưới thuốc hoặc thế lực nào.
 
 ## Liên kết
 
@@ -44,3 +44,12 @@ Xuất hiện ở [[Chương 49]]. Chưa có căn cứ về chủ xe, nguyên nh
 - [[Tô Thanh Ly]]
 - [[Tế Sinh Viện]]
 - [[Lăng Vân Thành]]
+## Trạng thái mới theo bản thảo Chương 60
+
+- Trực tiếp tới Tế Sinh Viện rạng ngày thứ mười bốn sau Hắc Phong Sơn, cổ tay còn quấn, mang mảnh giấy cũ, không dắt xe vào cổng. Nhận lại Lâm Uyên và hỏi Mạnh Thanh Tễ ở gian nào.
+- **Lời tự kể:** Đã tới trạm theo giấy ở Chương 49; phía trạm bảo đến viện xem lại. Đây là nguồn lời anh, không có cảnh hồi tố chuyến tới trạm hoặc hồ sơ mới xác nhận kết quả.
+- Muốn hỏi lúc nào nhận được chuyến nặng; chưa có y sư trả lời về khả năng làm việc, mốc chữa lành hoặc tiền công mới.
+- Nghe Lâm Uyên báo Mạnh Thanh Tễ mất đêm qua và phần cứu trợ nhà trú Nam Phố. Không trực tiếp chứng kiến tai nạn hoặc lượt cứu; không tự nối người thuê xe với mạng thuốc.
+- Theo người giữ hàng tới lượt khám cổ tay, xin tới thăm chỗ đặt thầy sau khám. Người trực nhận đưa khi được phép; chưa có cảnh khám xong, thăm thực tế hoặc tham gia tang lễ.
+
+Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]].

@@ -5,7 +5,7 @@ importance-tier: C
 vai-tro: nhan-vat-phu
 status: da-xuat-hien
 created: 2026-10-09
-updated: 2026-10-09
+updated: 2026-10-15
 tags:
   - nhan-vat
   - nam-pho
@@ -23,7 +23,7 @@ tags:
 - Tự xưng đủ tên khi Lâm Uyên hỏi để ghi chuyển. Tự nói vá áo thuê, ở gian sát sân cùng con, hôm đó chờ thuốc và không ra chợ vì mưa.
 - Chân từng bị kẹt dưới ván; đội cứu đưa ra, Mạnh Thanh Tễ/y sư xem và cho chuyển. Chưa có chẩn đoán gãy xương, thương tật vĩnh viễn hoặc việc đã khỏi.
 - Nhận đứa trẻ áo nâu/vạt vá đỏ là con sau khi người trực đưa tới. Lâm Uyên không tự xác nhận bằng màu áo.
-- Cáng cùng trẻ/người trực đi về viện; chưa có cảnh đến nơi, nhập viện hoặc kết quả chữa trị.
+- Ở mốc Chương 58, cáng cùng trẻ/người trực đi về viện, chưa có cảnh đến nơi. Chương 59 xác nhận viện đã nhận qua tin và cảnh trực tiếp; Chương 60 chân vẫn đau, chưa có kết quả hồi phục.
 - Không là người mẹ của trẻ xóm lò ngói, không là người đàn bà tới lấy thuốc buổi sáng cùng ngày, cũng không là người vá áo còn được báo mắc ở gian sau.
 
 ## Thông tin cơ bản
@@ -38,8 +38,8 @@ tags:
 | Con | Sáu tuổi theo lời mẹ, áo nâu/vạt vá đỏ; tên và giới tính UNKNOWN |
 | Cha mẹ/vợ chồng/thân tộc | UNKNOWN; không tự viết góa phụ hoặc mồ côi |
 | Cảnh giới/chiến lực | UNKNOWN; chưa có nguồn tu hành |
-| Nơi cuối trực tiếp | Trên cáng rời điểm cứu trợ hướng về Tế Sinh Viện, ngày thứ mười ba |
-| Sinh tử/tình trạng | Còn sống, bị thương; chuyển đi chưa đồng nghĩa được chữa khỏi |
+| Nơi cuối trực tiếp | Tế Sinh Viện cùng con, rạng ngày thứ mười bốn trong bản thảo Chương 60 |
+| Sinh tử/tình trạng | Còn sống, chân vẫn đau tại viện; chưa có xác nhận hồi phục hoặc xuất viện |
 
 ## Dấu nhận và biểu hiện đã thấy
 
@@ -59,7 +59,7 @@ Bà hỏi người ở gian cuối sau khi mình được chuyển; lời ấy c
 ## Quan hệ và tri thức
 
 - **Đứa trẻ sáu tuổi:** Mẹ con được nhận trực tiếp, đi cùng lượt. Hồ sơ trẻ vẫn ở sổ vai chưa tên cho tới khi cần phát triển; không tạo tên hoặc giới tính chỉ để đủ bảng.
-- **[[Mạnh Thanh Tễ]] và y sư cứu trợ:** Xem thương tích, quyết chuyển; bà chưa biết ông sắp gặp chuyện gì trong thiết kế tương lai.
+- **[[Mạnh Thanh Tễ]] và y sư cứu trợ:** Xem thương tích, quyết chuyển; ở mốc Chương 58 bà chưa biết biến cố tiếp theo; trong bản thảo Chương 60 được người trực báo ông đã mất.
 - **[[Lâm Uyên]]:** Hỏi tên, nhờ đối con, ghi nơi chuyển và người đi cùng. Bà biết một người đang giúp ở điểm cáng, không biết thân thế/công pháp.
 - **Người ở gian cuối:** Nhắc vị trí cần tìm; người trông nhà/đội cứu đối tiếp. Chưa xác nhận quan hệ bạn bè hoặc có ai tử vong.
 - **[[Tô Thanh Ly]]:** Cùng hiện trường nhưng chưa có lời đối trực tiếp riêng với bà; không tự tạo thân tình từ việc đường cáng được mở.
@@ -81,3 +81,11 @@ Chương kế chỉ được ghi kết quả khi viện nhận/khám có cảnh 
 - Bà còn sống, tại viện với con sáu tuổi; tên/giới tính trẻ/gia đình khác và kết quả trị vẫn chưa nêu.
 
 Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhuận Chi]].
+## Trạng thái mới theo bản thảo Chương 60
+
+- Đêm ngày thứ mười ba trực tiếp ở gian bệnh trong Tế Sinh Viện với con sáu tuổi, được người trực báo rõ Mạnh Thanh Tễ đã mất. Nói lại với con khi trẻ hỏi người xem chân mẹ có còn tới; không để tin tang làm gián đoạn chăm thương tích.
+- Chân vẫn đau, nhờ y sư chỉnh phần kê; chưa có xác nhận gãy xương, đã khỏi, tự đi hoặc xuất viện.
+- Đứa trẻ giữ mẩu dây đứt, về sau ngủ sát mẹ; tên và giới tính vẫn UNKNOWN. Không gắn thêm cha/vợ chồng/thân tộc hoặc một cái chết người nhà.
+- Cuối chương mẹ con còn tại viện. Nhu cầu chữa trị/chỗ ở sau sập còn mở; không có xác nhận hồi phục sinh kế hoặc đã về nhà.
+
+Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]].

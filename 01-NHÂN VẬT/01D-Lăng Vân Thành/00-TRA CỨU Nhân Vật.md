@@ -16,8 +16,8 @@ Nhân vật dân sinh, Tế Sinh Viện, Nam Phố và các cơ quan/nhà có ho
 - [Kỷ Hành Chu](K%E1%BB%B7%20H%C3%A0nh%20Chu.md) — `da-xuat-hien` — Lần đầu trực tiếp Chương 55 tại quầy quyết cước Nam Phố; hoàn khoản chênh, thẻ nhận sổ bị giữ trong ngày. Chưa biết người mua cuối.
 
 - [Lão Bán Pháp Khí](L%C3%A3o%20B%C3%A1n%20Ph%C3%A1p%20Kh%C3%AD.md) — `da-xuat-hien` — Chủ quầy pháp khí cũ trong Chợ Tu Hành phía đông Lăng Vân Thành, người bán cho Lâm Uyên thanh đoản đao và bình thuốc cầm máu.
-- [Lưu Định](L%C6%B0u%20%C4%90%E1%BB%8Bnh.md) — `da-xuat-hien` — Phu xe chở thuê bị thương trong lúc xe chở vải đổ nghiêng ở chợ phía tây; người lao động dân thường, không có hồ sơ tu hành.
-- [Mạnh Thanh Tễ](M%E1%BA%A1nh%20Thanh%20T%E1%BB%85.md) — `da-xuat-hien` — Y sư/giám dược tại Tế Sinh Viện, người đang hướng dẫn Lâm Uyên những căn bản về dược liệu và cứu chữa bách tính nghèo. Cuối Chương 59 còn sống nhưng trọng thương sau sụp tiếp, đang được cứu tại Tế Sinh Viện.
+- [Lưu Định](L%C6%B0u%20%C4%90%E1%BB%8Bnh.md) — `da-xuat-hien` — Phu xe chở thuê bị thương trong lúc xe chở vải đổ nghiêng ở chợ phía tây; người lao động dân thường, không có hồ sơ tu hành. Chương 60 sáng14 trực tiếp tới xem cổ tay, tự kể đã tới trạm theo giấy; kết quả khám/khả năng làm/việc thăm còn chưa xác nhận.
+- [Mạnh Thanh Tễ](M%E1%BA%A1nh%20Thanh%20T%E1%BB%85.md) — `da-qua-doi` — Y sư/giám dược tại Tế Sinh Viện, người đã hướng dẫn Lâm Uyên những căn bản về dược liệu và cứu chữa bách tính nghèo. Chương 60 xác nhận qua đời trong đêm13 sau cứu chữa; thi thể ở gian yên viện, đồ chưa bàn giao/tang chưa tổ chức.
 - [Trần Dực](Tr%E1%BA%A7n%20D%E1%BB%B1c.md) — `da-xuat-hien` — Người được nhóm Lâm Uyên gặp trong phế tích ở Chương 40; đến Chương 50 đang chữa trị tại Tế Sinh Viện. Hồ sơ tách lời khai khỏi sự thật đã quan sát.
 - [Tạ Hạnh](T%E1%BA%A1%20H%E1%BA%A1nh.md) — `da-xuat-hien` — Người giữ sổ cân tại một hiệu thuốc ở chợ phía tây; chỉ xuất hiện trong một cuộc đối chiếu chứng từ tính đến hết Chương 52.
 - [Tạ Nghiên Chi](T%E1%BA%A1%20Nghi%C3%AAn%20Chi.md) — `da-xuat-hien` — Thư lại giữ sổ trực dãy phòng Tô Thanh Ly, xuất hiện lần đầu trong Chương 51 khi Tông Sảnh mở hồ sơ sau vụ cháy Tàng Thư Các.
@@ -65,9 +65,9 @@ Nhân vật dân sinh, Tế Sinh Viện, Nam Phố và các cơ quan/nhà có ho
 - [Đinh Bá Nghiêm](%C4%90inh%20B%C3%A1%20Nghi%C3%AAm.md) — `da-xuat-hien` — CHAR-060, hạng C; tên Chương 56, lần đầu trực tiếp Chương 57. Nhận giao phiếu/chép mặt sau; Chương 58 trực tiếp nhận Tề Duy Cẩn là người đọc cho chép, trách nhiệm người mua cuối vẫn chưa được giải. Không có mặt ở hiện trường nhà trú.
 
 
-## Mốc cảnh hiện hành — cuối Chương 59
+## Mốc cảnh hiện hành — cuối Chương 60
 
-Tối ngày thứ mười ba sau Hắc Phong Sơn: Mạnh Thanh Tễ trọng thương/còn thở trong gian cứu Tế Sinh Viện, Lâm Uyên đứng ngoài, Tô Thanh Ly đã trở về cùng tổ chuyển. Khương Tố Nương/con và Hồ Nhuận Chi được nhận ở các gian riêng; Tô Tín còn nạng tại viện. Tạ Nghiên Chi/Đinh Bá Nghiêm/Tề Duy Cẩn không có cảnh mới. Tra [[Trạng Thái Truyện Sau Chương 59]] trước khi viết tiếp.
+Sáng ngày thứ mười bốn tại Tế Sinh Viện: Mạnh Thanh Tễ đã mất trong đêm, thi thể ở gian yên và đồ do viện giữ. Lâm Uyên làm thẻ/tên dưới giám sát người giám dược khác, còn thương và buồn; Tô Thanh Ly hỗ trợ lối/ghế, Tô Tín còn nạng. Khương Tố Nương/con, Hồ Nhuận Chi và Lưu Định tiếp cần người có nghề, chưa được xác nhận khỏi/thăm xong. Tra [[Trạng Thái Truyện Sau Chương 60]] trước khi viết tiếp.
 
 ## Quy ước của thư mục
 

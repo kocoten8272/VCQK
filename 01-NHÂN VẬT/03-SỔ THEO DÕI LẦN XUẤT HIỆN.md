@@ -9,7 +9,7 @@ tags:
 
 # Sổ Theo Dõi Lần Xuất Hiện
 
-> Bảng nền rà soát Chương 1–52; cập nhật Chương 53–58 ở các mục dưới. Mốc “lần cuối” có thể là hậu quả/nhắc lại, không khẳng định người có mặt trong cảnh. Mở hồ sơ nguồn trước khi viết tiếp.
+> Bảng nền rà soát Chương 1–52; cập nhật Chương 53–60 ở các mục dưới. Mốc “lần cuối” có thể là hậu quả/nhắc lại, không khẳng định người có mặt trong cảnh. Mở hồ sơ nguồn trước khi viết tiếp.
 
 ## Đã xuất hiện hoặc được nhận diện
 
@@ -166,3 +166,20 @@ Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]], [[Tề Duy
 Tạ Nghiên Chi, Đinh Bá Nghiêm, Tề Duy Cẩn, Trần Dực không có cảnh trực tiếp mới. Tin Tông chỉ câu hỏi đã nhận, không người mua/lời khai mới. Người già đã ra lối sau được nhận qua người trông nhà/đối gian, không khẳng định toàn bộ người thiếu đã tìm.
 
 Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhuận Chi]].
+
+## Mốc mới theo bản thảo Chương 60
+
+| ID | Nhân vật | Kiểu/mốc | Nơi cuối và giới hạn |
+| --- | --- | --- | --- |
+| CHAR-005 | Lâm Uyên | Trực tiếp, đêm ngày 13 đến rạng ngày 14 | Gian thuốc Tế Sinh Viện; chứng kiến cứu chữa, nghe viện chủ xác nhận Mạnh Thanh Tễ đã mất, được ngồi cạnh thầy. Rạng ngày 14 chỉ ghi/giữ thẻ bằng tay trái dưới người giám dược khác; tay phải còn đau dưới băng khô, chưa tăng tu vi hoặc tự chọn/cân/phối thuốc. |
+| CHAR-006 | Tô Thanh Ly | Trực tiếp tại viện, đêm 13–rạng 14 | Tế Sinh Viện; ở cạnh Lâm Uyên, gọi người khỏe chuyển đồ/giữ lối, tay phải vẫn thương. Nhờ chấp sự giữ nguồn về quản/sửa nhà trú, chưa nhận giấy hoặc kết luận trách nhiệm. |
+| CHAR-037 | Mạnh Thanh Tễ | Trực tiếp trong gian cứu đêm 13; sau là thi thể trong gian yên | Viện chủ xác nhận đã mất sau quá trình y sư tiếp tục cứu; thi thể được chuyển trong viện, đồ do người trực giữ riêng. Chưa có tang, chôn cất, trao di sản hoặc xác định thân nhân. |
+| CHAR-047 | Viện Chủ Tế Sinh Viện (chưa rõ tên) | Trực tiếp | Tế Sinh Viện; cứu/chỉ định công việc, xác nhận Mạnh Thanh Tễ đã mất, giao giữ đồ và tìm người cần báo. Không tự đồng nhất mọi người trực/y sư với viện chủ. |
+| CHAR-019 | Tô Tín | Trực tiếp đêm 13–gần sáng | Tế Sinh Viện với nạng; nghe tin mất, ở cạnh Lâm Uyên, giao lời nhờ giữ cả phần thử nền bị mưa ngăn qua người gửi tin tới người phụ trách. Không có kết quả thử hoặc phép vào hầm. |
+| CHAR-062 | Khương Tố Nương | Trực tiếp tại gian bệnh | Tế Sinh Viện cùng con sáu tuổi; được người trực báo tin, nói lại với con, chân vẫn cần y sư chăm. Trẻ vẫn chưa tên/giới tính, không xác nhận bà đã khỏi. |
+| CHAR-063 | Hồ Nhuận Chi | Trực tiếp tại gian trong | Tế Sinh Viện; nghe tin, muốn gửi lời tới người cứu nhưng phải dừng lấy hơi. Còn cần theo dõi, giỏ áo vẫn do người trực giữ; chưa chốt kết quả điều trị. |
+| CHAR-036 | Lưu Định | Trực tiếp trở lại rạng ngày 14, sau lần Ch49 | Tế Sinh Viện chờ khám cổ tay rồi xin thăm Mạnh Thanh Tễ; Lâm Uyên báo tin mất. Việc đã tới trạm/được hướng về viện là lời anh kể, chưa kết quả khám, phép thăm hoặc khả năng nhận chuyến nặng. |
+
+Tô Lạc chỉ được nhắc qua sơ đồ/việc đưa người về chưa đạt; Trần Dực và tuyến Hòa Sinh không có lời khai mới. Thân nhân Mạnh Thanh Tễ chưa rõ, viện còn tìm nguồn liên hệ; không suy ông không có gia đình. Giữ nguyên mốc ông còn sống cuối Chương 58 và cuối Chương 59.
+
+Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]], [[Chương 49]], [[Lưu Định]].

@@ -11,11 +11,11 @@ tags:
 
 # Bố Cục Spoiler Sau Chương 50 — Biến Cố Mạnh Thanh Tễ
 
-> **Spoiler cho tác giả.** Mạnh Thanh Tễ ra đi trong tương lai là hướng đã được tác giả chốt. Tai nạn cụ thể, thứ tự chương và các bước điều tra dưới đây là phương án đề xuất để tác giả xem xét; chưa phải sự kiện canon và chưa được đưa vào bản thảo.
+> **Spoiler cho tác giả.** Mạnh Thanh Tễ ra đi là hướng tác giả đã chốt, được triển khai trong bản thảo Chương 58–60. Bố cục cũ dưới đây giữ để đối ý hướng; mốc thực tế/giới hạn xem phần lưu vết cuối tệp. Các phần tang sự/điều tra chưa viết tiếp tục là kế hoạch.
 
 ## Lâm Uyên sẽ mất gì?
 
-Lâm Uyên đã mất cha [[Lâm Chinh]], mẹ và ông nội trước khi câu chuyện bắt đầu. Mạnh Thanh Tễ không thay thế gia đình ấy; ông trở thành người lớn đầu tiên ở hiện tại kiên nhẫn dạy Lâm một nghề bình thường, nhìn cậu như một người học việc chứ không phải bí ẩn của [[Quy Khư]]. Vì vậy, cái chết của ông không chỉ lấy đi một người thầy thuốc. Nó cắt mất một nếp sinh hoạt vừa mới hình thành: một chiếc bàn có chỗ cho Lâm ghi sai rồi sửa, một bàn cân mà cậu được phép đứng cạnh, và một người có thể chỉ ra rằng giúp đúng người cũng quan trọng như ra tay thật nhanh.
+Gia đình Lâm Uyên đã nhận tin báo tử về [[Lâm Chinh]] và làm tang; tình trạng thật của Lâm Chinh vẫn UNKNOWN theo chốt tác giả. Mẹ và ông nội đã mất trước khi câu chuyện bắt đầu. Mạnh Thanh Tễ không thay thế gia đình ấy; ông trở thành người lớn đầu tiên ở hiện tại kiên nhẫn dạy Lâm Uyên một nghề bình thường, nhìn cậu như một người học việc chứ không phải bí ẩn của [[Quy Khư]]. Vì vậy, cái chết của ông không chỉ lấy đi một người thầy thuốc. Nó cắt mất một nếp sinh hoạt vừa mới hình thành: một chiếc bàn có chỗ cho Lâm Uyên ghi sai rồi sửa, một bàn cân mà cậu được phép đứng cạnh, và một người có thể chỉ ra rằng giúp đúng người cũng quan trọng như ra tay thật nhanh.
 
 ## Bố cục dự kiến
 
@@ -57,7 +57,7 @@ Các mốc chương dưới đây có thể dịch chuyển theo nhịp bản th
 
 1. **Mất một người chỉ dẫn trong đời thường:** Mạnh dạy Lâm bằng công việc, sự kiên nhẫn và những lần sửa sai, không phải bằng lời tiên tri.
 2. **Tội lỗi của người sống sót:** Lâm đã chọn cứu nhiều người theo lời thầy, nhưng sự hợp lý của lựa chọn không xóa được nỗi đau vì người mình muốn cứu nhất đã không trở về.
-3. **Chạm lại những mất mát cũ:** Cha, mẹ và ông nội đều đã mất; Mạnh khiến Lâm vừa mới tin rằng mình có thể nương tựa vào một người lớn thêm lần nữa. Sự ra đi khơi lại vết thương, không xóa các quan hệ còn sống như Tô Thanh Ly, Tô Tín hay Trần Dực.
+3. **Chạm lại những mất mát cũ:** Gia đình đã nhận tin báo tử và làm tang Lâm Chinh (tình trạng thật UNKNOWN); mẹ và ông nội đã mất. Mạnh Thanh Tễ khiến Lâm Uyên vừa mới tin rằng mình có thể nương tựa vào một người lớn thêm lần nữa. Sự ra đi khơi lại vết thương, không xóa các quan hệ còn sống như Tô Thanh Ly, Tô Tín hay Trần Dực.
 4. **Thất bại có giới hạn:** Lâm chưa đủ sức cứu hết mọi người và dược lý không thể đảo ngược mọi thương tích. Để cậu học cách sống với giới hạn ấy, thay vì biến đau buồn thành một lần đột phá tu vi.
 
 ## Nguyên tắc giữ sức nặng
@@ -92,3 +92,17 @@ Tác giả đã duyệt hướng Mạnh Thanh Tễ qua đời trong biến cố 
 Đường dây này chạy song song các vấn đề Hắc Phong Sơn, lô dược liệu và Tô Gia; không thay thế các tuyến đó.
 
 Thiết kế chặng dài: [[Thiết Kế Tác Giả Đã Chốt — Thế Giới, Lịch Sử Và Bí Mật]] · [[Thiết Kế Tác Giả Đã Chốt — Tu Hành, Sinh Tử Và Tài Nguyên]].
+
+## Mốc đã triển khai — Chương 58–60
+
+| Phần | Bản thảo thực tế | Phần tiếp còn kế hoạch |
+| --- | --- | --- |
+| Ch58 | Mưa ngày11–13, đối Tề Duy Cẩn trước; sập đầu ngày13, Khương Tố Nương/con chuyển viện, Mạnh Thanh Tễ sống cuối chương | Không kết cục hoặc trách nhiệm công trình |
+| Ch59 | Giải Hồ Nhuận Chi, sụp tiếp lúc đội đang rút, Mạnh Thanh Tễ trọng thương; Lâm Uyên theo cáng cần gấp, thầy về viện còn thở | Chưa chết hoặc trao sổ/đồ |
+| Ch60 | Viện chủ/y sư cứu rồi xác nhận mất đêm13; sáng14 công việc nhận người/thuốc tiếp, Lưu Định tới xem cổ tay | Thi thể ở gian yên, đồ viện giữ, thân nhân/tang/điều tra còn nguồn cần tìm |
+
+Sự kiện theo DRAFT TEXT, không tự nâng thành canon nền. Ch61 trở đi tiếp nỗi buồn qua sinh hoạt, tang sự có người giữ/quyền nhận, người bệnh và chỗ trú; không cho báo thù/đột phá thay hậu quả. Yêu cầu tìm nguồn quản/sửa mới được chấp sự nhận, chưa giấy/căn cứ quy trách nhiệm hoặc nối các mạng.
+
+Hai cách ghi cũ khẳng định cha đã chết được chỉnh theo chỉ thị tác giả: gia đình nhận tin báo tử/làm tang, sinh tử thật Lâm Chinh UNKNOWN. Không mở lại quyết định đó hoặc tự kết luận ông còn sống.
+
+[[Chương 58]] · [[Chương 59]] · [[Chương 60]] · [[Trạng Thái Truyện Sau Chương 60]]

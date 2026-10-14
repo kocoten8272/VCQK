@@ -149,3 +149,20 @@ Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]], [[Nhà Tr�
 Tin mẹ con về viện đầu chương sau đó có cảnh trực tiếp tại gian bên. Người già được nhận là đã ra qua lối khác, phần còn thiếu chưa đủ. Không suy mưa/sụp thành âm mưu hoặc trách nhiệm gia tộc.
 
 Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhuận Chi]].
+
+## Tri thức theo bản thảo Chương 60
+
+| Người/lớp nhận | Điều biết và nguồn | Phần chưa biết/không được suy |
+| --- | --- | --- |
+| Lâm Uyên | K: ở cạnh gian cứu, thấy y sư tiếp làm, nghe viện chủ xác nhận Mạnh Thanh Tễ đã mất; theo chuyển thi thể tới gian yên, thấy đồ được giữ riêng | Không biết tên thuốc/cách cứu toàn bộ, quy luật linh hồn/sinh tử, thân nhân hoặc tang. Chưa đủ nghề để chọn/cân/phối thuốc, không nhận sức mạnh từ mất mát. |
+| Tô Thanh Ly | K: có mặt sau lời xác nhận, ở cạnh Lâm Uyên và việc chuyển trong viện. K: nhờ giữ tên người trông nhà, nguồn giấy quản/sửa | Chấp sự mới nhận việc hỏi, chưa đem giấy/tên tới hoặc xác định người có lỗi. Không biết nguyên nhân nhà sập chỉ vì muốn truy trách nhiệm. |
+| Tô Tín | R: người trực nói lại tin mất; K: ở cạnh Lâm Uyên, giao phần nhờ qua người gửi tin gần sáng | Không có tri thức trực tiếp tại nhà trú/núi, kết quả thử mới, quyền vào hầm hoặc vị trí Tô Lạc sau sập. |
+| Khương Tố Nương/con | R: người trực báo rõ Mạnh Thanh Tễ đã mất, mẹ nói lại với con | Không biết nguyên nhân kết cấu/tang/thân nhân, không tự được chữa khỏi chân; tên/giới tính trẻ UNKNOWN. |
+| Hồ Nhuận Chi | R: được báo tin, hỏi người đã cứu mình còn ở viện và nghe phần đang tiếp cứu ngoài nhà/gian yên | Không biết đủ mọi người đã chuyển, trách nhiệm vụ nạn, danh tính toàn đội hoặc kết quả riêng sau điều trị. |
+| Lưu Định | K: nhận Lâm Uyên, nghe hắn báo Mạnh Thanh Tễ mất đêm qua. R: Lâm Uyên kể ông bị thương khi cứu nhà trú và không qua được sau đưa viện | Anh tự báo đã tới trạm theo giấy/được hướng về viện; không có cảnh trạm xác minh độc lập hoặc kết quả khám cổ tay. Xin thăm chưa có cảnh được phép/đã thăm. |
+| Viện chủ/người có nghề | K: trực tiếp cứu, xác nhận mất, tiếp bệnh nhân, giữ đồ và tìm nguồn để báo người cần biết | Nội dung không cung cấp toàn chẩn đoán/phương thuốc hoặc thân nhân, không chứng minh thông báo đã tới mọi người dân. |
+| Người chờ khám ngoài hiên rạng ngày 14 | R có phạm vi: một số người được báo, một số vừa tới còn hỏi chỗ thầy ngồi; phần khám do y sư khác nhận | Không ghi toàn Lăng Vân Thành đã biết tin hoặc mọi người đã được khám/chuyển chỗ ở. |
+
+Lâm Uyên có thể chỉ thẻ đã ghi, nhận tên và chờ người có nghề kiểm; chính hắn nói phần phối chưa học. Việc đã từng sửa một vòng băng cho Lưu Định ở Ch49 không thành trình độ giám dược. Chỉ nguồn lời về quản/sửa nhà được yêu cầu giữ, chưa lời giải âm mưu; người mua Hòa Sinh, mẫu vón, chìa/trang và các mạng vẫn mở riêng.
+
+Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]], [[Chương 49]], [[Lưu Định]].

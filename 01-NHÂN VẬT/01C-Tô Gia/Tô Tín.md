@@ -87,3 +87,11 @@ Tuổi, gia đình, cảnh giới, thời điểm hồi phục và đường đi
 - Nhờ người mang đặt bát cháo cạnh Lâm Uyên; không khiêng/đi cứu bằng nạng. Tô Lạc/miếng đồng còn chưa thu hồi, việc tìm không tự bị xóa vì cứu trợ.
 
 Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhuận Chi]].
+## Trạng thái mới theo bản thảo Chương 60
+
+- Đêm ngày thứ mười ba ở Tế Sinh Viện, còn dùng nạng, nghe người trực báo Mạnh Thanh Tễ đã mất. Nhờ người bên cạnh lùi ghế/chừa lối chuyển và kéo thêm ghế cho Lâm Uyên; không khiêng người hoặc tới nhà trú.
+- Ngồi cạnh Lâm Uyên ngoài hiên, nói đã nghe tin. Không hứa thầy sẽ sống lại hoặc biến mất mát thành lý do yêu cầu quay ngay về Hắc Phong Sơn.
+- Gần sáng giao phần nhờ lên chỗ thử nền cho người giữ việc gửi tin chuyển qua người phụ trách; nhắc giữ cả phần không làm được vì mưa. Chưa có hồi đáp, kết quả thử mới hoặc lệnh vào hầm.
+- Chân/tay chưa có mốc hồi phục mới. Tên Tô Lạc vẫn trên sơ đồ, thi thể/miếng đồng chưa thu hồi; việc tìm không bị xóa vì biến cố cứu trợ.
+
+Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]].

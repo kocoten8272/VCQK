@@ -8,7 +8,7 @@ tags:
 
 # Sơ Đồ Quan Hệ Nhân Vật
 
-> Bảng nền có căn cứ đến Chương 52; cập nhật Chương 54–58 ở cuối. Đường liền là quan hệ được xác nhận; nét chấm là quan hệ xã hội/đang hình thành. Không suy chức quyền hay huyết thống từ cùng họ.
+> Bảng nền có căn cứ đến Chương 52; cập nhật Chương 54–60 ở cuối. Đường liền là quan hệ được xác nhận; nét chấm là quan hệ xã hội/đang hình thành. Không suy chức quyền hay huyết thống từ cùng họ.
 
 ## Gia đình Lâm Uyên
 
@@ -135,3 +135,20 @@ Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]], [[Tề Duy
 Hồ Nhuận Chi khác Khương Tố Nương; cùng nghề/chỗ trú không xác lập họ hàng/bạn thân/chung con. Không nhập quan hệ tình cảm thành cơ chế tu luyện.
 
 Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhuận Chi]].
+
+## Quan hệ theo bản thảo Chương 60
+
+| Người | Liên hệ/chuyển biến | Căn cứ và giới hạn |
+| --- | --- | --- |
+| Mạnh Thanh Tễ → Lâm Uyên | Người hướng dẫn qua đời sau cứu chữa; Lâm Uyên gọi “thầy”, nhớ lỗi quấn băng đã được sửa | Quan hệ có hậu quả mất mát trực tiếp. Không có nghi thức bái sư mới, lời trăng trối, trao công pháp hoặc thừa kế sổ/túi thuốc. |
+| Viện Chủ Tế Sinh Viện (chưa rõ tên) → Lâm Uyên | Cho ngồi cạnh, giải thích đã làm phần có thể, giao người tiếp việc của viện | Không để Lâm Uyên thay y sư quyết chữa hoặc nhận đồ của người mất làm riêng. Thân nhân vẫn đang được tìm để báo. |
+| Tô Thanh Ly → Lâm Uyên | Ở lại bên ghế, đưa nước/vải, chờ hắn tự nhận; cùng nói đã nghĩ về viện sẽ còn kịp | Đồng hành trong nỗi đau, không hứa chữa được đau buồn hoặc dùng việc nhẹ làm mệnh lệnh quên thầy. |
+| Tô Tín → Lâm Uyên | Ngồi cạnh sau tin mất, nhờ thêm ghế, vẫn giữ lời nhờ về Tô Lạc | Quan hệ hỗ trợ ở viện; nạng và việc hồi phục không thay đổi, không tự đi núi/cứu hộ. |
+| Mạnh Thanh Tễ → Khương Tố Nương, Hồ Nhuận Chi | Người từng chăm/cứu; hai bệnh nhân được báo tin và vẫn được y sư khác tiếp chăm | Không biến người sống được cứu thành người có lỗi vì ông chết, không khẳng định chữa khỏi hoặc quan hệ riêng lâu năm. |
+| Mạnh Thanh Tễ → Lưu Định | Người từng sơ cứu, viết giấy trạm ở Ch49; Lưu Định trở lại với câu hỏi nhận chuyến nặng | Người lao động còn cần khám và muốn tới thăm sau khi được phép; không xác nhận thầy từng miễn toàn bộ phí. |
+| Lâm Uyên → Lưu Định | Nhận ra người từng được mình quấn lại băng, trực tiếp báo tin mất | Hắn kể phần biết về nạn cứu nhà trú, không tự nhận đã thấy toàn việc nhấc gỗ hoặc trả lời thay y sư về sức cổ tay. |
+| Người giám dược trực chưa rõ tên → Lâm Uyên | Nhận phần thuốc, tự kiểm thẻ, giao việc nhẹ và cho ngồi nghỉ | Tiếp việc chăm bệnh, chưa lập quan hệ sư phụ mới hoặc mặc định cùng người đã giúp đêm trước. |
+
+Khương Tố Nương nói rõ với con sáu tuổi Mạnh Thanh Tễ đã mất; trẻ nhìn cửa rồi ngủ cạnh mẹ, chưa được nêu tên/giới tính. Đồ và thi thể Mạnh Thanh Tễ do viện giữ đúng việc đang có, không tạo quan hệ thừa kế. Cái chết không làm mất những nhu cầu chữa bệnh hoặc khép các quan hệ chưa giải.
+
+Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]], [[Chương 49]], [[Lưu Định]].

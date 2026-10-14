@@ -3,7 +3,7 @@ type: nhan-vat
 id: CHAR-037
 importance-tier: A
 vai-tro: nhan-vat-phu
-status: da-xuat-hien
+status: da-qua-doi
 tags:
   - nhan-vat
   - te-sinh-vien
@@ -13,7 +13,7 @@ tags:
 
 # Mạnh Thanh Tễ
 
-> Y sư/giám dược tại [[Tế Sinh Viện]], người đang hướng dẫn [[Lâm Uyên]] những căn bản về dược liệu và cứu chữa bách tính nghèo.
+> Y sư/giám dược tại [[Tế Sinh Viện]], người đã hướng dẫn [[Lâm Uyên]] những căn bản về dược liệu và cứu chữa bách tính nghèo. Theo bản thảo [[Chương 60]], qua đời đêm ngày thứ mười ba sau Hắc Phong Sơn tại viện sau lượt cứu không thành.
 
 ## Thông tin cơ bản
 
@@ -28,18 +28,18 @@ tags:
 - Trở thành người hướng dẫn dược lý cho Lâm Uyên qua công việc phụ giúp và thực hành.
 - Dạy từng bước về nhận biết, bảo quản, liều lượng, tương kỵ, sơ cứu, kiểm nghiệm và ghi chép; Lâm Uyên phải tích lũy kiến thức qua thời gian.
 - Qua cách ông khám bệnh, cân nhắc thuốc và tiếp nhận người không đủ tiền, độc giả thấy cơ chế chữa bệnh và sự thiếu thốn của dân nghèo tại Lăng Vân Thành.
-- Về sau, một biến cố khiến Mạnh Thanh Tễ qua đời trong khi cứu giúp nhiều bách tính. Sự ra đi để lại nỗi đau cho Lâm Uyên, bệnh nhân, người trong Tế Sinh Viện và những người ông từng cứu.
+- Hướng biến cố đã duyệt được viết trong bản thảo Chương 59–60: Mạnh Thanh Tễ bị thương khi cứu người ở nhà trú và qua đời sau khi được chuyển về viện. Sự ra đi để lại nỗi đau cho Lâm Uyên, bệnh nhân, người trong Tế Sinh Viện và những người ông từng cứu; không hồi tố kết cục vào những mốc ông còn sống.
 
 ## Động cơ, mâu thuẫn và giới hạn
 
 - **Động cơ đã chốt:** Dành công sức cứu chữa bách tính khốn khó.
 - Nguyên tắc cụ thể, tuổi nghề, gia đình, điểm yếu, xung đột với Tô gia và cách ông cân bằng giữa cứu người với nguồn thuốc khan hiếm còn cần xây dựng.
-- Cái chết là hướng cốt truyện đã chốt; thời điểm, nguyên nhân cụ thể và thủ phạm (nếu có) chưa chốt. Không dùng cái chết chỉ để tạo cớ báo thù cho Lâm Uyên.
+- Theo bản thảo Chương 60, thời điểm qua đời là đêm ngày thứ mười ba sau Hắc Phong Sơn. Nguyên nhân công trình sập và trách nhiệm quản lý chưa rõ; không tự tạo thủ phạm hoặc dùng cái chết chỉ để tạo cớ báo thù cho Lâm Uyên.
 - Không để ông chữa khỏi tức thì thương thế của Trần Dực, giải án Xích Tủy Tán hoặc mở bí ẩn cấp thế giới.
 
 ## Quan hệ
 
-- **[[Lâm Uyên]]:** Gặp ở Chương 48. Mạnh dạy cách ghi điều tận mắt thấy, kiểm thuốc an toàn; ở Chương 49 ông sửa cách Lâm Uyên quấn băng quá chặt cho phu xe Lưu Định. Ở Chương 50 ông cho Lâm ghi và sửa số cân dược trước người chứng kiến; Chương 51–52 để cậu nhận lỗi trên thẻ, kiểm dược liệu và theo chuyến giao bù. Quan hệ thầy trò tiếp tục qua công việc thường ngày.
+- **[[Lâm Uyên]]:** Gặp ở Chương 48. Mạnh Thanh Tễ dạy cách ghi điều tận mắt thấy, kiểm thuốc an toàn; ở Chương 49 ông sửa cách Lâm Uyên quấn băng quá chặt cho phu xe Lưu Định. Ở Chương 50 ông cho Lâm Uyên ghi và sửa số cân dược trước người chứng kiến; Chương 51–52 để cậu nhận lỗi trên thẻ, kiểm dược liệu và theo chuyến giao bù. Quan hệ thầy trò tiếp tục qua công việc thường ngày.
 - **Bách tính nghèo:** Ở Chương 48 ông bù tiền băng vải cho một đứa trẻ. Ở Chương 49 ông chữa cổ tay phu xe Lưu Định sau tai nạn xe vải, ghi đường tới trạm khám và nói rõ tiền thuốc còn phải xét.
 - **[[Tế Sinh Viện]]:** Giám dược dưới quyền viện chủ. Ông kiểm thuốc và ký phần dược kiểm cùng viện chủ, không tự quyết lệnh của Tông Sảnh.
 
@@ -48,8 +48,8 @@ tags:
 - Xuất hiện lần đầu ở Chương 48 khi kiểm hòm thuốc và chăm người bệnh nghèo tại Tế Sinh Viện. Ông bỏ hai đồng của mình bù tiền băng vải cho một đứa trẻ.
 - Ở Chương 49 ông đi cùng Lâm Uyên và Tô Thanh Ly kiểm sổ ba hiệu thuốc, rồi tới Dược Phường Hòa Sinh sau khi có giấy bổ sung. Ông không nhận phần mẫu lưu chờ tái kiểm hay nguyên liệu cứu tế là liều dùng được.
 - Ở Chương 50 ông chứng kiến mẫu lưu không đạt, kiểm lượng nguyên liệu cứu tế và cùng viện chủ phối, thử gói mới. Ông ghi tên trạm khám bị chậm phần dự trữ, không coi nghĩa vụ mua bù đã hoàn tất trước khi hàng tới tay họ.
-- Ở Chương 51 ông giữ khay khi Lâm ghi đảo hai lượng cân, cho cậu tự sửa và ký, chưa để lỗi tới bệnh nhân.
-- Ở Chương 52 ông kiểm lô nguyên liệu bù, giữ lại bó ẩm, đi cùng đoàn giao đủ thuốc tới trạm xóm lò ngói. Ông đề nghị hỏi viện chủ về gỗ kê kho thuốc ẩm; chưa được cấp. Ông tiếp tục dạy Lâm kiểm điều thực có và ghi phần hàng từng mắc dưới xe. Biến cố qua đời vẫn thuộc tương lai, chưa có thời điểm cụ thể.
+- Ở Chương 51 ông giữ khay khi Lâm Uyên ghi đảo hai lượng cân, cho cậu tự sửa và ký, chưa để lỗi tới bệnh nhân.
+- Ở Chương 52 ông kiểm lô nguyên liệu bù, giữ lại bó ẩm, đi cùng đoàn giao đủ thuốc tới trạm xóm lò ngói. Ông đề nghị hỏi viện chủ về gỗ kê kho thuốc ẩm; chưa được cấp. Ông tiếp tục dạy Lâm Uyên kiểm điều thực có và ghi phần hàng từng mắc dưới xe. Biến cố qua đời vẫn thuộc tương lai, chưa có thời điểm cụ thể.
 - Hồ sơ hiện giữ phần đã được tác giả chốt; các chi tiết chưa xác nhận phải để mở.
 
 ## Liên kết
@@ -60,11 +60,11 @@ tags:
 
 ## Chiều sâu cần triển khai — đã duyệt về hướng
 
-Cho Mạnh một đời sống ngoài vai trò thầy của Lâm: quan hệ với người làm nghề, người bệnh quay lại và trách nhiệm ông chưa lo xong. Tuổi, gia đình, lời hứa riêng chưa chốt, không tự ghi thành sự kiện.
+Cho Mạnh Thanh Tễ một đời sống ngoài vai trò thầy của Lâm Uyên: quan hệ với người làm nghề, người bệnh quay lại và trách nhiệm ông chưa lo xong. Tuổi, gia đình, lời hứa riêng chưa chốt, không tự ghi thành sự kiện.
 
 Sự hữu hạn cần hiện trong công việc: có ca ông phải hỏi viện chủ, có khoản thiếu ông không thể bù mãi, có điều ông chưa biết. Ông có thể mệt, khó chịu hoặc sửa một quyết định của mình mà vẫn giữ lòng với người bệnh.
 
-Sau khi ông mất, mỗi người tiếp tục có nhu cầu và lập trường riêng. Người được cứu không mặc nhiên biết ơn Lâm hoặc đồng ý với mọi việc cậu làm. Cái chết không truyền công lực, không ban hiểu biết dược lý và không khóa đích đến cả đời của Lâm trước khi tác giả chọn.
+Sau khi ông mất, mỗi người tiếp tục có nhu cầu và lập trường riêng. Người được cứu không mặc nhiên biết ơn Lâm Uyên hoặc đồng ý với mọi việc cậu làm. Cái chết không truyền công lực, không ban hiểu biết dược lý và không khóa đích đến cả đời của Lâm Uyên trước khi tác giả chọn.
 
 Xem [[Triết Lý Văn Học Và Nhịp Điệu Bi Kịch]], [[Triển Khai Hệ Thống Sau Đợt Đối Chiếu Văn Học]].
 
@@ -132,3 +132,14 @@ Xem [[Triết Lý Văn Học Và Nhịp Điệu Bi Kịch]], [[Triển Khai Hệ
 - Không bí thuật/đột phá, chưa bàn giao sổ nghề/di sản. Kết cục qua đời đã duyệt vẫn là hướng tiếp, không dùng nó sửa sinh tử trong58–59.
 
 Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhuận Chi]].
+## Trạng thái mới theo bản thảo Chương 60
+
+- **Sinh tử theo bản thảo:** Qua đời đêm ngày thứ mười ba sau Hắc Phong Sơn, tại Tế Sinh Viện. Viện chủ/y sư tiếp tục cứu, gọi và kiểm lại rồi viện chủ trực tiếp xác nhận với Lâm Uyên. Đây là diễn biến mới của bản thảo Chương 60; ở cuối Chương 58 ông còn sống/làm việc, cuối Chương 59 còn phản ứng/thở.
+- Đầu chương vẫn được cứu; có lúc mở mắt rất hẹp khi y sư gọi, không có lời đáp rõ, trăng trối, bí thuật hoặc bàn giao nghề. Lâm Uyên được ngồi/chạm tay trong phạm vi người có nghề cho phép.
+- Sau khi mất, người có sức chuyển ông tới gian yên bên trong viện; người trực giữ riêng đồ, viện tìm nguồn trong hồ sơ để báo người cần được báo. Thân nhân, người lo tang và việc chôn cất/tang lễ chưa được xác nhận.
+- Lâm Uyên chỉ lau chút bụi ở tóc và đi cùng lượt chuyển, không nhận sổ/túi thuốc hoặc kiến thức làm di sản. Giám dược khác nhận công việc, tự kiểm phần thẻ người học việc chỉ; bệnh nhân tiếp tục được chăm.
+- Khương Tố Nương cùng con và Hồ Nhuận Chi được người trực báo tin trong viện. Lưu Định tới tái khám rạng ngày thứ mười bốn, nghe Lâm Uyên báo mất; xin tới thăm sau khám, chưa có cảnh thực hiện.
+- Thương tích nặng sau vách sụp tiếp ở Chương 59 dẫn tới lượt cứu không thành; chưa có chẩn đoán đầy đủ hoặc kết luận giám định nguyên nhân tử vong. Nguyên nhân công trình sập/trách nhiệm quản lý vẫn chưa rõ, không gán thủ phạm.
+- Tác động trước mắt là việc học dang dở và những câu hỏi/người bệnh vẫn còn cần được tiếp; không cho cái chết truyền công lực, chữa thương, cấp nghề, giải mạng thuốc hay định sẵn lời thề báo thù của Lâm Uyên.
+
+Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]].
