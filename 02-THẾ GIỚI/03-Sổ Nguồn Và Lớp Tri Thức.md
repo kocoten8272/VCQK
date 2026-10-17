@@ -167,3 +167,19 @@ Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]], [[Chương
 79 node lore giữ nguyên; FAC-001 Bùi Gia chuyển trạng thái triển khai theo phần thực sự viết, không cả gia phả đã lên trang. DRAFT TEXT61 khác canon nền; nguồn nghiên cứu REF-005 chỉ ở lớp biên tập.
 
 Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
+
+## Đối chiếu có phạm vi sau Chương 62 — 2026-10-18
+
+| Mệnh đề | Nguồn/lớp | Giới hạn |
+| --- | --- | --- |
+| Bùi Ninh Viễn được chuyển việc ngày12 | DRAFT TEXT62: cuốn ghi việc đối hai phiếu, anh nhận tên/dòng | Không cả gia phả/năng lực hiện trên trang; CHAR-026 C/da-xuat-hien, không thêm hồ sơ người |
+| Lời đợi tạnh/không tới | CHARACTER REPORT62 anh nhận chữ mảnh giấy/tự khai, người trông nhà nhận mảnh được giao | Người chuyển chưa tên; việc cống theo lời anh, chưa quy tội nhà sập |
+| Lối chưa được mở | DRAFT TEXT62: ngoại vi hiện tại nhìn chưa đủ/chân khuất/mái nối, người phụ trách giữ/dời chờ | Không kỹ thuật chứng nhận an toàn, không mốc so trước/sau hay chứng minh ai làm mái sập |
+| Cuộn dây đã nhận, khung/dao còn trong | DRAFT TEXT62 nhận đồ đã chuyển ra/đối người giữ; phần còn trong qua chủ đồ | Không hoàn trả sinh kế/toàn đồ hoặc gỡ rào để cứu đồ |
+| Gói kim Hồ Nhuận Chi | CHARACTER REPORT cũ được Lâm Uyên nhắc/ghi rõ nguồn, DRAFT62 chưa thu và giám dược nhận phần nhờ | Không lấy giỏ đã về viện làm chứng kim nằm trong, chưa xem người bệnh mới |
+| Thợ phụ ở trạm khác | CHARACTER REPORT62 Bùi Khánh Vân qua người cùng đi đã tìm/nhận | Bà chưa đối trực tiếp, không hồ sơ trạm hoặc sinh tử khách quan được độc giả thấy |
+| Lượt thắp hương/tin người nhà | DRAFT TEXT62 tại viện | Chưa hồi đáp/thân nhân tới nhận/chôn/trao di vật |
+
+79 node lore giữ, FAC-001 đã phát triển61 không cần cấp ID thêm. Nguồn Exa chỉ lớp biên tập LOG-009; không dạy nhân vật kỹ thuật ngoài nghề/nguồn hiện có.
+
+Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].

@@ -190,3 +190,19 @@ Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]], [[Chương
 HFS/Hòa Sinh/người mua/chìa/trang giữ nguồn cũ, không có lời giải mới61. Kết mở ở việc đối phiếu/người còn chờ chỗ, không thêm bí ẩn cấp thế giới.
 
 Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
+
+## Tiến triển theo bản thảo Chương 62
+
+| Đầu mối | Trả được trong62 | Còn giữ |
+| --- | --- | --- |
+| Bàn nhận việc Bùi Gia giao ai? | Cuốn ghi ngày12 có Bùi Ninh Viễn, anh nhận phần được chuyển | Quá khứ lý do/lựa chọn còn cần đối, không chứng minh nguyên nhân |
+| Lời đợi tạnh | Anh nhận chữ/giao người phụ chuyển, người trông nhà nhận mảnh | Người đưa chưa tên/đối độc lập, không lời Bùi Khánh Vân hoặc cả gia tộc |
+| Nhà trú/lối lấy đồ | Ngoại vi chưa đủ để mở lối, người phụ trách tiếp chặn/dời chờ | Không sập mới/căn nguyên hoặc toàn nhà được xem |
+| Hẹn Bùi Ninh Viễn | Nhận gọi đội thích hợp, báo làm được hay không trước tối14 | Chưa thấy kết quả/quay báo, cần trả ngay mạch tiếp |
+| Thợ phụ | Tin qua Bùi Khánh Vân về người cùng đi đã tìm ở trạm khác | Bà chưa đối tại trạm, chưa tên/thân nhân được báo |
+| Gói kim Hồ Nhuận Chi | Chưa đưa ra, Lâm Uyên ghi nguồn lời bà/giám dược nhận | Chưa phục hồi nghề hoặc trao nhầm vào giỏ đã về viện |
+| Tang Mạnh Thanh Tễ | Lượt chiều, Lâm Uyên xin hương/được giúp cầm khi mỏi | Thân nhân/tang/đồ và sinh tử đã mất không đổi |
+
+HFS/Hòa Sinh/người mua/chìa/trang/Hắc Nha không có chứng cứ mới; không dùng mất mát để nối mọi mạng.
+
+Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].

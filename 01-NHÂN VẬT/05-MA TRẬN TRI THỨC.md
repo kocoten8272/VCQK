@@ -181,3 +181,19 @@ Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]], [[Chương
 Thân nhân/ý nguyện của Mạnh Thanh Tễ vẫn UNKNOWN; gửi tin không đồng nghĩa đã nhận hồi đáp. Không có tri thức mới về HFS/Hòa Sinh/chìa/trang hoặc người mua.
 
 Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
+
+## Tri thức theo bản thảo Chương 62
+
+| Người | Nguồn biết/nghe | Giới hạn |
+| --- | --- | --- |
+| Lâm Uyên/Tô Thanh Ly/chấp sự | K: thấy hai phiếu/cuốn ghi việc có tên Bùi Ninh Viễn ngày12, nghe anh nhận dòng/chữ mảnh đợi tạnh và tự nhận chưa tới | Quá khứ làm cống/nhờ chuyển là lời anh; dòng giao/lời nhận chưa chứng minh nguyên nhân sập hoặc nếu tới sẽ cứu được ai |
+| Người trông nhà | K/R: nhận mảnh lời hẹn đã nhận, kể người chuyển không hỏi tên; nghe Bùi Ninh Viễn nhận chữ | Chưa nhận diện độc lập người phụ việc chuyển, không biết toàn quy trình Bùi Gia |
+| Bùi Ninh Viễn | K: phần ngoại vi nhìn hiện tại có chỗ lệch/chân khuất/mái nối, không đủ nhận lối dùng được | Không mốc/bản vẽ cũ để đo dịch chuyển quá khứ, không kết luận cấu kiện đầu tiên đổ/căn nguyên toàn nhà |
+| Lâm Uyên/Tô Thanh Ly | K: thấy lối chưa mở, người phụ trách dời điểm chờ, dân chỉ nhận đồ đã đưa ra; nghe cần gọi đội thích hợp | Không vào dưới mái, không được biết kết quả khảo sát kỹ thuật toàn nhà hoặc mọi danh sách cáng |
+| Lâm Uyên | R: Hồ Nhuận Chi kể gói kim trong áo, chưa ai nhận lại; K: giám dược nhận phần ghi, báo bà nghỉ | Không tận mắt thấy kim, không hứa đã thu hoặc gọi bà dậy |
+| Bùi Khánh Vân → đoàn trở về | R: người cùng đi tìm/nhận thợ phụ tại trạm khác, xem chân; bà chưa sang đối | Chưa xác minh trực tiếp nguồn trạm hoặc báo thân nhân thành công; không tổng người đã tìm |
+| Lâm Uyên | K: thầy vẫn ở gian yên, gửi tin chưa có người nhà tới nhận; phần hương được người trực giúp | Không có di nguyện/đổi quyền sở hữu hoặc lời thầy đáp |
+
+Tin HFS/Hòa Sinh/chìa/trang không có lời mới; không cho các nhân vật biết nguồn ngoài trường nhìn/tin đã nghe.
+
+Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].

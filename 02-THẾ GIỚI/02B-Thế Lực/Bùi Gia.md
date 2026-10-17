@@ -48,7 +48,7 @@ Bùi Gia nhận hợp đồng sửa tường, cống, nền kho, đường lên 
 - [[Bùi Khắc Vinh]] — hồ sơ cá nhân đã duyệt
 - [[Bùi Nguyên Bảo]] — hồ sơ cá nhân đã duyệt
 - [[Bùi Khắc Thành]] — hồ sơ cá nhân đã duyệt
-- [[Bùi Ninh Viễn]] — hồ sơ cá nhân đã duyệt
+- [[Bùi Ninh Viễn]] — CHAR-026, trực tiếp Chương 62, người nhận lời xem dột/khảo sát giới hạn phía ngoài; chưa xác định trách nhiệm gây sập
 - [[Bùi Khánh Vân]] — CHAR-022, trực tiếp Chương 61, giữ bảng công; thiết kế gia phả giữ riêng với hành động đã viết
 - [[Bùi Tố Vân]] — hồ sơ cá nhân đã duyệt
 
@@ -71,3 +71,14 @@ Tác giả đã chốt nghề, cơ cấu gia tộc và toàn bộ danh sách nh�
 - Bùi Gia chưa bị xác định gây sập, chưa có nghiệm thu/điều tra hoàn chỉnh hoặc liên hệ với Hòa Sinh, Hắc Nha, Tả tiên sinh hay mạng mua thuốc. Những thành viên khác chưa trực tiếp xuất hiện chỉ vì bà đã tới viện.
 
 Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
+
+## Triển khai theo bản thảo Chương 62
+
+- Bùi Ninh Viễn — CHAR-026 — lần đầu trực tiếp, là người có tên trong dòng giao việc ngày thứ mười hai Bùi Khánh Vân mang tới đối. Anh nhận chữ/mảnh nhắn và tự nhận chưa tới nhà trước lúc sập; nghề khảo sát được thể hiện tại hiện trường sau đó, gia phả/tuổi chính xác chưa kể trong cảnh.
+- Hai phiếu, cuốn ghi và lời người trông nhà đối được một khâu nhận lời xem dột/chuyển tin đợi tạnh. Lời đang làm ở cống do Bùi Ninh Viễn tự nhận; chưa xác minh độc lập phần việc trước đó, không đồng nghĩa có hợp đồng sửa/bàn giao hoặc lỗi gây sập đã chứng minh.
+- Tại nhà trú, khảo sát chỉ trong phạm vi đội cứu cho phép và những phần còn nhìn được; không có bản vẽ cũ để đối. Chưa nhận lối sát sân dùng được, không gọi người vào lấy đồ dù người làm giỏ xin tự nhận nguy hiểm; kết quả hiện tại chưa giải nguyên nhân sập quá khứ.
+- Bùi Ninh Viễn nhận về gọi đúng người làm lượt tiếp và báo có làm được hay không trước tối. Đây là nghĩa vụ lời đã nói, chưa có cảnh hoàn thành/lấy đồ/sửa xong hoặc dùng nguồn gia tộc vô hạn.
+- Bùi Khánh Vân ở viện đối ghi việc, tiếp lời người cùng đi về nơi nhận thợ phụ ở một trạm khác, còn phải tới đối trực tiếp. Chưa cảnh người thợ/trạm xác nhận độc lập, chưa liên hệ xong gia đình hoặc hẹn trở lại làm công.
+- Phân biệt người giữ bảng công, người khảo sát, thợ phụ/người đưa lời và người phụ trách cứu. Những thành viên còn lại của gia tộc chưa trực tiếp xuất hiện vì hai người này có mặt; không kết tội cả nhà, xác lập âm mưu hoặc nối Hòa Sinh/Hắc Nha/Tả tiên sinh.
+
+Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].

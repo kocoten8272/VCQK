@@ -1,7 +1,7 @@
 ---
 type: muc-luc-xuong-sang-tac
 status: hoan-thien
-updated: 2026-10-17
+updated: 2026-10-18
 tags:
   - thu-vien
   - tra-cuu
@@ -31,6 +31,7 @@ tags:
 | LOG-006 | [[LOG-006-Áp Dụng Kỹ Thuật Trong Chương 59]] | Phản hồi/áp dụng | recorded | Sụp trong lúc rút, lựa chọn chuyển người và thầy chưa trả lời ở viện |
 | LOG-007 | [[LOG-007-Áp Dụng Kỹ Thuật Trong Chương 60]] | Phản hồi/áp dụng | recorded | Mất thầy, phần việc trao người khác và sáng đầu; nguồn REF-004 mở lại có phạm vi |
 | LOG-008 | [[LOG-008-Áp Dụng Kỹ Thuật Trong Chương 61]] | Phản hồi/áp dụng | recorded | Lưu Định đã viếng, giữ chỗ mẹ con và đầu nguồn Bùi Gia; sửa giờ/tên bị giấu |
+| LOG-009 | [[LOG-009-Áp Dụng Kỹ Thuật Trong Chương 62]] | Phản hồi/áp dụng | recorded | Bùi Ninh Viễn nhận việc chưa làm; ngoại vi/lối lấy đồ và hẹn báo trước tối14 |
 
 Các seed chưa được dùng trong chương. Không lấy chúng làm căn cứ xác nhận tiền công, hợp đồng hoặc tiến độ chống vách.
 
@@ -90,3 +91,7 @@ Tra [[LOG-007-Áp Dụng Kỹ Thuật Trong Chương 60]] cho phản biện/sử
 ## Áp dụng ở Chương 61
 
 Tra REF-005/LOG-008 cho nguồn mới và sửa cục bộ. PAT-001 dùng với giới hạn xác nhận/chỗ ở/tay; SEED-001/002 vẫn chưa dùng. Bùi Khánh Vân đã có CHAR-022, phần thực sự viết cập nhật node chính/registry, Bùi Gia FAC-001 không tạo node mới. Trạng thái tiếp nối ở04E sau61, không lưu dàn người/bản sao phiếu tại Xưởng.
+
+## Áp dụng ở Chương 62
+
+Tra LOG-009 cho lượt Exa mở lại REF-003 ngày17/10/2026, giữ ngày truy cập gốc và giới hạn nguồn. REF-005 được tham khảo từ ghi chú đã lưu, không mở lại trong62; PAT-001 dùng với tay/quyền/giới hạn lối. SEED-001/002 vẫn chưa dùng. Bùi Ninh Viễn CHAR-026 đã có node chính, không thêm hồ sơ hoặc nhân đôi lore tại Xưởng. Trạng thái tiếp nối ở04E sau62.

@@ -45,7 +45,7 @@ Mẫu dùng khi lập hồ sơ: [Mẫu Hồ Sơ Nhân Vật](M%E1%BA%AAU%20H%E1%
 | `01E-Vân Châu` | Liễu Gia, Kiếm Các, Thính Phong Lâu, Thương Hội, Tầm Chân Ti | Nhân vật mới của các thế lực cấp châu |
 | `01F-Thế Lực Bí Ẩn` | Vĩnh Sinh Môn, Di Kỷ Tộc và nhân vật chưa thể xếp công khai | Chuyển sang nhóm địa bàn/thế lực phù hợp khi thân phận được xác nhận rõ |
 
-Tính đến Chương 61, sổ cái có **63 hồ sơ cá nhân**, trong đó **21 hồ sơ mang trạng thái `da-xuat-hien`**. Các trạng thái `dang-phat-trien`, sống/chết và chỉ được nhắc đến được theo dõi riêng tại [[02-SỔ CÁI NHÂN VẬT]].
+Tính đến Chương 62, sổ cái có **63 hồ sơ cá nhân**, trong đó **22 hồ sơ mang trạng thái `da-xuat-hien`**. Các trạng thái `dang-phat-trien`, sống/chết và chỉ được nhắc đến được theo dõi riêng tại [[02-SỔ CÁI NHÂN VẬT]].
 
 ## Danh sách hồ sơ theo tuyến
 
@@ -118,7 +118,7 @@ Tính đến Chương 61, sổ cái có **63 hồ sơ cá nhân**, trong đó **
 - [Bùi Khắc Vinh](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/B%C3%B9i%20Kh%E1%BA%AFc%20Vinh.md) — `de-xuat`
 - [Bùi Nguyên Bảo](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/B%C3%B9i%20Nguy%C3%AAn%20B%E1%BA%A3o.md) — `de-xuat`
 - [Bùi Khắc Thành](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/B%C3%B9i%20Kh%E1%BA%AFc%20Th%C3%A0nh.md) — `de-xuat`
-- [Bùi Ninh Viễn](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/B%C3%B9i%20Ninh%20Vi%E1%BB%85n.md) — `de-xuat`
+- [Bùi Ninh Viễn](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/B%C3%B9i%20Ninh%20Vi%E1%BB%85n.md) — `da-xuat-hien` — CHAR-026, hạng C; trực tiếp Chương 62 nhận lời xem dột chưa thực hiện và khảo sát phía ngoài nhà trú.
 - [Bùi Khánh Vân](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/B%C3%B9i%20Kh%C3%A1nh%20V%C3%A2n.md) — `da-xuat-hien` — CHAR-022, hạng C; trực tiếp Chương 61, giữ bảng công bên Bùi Gia và đem phiếu hẹn chuyển lời nhờ xem nhà trú tới đối.
 - [Bùi Tố Vân](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/B%C3%B9i%20T%E1%BB%91%20V%C3%A2n.md) — `de-xuat`
 
@@ -138,7 +138,7 @@ Tính đến Chương 61, sổ cái có **63 hồ sơ cá nhân**, trong đó **
 - [Người Áo Đen (chưa rõ danh tính)](01F-Th%E1%BA%BF%20L%E1%BB%B1c%20B%C3%AD%20%E1%BA%A8n/Ng%C6%B0%E1%BB%9Di%20%C3%81o%20%C4%90en%20%28ch%C6%B0a%20r%C3%B5%20danh%20t%C3%ADnh%29.md) — `da-xuat-hien`
 - [Hắc Nha](01F-Th%E1%BA%BF%20L%E1%BB%B1c%20B%C3%AD%20%E1%BA%A8n/H%E1%BA%AFc%20Nha.md) — `chua-xuat-hien`
 
-## Nhân vật đã xuất hiện trong truyện (đối chiếu đến hết Chương 61)
+## Nhân vật đã xuất hiện trong truyện (đối chiếu đến hết Chương 62)
 
 > Danh sách này chỉ ghi người có mặt trong cảnh, được gọi tên trong lời kể/hồi ức có căn cứ, hoặc có vai trò cá nhân rõ. Nhân vật đề xuất và người chỉ được nhắc qua lời khai được tách riêng. Hồ sơ vẫn có thể ghi tuổi, cảnh giới hoặc quá khứ là “chưa nêu” nếu bản thảo chưa xác nhận.
 
@@ -164,6 +164,7 @@ Tính đến Chương 61, sổ cái có **63 hồ sơ cá nhân**, trong đó **
 ### Lăng Vân Thành và Tế Sinh Viện
 
 - [Bùi Khánh Vân](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/B%C3%B9i%20Kh%C3%A1nh%20V%C3%A2n.md) — lần đầu trực tiếp Chương 61; giữ bảng công, bàn giao phiếu hẹn có nhận, đồng thời tìm nơi nhận thợ phụ. Chưa chứng minh trách nhiệm sập nhà.
+- [Bùi Ninh Viễn](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/B%C3%B9i%20Ninh%20Vi%E1%BB%85n.md) — lần đầu trực tiếp Chương 62; nhận phần được giao xem dột/chưa tới trước sập, khảo sát phía ngoài theo đội cứu, chưa nhận lối dùng được hoặc xác định nguyên nhân sập.
 
 - [Kỷ Hành Chu](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/K%E1%BB%B7%20H%C3%A0nh%20Chu.md) — lần đầu trực tiếp Chương 55; quyết toán thuê Nam Phố.
 - [Phan Kính](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Phan%20K%C3%ADnh.md) — người coi thuyền Chương 47, tên đọc Chương 55; trực tiếp trình lời/bàn giao tờ đổi Chương 56.
@@ -198,7 +199,7 @@ Tính đến Chương 61, sổ cái có **63 hồ sơ cá nhân**, trong đó **
 
 ## Theo dõi trạng thái hiện tại
 
-Trạng thái mỗi người nằm trong frontmatter của hồ sơ. Danh sách “đã xuất hiện” ở trên được cập nhật theo nguồn đến Chương 61; mốc chi tiết và kiểu xuất hiện xem [[03-SỔ THEO DÕI LẦN XUẤT HIỆN]]. Những nhân vật mới được đặt hồ sơ tạm có thể chưa có tuổi, cảnh giới hoặc tên thật; không điền suy đoán thành canon.
+Trạng thái mỗi người nằm trong frontmatter của hồ sơ. Danh sách “đã xuất hiện” ở trên được cập nhật theo nguồn đến Chương 62; mốc chi tiết và kiểu xuất hiện xem [[03-SỔ THEO DÕI LẦN XUẤT HIỆN]]. Những nhân vật mới được đặt hồ sơ tạm có thể chưa có tuổi, cảnh giới hoặc tên thật; không điền suy đoán thành canon.
 
 | Trạng thái | Ý nghĩa |
 | --- | --- |

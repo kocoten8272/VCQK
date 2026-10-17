@@ -108,3 +108,14 @@ Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]], [[Nhà Tr�
 
 
 Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
+
+## Hậu quả theo bản thảo Chương 62
+
+- Chiều ngày thứ mười bốn, Lâm Uyên/Tô Thanh Ly trở lại nhà trú bằng xe theo phạm vi được chấp sự/y sư cho, có người đi cùng. Đường vẫn bùn/rãnh, chưa tuyên bố khu phố đã an toàn hoặc hết khó khăn.
+- Bùi Ninh Viễn khảo sát từ phía ngoài vùng người phụ trách cứu cho phép; chưa thể nhận lối sát sân dùng được, điểm chờ/người được chuyển xa. Không có lần sập mới, mở lại toàn nhà hoặc kết luận nguyên nhân lần sập trước.
+- Người làm giỏ muốn lấy khung để làm trả chỗ ở nhưng chưa được vào; chỉ tìm thấy cuộn dây trong phần đồ đã chuyển ra, khung/dao còn trong. Hạn chế lối cứu tiếp ảnh hưởng sinh kế, không chỉ chỗ ngủ; chưa có bồi thường hoặc thay đồ nghề.
+- Tại viện, cuốn ghi ngày thứ mười hai và lời Bùi Ninh Viễn đối được người nhận lời xem dột/mảnh nhắn chờ tạnh, không xác nhận chủ sở hữu/quyền quản Nam Phố hoặc toàn bộ việc bảo trì. Lượt khảo sát mới chưa kết luận Bùi Gia gây sập.
+- Gói kim Hồ Nhuận Chi chưa tìm được, đã giữ phần nhờ theo nguồn lời bà; người ở viện còn cần chăm. Tin thợ phụ ở một trạm khác vẫn qua lời người về báo và Bùi Khánh Vân chuyển, chưa nguồn viện tự nhận.
+- Lượt gọi đội/xem tiếp/lấy đồ phải được báo có làm được hay không trước tối theo lời Bùi Ninh Viễn nhận; cuối chương chưa có kết quả. Mạng thuốc, Hắc Nha và tuyến chìa/trang mất tiếp tục riêng.
+
+Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]], [[Bùi Ninh Viễn]].

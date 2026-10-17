@@ -53,7 +53,7 @@ Nhân vật dân sinh, Tế Sinh Viện, Nam Phố và các cơ quan/nhà có ho
 - [Bùi Khắc Thành](B%C3%B9i%20Kh%E1%BA%AFc%20Th%C3%A0nh.md) — `de-xuat` — Thành viên **đề xuất**, chưa xuất hiện trong chương truyện. Hồ sơ này triển khai từ gia phả dự kiến; tên, tuổi, quan hệ và tiểu sử có thể thay đổi trước khi được tác giả chốt.
 - [Bùi Khắc Vinh](B%C3%B9i%20Kh%E1%BA%AFc%20Vinh.md) — `de-xuat` — Thành viên **đề xuất**, chưa xuất hiện trong chương truyện. Hồ sơ này triển khai từ gia phả dự kiến; tên, tuổi, quan hệ và tiểu sử có thể thay đổi trước khi được tác giả chốt.
 - [Bùi Nguyên Bảo](B%C3%B9i%20Nguy%C3%AAn%20B%E1%BA%A3o.md) — `de-xuat` — Thành viên **đề xuất**, chưa xuất hiện trong chương truyện. Hồ sơ này triển khai từ gia phả dự kiến; tên, tuổi, quan hệ và tiểu sử có thể thay đổi trước khi được tác giả chốt.
-- [Bùi Ninh Viễn](B%C3%B9i%20Ninh%20Vi%E1%BB%85n.md) — `de-xuat` — Thành viên **đề xuất**, chưa xuất hiện trong chương truyện. Hồ sơ này triển khai từ gia phả dự kiến; tên, tuổi, quan hệ và tiểu sử có thể thay đổi trước khi được tác giả chốt.
+- [Bùi Ninh Viễn](B%C3%B9i%20Ninh%20Vi%E1%BB%85n.md) — `da-xuat-hien` — CHAR-026, hạng C; lần đầu trực tiếp Chương 62. Nhận dòng giao việc ngày thứ mười hai/mảnh nhắn chờ tạnh, tự nói chưa tới trước sập; khảo sát phía ngoài nhà trú theo phạm vi đội cứu, chưa nhận lối dùng được. Tuổi 26/gia phả giữ lớp thiết kế.
 - [Bùi Tố Vân](B%C3%B9i%20T%E1%BB%91%20V%C3%A2n.md) — `de-xuat` — Thành viên **đề xuất**, chưa xuất hiện trong chương truyện. Hồ sơ này triển khai từ gia phả dự kiến; tên, tuổi, quan hệ và tiểu sử có thể thay đổi trước khi được tác giả chốt.
 
 ## Tuyến bến nước — nhận diện qua hồ sơ
@@ -65,9 +65,9 @@ Nhân vật dân sinh, Tế Sinh Viện, Nam Phố và các cơ quan/nhà có ho
 - [Đinh Bá Nghiêm](%C4%90inh%20B%C3%A1%20Nghi%C3%AAm.md) — `da-xuat-hien` — CHAR-060, hạng C; tên Chương 56, lần đầu trực tiếp Chương 57. Nhận giao phiếu/chép mặt sau; Chương 58 trực tiếp nhận Tề Duy Cẩn là người đọc cho chép, trách nhiệm người mua cuối vẫn chưa được giải. Không có mặt ở hiện trường nhà trú.
 
 
-## Mốc cảnh hiện hành — cuối Chương 61
+## Mốc cảnh hiện hành — cuối Chương 62
 
-Gần trưa ngày thứ mười bốn tại Tế Sinh Viện: Lưu Định đã xem lại cổ tay và vào viếng Mạnh Thanh Tễ, vẫn hoãn chuyến nặng. Khương Tố Nương/con được giữ chỗ ở chung nhưng chưa chuyển, cần viện đối mỗi sáng. Bùi Khánh Vân lần đầu trực tiếp, phiếu hẹn tới bàn nhận việc Bùi Gia do chấp sự giữ có nhận; bản ghi giao việc/người nhận thực tế và người đưa lời còn cần đối. Lâm Uyên chỉ nhận phần mình thấy, còn thương và buồn; Tô Thanh Ly hỗ trợ trong giới hạn tay. Mạnh Thanh Tễ đã mất, đồ viện giữ, nguồn liên hệ chưa có kết quả; Hồ Nhuận Chi/Tô Tín không có cảnh mới làm thay đổi tình trạng. Tra [[Trạng Thái Truyện Sau Chương 61]] trước khi viết tiếp.
+Chiều ngày thứ mười bốn, Lâm Uyên/Tô Thanh Ly đã đi một lượt ngắn bằng xe tới nhà trú theo phép y sư/chấp sự rồi về viện, tay phải vẫn thương, chưa gỡ hộ tống/quản thúc. Bùi Ninh Viễn lần đầu trực tiếp, nhận dòng giao việc/mảnh nhắn nhưng chưa tới trước sập; khảo sát phía ngoài chưa nhận lối sát sân dùng được, còn lời hẹn gọi đội/báo trước tối chưa hoàn thành. Người làm giỏ chỉ nhận lại cuộn dây, khung/dao còn trong; gói kim Hồ Nhuận Chi vẫn chưa tìm, bà đang nghỉ. Bùi Khánh Vân báo nguồn người cùng đi về một trạm nhận thợ phụ, chưa tự tới đối; không nhập thành nguồn viện đã nhận. Lâm Uyên trở lại viếng thầy, còn chờ hồi đáp liên hệ thân nhân, chưa chôn cất hoặc bàn giao đồ. Khương Tố Nương/con vẫn theo thỏa thuận chỗ chung Chương 61, không có cảnh chuyển mới; Lưu Định/Tô Tín không có cảnh làm đổi trạng thái. Tra [[Trạng Thái Truyện Sau Chương 62]] trước khi viết tiếp.
 
 ## Quy ước của thư mục
 

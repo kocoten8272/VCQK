@@ -178,3 +178,17 @@ Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]].
 - Quản thúc/hộ tống giữ nguyên, đi đâu vẫn phải báo. Dược Khế bảy tháng không đổi; không có quyết định về Hắc Phong Sơn, nguồn thuốc, chìa/trang mất hoặc sinh tử thật của Lâm Chinh.
 
 Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
+
+## Trạng thái mới theo bản thảo Chương 62
+
+- Qua trưa ngày thứ mười bốn nghe Bùi Ninh Viễn nhận dòng giao việc/mảnh nhắn và chưa tới xem nhà trước lúc sập. Khó chịu, muốn lời giải cho cái chết của thầy nhưng chưa biết nguyên nhân kết cấu; không biến lời nhận trì hoãn thành chứng cứ người này gây sập.
+- Xin đi một lượt ngắn tới nhà trú. Chấp sự hỏi mục đích/phạm vi, y sư xem lại băng và cho đi bằng xe có người theo; không tự gỡ quản thúc hoặc trở lại vùng dưới mái. Tô Thanh Ly đi cùng theo phần tay thương đã được hỏi.
+- Chỉ tới ngoài lối đội cứu giữ, ngồi ở điểm được chuyển xa. Nghe khảo sát giới hạn ở phần nhìn được, chưa nhận lối sát sân dùng được; không yêu cầu hai người khỏe vào lấy đồ thay mình.
+- Giúp đọc lại phần đồ của người làm giỏ: tìm được cuộn dây, khung/dao còn trong. Không hứa lấy ra trong ngày, không có cảnh người ấy hết giận hoặc mọi sinh kế được cứu.
+- Nhờ ghi gói kim Hồ Nhuận Chi còn tìm theo lời chính bà; nói rõ mình chưa thấy vật. Chưa lấy được hoặc biết vị trí gói kim, không lục thay toàn bộ chủ đồ.
+- Tay trái mỏi nên không cầm bút khi đối đồ, chỉ đọc lại phần người làm giỏ nhờ; tay phải còn đau dưới băng, vai mỏi. Trở về theo hẹn viện, y sư dặn tối không cố viết. Không khiêng đồ, kê/cân/phối thuốc, tăng tu vi hoặc hồi phục mới.
+- Nghe Bùi Khánh Vân báo nguồn người đi cùng về nơi nhận thợ phụ; bà còn phải đối trực tiếp, viện chưa tự nhận nguồn ấy. Hỏi việc báo gia đình theo địa chỉ đang tìm, chưa xác nhận đã liên hệ.
+- Chiều sang gian yên thắp hương/kể việc, nhận ra mình vẫn chờ thầy trả lời rồi khóc. Giúp người không xóa mất mát; không nhận di sản, lời thề đã có thủ phạm hoặc trách nhiệm lo tang thay người khác.
+- Dược Khế bảy tháng, hộ tống/quản thúc và thương tay giữ nguyên. Chưa có tin mới giải Hắc Phong Sơn, người mua thuốc, chìa/trang mất hoặc sinh tử thật của Lâm Chinh.
+
+Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].

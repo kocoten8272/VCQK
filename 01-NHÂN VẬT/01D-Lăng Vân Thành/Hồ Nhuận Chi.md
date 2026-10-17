@@ -5,7 +5,7 @@ importance-tier: C
 vai-tro: nhan-vat-phu
 status: da-xuat-hien
 created: 2026-10-13
-updated: 2026-10-15
+updated: 2026-10-18
 tags:
   - nhan-vat
   - nam-pho
@@ -78,3 +78,12 @@ Tra việc chữa trị/chỗ ở/giỏ khi dùng tiếp. Cảnh sau phải có 
 - Rạng ngày thứ mười bốn vẫn cần y sư. Chưa khỏi, xuất viện hoặc có kết quả mới về chỗ ở/đồ nghề; không tự hiểu nguyên nhân nhà trú sập.
 
 Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]].
+
+## Trạng thái mới theo bản thảo Chương 62
+
+- Không có đối thoại hoặc lượt khám trực tiếp mới của bà. Khi Lâm Uyên về, người giám dược báo bà còn nghỉ và nhận phần ghi về gói kim; không gọi người bệnh dậy để đối.
+- Tại nhà trú, người giữ giỏ xem phần ghi rồi nói chưa có gói kim được đưa tới, giỏ áo đã theo về viện từ hôm trước. Lâm Uyên chỉ nhắc lại lời bà từng kể, không biết gói kim đang nằm chính xác ở đâu sau lần sụp tiếp.
+- Đã được ghi thành phần còn tìm theo đúng chủ/lời nhờ, chưa lấy lại gói kim hoặc xác nhận mất hẳn. Lâm Uyên không được vào dưới mái để tìm.
+- Tình trạng thương chân/cần theo dõi còn giữ; chưa có nguồn xác nhận hồi phục, xuất viện, chỗ ở mới hoặc nối lại nghề.
+
+Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].

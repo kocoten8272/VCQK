@@ -18,8 +18,9 @@ used_in_chapters:
   - 59
   - 60
   - 61
+  - 62
 created: 2026-10-08
-updated: 2026-10-17
+updated: 2026-10-18
 tags:
   - nhan-qua
   - cai-gia
@@ -29,7 +30,7 @@ tags:
 
 # PAT-001-Giới Hạn Làm Thay Đổi Lựa Chọn
 
-> Mẫu kỹ thuật do người viết thiết kế cho VCQK từ [[REF-001-Nguồn Về Sinh Tồn Và Giới Hạn]]. `ready` nghĩa là dùng được để lập cảnh; đã áp dụng có phạm vi ở bản thảo Chương 55–61.
+> Mẫu kỹ thuật do người viết thiết kế cho VCQK từ [[REF-001-Nguồn Về Sinh Tồn Và Giới Hạn]]. `ready` nghĩa là dùng được để lập cảnh; đã áp dụng có phạm vi ở bản thảo Chương 55–62.
 
 ## Vấn đề cần xử lý
 
@@ -123,3 +124,9 @@ Tra [[LOG-007-Áp Dụng Kỹ Thuật Trong Chương 60]]. Đây là sử dụng
 Lâm Uyên không nhận tổng người mình không thấy, làm phần đối mẹ con và nhờ viện nhận trách nhiệm hằng ngày. Lưu Định muốn góp xe nhưng chưa đủ sức, Bùi Khánh Vân không dùng phiếu hẹn xác nhận đã làm đủ. Kết quả giữ chỗ có điều kiện/phiếu đã giao khác việc chỉ chờ giấy. Buồn vẫn trở lại, không dùng việc có ích làm chứng khỏi đau.
 
 Tra [[LOG-008-Áp Dụng Kỹ Thuật Trong Chương 61]]/[[REF-005-Nguồn Về Phản Ứng Và Lựa Chọn Sau Biến Cố]]. SEED-001/002 chưa dùng; không nhận phản hồi độc giả hoặc biến mẫu thành luật canon.
+
+## Lần áp dụng tại bản thảo Chương 62
+
+Từ đối nguồn sang ngoại vi, việc không thể mở lối làm người dân mất cơ hội lấy khung/dao và nhân vật không thể mang kim về. Bùi Ninh Viễn nhận phần chưa tới, không sai thợ vào nơi chưa xem đủ; đổi sang gọi đội thích hợp và quay báo trước tối. Lâm Uyên đi ngắn có người theo/nghỉ, về với việc chưa được làm, không có sức mạnh từ buồn đau.
+
+Tra [[LOG-009-Áp Dụng Kỹ Thuật Trong Chương 62]]. SEED-001/002 chưa dùng, không nhận phản hồi độc giả hoặc nguyên lý nghề là kỹ thuật từ nguồn cứu hộ.

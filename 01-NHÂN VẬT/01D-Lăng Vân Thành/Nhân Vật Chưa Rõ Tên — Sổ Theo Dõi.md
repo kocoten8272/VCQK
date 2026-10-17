@@ -197,3 +197,21 @@ Bùi Khánh Vân dùng hồ sơ chính CHAR-022, không tạo người giữ b�
 
 
 Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
+
+## Vai trò được phân biệt ở Chương 62
+
+| Vai | Điều mới theo cảnh/nguồn | Giới hạn |
+| --- | --- | --- |
+| Người nhận lời xem nhà trú của Bùi Gia | Nay có tên Bùi Ninh Viễn, CHAR-026; trực tiếp nhận dòng giao ngày thứ mười hai/mảnh nhắn, đi khảo sát phía ngoài | Dùng hồ sơ chính [[Bùi Ninh Viễn]], không tạo một thợ khảo sát vô danh trùng người. Lời về công việc cống trước sập còn là tự nhận, không chứng minh nguyên nhân sập. |
+| Người phụ việc chuyển lời đợi tạnh | Bùi Ninh Viễn nhận đã giao chuyển mảnh giấy; người trông nhà nhận đúng mảnh từng tới | Tên chưa biết, không trực tiếp xuất hiện; không tự gộp thợ phụ Bùi Khánh Vân đang tìm hoặc người giao giấy mạng thuốc. |
+| Người phụ trách cứu/người giữ bản ghi/giữ lối | Chỉ phần được tới, trả lời phạm vi đã dọn, dời điểm chờ và giữ không cho tự vào dưới mái, còn gọi nguồn khác đối lượt cáng | Chức năng có thể thuộc nhiều người, chưa tên hoặc gộp thành Bùi Ninh Viễn/chấp sự/thợ Hắc Phong Sơn. Không xác nhận toàn nhà an toàn hay tìm đủ người. |
+| Người làm giỏ ôm bao lép | Trực tiếp xin lấy khung/dao để làm trả chỗ ở, phản đối đợi thêm; nhận cuộn dây qua nút buộc, khung/dao còn trong | Chưa tên chính thức/tuổi/tu vi hoặc hồ sơ độc lập; không gộp phu xe Lưu Định, Hồ Nhuận Chi hay người tìm vợ. Chưa được đền bù, hết giận hoặc phục hồi nghề. |
+| Hai người đợi lấy đồ/người nhận áo/rổ | Người giữ bó dây, người chỉ gian; phần đồ ngoài lần lượt có chủ nhận | Không tự gộp tất cả thành cùng người, không biết tên/sinh tử người khác hay chứng minh mọi tài sản đã lấy đủ. |
+| Người trông nhà/người giữ giỏ/người ghi đồ | Đối nhận cuộn dây, giữ phần khung/dao còn thiếu; nhận nhờ về gói kim Hồ Nhuận Chi theo lời nguồn | Không tự đủ chứng cứ chủ sở hữu mọi món, không nhận đã tìm gói kim hoặc biết vị trí nó sau sụp tiếp. Lâm Uyên không viết tiếp khi tay trái mỏi. |
+| Y sư xem tay/người đánh xe/người theo xe/chấp sự | Cho đi một lượt ngắn có phạm vi, xe chậm/giúp bậc/giữ tay khỏi chịu lực, nhắc về viện rồi xem lại tay | Giữ nghề/quyền từng người; không gộp y sư với viện chủ hoặc đồng nhất mọi ca hộ tống. Chưa gỡ quản thúc/thương tích. |
+| Thợ phụ/người cùng đi về báo Bùi Khánh Vân | Bà chuyển lời đã tìm đúng người ở trạm khác, đang giữ xem chân; bà còn phải tới đối trực tiếp, nhờ tìm địa chỉ báo gia đình | Chưa cảnh thợ/trạm hoặc xác nhận độc lập, chưa nhập phần nhận của Tế Sinh Viện. Không gộp người cứu mắc gấu áo Chương 59, chưa hẹn trở lại làm công. |
+| Giám dược/người trực gian yên | Nhận phần ghi gói kim, nói Hồ Nhuận Chi đang nghỉ; người trực hướng dẫn/đỡ hương khi Lâm Uyên mỏi, giữ lượt viếng | Chưa tên/cùng người với các ca cũ; không cho học trò quyền trị bệnh hoặc trả lời thay Mạnh Thanh Tễ. Viện vẫn chờ hồi đáp, chưa có người nhận là thân nhân. |
+
+Khung gia phả của Bùi Ninh Viễn không tự thành tri thức nhân vật chỉ vì tên đã xuất hiện. Những vai chuyển tin/giữ lối/cứu người vẫn tách với tuyến thuốc, chìa/trang mất và Hắc Nha.
+
+Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].

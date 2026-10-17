@@ -62,3 +62,13 @@ Gia phả, tên, quan hệ, độ tuổi, động cơ và chức năng trong h�
 - Chào viện chủ rồi rời viện để gọi người giữ bản ghi/hỏi người về báo; chưa có cảnh gặp lại những người ấy. Quan hệ với mạng thuốc, Hắc Nha hoặc Tả tiên sinh không được xác lập.
 
 Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
+
+## Diễn biến theo bản thảo Chương 62
+
+- Qua trưa ngày thứ mười bốn trở lại viện cùng Bùi Ninh Viễn, mang cuốn ghi việc; chỉ dòng ngày thứ mười hai để chấp sự đối hai tờ phiếu. Cuốn ghi có thêm tên Bùi Ninh Viễn, người này trực tiếp nhận phần được giao và mảnh nhắn; chưa là nghiệm thu hoặc kết luận nguyên nhân sập.
+- Ở lại viện đối cuốn ghi/tìm tin thợ phụ, không theo khảo sát hoặc nói thay kết quả hiện trường.
+- **Lời bà báo cuối chiều:** Người cùng đi đã tìm thấy thợ phụ ở một trạm nhận bệnh khác, phía đó đang giữ để xem chân; người về báo nói đã tới nhận đúng người. Bà còn phải sang đối trực tiếp, chưa có lời xác nhận độc lập từ trạm, cảnh người thợ hoặc bằng chứng sinh tử do người kể trực tiếp biết.
+- Đang nhờ tìm địa chỉ liên hệ theo bảng công để báo người trong nhà thợ. Chấp sự ghi nơi cần hỏi, không nhập lời báo thành danh sách viện đã tự nhận; chưa có cảnh liên hệ được, trả công hoặc cho người thợ trở lại việc.
+- Gia phả/tuổi chính xác vẫn là thiết kế, không tự thành tri thức của Lâm Uyên. Chưa liên hệ mạng thuốc, Hắc Nha hoặc Tả tiên sinh.
+
+Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].

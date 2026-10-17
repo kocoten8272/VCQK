@@ -9,7 +9,7 @@ tags:
 
 # Sổ Theo Dõi Lần Xuất Hiện
 
-> Bảng nền rà soát Chương 1–52; cập nhật Chương 53–61 ở các mục dưới. Mốc “lần cuối” có thể là hậu quả/nhắc lại, không khẳng định người có mặt trong cảnh. Mở hồ sơ nguồn trước khi viết tiếp.
+> Bảng nền rà soát Chương 1–52; cập nhật Chương 53–62 ở các mục dưới. Mốc “lần cuối” có thể là hậu quả/nhắc lại, không khẳng định người có mặt trong cảnh. Mở hồ sơ nguồn trước khi viết tiếp.
 
 ## Đã xuất hiện hoặc được nhận diện
 
@@ -199,3 +199,18 @@ Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]], [[Chương
 Hồ Nhuận Chi chỉ được nhắc qua lượt cáng cũ, không có cảnh khám/kết quả mới. Tô Tín, Tô Lạc và các người Hòa Sinh/chìa/trang không có diễn biến trực tiếp mới. Vai vô danh phân biệt tại [[Nhân Vật Chưa Rõ Tên — Sổ Theo Dõi]], không cấp hồ sơ mới vì một lượt gọi.
 
 Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
+
+## Mốc mới theo bản thảo Chương 62
+
+| ID | Nhân vật | Kiểu/mốc | Nơi cuối và giới hạn |
+| --- | --- | --- | --- |
+| CHAR-026 | [[Bùi Ninh Viễn]] | **Lần đầu trực tiếp/có tên** | Qua trưa ở viện nhận dòng giao việc ngày12; sau tới ngoài nhà trú, cuối trực tiếp còn đối chỗ để gọi đội. Hẹn quay báo trước tối, chưa báo lại trong62 |
+| CHAR-022 | Bùi Khánh Vân | Trực tiếp hai lượt tại viện | Mang cuốn ghi việc cùng Bùi Ninh Viễn, ở lại đối; sau báo tin thợ phụ qua người cùng đi, chuẩn bị sang trạm đối trực tiếp |
+| CHAR-005 | Lâm Uyên | Trực tiếp viện→ngoài nhà trú→viện | Lượt xe ngắn được hỏi/xem thương, có người theo, không vào mái. Cuối bên thi thể, thắp hương bằng trái/cần người nhận giúp khi mỏi |
+| CHAR-006 | Tô Thanh Ly | Trực tiếp cùng chuyến xe | Hỏi nguồn và giúp đối đồ/phần cáng, không nâng bằng phải. Về viện theo hẹn, không gỡ nghĩa vụ |
+| CHAR-037 | Mạnh Thanh Tễ | Thi thể/cảnh hương, không hành động sống | Gian yên viện, chưa thân nhân tới nhận/chôn/trao di vật |
+| CHAR-063 | Hồ Nhuận Chi | Nhắc qua gói kim và tin đang nghỉ | Không trực tiếp nói/khám mới; giỏ đã viện, kim chưa thu, Lâm Uyên gửi phần ghi cho giám dược |
+
+Khương Tố Nương/con, Lưu Định, Tô Tín không có diễn biến trực tiếp mới; giữ điều kiện chỗ ở/tái khám/thương tích theo61. Người thợ phụ chỉ tin qua Bùi Khánh Vân, không tự thêm lần trực tiếp hoặc chắc sống tại viện. Người ôm bao/đóng nan giỏ là vai vô danh mới, chưa tên/tuvi/gia đình; nguồn ở sổ vai.
+
+Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].

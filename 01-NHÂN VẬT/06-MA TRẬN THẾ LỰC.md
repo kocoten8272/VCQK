@@ -131,3 +131,14 @@ Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]], [[Lưu Đ�
 - Không nối trách nhiệm sửa nhà với Hắc Nha/Hòa Sinh/Tả tiên sinh, không biến cả gia tộc thành phản diện từ phiếu hẹn.
 
 Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
+
+## Phạm vi nghề nghiệp và quyền hạn Chương 62
+
+- **Bùi Gia / Bùi Ninh Viễn CHAR-026:** Lần đầu người khảo sát lên trang, dòng giao ngày12 và lời tự nhận chưa tới. Tự nhận lời nhờ chuyển đợi tạnh khi còn việc cống; không là lệnh tống xuất/chứng nhận an toàn hoặc giải thích toàn trách nhiệm gia tộc.
+- **Bùi Khánh Vân:** Giữ cuốn ghi việc tại viện để đối, không theo khảo sát/đọc thay số đo. Tin tìm thợ phụ còn qua người cùng đi, bà chuẩn bị đối nguồn trạm.
+- **Người phụ trách cứu:** Chỉ phạm vi được tới, dời chỗ chờ/giữ lối khi chưa thể mở. Chấp sự hộ tống/đối nguồn, không thay cơ quan điều tra kết cấu hoặc quản toàn Nam Phố.
+- **Nghề khảo sát/thợ làm:** Bùi Ninh Viễn không tự lấy việc chưa xem đủ làm căn cứ sai thợ vào; hẹn gọi đúng đội/giữ phần chưa làm và báo trước tối. Chưa có đội mới nhận việc hoặc tiền công/hợp đồng hoàn thành.
+- **Viện:** Y sư xem thương/cho chuyến ngắn, phần thuốc có người thay, sau dặn không cố viết. Nhân viên giữ tang/đồ/tin liên hệ; không gỡ Dược Khế7/4/quản thúc.
+- Không gộp nhà trú/đội cống với mạng thuốc/Hắc Nha/chìa hoặc đại thế lực.
+
+Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].

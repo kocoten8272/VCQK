@@ -140,3 +140,14 @@ Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]].
 - Tay phải còn thương, dùng phần tay lành/nhờ người khác; không khiêng đồ hoặc hồi phục mới. Dược Khế bốn tháng, kiếm bảo chứng và giới hạn đi lại giữ nguyên. Tuyến chìa/trang mất và mạng thuốc không có kết quả mới trong chương.
 
 Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
+
+## Trạng thái mới theo bản thảo Chương 62
+
+- Qua trưa ngày thứ mười bốn hỏi rõ mảnh nhắn của Bùi Ninh Viễn có hẹn buổi nào không; nhờ chấp sự giữ nguyên lời chỉ đợi tạnh. Chưa kết luận người này hoặc Bùi Gia gây sập.
+- Được hỏi phần tay thương rồi đi xe một lượt ngắn tới nhà trú cùng Lâm Uyên/chấp sự/người theo. Nhận không mang đồ hoặc tự vào phần đội cứu chưa cho; tới nơi chỉ ở ngoài lối, chuyển theo điểm chờ được chỉ.
+- Nhờ người trông nhà đưa phần đồ đã chuyển ra cho từng chủ nhận, hỏi người làm giỏ cần gì dùng ngay chiều ấy; không tự lấy khung/dao dưới mái hoặc nhận đã phục hồi sinh kế của ông.
+- Hỏi đối một lượt cáng sau lúc mình rời hiện trường ngày trước, dừng để người phụ trách gọi nguồn khác trả lời; mới nghe thêm một nơi nhận, chưa đủ ghép mọi lối/danh sách cuối.
+- Nhắc xe đi chậm khi xóc, nhờ lấy nước cho Lâm Uyên, chờ hắn lên xe ổn. Không nói thay người đã mất hoặc dùng lời khen/trấn an để xóa ngay đau buồn.
+- Tay phải vẫn thương, giữ yên/nhờ người khỏe; chưa hồi phục mới, kiếm vẫn làm bảo chứng, Dược Khế bốn tháng và giới hạn đi lại không đổi. Mạng thuốc/chìa/trang mất không có kết quả mới trong chương.
+
+Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].

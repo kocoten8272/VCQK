@@ -8,7 +8,7 @@ tags:
 
 # Sơ Đồ Quan Hệ Nhân Vật
 
-> Bảng nền có căn cứ đến Chương 52; cập nhật Chương 54–61 ở cuối. Đường liền là quan hệ được xác nhận; nét chấm là quan hệ xã hội/đang hình thành. Không suy chức quyền hay huyết thống từ cùng họ.
+> Bảng nền có căn cứ đến Chương 52; cập nhật Chương 54–62 ở cuối. Đường liền là quan hệ được xác nhận; nét chấm là quan hệ xã hội/đang hình thành. Không suy chức quyền hay huyết thống từ cùng họ.
 
 ## Gia đình Lâm Uyên
 
@@ -167,3 +167,18 @@ Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]], [[Chương
 Gia phả Bùi Khánh Vân đã duyệt vẫn thuộc lớp thiết kế, không coi Ch61 đã kể đủ họ hàng.
 
 Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
+
+## Quan hệ theo bản thảo Chương 62
+
+| Người | Liên hệ đã viết | Giới hạn |
+| --- | --- | --- |
+| Bùi Ninh Viễn → Bùi Khánh Vân/người trông nhà | Người có tên giao việc do cuốn bà giữ, nhận chữ lời hẹn với người trông nhà | Quan hệ nghề đang đối, gia phả chưa kể trong cảnh |
+| Lâm Uyên → Bùi Ninh Viễn | Hỏi việc chưa tới trước tai nạn, nghe nhận phần không làm; sau yêu cầu báo cả phần không làm được | Chưa tha thứ/thân hữu/định tội giết thầy, cần người có nghề trong việc hiện tại |
+| Bùi Ninh Viễn → người ôm bao/thợ khỏe | Không gọi thợ vào lối chưa xem được; hỏi nhu cầu đồ/sinh kế rồi nhận gọi đội phù hợp | Không quyền chấp pháp hoặc đảm bảo lấy hết, người mất đồ vẫn giận |
+| Tô Thanh Ly/Lâm Uyên → người dân chờ đồ | Hỏi phần cần dùng, đối đồ đã ở ngoài; nhận cuộn dây, khung/dao còn trong | Không trả toàn sinh kế, không được cảm tạ hoặc mua lại đồ thay |
+| Bùi Ninh Viễn → người phụ trách cứu | Xin phạm vi, giữ lối chưa mở, hỏi lượt làm tiếp và hẹn báo trước tối | Đội cứu quyết chỗ làm, lời hẹn chưa kết quả |
+| Bùi Khánh Vân → thợ phụ | Tin qua người cùng đi đã tìm ở trạm khác, bà muốn đối trực tiếp/liên hệ theo bảng công | Không người nhà được nhận diện, không nhân chứng thân thể trực tiếp của bà/Lâm Uyên |
+
+Tô Thanh Ly nghe cùng, giúp lối/chuyến xe/nghỉ; không giải mất mát bằng trấn an. Mạnh Thanh Tễ không có lời đáp/di nguyện mới.
+
+Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].

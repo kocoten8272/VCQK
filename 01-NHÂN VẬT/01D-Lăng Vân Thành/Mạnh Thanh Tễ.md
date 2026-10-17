@@ -152,3 +152,11 @@ Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]].
 - Việc giữ chỗ ở/đối giấy nhà trú tiếp diễn bởi người còn sống; chưa làm rõ nguyên nhân sập hoặc thủ phạm. Trạng thái da-qua-doi từ đêm ngày thứ mười ba giữ nguyên, không ghi ông có hành động mới.
 
 Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
+
+## Hậu quả theo bản thảo Chương 62
+
+- Chiều ngày thứ mười bốn, thi thể vẫn ở gian yên Tế Sinh Viện, còn các lượt viếng. Viện chờ hồi đáp từ đầu mối đã gửi tin; chưa có ai tới nhận là người nhà, không đồng nghĩa không có thân nhân.
+- Lâm Uyên trở về từ nhà trú, thắp hương bằng tay trái trong phạm vi người trực hướng dẫn, kể phần việc còn dang dở rồi khóc/chờ trong im lặng. Không có lời đáp, lời dạy mới, di nguyện hoặc chuyển giao sổ nghề từ người đã mất.
+- Nguyên nhân công trình và trách nhiệm vẫn chưa được kết luận dù đã có người nhận lời hẹn xem dột. Đồ ông vẫn do viện giữ, chưa có tang lễ hoàn chỉnh, chôn cất hoặc bàn giao di sản. Trạng thái qua đời đêm ngày thứ mười ba giữ nguyên.
+
+Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].

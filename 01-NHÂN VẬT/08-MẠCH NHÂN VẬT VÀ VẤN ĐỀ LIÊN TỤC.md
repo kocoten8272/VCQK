@@ -9,7 +9,7 @@ tags:
 
 # Mạch Nhân Vật Và Vấn Đề Liên Tục
 
-> Bảng nền sau Chương 52; tiến triển Chương 53–61 được lưu ở cuối. Đây là sổ theo dõi, không phải lệnh tự giải quyết tuyến.
+> Bảng nền sau Chương 52; tiến triển Chương 53–62 được lưu ở cuối. Đây là sổ theo dõi, không phải lệnh tự giải quyết tuyến.
 
 ## Open Character Threads
 
@@ -147,3 +147,16 @@ Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]], [[Chương
 - **Giữ tuyến khác:** HFS/chìa/trang/thuốc chưa có đáp mới61; không nhắc lại nguồn cũ thành sự kiện mới. Lâm Chinh UNKNOWN, Dược Khế7/4 và kiếm bảo chứng giữ.
 
 Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
+
+## Tiến triển theo bản thảo Chương 62
+
+- **Đối nguồn đã trả một phần:** Hai phiếu/cuốn ghi việc và tự nhận chỉ Bùi Ninh Viễn ngày12; anh nhận lời nhờ chuyển đợi tạnh/chưa tới. Người trông nhà nhận mảnh mình giữ, người phụ chuyển chưa tên. Không lặp tình trạng61 chưa biết giao ai.
+- **Việc hiện trường:** Ngoại vi được chỉ, người khảo sát chưa thể xác nhận dùng lối sát sân; người phụ trách dời chỗ chờ/giữ lối. Không sập lần ba, không vào mái lấy đồ hay kết luận căn nguyên.
+- **Hệ quả sinh kế:** Người đóng nan giỏ chỉ nhận lại cuộn dây đã đưa ra, khung/dao còn trong, giận vẫn đi. Lâm Uyên nhận giới hạn/giữ phần thiếu và nơi đợi, không hứa trả hết.
+- **Hẹn cần trả Ch63:** Bùi Ninh Viễn nhận về gọi đúng đội để xem/chuyển đồ và quay báo làm được hay không **trước tối14**; cuối cảnh Lâm Uyên về viện chiều, chưa thấy báo lại. Trả hẹn bằng kết quả/giới hạn cụ thể.
+- **Thợ phụ:** Bùi Khánh Vân báo qua người cùng đi đã tìm ở trạm khác/xem chân; bà còn phải đối trực tiếp/tìm liên hệ. Chưa làm lời qua nguồn thành mọi người đã tìm hoặc không còn nguy hiểm.
+- **Hồ Nhuận Chi:** Gói kim vẫn chưa thu, phần nhờ giám dược nhận; chưa gọi người đang nghỉ dậy hoặc nhận nghề đã phục hồi.
+- **Mạnh Thanh Tễ/Lâm Uyên:** Cuối chiều về viện, trái cầm hương cần người nhận giúp khi mỏi; còn chờ theo thói quen. Thân nhân/tang/đồ chưa bước quyết định mới, không chữa buồn bằng lời nhận lỗi của người khác.
+- **Các tuyến khác:** Giữ điều kiện chỗ ở Khương Tố Nương/con và khám Lưu Định đã có61, HFS/Hòa Sinh/chìa không thông tin mới.
+
+Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].

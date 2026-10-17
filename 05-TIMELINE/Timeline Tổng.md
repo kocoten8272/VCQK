@@ -135,3 +135,16 @@ Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]], liên hệ
 | Gần trưa | Lâm Uyên ăn/nghỉ, trở lại thầy khóc rồi xin nghe đối tiếp và hỏi lượt chưa tìm nơi nhận | Không tăng năng lực/khỏi thương, quản thúc/7–4 tháng giữ; buồn không hết |
 
 Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]]. Không có tiến triển HFS/thu hồi người–vật, không đổi cha Lâm Uyên hoặc sinh tử thật Lâm Chinh UNKNOWN.
+
+## Qua trưa đến cuối chiều ngày thứ mười bốn — Chương 62
+
+| Thời điểm | Sự kiện đã viết | Giới hạn |
+| --- | --- | --- |
+| Qua trưa14 tại viện | Bùi Khánh Vân mang cuốn ghi, Bùi Ninh Viễn có tên/nhận dòng chuyển ngày12; hai phiếu/mảnh lời hẹn được đối | Chuyện nhận việc/đang cống/chưa tới là lời tự nhận có phạm vi, không nguyên nhân nhà sập |
+| Sau nghỉ/xem thương | Lâm Uyên/Tô Thanh Ly xe ngắn có người theo, người trông nhà/Bùi Ninh Viễn tới trước | Không tự đi/gỡ quản thúc, không mang nặng |
+| Chiều tại ngoại vi | Người phụ trách chỉ chỗ, khảo sát phần nhìn được; lối sát sân chưa mở, dời chờ; nhận đồ đã ra | Không so dịch chuyển quá khứ, sập thứ ba hoặc lấy đồ dưới mái |
+| Trước lúc về | Bùi Ninh Viễn nhận gọi đội phù hợp/báo trước tối14, còn ở nhà trú lúc đoàn về | Chưa có kết quả lời hẹn, không tự cho tất cả thợ vào |
+| Đoàn về viện | Bùi Khánh Vân báo tin thợ phụ qua người cùng đi ở trạm khác, bà chuẩn bị đối; giám dược nhận nhờ kim | Chưa trạm được đối trực tiếp, chưa thu kim/đưa người bệnh khỏi viện |
+| Cuối chiều | Y sư nhắc nghỉ, Lâm Uyên xin hương bên thi thể, người trực giúp khi mỏi | Chưa người nhà nhận/tang/chôn/trao đồ; chưa tới sau hạn trước tối để khẳng định Bùi Ninh Viễn thất hẹn |
+
+Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]]. Ngày12 chỉ qua nguồn ghi/lời đối tại ngày14, không thêm cảnh hồi tố hoặc ngày lịch tuyệt đối.

@@ -3,7 +3,7 @@ type: the-gioi
 id: LOC-010
 status: dang-phat-trien
 created: 2026-10-09
-updated: 2026-10-09
+updated: 2026-10-18
 tags:
   - the-gioi
   - dia-diem
@@ -88,3 +88,16 @@ Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]], [[Mạnh T
 
 
 Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
+
+## Hiện trường và đầu mối theo bản thảo Chương 62
+
+- Chiều ngày thứ mười bốn, sân ngoài dọn rộng hơn, giỏ đồ đã chuyển ra được giữ ngoài chỗ chờ; phần tường/mái còn đứng chưa cho người tự đi vào. Không có lần sập mới hoặc kết luận đã cứu/tìm đủ mọi người.
+- Người phụ trách cứu chỉ phạm vi Bùi Ninh Viễn được tới. Anh khảo sát từ phía ngoài, căng dây/đánh dấu phần nhìn được; không có bản vẽ cũ để đối, chân tường có phần bị che nên chưa xác định mức xê từ trước hoặc nguyên nhân vách đầu tiên đổ.
+- Bùi Ninh Viễn chưa thể nhận lối sát sân dùng được. Người phụ trách cứu dời điểm chờ/giữ lối; người khỏe chuyển ghế/giỏ, người đang chờ phải lùi dù không có gì sập trước mắt. Không lấy đường phấn làm giấy phép tự vào.
+- Một người làm giỏ muốn lấy khung và dao vì cần tiếp việc, tự nguyện chịu nguy hiểm cũng không khiến đội gọi thêm người vào. Ông nhận lại cuộn dây qua phần đồ đã ở ngoài, còn khung/dao chưa lấy; không có bồi thường hoặc thay thế đầy đủ.
+- Gói kim Hồ Nhuận Chi vẫn chưa đưa tới giỏ nhận. Lâm Uyên nhờ ghi đúng chủ/phần áo theo lời bà, nói rõ chưa tận mắt thấy gói kim; không xác nhận vật đã mất hoặc nằm chính xác ở đâu sau sụp tiếp.
+- **Nguồn đối tại viện trước lượt đi:** Hai phiếu/đầu ghi ngày thứ mười hai có tên Bùi Ninh Viễn; anh nhận được chuyển lời xem dột, nhận mảnh nhắn chờ tạnh và tự nói chưa tới trước lúc sập. Người trông nhà nhận mảnh lời từng đưa tới. Tên người phụ việc chuyển lời chưa biết; công việc tại cống là lời tự nhận, không có cảnh cũ được chứng độc lập.
+- Bùi Ninh Viễn nhận về gọi người có khả năng làm lượt tiếp, quay báo có làm được hay không trước tối; người làm phải theo phần người phụ trách cứu cho. Cuối chương chưa có cảnh hoàn thành lượt gọi, lấy đồ, sửa hoặc mở lối.
+- Sở hữu/quản trị, hợp đồng bảo trì, nguyên nhân kết cấu, trách nhiệm cuối và tổng thương vong vẫn chưa xác định. Không nối với mạng thuốc/Hắc Nha/Tả tiên sinh; hai thanh gỗ viện không chuyển ra đây.
+
+Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]], [[Bùi Ninh Viễn]].
