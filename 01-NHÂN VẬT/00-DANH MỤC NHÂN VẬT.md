@@ -45,7 +45,7 @@ Mẫu dùng khi lập hồ sơ: [Mẫu Hồ Sơ Nhân Vật](M%E1%BA%AAU%20H%E1%
 | `01E-Vân Châu` | Liễu Gia, Kiếm Các, Thính Phong Lâu, Thương Hội, Tầm Chân Ti | Nhân vật mới của các thế lực cấp châu |
 | `01F-Thế Lực Bí Ẩn` | Vĩnh Sinh Môn, Di Kỷ Tộc và nhân vật chưa thể xếp công khai | Chuyển sang nhóm địa bàn/thế lực phù hợp khi thân phận được xác nhận rõ |
 
-Tính đến Chương 60, sổ cái có **63 hồ sơ cá nhân**, trong đó **20 hồ sơ mang trạng thái `da-xuat-hien`**. Các trạng thái `dang-phat-trien`, sống/chết và chỉ được nhắc đến được theo dõi riêng tại [[02-SỔ CÁI NHÂN VẬT]].
+Tính đến Chương 61, sổ cái có **63 hồ sơ cá nhân**, trong đó **21 hồ sơ mang trạng thái `da-xuat-hien`**. Các trạng thái `dang-phat-trien`, sống/chết và chỉ được nhắc đến được theo dõi riêng tại [[02-SỔ CÁI NHÂN VẬT]].
 
 ## Danh sách hồ sơ theo tuyến
 
@@ -119,7 +119,7 @@ Tính đến Chương 60, sổ cái có **63 hồ sơ cá nhân**, trong đó **
 - [Bùi Nguyên Bảo](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/B%C3%B9i%20Nguy%C3%AAn%20B%E1%BA%A3o.md) — `de-xuat`
 - [Bùi Khắc Thành](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/B%C3%B9i%20Kh%E1%BA%AFc%20Th%C3%A0nh.md) — `de-xuat`
 - [Bùi Ninh Viễn](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/B%C3%B9i%20Ninh%20Vi%E1%BB%85n.md) — `de-xuat`
-- [Bùi Khánh Vân](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/B%C3%B9i%20Kh%C3%A1nh%20V%C3%A2n.md) — `de-xuat`
+- [Bùi Khánh Vân](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/B%C3%B9i%20Kh%C3%A1nh%20V%C3%A2n.md) — `da-xuat-hien` — CHAR-022, hạng C; trực tiếp Chương 61, giữ bảng công bên Bùi Gia và đem phiếu hẹn chuyển lời nhờ xem nhà trú tới đối.
 - [Bùi Tố Vân](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/B%C3%B9i%20T%E1%BB%91%20V%C3%A2n.md) — `de-xuat`
 
 ### 01E-Vân Châu
@@ -138,7 +138,7 @@ Tính đến Chương 60, sổ cái có **63 hồ sơ cá nhân**, trong đó **
 - [Người Áo Đen (chưa rõ danh tính)](01F-Th%E1%BA%BF%20L%E1%BB%B1c%20B%C3%AD%20%E1%BA%A8n/Ng%C6%B0%E1%BB%9Di%20%C3%81o%20%C4%90en%20%28ch%C6%B0a%20r%C3%B5%20danh%20t%C3%ADnh%29.md) — `da-xuat-hien`
 - [Hắc Nha](01F-Th%E1%BA%BF%20L%E1%BB%B1c%20B%C3%AD%20%E1%BA%A8n/H%E1%BA%AFc%20Nha.md) — `chua-xuat-hien`
 
-## Nhân vật đã xuất hiện trong truyện (đối chiếu đến hết Chương 60)
+## Nhân vật đã xuất hiện trong truyện (đối chiếu đến hết Chương 61)
 
 > Danh sách này chỉ ghi người có mặt trong cảnh, được gọi tên trong lời kể/hồi ức có căn cứ, hoặc có vai trò cá nhân rõ. Nhân vật đề xuất và người chỉ được nhắc qua lời khai được tách riêng. Hồ sơ vẫn có thể ghi tuổi, cảnh giới hoặc quá khứ là “chưa nêu” nếu bản thảo chưa xác nhận.
 
@@ -158,10 +158,12 @@ Tính đến Chương 60, sổ cái có **63 hồ sơ cá nhân**, trong đó **
 - [Tô Trạch](01C-T%C3%B4%20Gia/T%C3%B4%20Tr%E1%BA%A1ch.md)
 - [Tô Nguyên Chấn](01C-T%C3%B4%20Gia/T%C3%B4%20Nguy%C3%AAn%20Ch%E1%BA%A5n.md)
 - [Tô Tín](01C-T%C3%B4%20Gia/T%C3%B4%20T%C3%ADn.md)
-- [Tô Lạc](01C-T%C3%B4%20Gia/T%C3%B4%20L%E1%BA%A1c.md) — đã chết; thi thể chưa được đưa về ở mốc Chương 60.
+- [Tô Lạc](01C-T%C3%B4%20Gia/T%C3%B4%20L%E1%BA%A1c.md) — đã chết; thi thể chưa được đưa về ở mốc Chương 61.
 - [Vương Phúc](01C-T%C3%B4%20Gia/V%C6%B0%C6%A1ng%20Ph%C3%BAc.md) — quản sự ngoại viện; tình trạng hiện tại chưa được kể.
 
 ### Lăng Vân Thành và Tế Sinh Viện
+
+- [Bùi Khánh Vân](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/B%C3%B9i%20Kh%C3%A1nh%20V%C3%A2n.md) — lần đầu trực tiếp Chương 61; giữ bảng công, bàn giao phiếu hẹn có nhận, đồng thời tìm nơi nhận thợ phụ. Chưa chứng minh trách nhiệm sập nhà.
 
 - [Kỷ Hành Chu](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/K%E1%BB%B7%20H%C3%A0nh%20Chu.md) — lần đầu trực tiếp Chương 55; quyết toán thuê Nam Phố.
 - [Phan Kính](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Phan%20K%C3%ADnh.md) — người coi thuyền Chương 47, tên đọc Chương 55; trực tiếp trình lời/bàn giao tờ đổi Chương 56.
@@ -169,17 +171,17 @@ Tính đến Chương 60, sổ cái có **63 hồ sơ cá nhân**, trong đó **
 - [Đỗ Hoài Chương](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/%C4%90%E1%BB%97%20Ho%C3%A0i%20Ch%C6%B0%C6%A1ng.md) — trực tiếp xuất hiện Chương 54, thợ sửa sách nhà hong.
 
 - [Lão Bán Pháp Khí](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/L%C3%A3o%20B%C3%A1n%20Ph%C3%A1p%20Kh%C3%AD.md) — biệt danh nghề nghiệp; tên thật chưa nêu.
-- [Mạnh Thanh Tễ](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/M%E1%BA%A1nh%20Thanh%20T%E1%BB%85.md) — qua đời trong đêm ngày13 theo bản thảo Chương 60 sau cứu chữa; thi thể ở gian yên của viện, chưa tang lễ/đồ bàn giao.
+- [Mạnh Thanh Tễ](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/M%E1%BA%A1nh%20Thanh%20T%E1%BB%85.md) — qua đời trong đêm ngày13 theo bản thảo Chương 60; Chương 61 có lượt viếng trong gian yên viện, chưa chôn cất/bàn giao đồ.
 - [Trần Dực](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Tr%E1%BA%A7n%20D%E1%BB%B1c.md)
 - [Tạ Nghiên Chi](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/T%E1%BA%A1%20Nghi%C3%AAn%20Chi.md)
 - [Tạ Hạnh](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/T%E1%BA%A1%20H%E1%BA%A1nh.md)
-- [Lưu Định](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/L%C6%B0u%20%C4%90%E1%BB%8Bnh.md) — trực tiếp Chương 60 sáng14 tới xem lại cổ tay, tự báo đã tới trạm; nghe tin Mạnh Thanh Tễ, xin thăm sau khám chưa có cảnh thực hiện.
+- [Lưu Định](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/L%C6%B0u%20%C4%90%E1%BB%8Bnh.md) — Chương 61 cổ tay vẫn sưng đau, hoãn chuyến nặng chờ tái khám; đã được dẫn vào viếng Mạnh Thanh Tễ. Việc tới trạm trước đó vẫn là lời tự kể.
 - [Viện Chủ Tế Sinh Viện (chưa rõ tên)](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Vi%E1%BB%87n%20Ch%E1%BB%A7%20T%E1%BA%BF%20Sinh%20Vi%E1%BB%87n%20(ch%C6%B0a%20r%C3%B5%20t%C3%AAn).md) — chức danh, chưa rõ tên riêng.
 
 - [Đinh Bá Nghiêm](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/%C4%90inh%20B%C3%A1%20Nghi%C3%AAm.md) — `da-xuat-hien` — tên Chương 56, trực tiếp Chương 57 nhận phần giao/chép; Chương 58 nhận người đọc cho chép tại Hòa Sinh, không có mặt ở hiện trường nhà trú.
 - [Thẩm Từ Nghi](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Th%E1%BA%A9m%20T%E1%BB%AB%20Nghi.md) — `da-xuat-hien` — gia chủ Thẩm Gia, trực tiếp Chương 57 trong giao dịch nguyên liệu tại viện; bao giữ hộ được trả tối ngày thứ mười qua người làm ở Chương 58.
 - [Tề Duy Cẩn](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/T%E1%BB%81%20Duy%20C%E1%BA%A9n.md) — `da-xuat-hien` — CHAR-061, hạng C; lần đầu trực tiếp Chương 58 tại bàn giấy cửa bên Hòa Sinh, nhận đọc lời/lập phiếu/đề nghị chia hai lượt giao; người mua cuối vẫn chưa xác định.
-- [Khương Tố Nương](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Kh%C6%B0%C6%A1ng%20T%E1%BB%91%20N%C6%B0%C6%A1ng.md) — `da-xuat-hien` — CHAR-062, hạng C; lần đầu trực tiếp Chương 58, người vá áo thuê bị kẹt chân trong nhà trú Nam Phố, được chuyển cùng con nhỏ tới Tế Sinh Viện; giới tính đứa trẻ chưa nêu.
+- [Khương Tố Nương](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Kh%C6%B0%C6%A1ng%20T%E1%BB%91%20N%C6%B0%C6%A1ng.md) — `da-xuat-hien` — CHAR-062, hạng C; lần đầu trực tiếp Chương 58. Chương 61 được giữ chỗ ở chung với con, cần viện đối mỗi sáng tới lúc y sư cho chuyển; mẹ con vẫn tại viện, giới tính trẻ chưa nêu.
 - [Hồ Nhuận Chi](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/H%E1%BB%93%20Nhu%E1%BA%ADn%20Chi.md) — `da-xuat-hien` — CHAR-063, hạng C; có tên Chương 59, nối vai mắc chân cuối58, tự nhận giỏ áo/nghề và đã được viện nhận; chưa khỏi.
 
 ### Thế lực chưa rõ
@@ -196,7 +198,7 @@ Tính đến Chương 60, sổ cái có **63 hồ sơ cá nhân**, trong đó **
 
 ## Theo dõi trạng thái hiện tại
 
-Trạng thái mỗi người nằm trong frontmatter của hồ sơ. Danh sách “đã xuất hiện” ở trên được cập nhật theo nguồn đến Chương 60; mốc chi tiết và kiểu xuất hiện xem [[03-SỔ THEO DÕI LẦN XUẤT HIỆN]]. Những nhân vật mới được đặt hồ sơ tạm có thể chưa có tuổi, cảnh giới hoặc tên thật; không điền suy đoán thành canon.
+Trạng thái mỗi người nằm trong frontmatter của hồ sơ. Danh sách “đã xuất hiện” ở trên được cập nhật theo nguồn đến Chương 61; mốc chi tiết và kiểu xuất hiện xem [[03-SỔ THEO DÕI LẦN XUẤT HIỆN]]. Những nhân vật mới được đặt hồ sơ tạm có thể chưa có tuổi, cảnh giới hoặc tên thật; không điền suy đoán thành canon.
 
 | Trạng thái | Ý nghĩa |
 | --- | --- |

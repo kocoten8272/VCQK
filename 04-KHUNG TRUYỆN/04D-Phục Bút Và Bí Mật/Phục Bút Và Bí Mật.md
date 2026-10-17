@@ -175,3 +175,18 @@ Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhu
 Tin mất đến từng người trong phạm vi cảnh, không tự ghi toàn thành đã biết. Vệt màu thuốc/ngón tay, câu hỏi còn dở và chỗ ngồi trống là hậu quả ký ức/quan hệ, không manh mối của linh hồn hoặc bí ẩn cấp thế giới mới.
 
 Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]], [[Chương 49]], [[Lưu Định]].
+
+## Tiến triển theo bản thảo Chương 61
+
+| Đầu mối/lời hứa | Điều đã có | Phần còn mở |
+| --- | --- | --- |
+| Lưu Định xin thăm sau khám | Đã khám cổ tay/hoãn chuyến nặng và viếng thực tế | Chờ tái khám/việc làm; không mở lại yêu cầu thăm như chưa trả |
+| Người sống mất chỗ ở | Mẹ con Khương Tố Nương được giữ cùng chỗ với đối mỗi sáng, đợi y sư cho chuyển | Chưa xuất viện/chỗ ở mọi người; sổ giao gian chưa là tổng người |
+| Giấy quản/sửa nhà trú | Bùi Khánh Vân mang phiếu hẹn tới bàn nhận việc Bùi Gia; trên bản ấy phần làm/nhận lại trống, chấp sự giữ có mảnh nhận | Chờ bản ở nhà trú/ghi giao việc Bùi Gia và người nhận; khoảng trống không chứng minh đã không sửa hoặc tội ai |
+| Người đưa lời “đợi tạnh” | Người trông nhà tự kể, không phải lời trực tiếp Bùi Khánh Vân | Chưa nhận diện/đối nguồn, không biến một lời thành chủ mưu |
+| Thợ phụ được Bùi Khánh Vân hỏi | Theo người đi cùng về báo tới giúp chuyển đồ, chưa thấy trong phần Lâm Uyên ghi thì hỏi nơi khác | Chưa vị trí/sinh tử; không kết án/thêm bi kịch đã xảy ra |
+| Mạnh Thanh Tễ | Lượt viếng cuối buổi sáng, tin gửi/chờ, thi thể/đồ ở viện | Thân nhân/ý nguyện/tang tiếp, không di sản/hồi sinh/câu trả lời các mạng |
+
+HFS/Hòa Sinh/người mua/chìa/trang giữ nguồn cũ, không có lời giải mới61. Kết mở ở việc đối phiếu/người còn chờ chỗ, không thêm bí ẩn cấp thế giới.
+
+Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].

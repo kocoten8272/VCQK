@@ -122,3 +122,16 @@ Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]]. Không nh�
 | Rạng/sáng14 | Mưa dứt một quãng, Lưu Định tới xem cổ tay, kể chuyện trạm/giấy49 và được báo chết; Lâm Uyên xin phụ sau y sư xem tay | Chưa kết quả khám/nhận chuyến nặng/thăm thầy; nỗi buồn tiếp, không công pháp/đột phá |
 
 Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]], liên hệ [[Chương 49]]. Không ngày lịch tuyệt đối/giờ chết, không đổi sinh tử thật Lâm Chinh UNKNOWN.
+
+## Sáng đến gần trưa ngày thứ mười bốn — Chương 61
+
+| Thời điểm | Sự kiện đã viết | Giới hạn |
+| --- | --- | --- |
+| Nối sáng14 | Lưu Định khám lại, hoãn chuyến nặng/chờ tái khám; người trực dẫn vào viếng cùng Lâm Uyên | Chưa khỏi/nhận việc kéo tang, chưa kết quả chủ thuê |
+| Trong buổi sáng | Viện chủ dặn chia lượt viếng từ cuối buổi sáng; tin báo giao gửi theo đầu mối hồ sơ | Chưa hồi đáp/thân nhân hoặc chôn/trao đồ |
+| Cùng sáng | Sổ giao gian khác người thực; Lâm Uyên chỉ nhận mẹ con đã thấy, viện đối lượt nhận | Chưa đối hết mọi lối/toàn người |
+| Sau bàn việc | Người thu xếp giữ chỗ mẹ con cùng lượt, viện đối mỗi sáng đến khi cho chuyển | Chưa xuất viện/mọi người có chỗ, chưa ngày khỏi |
+| Cuối buổi sáng | Bùi Khánh Vân tới tự tên/nghề, giao phiếu hẹn, tìm tin thợ phụ; nhận mảnh giao phiếu/rời về hỏi nguồn | Chưa người khảo sát/đã sửa/trách nhiệm, không báo thợ đã chết |
+| Gần trưa | Lâm Uyên ăn/nghỉ, trở lại thầy khóc rồi xin nghe đối tiếp và hỏi lượt chưa tìm nơi nhận | Không tăng năng lực/khỏi thương, quản thúc/7–4 tháng giữ; buồn không hết |
+
+Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]]. Không có tiến triển HFS/thu hồi người–vật, không đổi cha Lâm Uyên hoặc sinh tử thật Lâm Chinh UNKNOWN.

@@ -151,3 +151,19 @@ Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhu
 Chỉ đối các nguồn liên quan Ch60 và cảnh Lưu Định Ch49, không nhận quét lại toàn repository hoặc đổi nhãn mọi chương thành canon nền. Tình trạng thật Lâm Chinh vẫn UNKNOWN theo chỉ thị tác giả; những mạng ẩn danh/tuyến Hòa Sinh, chìa/trang, Hắc Nha/Cổ Sử giữ riêng. Các tài liệu nền được bảo vệ không sửa trong cập nhật này.
 
 Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]], [[Chương 49]], [[Lưu Định]].
+
+## Đối chiếu có phạm vi sau Chương 61 — 2026-10-17
+
+| Mệnh đề | Nguồn/lớp | Giới hạn |
+| --- | --- | --- |
+| Lưu Định khám và viếng | DRAFT TEXT61: kết quả khám kể trong cảnh, lượt vào gian yên trực tiếp | Hoãn chuyến nặng/chờ khám lại, không khỏi hoặc tham gia chở tang; lời đã tới trạm60 chưa được đối độc lập |
+| Giữ chỗ cùng mẹ con | DRAFT TEXT61: sổ giao gian/phần nhận viện/lời y sư và thỏa thuận người xếp chỗ | Có cam kết giữ hai chỗ cùng lượt, đối mỗi sáng, chưa chuyển hay kiểm chỗ ở toàn khu |
+| Lâm Uyên chỉ nhận phần thấy | DRAFT TEXT61: không ký tờ tổng, đối mẹ con và viết mảnh riêng | Không tổng số thương vong/toàn nhà; không suy người chưa thấy ở viện đã chết |
+| Bùi Khánh Vân/phiếu hẹn | DRAFT TEXT61: trực tiếp tự tên/nghề, mang phiếu tới bàn nhận việc Bùi Gia, giao chấp sự có mảnh nhận | Bà tự khai bảng công/phạm vi; phiếu là đầu mối đối, không hồ sơ hoàn tất/toàn hợp đồng hay chứng minh nguyên nhân |
+| Chỗ dột/lời đợi tạnh | CHARACTER REPORT61 của người trông nhà, nhận còn bản ở nhà | Người đưa lời chưa nhận diện; chưa vật chứng độc lập nguyên nhân/chủ trì hoãn |
+| Thợ phụ cần tìm | CHARACTER REPORT61 Bùi Khánh Vân qua người báo đi cùng | Chưa nơi nhận/sinh tử; không tạo tên/gia đình từ suy đoán |
+| Lượt viếng/tin báo | DRAFT TEXT61 viện chủ/chỗ viếng, tin giao gửi theo hồ sơ | Chưa hồi đáp/thân nhân/ý nguyện/tang xong hoặc nhận di sản |
+
+79 node lore giữ nguyên; FAC-001 Bùi Gia chuyển trạng thái triển khai theo phần thực sự viết, không cả gia phả đã lên trang. DRAFT TEXT61 khác canon nền; nguồn nghiên cứu REF-005 chỉ ở lớp biên tập.
+
+Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].

@@ -9,7 +9,7 @@ tags:
 
 # Mạch Nhân Vật Và Vấn Đề Liên Tục
 
-> Bảng nền sau Chương 52; tiến triển Chương 53–58 được lưu ở cuối. Đây là sổ theo dõi, không phải lệnh tự giải quyết tuyến.
+> Bảng nền sau Chương 52; tiến triển Chương 53–61 được lưu ở cuối. Đây là sổ theo dõi, không phải lệnh tự giải quyết tuyến.
 
 ## Open Character Threads
 
@@ -136,3 +136,14 @@ Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhu
 - **Mạch còn mở:** Hòa Sinh/người đặt/nguồn tiền, mẫu vón, chìa/trang và các mạng giữ riêng. Phần kế cần nối việc báo người thân, chăm bệnh và trách nhiệm/chỗ ở từ nguồn có thật; chưa dùng mất mát làm đáp án âm mưu hoặc trao năng lực vượt học nghề.
 
 Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]], [[Chương 49]], [[Lưu Định]].
+
+## Tiến triển theo bản thảo Chương 61
+
+- **Trả lời lời xin viếng của Lưu Định:** Đã khám, được hoãn chuyến nặng/chờ tái khám, đã vào viếng. Lời có xe muốn giúp tự bị giới hạn bởi tay, chưa giao chuyến tang. Phần công/chủ thuê vẫn mở.
+- **Mẹ con Khương Tố Nương:** Sổ giao gian chỉ một người, phần nhận viện đối hai người. Lâm Uyên không ký tổng mà ghi phạm vi thấy; viện/người thu xếp nhận giữ chỗ cùng lượt, đối mỗi sáng, chờ cho chuyển. Kết quả nhỏ đã có, chưa xuất viện hoặc giải toàn khu.
+- **Bùi Khánh Vân / phiếu hẹn:** CHAR-022 trực tiếp61; bàn nhận việc Bùi Gia có trên phiếu, chưa người khảo sát/hoàn tất. Chấp sự nhận phiếu có mảnh nhận, chờ bản của nhà trú và ghi giao việc ở nhà bà. Bà còn tìm thợ phụ theo lời người đi cùng, không mặc định chết/mất tích trong nhà.
+- **Mạnh Thanh Tễ:** Lượt viếng mở cuối buổi sáng; tin báo được gửi/chờ, đồ vẫn viện giữ, chưa chôn hoặc trao sổ. Lâm Uyên làm được việc có ích rồi vẫn khóc; không vượt qua mất mát sau một buổi.
+- **Hành động tiếp của Lâm Uyên:** Xin nghe đối phiếu và hỏi những lượt chưa tìm nơi nhận, nhận phần không biết. Không có y thuật/tu vi mới, trái mỏi cần nghỉ, phải báo có người theo nếu đi.
+- **Giữ tuyến khác:** HFS/chìa/trang/thuốc chưa có đáp mới61; không nhắc lại nguồn cũ thành sự kiện mới. Lâm Chinh UNKNOWN, Dược Khế7/4 và kiếm bảo chứng giữ.
+
+Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].

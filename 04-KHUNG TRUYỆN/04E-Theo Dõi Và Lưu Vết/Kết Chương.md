@@ -81,21 +81,22 @@ tags:
 | Chương 58 | 🔶 | Chỗ Đặt Cáng | `status: nhap` |
 | Chương 59 | 🔶 | Người Trên Cáng Sau | `status: nhap` |
 | Chương 60 | 🔶 | Gian Thuốc Vẫn Sáng | `status: nhap` |
+| Chương 61 | 🔶 | Chỗ Cho Người Còn Sống | `status: nhap` |
 
 ## Chương tiếp theo
 
-- Chương 61: hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 60]]. Chương 51–60 đã có bản nháp trên `main`; áp dụng [[11_AUTONOMOUS_STORY_DESIGN]] để chuẩn bị nội dung mới phù hợp.
+- Chương 62: hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 61]]. Chương 51–61 đã có bản nháp trên `main`; áp dụng [[11_AUTONOMOUS_STORY_DESIGN]] để chuẩn bị nội dung mới phù hợp.
 - Các ý tưởng cũ cho chương 39–44 trong hồ sơ hỗ trợ thuộc mạch trước bản Chương 37–38 hiện tại. Chỉ dùng làm chất liệu sau khi đối chiếu, không coi là sự kiện đã xảy ra.
 
 ## Tổng số
 
-- Có tệp chương 1–60 trên `main`: 60.
+- Có tệp chương 1–61 trên `main`: 61.
 - Hoàn thiện: 33 chương theo tracker (1–25) và frontmatter (26–32, 34). Chương 2–7 thiếu khai báo frontmatter nhưng tracker hiện đánh dấu hoàn thiện.
-- Nháp theo frontmatter: 26 chương (33, 36–60).
+- Nháp theo frontmatter: 27 chương (33, 36–61).
 - Chương 35 có tệp nhưng chưa khai báo trạng thái; tracker cũng chưa xác định hoàn thiện hay nháp.
-- Chương 61 trở đi: chưa có tệp; các mốc tương lai giữ ở mức kế hoạch.
+- Chương 62 trở đi: chưa có tệp; các mốc tương lai giữ ở mức kế hoạch.
 
 ## Liên kết
 
 - Nhịp: [[Nhịp Truyện]]
-- Chương: [[Chương 1]] → [[Chương 60]]
+- Chương: [[Chương 1]] → [[Chương 61]]

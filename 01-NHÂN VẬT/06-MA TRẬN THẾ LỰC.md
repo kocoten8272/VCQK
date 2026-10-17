@@ -24,7 +24,7 @@ tags:
 
 ## Hồ sơ chuẩn bị, chưa phải sự kiện truyện
 
-- Hạ Gia, Thẩm Gia, Bùi Gia: trạng thái đề xuất; xem [[Gia Phả Và Cơ Cấu Nhân Sự Các Thế Lực]] như bản thiết kế, không như chứng cứ xuất hiện.
+- Gia phả/hồ sơ đã duyệt vẫn là thiết kế cho phần chưa viết; xem [[Gia Phả Và Cơ Cấu Nhân Sự Các Thế Lực]]. Tiến triển nghề Hạ Gia, Thẩm Gia và Bùi Gia chỉ tính theo các mốc chương ở dưới, không coi cả gia phả đã xuất hiện.
 - Hồ sơ Vân Châu chưa xuất hiện: không coi là đang hoạt động tại Lăng Vân Thành.
 - Thế lực bí ẩn: không dùng hồ sơ dự kiến để giải thích vụ việc chưa có lời giải.
 
@@ -121,3 +121,13 @@ Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhu
 Sự tiếp việc của viện là hoạt động của những người có chức trách cụ thể, không chứng minh toàn cơ sở biết hết các bí mật hoặc toàn thành đã nghe tin. Cứu hộ/chỗ ở và đối tên ngoài Nam Phố còn việc chưa xong; chưa quy mạng thuốc, Hắc Nha, người áo đen hoặc Tả Tiên Sinh gây nạn.
 
 Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]], [[Lưu Định]].
+
+## Phạm vi nghề nghiệp và quyền hạn Chương 61
+
+- **Bùi Gia / CHAR-022 Bùi Khánh Vân:** Lần đầu thành viên này trực tiếp xuất hiện, tự nhận giữ bảng công; mang phiếu hẹn tới bàn nhận việc, giữ bản ghi giao việc ở nhà cần đối. Bà không làm khảo sát kết cấu, không được tự xác nhận công trình đã an toàn/đã sửa hoặc quyết tội.
+- **Người trông nhà / người thu xếp chỗ:** Hai vai khác nhau. Một người giữ sổ giao gian/nguồn nhà cũ; một người nhận xếp mấy gian ở nhờ. Chưa xác định cơ quan chủ quản/chủ sở hữu hoặc họ thuộc Bùi Gia.
+- **Tế Sinh Viện:** Giữ chăm sóc/quyết khi nào chuyển, phối hợp đối mỗi sáng; giữ đồ/tổ chức lượt viếng và gửi tin, chưa thay thân nhân nhận mọi quyền tang/di sản.
+- **Chấp sự:** Giữ nguồn phiếu/mảnh nhận và nhận nhờ hỏi tiếp; không có phán quyết kết cấu hoặc lệnh gỡ quản thúc. Tô Thanh Ly không dùng Dược Khế làm quyền phân nhà.
+- Không nối trách nhiệm sửa nhà với Hắc Nha/Hòa Sinh/Tả tiên sinh, không biến cả gia tộc thành phản diện từ phiếu hẹn.
+
+Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].

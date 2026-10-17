@@ -75,3 +75,16 @@ Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhu
 - Lâm Uyên tiếp việc thẻ nhẹ dưới người có nghề, không nhận quyền chữa bệnh hoặc di sản do cứu trợ. Hậu quả người/chỗ ở/thuốc còn tiếp ở Chương61.
 
 Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]], [[Mạnh Thanh Tễ]], [[Nam Phố]].
+
+## Hậu quả và đầu mối theo bản thảo Chương 61
+
+- Sáng ngày thứ mười bốn tại viện, người trông nhà mang sổ giao gian; một người nhận gian không đồng nghĩa chỉ một người cư trú. Chỗ Khương Tố Nương từng chỉ báo một người, được đối thêm con bằng phần Lâm Uyên thấy và nguồn viện đã nhận.
+- Người thu xếp chỉ nhận mấy gian mình lo, đồng ý giữ hai mẹ con cùng lượt/chỗ ở chung tới khi y sư cho chuyển, viện xác nhận mỗi sáng còn nằm đây. Chưa có cảnh xuất viện, tới chỗ mới, đủ chỗ cho toàn nhà hoặc tái thiết.
+- Bùi Khánh Vân, người giữ bảng công bên Bùi Gia, mang phiếu hẹn chuyển lời nhờ xem chỗ dột dãy sát sân tới bàn nhận việc. Phiếu chưa chỉ ai tới xem, phần việc đã làm/người nhận lại còn trống ở bản này; chưa đủ kết luận không sửa, ai gây sập hoặc có chủ ý trì hoãn.
+- **Lời cần đối:** Người trông nhà nói đã nhờ trước và được một người đưa lời bảo đợi tạnh; chưa nhận diện người đưa lời. Bùi Khánh Vân cần phần ghi việc ở nhà để đối đã giao cho ai; bản nhà trú giữ cũng chưa đem về.
+- Chấp sự nhận phiếu có mảnh nhận, không để mang đi thay giấy đối người/chỗ ở. Không có bản đo, nghiệm thu, lời người nhận việc hoặc giám định kết cấu mới.
+- Bùi Khánh Vân đang tìm nơi nhận một thợ phụ theo lời người về báo đã đi cùng tới giúp chuyển đồ; chưa xác nhận người ấy chết, còn mắc hoặc đã tới một cơ sở nào. Danh sách cuối/các lối cứu khác vẫn mở.
+- Viện đã có lượt viếng Mạnh Thanh Tễ, đồ ông vẫn do viện giữ, nguồn liên hệ chưa có kết quả. Mất mát không giải quyền sở hữu/quản nhà; hai thanh gỗ trạm vẫn không chuyển tới đây.
+
+
+Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].

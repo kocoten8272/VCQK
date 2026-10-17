@@ -165,3 +165,16 @@ Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhu
 - Cuối chương ở gian thuốc, làm từng phần nhẹ dưới người giám dược mới trong khi còn đau buồn. Việc phụ giúp không có nghĩa đã vượt qua mất mát hay nhận toàn bộ nghề của thầy. Tình trạng thật của Lâm Chinh vẫn UNKNOWN.
 
 Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]].
+
+## Trạng thái mới theo bản thảo Chương 61
+
+- Sáng ngày thứ mười bốn tại viện: theo người trực cùng Lưu Định vào gian yên thăm Mạnh Thanh Tễ sau lượt khám. Không nhận xe/chuyến chở đã hứa thành việc làm được, không nhận sổ thuốc, di sản hoặc quyền lo tang thay viện/thân nhân.
+- Khi được nhờ nhận tờ tổng số người, nói rõ chỉ ghi một lối rồi theo cáng Hồ Nhuận Chi về viện; không xác nhận toàn bộ lượt cứu. Viết riêng bằng tay trái phần đã thấy về Khương Tố Nương/con, để người giữ sổ viện đối tiếp phần nhận.
+- Hai mẹ con được giữ chỗ ở chung sau khi đối nguồn nhà trú/viện và người thu xếp đồng ý; viện phải xác nhận mỗi sáng cho tới lúc y sư cho chuyển. Hắn không tự cấp chỗ cho mọi người, cho xuất viện hoặc nhận trách nhiệm chữa trị.
+- Chứng kiến Bùi Khánh Vân mang phiếu hẹn/bảng công tới. Thấy chỗ ghi việc đã làm/người nhận lại còn trống ở bản phiếu, nghe lời về bàn nhận việc và một người đưa lời chưa nhận diện; chưa kết luận chưa sửa, nguyên nhân sập, lỗi của Bùi Gia hoặc người phụ trách.
+- Muốn hỏi thành lời buộc tội khi nhớ tai nạn của thầy nhưng dừng lại; nhờ tìm nơi nhận thợ phụ theo đúng phần ghi, chưa gạch người chưa đối thành chết/mắc dưới mái. Xin nghe buổi đối tiếp người nhận phiếu, chấp sự nhận báo khi đủ nguồn.
+- Tay phải còn băng/đau, tay trái mỏi phải đặt bút nghỉ và ngồi lại; người giám dược gọi đi ăn, phần thẻ có người khác nhận. Chưa tự chọn/cân/phối thuốc, khiêng đồ, vận lực, tăng tu vi hoặc khỏi thương.
+- Gần trưa trở lại gian yên, kể việc hai mẹ con rồi khóc khi nhận ra mình vẫn đợi thầy hỏi; việc giúp người không xóa mất mát. Sau đó hỏi người giữ sổ những lượt chưa đối nơi nhận.
+- Quản thúc/hộ tống giữ nguyên, đi đâu vẫn phải báo. Dược Khế bảy tháng không đổi; không có quyết định về Hắc Phong Sơn, nguồn thuốc, chìa/trang mất hoặc sinh tử thật của Lâm Chinh.
+
+Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].

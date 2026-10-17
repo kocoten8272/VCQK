@@ -106,3 +106,11 @@ Sự kiện theo DRAFT TEXT, không tự nâng thành canon nền. Ch61 trở đ
 Hai cách ghi cũ khẳng định cha đã chết được chỉnh theo chỉ thị tác giả: gia đình nhận tin báo tử/làm tang, sinh tử thật Lâm Chinh UNKNOWN. Không mở lại quyết định đó hoặc tự kết luận ông còn sống.
 
 [[Chương 58]] · [[Chương 59]] · [[Chương 60]] · [[Trạng Thái Truyện Sau Chương 60]]
+
+## Mốc đã triển khai thêm — Chương 61
+
+DRAFT TEXT61 nối sáng–gần trưa14: Lưu Định đã khám/viếng, mẹ con Khương Tố Nương được giữ chỗ cùng lượt nhưng chưa chuyển, Bùi Khánh Vân xuất hiện/giao phiếu hẹn để đối nguồn giao việc. Lâm Uyên chỉ nhận phần thấy, chọn giúp người sống trong giới hạn rồi vẫn trở lại khóc bên thầy.
+
+Đoạn “yêu cầu mới được nhận/chưa giấy” ở mốc58–60 là lịch sử đến60; nay đã có phiếu hẹn nhưng chưa chứng minh làm xong/nguyên nhân/tội ai. Thân nhân/tang/chuyển sở hữu sổ tiếp cần nguồn, các mục nghề/tiền tự ứng trong khung chưa được tự động xác lập. Hướng tiếp từ [[Trạng Thái Truyện Sau Chương 61]], không dùng các cách rút tên trong khung cũ vào bản thảo mới.
+
+Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].

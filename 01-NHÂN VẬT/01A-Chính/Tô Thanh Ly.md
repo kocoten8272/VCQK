@@ -130,3 +130,13 @@ Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhu
 - Dược Khế bốn tháng, kiếm làm bảo chứng và giới hạn đi lại vẫn giữ. Tuyến chìa/trang mất, nguồn người mua thuốc và quan hệ hai mạng lưới chưa có kết quả mới.
 
 Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]].
+
+## Trạng thái mới theo bản thảo Chương 61
+
+- Sáng ngày thứ mười bốn tại viện: đọc sổ giao gian do người trông nhà giữ ngang tầm, không dùng tay phải đỡ; phân biệt một người nhận gian với tổng người ở. Nhờ gọi người thu xếp chỗ và hỏi y sư trước khi bàn chuyển Khương Tố Nương/con.
+- Giữ yêu cầu hai mẹ con ở chung, không để việc còn phải trị chân thành mất chỗ. Quyết định giữ thuộc người thu xếp phối hợp viện chủ/người giữ sổ; nàng không tự trưng dụng hoặc tuyên bố đã đủ chỗ cho mọi người.
+- Trực tiếp nghe Bùi Khánh Vân giới thiệu/đưa phiếu hẹn; hỏi bản đối còn ở nhà và nhờ giữ để chấp sự xem. Chưa nhận bản đo, biên bản nghiệm thu, lời người nhận việc hoặc kết luận nguyên nhân sập.
+- Nhờ chấp sự báo khi có bản đối thay vì để Lâm Uyên chờ kiệt sức; đi cùng lúc hắn ăn và để hắn có khoảng riêng trong gian yên. Không dùng lời trấn an để coi hắn đã nguôi mất mát.
+- Tay phải còn thương, dùng phần tay lành/nhờ người khác; không khiêng đồ hoặc hồi phục mới. Dược Khế bốn tháng, kiếm bảo chứng và giới hạn đi lại giữ nguyên. Tuyến chìa/trang mất và mạng thuốc không có kết quả mới trong chương.
+
+Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].

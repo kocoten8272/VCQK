@@ -176,3 +176,24 @@ Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhu
 Lưu Định có hồ sơ chính CHAR-036, nhận diện trực tiếp nối Ch49; không tạo phu xe vô danh trùng người. Người nhà Mạnh Thanh Tễ vẫn chưa rõ, nguồn liên hệ đang được tìm, không kết luận ông không có thân nhân. Khương Tố Nương và Hồ Nhuận Chi dùng hai hồ sơ chính đã có; người cứu/người còn thiếu ngoài nhà vẫn giữ từng vai chưa nhận diện.
 
 Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]], [[Chương 49]], [[Lưu Định]].
+
+## Vai trò được phân biệt ở Chương 61
+
+| Vai | Điều mới theo cảnh/nguồn | Giới hạn |
+| --- | --- | --- |
+| Người trông nhà trú | Được Lâm Uyên nhận là người từng gọi các gian ở hiện trường; mang sổ giao gian, hỏi đối số/chỗ, nhận thiếu phần con của Khương Tố Nương | Sổ giao gian không là danh sách đủ mọi người cư trú. Ông nói đã nhờ xem chỗ dột và nghe lời phải chờ tạnh, chưa xác định người đưa lời hoặc việc sửa thực tế. |
+| Người thu xếp chỗ ở nhờ | Trực tiếp tới viện, chỉ nhận phần mấy gian mình lo; sau đối nguồn đồng ý giữ hai mẹ con cùng lượt, viện xác nhận mỗi sáng tới lúc cho chuyển | Khác người trông nhà trú; chưa tên/chủ sở hữu/địa chỉ. Không đủ chỗ cho tất cả, chưa đưa người mẹ ra viện hoặc cấp nhà lâu dài. |
+| Người giữ sổ/người nhận ở viện | Đem phần nhận người, gọi người nhận hôm trước chỉ dòng; nhận việc đối danh sách mỗi ngày | Không tự gộp mọi người giữ sổ/người nhận thành cùng một cá nhân hoặc cho sổ viện xác nhận mọi lối cứu. |
+| Chấp sự đối phần người và phiếu sửa | Tách tờ tổng chưa đủ khỏi phần nhân chứng; nhận phiếu Bùi Khánh Vân có mảnh nhận, giữ nguồn/lời kể riêng, chờ bản đối | Chưa kết luận lỗi kết cấu, đã sửa hay thủ phạm. Chấp sự hộ tống/quyền đi lại không vì việc tốt được xóa. |
+| Bàn nhận việc Bùi Gia/người được giao tới xem | Bàn có trên phiếu hẹn chuyển lời nhờ; Bùi Khánh Vân nói cần phần ghi việc ở nhà để đối đã giao cho ai | Bàn là đầu mối công việc, chưa cá nhân có tên; không có người được giao cụ thể xuất hiện hoặc lời họ nhận việc/đã tới. |
+| Người đưa lời chờ tạnh | Chỉ qua lời người trông nhà, chưa tên hoặc tờ gốc được mang về | Không tự đồng nhất với Bùi Khánh Vân, người nhận phiếu, người đi đo hay người của mạng thuốc. |
+| Thợ phụ Bùi Khánh Vân đang tìm/người về báo | Bà kể thợ phụ tới giúp chuyển đồ, người về báo nói đi cùng và được bảo ở nhà chờ hỏi | Chưa có hai người trực tiếp, chưa đối nơi nhận/sinh tử; không gộp thợ phụ với người cứu mắc gấu áo Chương 59 hoặc thợ Hắc Phong Sơn. |
+| Y sư xem Lưu Định/người trực gian yên | Có kết quả dặn hoãn chuyến nặng; người trực dẫn vào viếng, nhắc chỗ chờ nhận phần ghi | Chưa tên, không gộp mọi y sư/thầy thuốc hoặc coi Lưu Định đã khỏi/có thể kéo xe. |
+| Giám dược/người phụ giúp đang trực | Nhận thẻ/bút, cho Lâm Uyên đi một lát rồi nghỉ; phần thẻ có người khác làm khi hắn mỏi, người phụ giúp chỉnh đèn/gian yên | Chưa đủ nhận diện để gộp với mọi ca trước; không phải sư phụ mới hoặc trao nghề của Mạnh Thanh Tễ. |
+| Người tới viếng ôm nón | Có mặt trong hàng khám buổi sớm rồi đợi lượt ở cửa gian yên | Chưa tên, chưa biết Mạnh Thanh Tễ giúp việc gì; không thêm tiểu sử/nghề hoặc biến toàn dân thành đoàn viếng. |
+| Con Khương Tố Nương | Đôi giày bùn được lau, nhường mép bàn/ngồi sát mẹ; được tính đi cùng khi giữ chỗ, hỏi nơi mới có mang giày vào được không | Vẫn sáu tuổi theo nguồn cũ, tên/giới tính UNKNOWN; chưa có cảnh dọn tới chỗ mới. |
+
+Bùi Khánh Vân dùng hồ sơ chính CHAR-022, không tạo người giữ bảng công vô danh trùng người. Người gửi tin theo đầu mối hồ sơ Mạnh Thanh Tễ đã được giao gửi nhưng chưa kết quả liên hệ/thân nhân. Những vai chỉ qua lời kể không được ghi là trực tiếp xuất hiện hoặc đã chết.
+
+
+Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].

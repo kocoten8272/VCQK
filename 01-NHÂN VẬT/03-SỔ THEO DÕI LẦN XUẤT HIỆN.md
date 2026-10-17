@@ -9,7 +9,7 @@ tags:
 
 # Sổ Theo Dõi Lần Xuất Hiện
 
-> Bảng nền rà soát Chương 1–52; cập nhật Chương 53–60 ở các mục dưới. Mốc “lần cuối” có thể là hậu quả/nhắc lại, không khẳng định người có mặt trong cảnh. Mở hồ sơ nguồn trước khi viết tiếp.
+> Bảng nền rà soát Chương 1–52; cập nhật Chương 53–61 ở các mục dưới. Mốc “lần cuối” có thể là hậu quả/nhắc lại, không khẳng định người có mặt trong cảnh. Mở hồ sơ nguồn trước khi viết tiếp.
 
 ## Đã xuất hiện hoặc được nhận diện
 
@@ -183,3 +183,19 @@ Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhu
 Tô Lạc chỉ được nhắc qua sơ đồ/việc đưa người về chưa đạt; Trần Dực và tuyến Hòa Sinh không có lời khai mới. Thân nhân Mạnh Thanh Tễ chưa rõ, viện còn tìm nguồn liên hệ; không suy ông không có gia đình. Giữ nguyên mốc ông còn sống cuối Chương 58 và cuối Chương 59.
 
 Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]], [[Chương 49]], [[Lưu Định]].
+
+## Mốc mới theo bản thảo Chương 61
+
+| ID | Nhân vật | Kiểu/mốc | Nơi cuối và giới hạn |
+| --- | --- | --- | --- |
+| CHAR-005 | Lâm Uyên | Trực tiếp, sáng–gần trưa14 | Viện; viếng cùng Lưu Định, chỉ nhận phần mẹ con đã thấy, nghe phiếu hẹn và xin nghe đối tiếp. Tay phải băng, trái mỏi, nghỉ/ăn; không tự kê thuốc |
+| CHAR-006 | Tô Thanh Ly | Trực tiếp | Viện; đối sổ giao gian với người thật, nhờ gọi người xếp chỗ và giữ nguồn công trình. Không dùng tay phải nâng, không tự hứa tiền/quyền phân nhà |
+| CHAR-022 | [[Bùi Khánh Vân]] | **Lần đầu trực tiếp/có tên trong chương** | Tới viện mang bảng công/phiếu hẹn, tìm tin thợ phụ, giao phiếu có mảnh nhận, rời về hỏi nguồn. Không nhân chứng mái sập; tuổi thiết kế51 chưa nêu con số chính xác |
+| CHAR-036 | Lưu Định | Trực tiếp sáng14 | Khám lại cổ tay còn sưng đau, hoãn chuyến nặng/hẹn khám; thực sự viếng sau khám rồi tới hiên lấy phần ghi cho chủ thuê. Chưa kéo xe/khỏi thương hoặc có kết quả xin nghỉ |
+| CHAR-037 | Mạnh Thanh Tễ | Thi thể/cảnh viếng, không hành động sống | Gian yên trong viện; lượt viếng bắt đầu cuối buổi sáng, chưa chôn/trao đồ hoặc thân nhân được xác nhận |
+| CHAR-047 | Viện chủ | Trực tiếp tại viện | Chia lượt viếng, gửi tin theo đầu mối hồ sơ/chờ; phối hợp giữ chỗ hai mẹ con với đối mỗi sáng |
+| CHAR-062 | Khương Tố Nương/con | Trực tiếp gian bệnh | Chân mẹ chưa cho chuyển, hai mẹ con được ghi cùng lượt/giữ chỗ ở nhờ. Trẻ vẫn chưa tên/giới tính; không xuất viện trong61 |
+
+Hồ Nhuận Chi chỉ được nhắc qua lượt cáng cũ, không có cảnh khám/kết quả mới. Tô Tín, Tô Lạc và các người Hòa Sinh/chìa/trang không có diễn biến trực tiếp mới. Vai vô danh phân biệt tại [[Nhân Vật Chưa Rõ Tên — Sổ Theo Dõi]], không cấp hồ sơ mới vì một lượt gọi.
+
+Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].

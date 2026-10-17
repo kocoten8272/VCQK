@@ -53,7 +53,7 @@ Tổng cộng **79 hồ sơ nguồn** trong các nhóm thế giới, tu luyện,
 
 | ID | Node / hồ sơ | Trạng thái frontmatter |
 |---|---|---|
-| FAC-001 | [[02-THẾ GIỚI/02B-Thế Lực/Bùi Gia|Bùi Gia]] | `de-xuat` |
+| FAC-001 | [[02-THẾ GIỚI/02B-Thế Lực/Bùi Gia|Bùi Gia]] | `dang-phat-trien` |
 | FAC-002 | [[02-THẾ GIỚI/02B-Thế Lực/Các Gia Tộc Lăng Vân Thành|Các Gia Tộc Lăng Vân Thành]] | `de-xuat` |
 | FAC-003 | [[02-THẾ GIỚI/02B-Thế Lực/Di Kỷ Tộc|Di Kỷ Tộc]] | `dang-phat-trien` |
 | FAC-004 | [[02-THẾ GIỚI/02B-Thế Lực/Đoạn Mạch Hội|Đoạn Mạch Hội]] | `dang-phat-trien` |

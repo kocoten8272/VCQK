@@ -8,7 +8,7 @@ tags:
 
 # Sơ Đồ Quan Hệ Nhân Vật
 
-> Bảng nền có căn cứ đến Chương 52; cập nhật Chương 54–60 ở cuối. Đường liền là quan hệ được xác nhận; nét chấm là quan hệ xã hội/đang hình thành. Không suy chức quyền hay huyết thống từ cùng họ.
+> Bảng nền có căn cứ đến Chương 52; cập nhật Chương 54–61 ở cuối. Đường liền là quan hệ được xác nhận; nét chấm là quan hệ xã hội/đang hình thành. Không suy chức quyền hay huyết thống từ cùng họ.
 
 ## Gia đình Lâm Uyên
 
@@ -152,3 +152,18 @@ Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhu
 Khương Tố Nương nói rõ với con sáu tuổi Mạnh Thanh Tễ đã mất; trẻ nhìn cửa rồi ngủ cạnh mẹ, chưa được nêu tên/giới tính. Đồ và thi thể Mạnh Thanh Tễ do viện giữ đúng việc đang có, không tạo quan hệ thừa kế. Cái chết không làm mất những nhu cầu chữa bệnh hoặc khép các quan hệ chưa giải.
 
 Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]], [[Chương 49]], [[Lưu Định]].
+
+## Quan hệ theo bản thảo Chương 61
+
+| Người | Quan hệ có chiều | Người/nhóm | Giới hạn |
+| --- | --- | --- | --- |
+| Lâm Uyên | Đi cùng viếng, nhận lời muốn giúp tang trong phạm vi | Lưu Định | Lưu Định chưa kéo được xe; không có lời giao chuyến/tang thực tế hoặc thân hữu mới đã chốt |
+| Lâm Uyên / Tô Thanh Ly | Làm rõ phần chứng kiến/đối chỗ ở | Khương Tố Nương/con | Mẹ con giữ cùng chỗ, chưa chuyển, viện đối hằng ngày. Không quan hệ nhận nuôi/tài trợ/xóa nợ |
+| Bùi Khánh Vân | Giữ bảng công, mang phiếu, nhận về hỏi nguồn | Bùi Gia/người nhận việc | Nghề được bà tự giới thiệu; chưa biết người khảo sát/sửa hoặc tính đúng đủ của cả bảng công |
+| Bùi Khánh Vân | Hỏi tin một thợ phụ theo người báo đi cùng | Người làm công vô danh | Quan tâm không xoay quanh nam chính; người thợ chưa xác nhận nơi nhận/sinh tử. Không tự tạo họ hàng |
+| Tô Thanh Ly / chấp sự | Hỏi nguồn, giữ phiếu có mảnh nhận | Bùi Khánh Vân/người trông nhà | Liên hệ công việc mới, không xác lập đồng minh/địch thù hoặc tội Bùi Gia |
+| Viện chủ | Phối hợp đối mỗi sáng, nhận phần trách nhiệm viện | Người thu xếp chỗ ở nhờ | Phạm vi mấy gian người ấy lo; không quyền phân toàn Nam Phố |
+
+Gia phả Bùi Khánh Vân đã duyệt vẫn thuộc lớp thiết kế, không coi Ch61 đã kể đủ họ hàng.
+
+Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].

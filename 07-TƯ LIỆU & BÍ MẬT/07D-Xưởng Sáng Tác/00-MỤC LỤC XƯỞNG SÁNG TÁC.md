@@ -1,7 +1,7 @@
 ---
 type: muc-luc-xuong-sang-tac
 status: hoan-thien
-updated: 2026-10-15
+updated: 2026-10-17
 tags:
   - thu-vien
   - tra-cuu
@@ -19,6 +19,7 @@ tags:
 | REF-002 | [[REF-002-Nguồn Về Trả Lời Bí Ẩn Và Chức Năng Cảnh]] | Nguồn tham khảo | verified | Đoạn đọc trang Microcasting chính thức, phạm vi và trả lời điều đã hứa |
 | REF-003 | [[REF-003-Nguồn Về Mưa Lũ Và Không Gian Cứu Trợ]] | Nguồn tham khảo | verified | Red Cross về an toàn mưa lũ, đọc ngày 2026-10-09; giới hạn nguồn và tổ chức điểm chuyển người |
 | REF-004 | [[REF-004-Nguồn Về Mất Mát Và Hậu Quả Nhân Vật]] | Nguồn tham khảo | verified | Writing Excuses 13.48, một đoạn transcript đọc ngày 2026-10-13, hậu quả mất mát/giới hạn nguồn |
+| REF-005 | [[REF-005-Nguồn Về Phản Ứng Và Lựa Chọn Sau Biến Cố]] | Nguồn tham khảo | verified | Phản ứng sau biến cố chuyển thành lựa chọn cụ thể; phạm vi bài K.M. Weiland |
 | PAT-001 | [[PAT-001-Giới Hạn Làm Thay Đổi Lựa Chọn]] | Mẫu kỹ thuật | ready | Cảnh có giải pháp quá dễ, cái giá chưa ảnh hưởng hoặc chuẩn bị thêm hệ thống |
 | SEED-001 | [[SEED-001-Ngày Công Bị Bỏ Trống]] | Chất liệu VCQK | seed | Hệ quả công việc của việc trình lời; phẩm giá người làm nghề |
 | SEED-002 | [[SEED-002-Một Thanh Chống Hai Lời Hứa]] | Chất liệu VCQK | seed | Chuẩn bị vật tư Hắc Phong Sơn; năng lực hữu hạn và trách nhiệm với người sống |
@@ -29,6 +30,7 @@ tags:
 | LOG-005 | [[LOG-005-Áp Dụng Kỹ Thuật Trong Chương 58]] | Phản hồi/áp dụng | recorded | Khép bao giữ hộ, đối người Hòa Sinh và điểm cáng ngoài nhà trú trong mưa |
 | LOG-006 | [[LOG-006-Áp Dụng Kỹ Thuật Trong Chương 59]] | Phản hồi/áp dụng | recorded | Sụp trong lúc rút, lựa chọn chuyển người và thầy chưa trả lời ở viện |
 | LOG-007 | [[LOG-007-Áp Dụng Kỹ Thuật Trong Chương 60]] | Phản hồi/áp dụng | recorded | Mất thầy, phần việc trao người khác và sáng đầu; nguồn REF-004 mở lại có phạm vi |
+| LOG-008 | [[LOG-008-Áp Dụng Kỹ Thuật Trong Chương 61]] | Phản hồi/áp dụng | recorded | Lưu Định đã viếng, giữ chỗ mẹ con và đầu nguồn Bùi Gia; sửa giờ/tên bị giấu |
 
 Các seed chưa được dùng trong chương. Không lấy chúng làm căn cứ xác nhận tiền công, hợp đồng hoặc tiến độ chống vách.
 
@@ -84,3 +86,7 @@ Tra [[REF-004-Nguồn Về Mất Mát Và Hậu Quả Nhân Vật]]/[[LOG-006-Á
 ## Áp dụng ở Chương 60
 
 Tra [[LOG-007-Áp Dụng Kỹ Thuật Trong Chương 60]] cho phản biện/sửa động tác, cảnh trở lại của Lưu Định và lượt Exa mở lại REF-004 ngày 2026-10-15. Ngày truy cập gốc REF-004 vẫn giữ 2026-10-13, không thêm nguồn trùng. PAT-001 dùng60; SEED-001/002 chưa dùng. Sinh tử Mạnh Thanh Tễ theo DRAFT TEXT ở hồ sơ chính ở 01D/trạng thái60, không chuyển ghi chú Xưởng thành canon nền.
+
+## Áp dụng ở Chương 61
+
+Tra REF-005/LOG-008 cho nguồn mới và sửa cục bộ. PAT-001 dùng với giới hạn xác nhận/chỗ ở/tay; SEED-001/002 vẫn chưa dùng. Bùi Khánh Vân đã có CHAR-022, phần thực sự viết cập nhật node chính/registry, Bùi Gia FAC-001 không tạo node mới. Trạng thái tiếp nối ở04E sau61, không lưu dàn người/bản sao phiếu tại Xưởng.

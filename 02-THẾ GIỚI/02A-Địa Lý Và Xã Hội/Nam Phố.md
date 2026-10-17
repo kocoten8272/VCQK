@@ -97,3 +97,14 @@ Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhu
 - Mưa ngừng một quãng sáng14, không xác nhận hết mùa lũ/toàn vùng an toàn hoặc dựng xong nhà trú. Hai gỗ viện vẫn không được đưa ra đây.
 
 Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]], [[Nhà Trú Tạm Ven Nam Phố]].
+
+## Hậu quả theo bản thảo Chương 61
+
+- Không có cảnh mới trực tiếp tại Nam Phố. Tại viện sáng ngày thứ mười bốn, sổ giao gian nhà trú được phân biệt với số người cư trú/đã nhận; chưa đủ tổng thương vong hoặc danh sách mọi người được tìm.
+- Khương Tố Nương/con được giữ chỗ ở chung nhờ đối nguồn và thỏa thuận viện/người thu xếp. Viện phải xác nhận mỗi sáng tới lúc y sư cho chuyển; không có cảnh tới nơi, đủ chỗ cho tất cả hoặc phục hồi sinh kế.
+- Bùi Khánh Vân lần đầu trực tiếp mang phiếu hẹn chuyển lời nhờ xem chỗ dột nhà trú tới bàn nhận việc Bùi Gia. Chấp sự nhận có mảnh nhận; phần giao việc, bản nhà trú giữ và người đưa lời chờ tạnh còn cần đối. Không có nghiệm thu/giám định hoặc kết luận Bùi Gia gây sập.
+- Lưu Định chỉ tới viện xem tay và viếng, chưa thành người chứng tai nạn nhà trú. Thợ phụ Bùi Khánh Vân tìm còn là nguồn lời cần đối, chưa có nơi nhận/sinh tử.
+- Hậu quả chỗ ở/công trình tiếp tục riêng với giao Xích Tủy Tán, mạng thuốc và tuyến chìa/trang mất. Quyền quản toàn Nam Phố chưa được xác lập; không thêm địa giới, chủ nhà hoặc thế lực bí mật từ phiếu hẹn.
+
+
+Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].

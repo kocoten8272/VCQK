@@ -12,7 +12,7 @@ tags:
 
 # Viện Chủ Tế Sinh Viện (chưa rõ tên)
 
-> Chức danh của người đứng đầu Tế Sinh Viện. Tên riêng chưa được nêu trong bản thảo đến hết Chương 60; không tự đặt tên hoặc chốt giới tính nếu chưa có bằng chứng.
+> Chức danh của người đứng đầu Tế Sinh Viện. Tên riêng chưa được nêu trong bản thảo đến hết Chương 61; không tự đặt tên hoặc chốt giới tính nếu chưa có bằng chứng.
 
 ## Thông tin đã xác nhận
 
@@ -64,3 +64,13 @@ Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]].
 - Tên thật, giới tính, tuổi, tu vi và gia đình vẫn UNKNOWN. Không nhận quyền điều tra công trình hoặc giải mạng mua thuốc thay cơ quan liên quan.
 
 Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]].
+
+## Trạng thái mới theo bản thảo Chương 61
+
+- Sáng ngày thứ mười bốn thu xếp từ cuối buổi sáng các lượt ngắn viếng Mạnh Thanh Tễ, giữ lối nhận bệnh; Lưu Định đã được người trực dẫn vào sau khám. Đồ của Mạnh Thanh Tễ vẫn có người giữ, chưa bàn giao.
+- Báo tin đã giao người gửi theo đầu mối trong hồ sơ và còn phải chờ. Chưa xác định người nhận, quan hệ thân nhân, kết quả liên hệ, người quyết tang hoặc chôn cất.
+- Gọi người học việc ăn/nghỉ, nhắc việc chưa rõ phải hỏi. Không giao toàn bộ nghề hoặc quyền điều trị của Mạnh Thanh Tễ cho Lâm Uyên.
+- Nghe việc chỗ ở Khương Tố Nương/con, hỏi nơi/ai coi rồi giao người giữ sổ đối danh sách mỗi ngày. Người thu xếp giữ mẹ con cùng lượt cho tới khi y sư cho chuyển, cần xác nhận còn nằm viện mỗi sáng; không tuyên bố mọi người đã có chỗ hoặc cho người mẹ xuất viện.
+- Nhận phần việc y tế/đối người đúng thẩm quyền, không kết luận công trình hoặc thay chấp sự giữ giấy sửa nhà. Tên thật, giới tính, tuổi, tu vi và gia đình vẫn UNKNOWN.
+
+Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].

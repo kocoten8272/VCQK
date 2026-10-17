@@ -8,7 +8,7 @@ tags:
 
 # Sổ Cái Nhân Vật
 
-> 63 hồ sơ cá nhân trong cây thư mục tại mốc Chương 60. Nhân vật thoáng qua chưa rõ tên được giữ trong sổ riêng.
+> 63 hồ sơ cá nhân trong cây thư mục tại mốc Chương 61. Nhân vật thoáng qua chưa rõ tên được giữ trong sổ riêng.
 
 ## Quy tắc ID
 
@@ -41,7 +41,7 @@ tags:
 | CHAR-019 | [[01C-Tô Gia/Tô Tín|Tô Tín]] | B | da-xuat-hien | [[01C-Tô Gia/Tô Tín]] |
 | CHAR-020 | [[01C-Tô Gia/Tần Hạo|Tần Hạo]] | D | chua-xuat-hien | [[01C-Tô Gia/Tần Hạo]] |
 | CHAR-021 | [[01C-Tô Gia/Vương Phúc|Vương Phúc]] | B | da-xuat-hien | [[01C-Tô Gia/Vương Phúc]] |
-| CHAR-022 | [[01D-Lăng Vân Thành/Bùi Khánh Vân|Bùi Khánh Vân]] | D | de-xuat | [[01D-Lăng Vân Thành/Bùi Khánh Vân]] |
+| CHAR-022 | [[01D-Lăng Vân Thành/Bùi Khánh Vân|Bùi Khánh Vân]] | C | da-xuat-hien | [[01D-Lăng Vân Thành/Bùi Khánh Vân]] |
 | CHAR-023 | [[01D-Lăng Vân Thành/Bùi Khắc Thành|Bùi Khắc Thành]] | D | de-xuat | [[01D-Lăng Vân Thành/Bùi Khắc Thành]] |
 | CHAR-024 | [[01D-Lăng Vân Thành/Bùi Khắc Vinh|Bùi Khắc Vinh]] | D | de-xuat | [[01D-Lăng Vân Thành/Bùi Khắc Vinh]] |
 | CHAR-025 | [[01D-Lăng Vân Thành/Bùi Nguyên Bảo|Bùi Nguyên Bảo]] | D | de-xuat | [[01D-Lăng Vân Thành/Bùi Nguyên Bảo]] |
@@ -94,10 +94,10 @@ S: trục trung tâm; A: tuyến dài/ảnh hưởng lớn đã xác lập hoặ
 | --- | ---: |
 | chua-xuat-hien | 16 |
 | da-qua-doi | 5 |
-| da-xuat-hien | 20 |
+| da-xuat-hien | 21 |
 | dang-phat-trien | 3 |
 | unknown | 1 |
-| de-xuat | 17 |
+| de-xuat | 16 |
 | duoc-nhac-den | 1 |
 
 Điểm vào: [[00-DANH MỤC NHÂN VẬT]], [[01-QUY TẮC VẬN HÀNH HỆ THỐNG NHÂN VẬT]], [[03-SỔ THEO DÕI LẦN XUẤT HIỆN]], [[04-SƠ ĐỒ QUAN HỆ NHÂN VẬT]], [[05-MA TRẬN TRI THỨC]], [[06-MA TRẬN THẾ LỰC]], [[07-THỨ BẬC TU LUYỆN VÀ CHIẾN LỰC]], [[08-MẠCH NHÂN VẬT VÀ VẤN ĐỀ LIÊN TỤC]], [[09-BÁO CÁO HỆ THỐNG NHÂN VẬT]].

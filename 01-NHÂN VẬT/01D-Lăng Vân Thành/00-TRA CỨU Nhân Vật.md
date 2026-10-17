@@ -16,8 +16,8 @@ Nhân vật dân sinh, Tế Sinh Viện, Nam Phố và các cơ quan/nhà có ho
 - [Kỷ Hành Chu](K%E1%BB%B7%20H%C3%A0nh%20Chu.md) — `da-xuat-hien` — Lần đầu trực tiếp Chương 55 tại quầy quyết cước Nam Phố; hoàn khoản chênh, thẻ nhận sổ bị giữ trong ngày. Chưa biết người mua cuối.
 
 - [Lão Bán Pháp Khí](L%C3%A3o%20B%C3%A1n%20Ph%C3%A1p%20Kh%C3%AD.md) — `da-xuat-hien` — Chủ quầy pháp khí cũ trong Chợ Tu Hành phía đông Lăng Vân Thành, người bán cho Lâm Uyên thanh đoản đao và bình thuốc cầm máu.
-- [Lưu Định](L%C6%B0u%20%C4%90%E1%BB%8Bnh.md) — `da-xuat-hien` — Phu xe chở thuê bị thương trong lúc xe chở vải đổ nghiêng ở chợ phía tây; người lao động dân thường, không có hồ sơ tu hành. Chương 60 sáng14 trực tiếp tới xem cổ tay, tự kể đã tới trạm theo giấy; kết quả khám/khả năng làm/việc thăm còn chưa xác nhận.
-- [Mạnh Thanh Tễ](M%E1%BA%A1nh%20Thanh%20T%E1%BB%85.md) — `da-qua-doi` — Y sư/giám dược tại Tế Sinh Viện, người đã hướng dẫn Lâm Uyên những căn bản về dược liệu và cứu chữa bách tính nghèo. Chương 60 xác nhận qua đời trong đêm13 sau cứu chữa; thi thể ở gian yên viện, đồ chưa bàn giao/tang chưa tổ chức.
+- [Lưu Định](L%C6%B0u%20%C4%90%E1%BB%8Bnh.md) — `da-xuat-hien` — Phu xe chở thuê bị thương trong lúc xe chở vải đổ nghiêng ở chợ phía tây; người lao động dân thường, không có hồ sơ tu hành. Chương 61 đã khám lại: còn sưng đau, hoãn chuyến nặng chờ lần khám sau; đã vào viếng Mạnh Thanh Tễ, chưa nhận chuyến xe mới.
+- [Mạnh Thanh Tễ](M%E1%BA%A1nh%20Thanh%20T%E1%BB%85.md) — `da-qua-doi` — Y sư/giám dược tại Tế Sinh Viện, người đã hướng dẫn Lâm Uyên những căn bản về dược liệu và cứu chữa bách tính nghèo. Chương 60 xác nhận qua đời trong đêm13 sau cứu chữa; thi thể ở gian yên viện, Chương 61 có lượt viếng; đồ chưa bàn giao, chưa chôn cất hoặc đủ nghi lễ tang.
 - [Trần Dực](Tr%E1%BA%A7n%20D%E1%BB%B1c.md) — `da-xuat-hien` — Người được nhóm Lâm Uyên gặp trong phế tích ở Chương 40; đến Chương 50 đang chữa trị tại Tế Sinh Viện. Hồ sơ tách lời khai khỏi sự thật đã quan sát.
 - [Tạ Hạnh](T%E1%BA%A1%20H%E1%BA%A1nh.md) — `da-xuat-hien` — Người giữ sổ cân tại một hiệu thuốc ở chợ phía tây; chỉ xuất hiện trong một cuộc đối chiếu chứng từ tính đến hết Chương 52.
 - [Tạ Nghiên Chi](T%E1%BA%A1%20Nghi%C3%AAn%20Chi.md) — `da-xuat-hien` — Thư lại giữ sổ trực dãy phòng Tô Thanh Ly, xuất hiện lần đầu trong Chương 51 khi Tông Sảnh mở hồ sơ sau vụ cháy Tàng Thư Các.
@@ -26,7 +26,7 @@ Nhân vật dân sinh, Tế Sinh Viện, Nam Phố và các cơ quan/nhà có ho
 - [Đỗ Hoài Chương](%C4%90%E1%BB%97%20Ho%C3%A0i%20Ch%C6%B0%C6%A1ng.md) — `da-xuat-hien` — Thợ sửa sách nhà hong; trực tiếp nhận việc mượn hai chìa ở Chương 54, trách nhiệm chiếc thứ hai chưa rõ.
 
 - [Tề Duy Cẩn](T%E1%BB%81%20Duy%20C%E1%BA%A9n.md) — `da-xuat-hien` — CHAR-061, hạng C; lần đầu trực tiếp Chương 58 tại Hòa Sinh. Đinh Bá Nghiêm nhận người; hắn nhận đọc chỉ dẫn, lập phiếu công và đề nghị chia hai lượt. Chưa xác nhận là người mua cuối.
-- [Khương Tố Nương](Kh%C6%B0%C6%A1ng%20T%E1%BB%91%20N%C6%B0%C6%A1ng.md) — `da-xuat-hien` — CHAR-062, hạng C; lần đầu trực tiếp Chương 58, người vá áo thuê ở nhà trú Nam Phố. Mẹ được giải chân và chuyển cùng con sáu tuổi tới viện; không tự gán giới tính cho đứa trẻ. Đến Chương 59 đã được viện nhận cùng con, chân còn cần trị.
+- [Khương Tố Nương](Kh%C6%B0%C6%A1ng%20T%E1%BB%91%20N%C6%B0%C6%A1ng.md) — `da-xuat-hien` — CHAR-062, hạng C; lần đầu trực tiếp Chương 58, người vá áo thuê ở nhà trú Nam Phố. Mẹ được giải chân và chuyển cùng con sáu tuổi tới viện; không tự gán giới tính cho đứa trẻ. Chương 61 giữ chỗ ở chung với con cho tới lúc viện cho chuyển, cần viện xác nhận mỗi sáng; vẫn đang trị chân, chưa xuất viện.
 - [Hồ Nhuận Chi](H%E1%BB%93%20Nhu%E1%BA%ADn%20Chi.md) — `da-xuat-hien` — CHAR-063, hạng C; tự tên/nghề/nhận giỏ tại Chương 59, nối người mắc chân cuối58. Được viện nhận khi yếu hơi, khác Khương Tố Nương; chưa kết quả trị.
 
 ## Hạ Gia — hồ sơ đề xuất
@@ -47,9 +47,9 @@ Nhân vật dân sinh, Tế Sinh Viện, Nam Phố và các cơ quan/nhà có ho
 - [Thẩm Từ Nghi](Th%E1%BA%A9m%20T%E1%BB%AB%20Nghi.md) — `da-xuat-hien` — CHAR-042, hạng B; gia chủ Thẩm Gia, trực tiếp Chương 57 đem nguyên liệu/đối điều kiện mua và giữ hộ tại viện. Tuổi/gia phả là thiết kế duyệt chưa tự lộ. Bao giữ hộ được kiểm và trả tối ngày thứ mười trong Chương 58; không tự thành hàng viện mua.
 - [Thẩm Vãn Đường](Th%E1%BA%A9m%20V%C3%A3n%20%C4%90%C6%B0%E1%BB%9Dng.md) — `de-xuat` — Thành viên **đề xuất**, chưa xuất hiện trong chương truyện. Hồ sơ này triển khai từ gia phả dự kiến; tên, tuổi, quan hệ và tiểu sử có thể thay đổi trước khi được tác giả chốt.
 
-## Bùi Gia — hồ sơ đề xuất
+## Bùi Gia — thiết kế đã duyệt và bản thảo
 
-- [Bùi Khánh Vân](B%C3%B9i%20Kh%C3%A1nh%20V%C3%A2n.md) — `de-xuat` — Thành viên **đề xuất**, chưa xuất hiện trong chương truyện. Hồ sơ này triển khai từ gia phả dự kiến; tên, tuổi, quan hệ và tiểu sử có thể thay đổi trước khi được tác giả chốt.
+- [Bùi Khánh Vân](B%C3%B9i%20Kh%C3%A1nh%20V%C3%A2n.md) — `da-xuat-hien` — CHAR-022, hạng C; lần đầu trực tiếp Chương 61. Giữ bảng công bên Bùi Gia, mang phiếu hẹn chuyển lời nhờ xem nhà trú tới đối, tìm nơi nhận thợ phụ; không phải người kết luận kết cấu. Tuổi 51/gia phả là thiết kế duyệt, bản thảo chỉ tả ngoài năm mươi.
 - [Bùi Khắc Thành](B%C3%B9i%20Kh%E1%BA%AFc%20Th%C3%A0nh.md) — `de-xuat` — Thành viên **đề xuất**, chưa xuất hiện trong chương truyện. Hồ sơ này triển khai từ gia phả dự kiến; tên, tuổi, quan hệ và tiểu sử có thể thay đổi trước khi được tác giả chốt.
 - [Bùi Khắc Vinh](B%C3%B9i%20Kh%E1%BA%AFc%20Vinh.md) — `de-xuat` — Thành viên **đề xuất**, chưa xuất hiện trong chương truyện. Hồ sơ này triển khai từ gia phả dự kiến; tên, tuổi, quan hệ và tiểu sử có thể thay đổi trước khi được tác giả chốt.
 - [Bùi Nguyên Bảo](B%C3%B9i%20Nguy%C3%AAn%20B%E1%BA%A3o.md) — `de-xuat` — Thành viên **đề xuất**, chưa xuất hiện trong chương truyện. Hồ sơ này triển khai từ gia phả dự kiến; tên, tuổi, quan hệ và tiểu sử có thể thay đổi trước khi được tác giả chốt.
@@ -65,9 +65,9 @@ Nhân vật dân sinh, Tế Sinh Viện, Nam Phố và các cơ quan/nhà có ho
 - [Đinh Bá Nghiêm](%C4%90inh%20B%C3%A1%20Nghi%C3%AAm.md) — `da-xuat-hien` — CHAR-060, hạng C; tên Chương 56, lần đầu trực tiếp Chương 57. Nhận giao phiếu/chép mặt sau; Chương 58 trực tiếp nhận Tề Duy Cẩn là người đọc cho chép, trách nhiệm người mua cuối vẫn chưa được giải. Không có mặt ở hiện trường nhà trú.
 
 
-## Mốc cảnh hiện hành — cuối Chương 60
+## Mốc cảnh hiện hành — cuối Chương 61
 
-Sáng ngày thứ mười bốn tại Tế Sinh Viện: Mạnh Thanh Tễ đã mất trong đêm, thi thể ở gian yên và đồ do viện giữ. Lâm Uyên làm thẻ/tên dưới giám sát người giám dược khác, còn thương và buồn; Tô Thanh Ly hỗ trợ lối/ghế, Tô Tín còn nạng. Khương Tố Nương/con, Hồ Nhuận Chi và Lưu Định tiếp cần người có nghề, chưa được xác nhận khỏi/thăm xong. Tra [[Trạng Thái Truyện Sau Chương 60]] trước khi viết tiếp.
+Gần trưa ngày thứ mười bốn tại Tế Sinh Viện: Lưu Định đã xem lại cổ tay và vào viếng Mạnh Thanh Tễ, vẫn hoãn chuyến nặng. Khương Tố Nương/con được giữ chỗ ở chung nhưng chưa chuyển, cần viện đối mỗi sáng. Bùi Khánh Vân lần đầu trực tiếp, phiếu hẹn tới bàn nhận việc Bùi Gia do chấp sự giữ có nhận; bản ghi giao việc/người nhận thực tế và người đưa lời còn cần đối. Lâm Uyên chỉ nhận phần mình thấy, còn thương và buồn; Tô Thanh Ly hỗ trợ trong giới hạn tay. Mạnh Thanh Tễ đã mất, đồ viện giữ, nguồn liên hệ chưa có kết quả; Hồ Nhuận Chi/Tô Tín không có cảnh mới làm thay đổi tình trạng. Tra [[Trạng Thái Truyện Sau Chương 61]] trước khi viết tiếp.
 
 ## Quy ước của thư mục
 

@@ -5,7 +5,7 @@ importance-tier: C
 vai-tro: nhan-vat-phu
 status: da-xuat-hien
 created: 2026-10-09
-updated: 2026-10-15
+updated: 2026-10-17
 tags:
   - nhan-vat
   - nam-pho
@@ -38,7 +38,7 @@ tags:
 | Con | Sáu tuổi theo lời mẹ, áo nâu/vạt vá đỏ; tên và giới tính UNKNOWN |
 | Cha mẹ/vợ chồng/thân tộc | UNKNOWN; không tự viết góa phụ hoặc mồ côi |
 | Cảnh giới/chiến lực | UNKNOWN; chưa có nguồn tu hành |
-| Nơi cuối trực tiếp | Tế Sinh Viện cùng con, rạng ngày thứ mười bốn trong bản thảo Chương 60 |
+| Nơi cuối trực tiếp | Tế Sinh Viện cùng con, sáng ngày thứ mười bốn trong bản thảo Chương 61 |
 | Sinh tử/tình trạng | Còn sống, chân vẫn đau tại viện; chưa có xác nhận hồi phục hoặc xuất viện |
 
 ## Dấu nhận và biểu hiện đã thấy
@@ -62,7 +62,7 @@ Bà hỏi người ở gian cuối sau khi mình được chuyển; lời ấy c
 - **[[Mạnh Thanh Tễ]] và y sư cứu trợ:** Xem thương tích, quyết chuyển; ở mốc Chương 58 bà chưa biết biến cố tiếp theo; trong bản thảo Chương 60 được người trực báo ông đã mất.
 - **[[Lâm Uyên]]:** Hỏi tên, nhờ đối con, ghi nơi chuyển và người đi cùng. Bà biết một người đang giúp ở điểm cáng, không biết thân thế/công pháp.
 - **Người ở gian cuối:** Nhắc vị trí cần tìm; người trông nhà/đội cứu đối tiếp. Chưa xác nhận quan hệ bạn bè hoặc có ai tử vong.
-- **[[Tô Thanh Ly]]:** Cùng hiện trường nhưng chưa có lời đối trực tiếp riêng với bà; không tự tạo thân tình từ việc đường cáng được mở.
+- **[[Tô Thanh Ly]]:** Cùng hiện trường; Chương 61 trực tiếp giúp phân biệt sổ giao gian/số người, giữ yêu cầu mẹ con ở chung và hỏi y sư trước khi chuyển. Chưa có quan hệ thân hữu được xác nhận.
 
 ## Vai trò trong tuyến và lần sau
 
@@ -89,3 +89,13 @@ Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhu
 - Cuối chương mẹ con còn tại viện. Nhu cầu chữa trị/chỗ ở sau sập còn mở; không có xác nhận hồi phục sinh kế hoặc đã về nhà.
 
 Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]].
+
+## Trạng thái mới theo bản thảo Chương 61
+
+- Sáng ngày thứ mười bốn còn trên giường viện, chân đau không thể tự ra cửa/cúi giữ con. Nghe người trông nhà dùng sổ người nhận gian để báo chỉ một chỗ ở nhờ, bà yêu cầu ở đâu con ở đó.
+- Xác nhận với Lâm Uyên phần mẹ con nhận nhau ở điểm cáng và cùng lượt về viện, không nhận thay các lối cứu khác. Người giữ sổ viện đối phần nhận; tờ tổng toàn nhà chưa được xác nhận.
+- Người thu xếp đồng ý giữ **hai mẹ con cùng một lượt/chỗ ở chung**, cho tới khi viện báo có thể chuyển; viện phải xác nhận mỗi sáng họ còn nằm đây. Đây là giữ chỗ có điều kiện phối hợp, chưa xuất viện, dọn tới chỗ mới hoặc được cấp nhà lâu dài.
+- Xin xem và nghe đọc lại đủ phần con đi cùng, hỏi rõ có ở chung không rồi mới buông mép ghế. Cuối chương vẫn ở viện; nói với con chỗ mới cho mang đôi giày vào, không cho đó là cảnh đã tới nơi.
+- Trẻ mang đôi giày bùn được lau, nhường mép bàn khi Lâm Uyên ghi rồi nằm bên mẹ. Tên/giới tính trẻ và các thân nhân khác vẫn UNKNOWN; không mặc định đứa trẻ có hồ sơ riêng hoặc thêm người nhà tử vong.
+
+Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].

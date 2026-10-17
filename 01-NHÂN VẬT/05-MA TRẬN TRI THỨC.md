@@ -166,3 +166,18 @@ Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhu
 Lâm Uyên có thể chỉ thẻ đã ghi, nhận tên và chờ người có nghề kiểm; chính hắn nói phần phối chưa học. Việc đã từng sửa một vòng băng cho Lưu Định ở Ch49 không thành trình độ giám dược. Chỉ nguồn lời về quản/sửa nhà được yêu cầu giữ, chưa lời giải âm mưu; người mua Hòa Sinh, mẫu vón, chìa/trang và các mạng vẫn mở riêng.
 
 Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]], [[Chương 49]], [[Lưu Định]].
+
+## Tri thức theo bản thảo Chương 61
+
+| Người | Biết/nghe trong cảnh | Giới hạn còn lại |
+| --- | --- | --- |
+| Lâm Uyên | K: đi cùng lượt viếng sau khám, nghe/biết phần khám cổ tay Lưu Định; K: phần mình chứng kiến hai mẹ con gặp lại và cùng chuyển; thấy viện đối phần nhận | Chưa chứng kiến toàn nhà, không nhận tờ tổng; kết quả cho chủ thuê/chỗ ở toàn khu chưa có |
+| Tô Thanh Ly / viện / chấp sự | K: sổ giao gian khác số người thật; phần nhận viện đối được mẹ con; giữ hai chỗ cùng lượt với xác nhận mỗi sáng | Chưa được y sư cho chuyển, chưa kiểm mọi tên/lối; không mặc định chỗ mới an toàn cho cả khu |
+| Lâm Uyên / Tô Thanh Ly / chấp sự | K: thấy Bùi Khánh Vân mang/giao phiếu hẹn tới bàn nhận việc Bùi Gia, khoảng hoàn tất trên bản ấy trống; nghe bà tự nhận nghề và phạm vi | Phiếu không ghi ai sẽ khảo sát; phải đối phần giao việc ở nhà Bùi Gia. Khoảng trống chưa chứng minh chưa từng sửa hoặc ai gây sập |
+| Bùi Khánh Vân | R: người về báo đi cùng thợ phụ tới giúp; bà muốn tìm nơi nhận người. K: phần bảng công/phiếu mình giữ | Không chứng kiến mái sập, không biết toàn kết cấu/nơi thợ hiện ở. Không có tên được đọc cho độc giả rồi giữ kín |
+| Người trông nhà | R: đã nhờ xem chỗ dột dãy sát sân, nghe người đưa lời bảo đợi tạnh; còn bản giữ cần mang về đối | Chưa nhận diện người đưa lời, chưa chứng minh giao việc/hoàn tất hay nguyên nhân sập |
+| Lưu Định | K: nghe y sư dặn hoãn chuyến nặng, trực tiếp viếng thi thể | Không nhân chứng tai nạn, không được trao quyền tang; việc tới trạm trước đó vẫn lời tự kể60 |
+
+Thân nhân/ý nguyện của Mạnh Thanh Tễ vẫn UNKNOWN; gửi tin không đồng nghĩa đã nhận hồi đáp. Không có tri thức mới về HFS/Hòa Sinh/chìa/trang hoặc người mua.
+
+Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].

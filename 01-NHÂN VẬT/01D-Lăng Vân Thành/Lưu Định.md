@@ -35,7 +35,7 @@ Không lớn tiếng đòi bồi thường hay than đau; ban đầu muốn ti�
 
 ## Giới hạn continuity
 
-Xuất hiện ở [[Chương 49]] và trở lại trong bản thảo [[Chương 60]]. Chủ xe, nguyên nhân xe đổ và kết quả chấn thương vẫn chưa xác định. Việc tới trạm được anh tự kể ở Chương 60, chưa có cảnh chuyến đi hoặc hồ sơ đối độc lập. Không gắn anh với mạng lưới thuốc hoặc thế lực nào.
+Xuất hiện ở [[Chương 49]] và trở lại trong bản thảo [[Chương 60]]–[[Chương 61]]. Chủ xe và nguyên nhân xe đổ vẫn chưa xác định; Chương 61 có kết quả xem lại giới hạn, chưa xác nhận đã khỏi. Việc tới trạm được anh tự kể ở Chương 60, chưa có cảnh chuyến đi hoặc hồ sơ đối độc lập. Không gắn anh với mạng lưới thuốc hoặc thế lực nào.
 
 ## Liên kết
 
@@ -53,3 +53,12 @@ Xuất hiện ở [[Chương 49]] và trở lại trong bản thảo [[Chương 
 - Theo người giữ hàng tới lượt khám cổ tay, xin tới thăm chỗ đặt thầy sau khám. Người trực nhận đưa khi được phép; chưa có cảnh khám xong, thăm thực tế hoặc tham gia tang lễ.
 
 Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]].
+
+## Trạng thái mới theo bản thảo Chương 61
+
+- Sáng ngày thứ mười bốn ra khỏi gian khám tại viện với tờ dặn mới: cổ tay còn sưng đau, hoãn chuyến nặng và tới lần khám sau mới hỏi tiếp. Xin ghi rõ để đưa chủ thuê xem; không có xác nhận được kéo xe nặng hoặc hồi phục hoàn toàn.
+- Được người trực dẫn cùng Lâm Uyên vào gian yên thăm Mạnh Thanh Tễ. Mang mảnh giấy giới thiệu cũ, nhìn/cúi trước giường rồi cất giấy lại; lời xin thăm của Chương 60 đã được thực hiện, chưa thành tang lễ hay chôn cất.
+- Đề nghị có xe nếu viện cần, rồi tự dừng khi nhìn tay/tờ dặn: phải tìm thêm người kéo, bản thân chưa làm được. Viện chưa nhận một chuyến chở, không coi là đã vận chuyển thi thể hoặc trả ơn xong.
+- Ra hiên chờ phần ghi cho chủ thuê theo chỉ của người trực. Việc từng tới trạm vẫn chỉ qua lời tự kể ở Chương 60; không có hồ sơ đối độc lập mới hoặc liên hệ với tai nạn nhà trú/mạng thuốc.
+
+Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].

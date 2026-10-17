@@ -143,3 +143,12 @@ Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhu
 - Tác động trước mắt là việc học dang dở và những câu hỏi/người bệnh vẫn còn cần được tiếp; không cho cái chết truyền công lực, chữa thương, cấp nghề, giải mạng thuốc hay định sẵn lời thề báo thù của Lâm Uyên.
 
 Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]].
+
+## Hậu quả theo bản thảo Chương 61
+
+- Sáng ngày thứ mười bốn, thi thể vẫn ở gian yên trong viện; Lưu Định được người trực dẫn tới viếng sau khám, giữ lại mảnh giấy giới thiệu cũ. Cuối buổi sáng có các lượt viếng ngắn, tránh lối nhận bệnh; chưa chôn cất hoặc đủ nghi lễ tang.
+- Viện chủ báo đã giao người gửi tin theo đầu mối hồ sơ, còn phải chờ. Thân nhân, người nhận tin, kết quả liên hệ và người lo tang vẫn chưa xác nhận; đồ vẫn viện giữ, không bàn giao cho Lâm Uyên.
+- Lâm Uyên trở lại ngồi/kể việc hai mẹ con rồi nhận ra mình còn đợi thầy hỏi; đây là phản ứng của người sống, không có lời đáp, di nguyện mới, hồi sinh hoặc truyền nghề từ người mất.
+- Việc giữ chỗ ở/đối giấy nhà trú tiếp diễn bởi người còn sống; chưa làm rõ nguyên nhân sập hoặc thủ phạm. Trạng thái da-qua-doi từ đêm ngày thứ mười ba giữ nguyên, không ghi ông có hành động mới.
+
+Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
