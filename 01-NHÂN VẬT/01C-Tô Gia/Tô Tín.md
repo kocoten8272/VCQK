@@ -95,3 +95,11 @@ Nguồn: [[Chương 59]], [[Trạng Thái Truyện Sau Chương 59]], [[Hồ Nhu
 - Chân/tay chưa có mốc hồi phục mới. Tên Tô Lạc vẫn trên sơ đồ, thi thể/miếng đồng chưa thu hồi; việc tìm không bị xóa vì biến cố cứu trợ.
 
 Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]].
+
+## Trạng thái mới theo bản thảo Chương 63
+
+- Tối ngày thứ mười bốn trực tiếp ở ghế cạnh giường Trần Dực tại viện; nạng vẫn trong tầm tay. Nhờ người kéo ghế chừa lối, đặt nước gần giường, không đi nhà trú hoặc Hắc Phong Sơn.
+- Nghe Tạ Nghiên Chi trình phản hồi Tông Sảnh và Trần Dực tự nhận nghe hỏi có điều kiện chiều ngày mười lăm. Không chen nhận lời hộ, không ép nhớ thêm hoặc biến việc được cứu thành nghĩa vụ khai mọi điều.
+- Không có mốc hồi phục mới, tin thử nền mới hoặc lệnh vào hầm. Tô Lạc/miếng đồng chưa được thu hồi, vị trí thi thể sau sập vẫn chưa xác minh.
+
+Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].

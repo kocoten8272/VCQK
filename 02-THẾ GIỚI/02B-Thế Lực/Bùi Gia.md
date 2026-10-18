@@ -82,3 +82,12 @@ Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
 - Phân biệt người giữ bảng công, người khảo sát, thợ phụ/người đưa lời và người phụ trách cứu. Những thành viên còn lại của gia tộc chưa trực tiếp xuất hiện vì hai người này có mặt; không kết tội cả nhà, xác lập âm mưu hoặc nối Hòa Sinh/Hắc Nha/Tả tiên sinh.
 
 Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].
+
+## Triển khai theo bản thảo Chương 63
+
+- Bùi Ninh Viễn trở lại viện trước tối ngày thứ mười bốn với một thợ lớn tuổi dẫn lượt, người ấy nhận xem tiếp tại nhà trú sáng ngày mười lăm. Việc làm bên trong còn tùy xem lại và người phụ trách cứu cho phạm vi, chưa có kết quả mở lối/sửa xong.
+- Bùi Ninh Viễn cho người làm giỏ tự thử rồi nhận mượn dao riêng dùng vót thô hai ngày; hẹn trả chiều ngày mười sáu ở bàn nhận việc Bùi Gia, phải báo người trực nhận đúng phần. Không phải dao cũ đã thu hồi, tiền bồi thường hoặc quyền dùng tài sản gia tộc không giới hạn.
+- Người làm giỏ vẫn yêu cầu xem trách nhiệm nhà cũ; Lâm Uyên chưa tha lỗi hay kết luận nguyên nhân sập. Việc giúp nhỏ và vào viếng Mạnh Thanh Tễ không xóa lời đã nhận hoặc thay kết quả điều tra.
+- Bùi Khánh Vân không trực tiếp trong chương; không có xác minh độc lập mới về thợ phụ, người đưa lời hoặc gia đình thợ. Gia phả giữ lớp thiết kế, không nâng các thành viên khác thành đã xuất hiện hoặc nối gia tộc với Hòa Sinh/Hắc Nha/Tả tiên sinh.
+
+Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].

@@ -192,3 +192,15 @@ Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
 - Dược Khế bảy tháng, hộ tống/quản thúc và thương tay giữ nguyên. Chưa có tin mới giải Hắc Phong Sơn, người mua thuốc, chìa/trang mất hoặc sinh tử thật của Lâm Chinh.
 
 Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].
+
+## Trạng thái mới theo bản thảo Chương 63
+
+- Cuối chiều ngày thứ mười bốn tại viện, nghe Bùi Ninh Viễn báo trước tối và trực tiếp thấy người thợ dẫn lượt tới nhận xem tiếp sáng ngày mười lăm. Đội còn phải tới gặp người phụ trách cứu, xem rồi mới chia việc; chưa có lượt làm, mở lối hoặc thu hồi đồ mới.
+- Không nhận dao thay người làm giỏ. Thấy người ấy thử rồi chấp nhận mượn dao riêng của Bùi Ninh Viễn để vót phần thô hai ngày, hẹn trả chiều ngày thứ mười sáu tại bàn nhận việc Bùi Gia; khung và dao của ông vẫn chưa lấy. Hiểu một phần giúp dùng được không xóa phần trách nhiệm còn phải đối, chưa tha lỗi hoặc kết luận nguyên nhân sập.
+- Tối trực tiếp nghe Tạ Nghiên Chi mang phản hồi Tông Sảnh: không giao bản lời Trần Dực theo điều kiện đổi hòm thuốc, yêu cầu Hòa Sinh cử người giải phần giữ hòm/nguồn yêu cầu. Chưa có thuốc được giao, người mua được nhận diện hoặc liên hệ với chìa/trang mất.
+- Dự lượt ngắn trong gian Trần Dực được y sư cho. Nghe Trần Dực nhận nghe hỏi chiều ngày mười lăm nếu sức cho, sửa thành không hứa sẽ nhớ thêm; không nhận hỏi thay hoặc giao lời thay người bệnh. Lâm Uyên chỉ có thể gửi câu hỏi qua người phụ trách, chưa có lệnh dự hỏi.
+- Nhận tham dự lượt tưởng niệm Mạnh Thanh Tễ giữa buổi sáng ngày mười lăm. Đồng ý để người có nghề/chấp sự nhận lượt nhà trú và báo phần chưa lấy được, không theo xe từ sớm; không phải đã bỏ việc cứu tài sản hoặc tang lễ đã diễn ra.
+- Xin học tiếp sau lượt tưởng niệm nếu còn sức: giám dược cho hẹn ngồi quan sát việc tiếp nhận, nghe người có nghề hỏi rồi hỏi lại điều chưa hiểu. Chưa học xong bài mới, nhận sư phụ thay thế, biết tự chẩn bệnh/chọn/cân/phối thuốc hoặc có năng lực mới.
+- Tối không viết thêm, tay phải vẫn đau dưới băng, tay trái còn mỏi. Nhờ người trực báo giờ sáng rồi đi nghỉ, không tự giữ gian yên suốt đêm; đau buồn còn nguyên dù đã nhận một việc cho hôm sau. Dược Khế bảy tháng, quản thúc/hộ tống và tình trạng thật UNKNOWN của Lâm Chinh không đổi.
+
+Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].

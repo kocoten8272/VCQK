@@ -8,10 +8,10 @@
 
 - **Tên truyện:** Vạn Cổ Quy Khư
 - **Nhân vật chính:** [[Lâm Uyên]]
-- **Địa điểm ở cuối Chương 62:** Tế Sinh Viện, cuối chiều ngày thứ mười bốn; Lâm Uyên trở về sau lượt ngoài nhà trú, Bùi Ninh Viễn nhận phần chưa làm và hẹn báo lượt tiếp; thi thể Mạnh Thanh Tễ vẫn gian yên
+- **Địa điểm ở cuối Chương 63:** Tế Sinh Viện, tối ngày thứ mười bốn; hẹn đội trước tối đã được trả, buổi đối Trần Dực dự kiến chiều15 có điều kiện; Lâm Uyên nhận học tiếp sau lượt tưởng niệm sáng15
 - **Thế lực gắn với arc hiện tại:** [[Tô Gia]]
-- **Chương mới nhất trên main:** [[Chương 62]] (nháp)
-- **Chương tiếp theo:** Chương 63 (dự kiến)
+- **Chương mới nhất trên main:** [[Chương 63]] (nháp)
+- **Chương tiếp theo:** Chương 64 (dự kiến)
 - **Trạng thái:** Đang sáng tác
 
 ---
@@ -195,13 +195,14 @@
 - [[Chương 59]] — Người Trên Cáng Sau; nháp
 - [[Chương 60]] — Gian Thuốc Vẫn Sáng; nháp
 - [[Chương 61]] — Chỗ Cho Người Còn Sống; nháp
-- [[Chương 62]] — Lối Chưa Được Mở; nháp mới
+- [[Chương 62]] — Lối Chưa Được Mở; nháp
+- [[Chương 63]] — Một Việc Cho Ngày Mai; nháp mới
 
 ### Chuẩn bị
 
-- Chương 63 — hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 62]].
+- Chương 64 — hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 63]].
 - [[Kết Chương]] — trạng thái từng chương, bao gồm các bản nháp và chương chưa có frontmatter.
-- [[Trạng Thái Truyện Sau Chương 62]] — trạng thái continuity hiện hành; các bản sau chương trước đó là lưu vết lịch sử.
+- [[Trạng Thái Truyện Sau Chương 63]] — trạng thái continuity hiện hành; các bản sau chương trước đó là lưu vết lịch sử.
 
 ---
 

@@ -12,7 +12,7 @@ tags:
 
 # Viện Chủ Tế Sinh Viện (chưa rõ tên)
 
-> Chức danh của người đứng đầu Tế Sinh Viện. Tên riêng chưa được nêu trong bản thảo đến hết Chương 61; không tự đặt tên hoặc chốt giới tính nếu chưa có bằng chứng.
+> Chức danh của người đứng đầu Tế Sinh Viện. Tên riêng chưa được nêu trong bản thảo đến hết Chương 63; không tự đặt tên hoặc chốt giới tính nếu chưa có bằng chứng.
 
 ## Thông tin đã xác nhận
 
@@ -74,3 +74,13 @@ Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]].
 - Nhận phần việc y tế/đối người đúng thẩm quyền, không kết luận công trình hoặc thay chấp sự giữ giấy sửa nhà. Tên thật, giới tính, tuổi, tu vi và gia đình vẫn UNKNOWN.
 
 Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
+
+## Trạng thái mới theo bản thảo Chương 63
+
+- Tối ngày thứ mười bốn nhận thông tin Trần Dực muốn ở gần cửa lúc tưởng niệm nếu sức cho; thu xếp trong phạm vi người bệnh, không bảo đảm trước kết quả khám ngày hôm sau.
+- Mời Lâm Uyên cùng đồng nghiệp/người từng được Mạnh Thanh Tễ giúp thắp hương giữa buổi sáng ngày mười lăm. Lượt tưởng niệm mới được thu xếp, không phải đã diễn ra hoặc quyết định chôn cất.
+- Tiếp tục tìm người cần báo, giữ riêng đồ Mạnh Thanh Tễ; chưa xác định thân nhân, bàn giao di sản hoặc trao quyền lo tang cho người học việc.
+- Bảo Lâm Uyên nghỉ, giao người trực báo nếu có thay đổi và thay nhau giữ gian yên. Không yêu cầu hắn làm phần nặng hoặc thức suốt đêm; việc điều trị tại các gian khác vẫn tiếp.
+- Tên thật, tuổi, giới tính, tu vi và gia đình vẫn UNKNOWN. Việc hỏi Trần Dực chiều mai còn phụ thuộc y sư xem sức, không phải viện chủ đã duyệt một buổi vô điều kiện.
+
+Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].

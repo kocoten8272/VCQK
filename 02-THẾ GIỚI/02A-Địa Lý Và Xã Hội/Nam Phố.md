@@ -119,3 +119,11 @@ Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
 - Lượt gọi đội/xem tiếp/lấy đồ phải được báo có làm được hay không trước tối theo lời Bùi Ninh Viễn nhận; cuối chương chưa có kết quả. Mạng thuốc, Hắc Nha và tuyến chìa/trang mất tiếp tục riêng.
 
 Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]], [[Bùi Ninh Viễn]].
+
+## Hậu quả theo bản thảo Chương 63
+
+- Cuối chiều ngày thứ mười bốn, Bùi Ninh Viễn báo tại viện trước tối, đem người thợ dẫn lượt tới trực tiếp nhận xem nhà trú sáng ngày mười lăm khi đủ sáng. Đội phải gặp người phụ trách cứu, xem lại rồi mới chia việc; chưa có lượt làm hoặc đường được mở.
+- Người làm giỏ nhận mượn dao riêng của Bùi Ninh Viễn để vót thô hai ngày, hẹn trả chiều ngày mười sáu tại bàn nhận việc Bùi Gia. Khung/dao của chính ông và gói kim Hồ Nhuận Chi vẫn chưa lấy; lời mượn không là bồi thường đủ, xóa trách nhiệm hoặc phục hồi toàn sinh kế.
+- Hậu quả nhà trú tiếp tục riêng với phản hồi Tông Sảnh về hòm thuốc Hòa Sinh. Phản hồi mới chưa mang thuốc tới, xác định người mua hoặc nối một nhóm gây sập với mạng thuốc/Hắc Nha; không có quyền quản Nam Phố mới được xác lập.
+
+Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].

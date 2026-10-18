@@ -8,7 +8,7 @@ tags:
 
 # Sổ Cái Nhân Vật
 
-> 63 hồ sơ cá nhân trong cây thư mục tại mốc Chương 62. Nhân vật thoáng qua chưa rõ tên được giữ trong sổ riêng.
+> 63 hồ sơ cá nhân trong cây thư mục tại mốc Chương 63. Nhân vật thoáng qua chưa rõ tên được giữ trong sổ riêng.
 
 ## Quy tắc ID
 

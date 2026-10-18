@@ -183,3 +183,19 @@ Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
 79 node lore giữ, FAC-001 đã phát triển61 không cần cấp ID thêm. Nguồn Exa chỉ lớp biên tập LOG-009; không dạy nhân vật kỹ thuật ngoài nghề/nguồn hiện có.
 
 Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].
+
+## Đối chiếu có phạm vi sau Chương 63 — 2026-10-18
+
+| Mệnh đề | Nguồn/lớp | Giới hạn |
+| --- | --- | --- |
+| Trả hạn báo trước tối14 | DRAFT TEXT63 người khảo sát trở lại/đội dẫn trực tiếp nhận sáng15 | Hẹn đã trả khác đội đã tới/xem/sửa |
+| Dao mượn | DRAFT TEXT63 chủ nói sở hữu/cho mượn, người đóng giỏ tự chọn2ngày/chiều16 bàn Bùi Gia | Không chứng nhận trách nhiệm nhà đã giải hoặc toàn đồ nghề phục hồi |
+| Quyết định/yêu cầu Tông | DRAFT TEXT63 Tạ Nghiên Chi đọc bản giao viện không cấp bản lời theo đổi thuốc, Hòa Sinh phải cử người trả phần giữ/nguồn | Chưa thuốc về/đại diện tới/người đặt nhận diện hoặc quy luật kinh doanh toàn thành |
+| Chiều15 nghe hỏi tại viện | DRAFT TEXT63 đề nghị/Trần Dực nhận có điều kiện y sư; sức xem lại ngày mai | Không lời khai mới/phiên đã diễn ra/hứa nhớ thêm hoặc tay trái khỏi |
+| Sáng15 tưởng niệm | DRAFT TEXT63 viện chủ thu xếp đồng nghiệp, tiếp báo thân nhân | Không nghi lễ chôn/di nguyện/trao đồ, thân nhân còn UNKNOWN |
+| Học sau tưởng niệm | DRAFT TEXT63 Lâm Uyên xin/người giám dược nhận chỉ quan sát/hỏi nếu sức cho | Chưa học xong/đơn thuốc hoặc truyền thừa từ người mất |
+| Phân việc/chọn nghỉ | DRAFT TEXT63 nhờ theo đội/gọi sáng, đi nằm không viết | Không khỏi buồn/tay hoặc gỡ nghĩa vụ |
+
+79 node lore giữ, không tạo node cho dao thường/đội ngắn chỉ vì xuất hiện. REF-006/LOG-010 là lớp biên tập, không thế giới do nguồn ngoài dạy nhân vật.
+
+Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].

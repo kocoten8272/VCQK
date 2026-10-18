@@ -5,7 +5,7 @@ importance-tier: C
 vai-tro: nhan-vat-phu
 status: da-xuat-hien
 created: 2026-10-09
-updated: 2026-10-09
+updated: 2026-10-18
 tags:
   - nhan-vat
   - hoa-sinh
@@ -71,3 +71,11 @@ Trả câu hỏi ai đọc chỉ dẫn ở Chương 57 bằng người có tên/
 Còn cần kiểm nguồn người đặt, nguồn tiền và nguyên trạng hàng; phần công còn tranh chấp. Chấp sự yêu cầu không tiếp đặt điều kiện ấy lên thuốc vụ đang kiểm, chưa phải lệnh thay mọi quy chế kinh doanh Hòa Sinh.
 
 [[Chương 57]] · [[Chương 58]] · [[Trạng Thái Truyện Sau Chương 58]] · [[Dược Phường Hòa Sinh]] · [[Đinh Bá Nghiêm]] · [[Nhân Vật Chưa Rõ Tên — Sổ Theo Dõi]]
+
+## Nguồn liên quan theo bản thảo Chương 63
+
+- Không có cảnh trực tiếp mới; nơi cuối trực tiếp vẫn là Hòa Sinh sáng ngày mười một. Tạ Nghiên Chi mang phản hồi Tông Sảnh về việc không cấp bản lời Trần Dực theo điều kiện đổi hòm thuốc.
+- Hòa Sinh được yêu cầu cử người có quyền giải quyết tới trình riêng phần giữ hòm và nguồn yêu cầu; chưa xác nhận Tề Duy Cẩn chính là người được cử, đã tới hoặc khai thêm.
+- Buổi lấy lời Trần Dực dự kiến chiều ngày mười lăm tại viện còn phải xét sức và sự đồng ý; không phải nhận được lời người đặt hoặc xác định người mua cuối. Chưa có hòm thuốc được giao mới, kết luận mẫu vón, nguồn tiền hoặc liên hệ Hắc Nha/Tả tiên sinh.
+
+Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].

@@ -197,3 +197,18 @@ Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
 Tin HFS/Hòa Sinh/chìa/trang không có lời mới; không cho các nhân vật biết nguồn ngoài trường nhìn/tin đã nghe.
 
 Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].
+
+## Tri thức theo bản thảo Chương 63
+
+| Người | Biết/nghe | Giới hạn |
+| --- | --- | --- |
+| Lâm Uyên/Tô Thanh Ly/chấp sự | K: người dẫn đội trực tiếp nhận tới sáng15, Bùi Ninh Viễn báo chưa lấy thêm khung/dao/kim; chủ đồ trực tiếp nhận mượn | Đội chưa xem lại/làm, lời chưa lấy chiều qua Ninh không toàn kiểm hiện trường |
+| Chủ đồ/Bùi Ninh Viễn | K: xem dao, đồng ý mượn2ngày, chiều16 trả bàn nhận việc Bùi Gia có báo trước | Chưa khung/dao cũ, không trách nhiệm sập đã giải |
+| Tạ Nghiên Chi/viện/nhóm | K: đọc bản giao Tông Sảnh không cấp bản lời Trần Dực theo đổi thuốc, yêu cầu Hòa Sinh người giải phần giữ hòm/nguồn | Chưa người đặt được nhận diện/mời được, chưa Hòa Sinh nhận yêu cầu/đại diện tới hoặc thuốc giao |
+| Trần Dực/nhóm | K: chiều15 dự kiến tại viện, vai người dự phải báo trước, hỏi tùy sức; Trần Dực đồng ý nghe hỏi/chưa hứa nhớ thêm | Y sư chưa chốt sức ngày mai; không lời khai/năng lực tay trái mới |
+| Lâm Uyên/người trong viện | K: tưởng niệm giữa sáng15 do đồng nghiệp, tiếp báo thân nhân; nhận học quan sát sau đó nếu sức cho | Chưa diễn ra/được học xong, không chôn/đồ chuyển sở hữu |
+| Lâm Uyên | Tự thấy muốn theo mọi chỗ vì sợ bỏ lỡ, nhận người khác theo đội và nghỉ | Chưa hết giận/buồn, không lời hứa cứu tất cả |
+
+HFS/chìa/trang và nguồn thợ phụ không mới63. Không cho Tạ Nghiên Chi thành nhân chứng vụ sập hoặc biết nguyên nhân vì đã viếng.
+
+Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].

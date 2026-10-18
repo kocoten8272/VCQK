@@ -9,7 +9,7 @@ tags:
 
 # Mạch Nhân Vật Và Vấn Đề Liên Tục
 
-> Bảng nền sau Chương 52; tiến triển Chương 53–62 được lưu ở cuối. Đây là sổ theo dõi, không phải lệnh tự giải quyết tuyến.
+> Bảng nền sau Chương 52; tiến triển Chương 53–63 được lưu ở cuối. Đây là sổ theo dõi, không phải lệnh tự giải quyết tuyến.
 
 ## Open Character Threads
 
@@ -160,3 +160,17 @@ Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
 - **Các tuyến khác:** Giữ điều kiện chỗ ở Khương Tố Nương/con và khám Lưu Định đã có61, HFS/Hòa Sinh/chìa không thông tin mới.
 
 Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].
+
+## Tiến triển theo bản thảo Chương 63
+
+- **Trả hạn trước tối14:** Bùi Ninh Viễn trở lại cùng người dẫn đội trực tiếp nhận sáng15; chưa lấy thêm đồ. Hẹn báo đã trả, lượt đội tới/xem/làm vẫn tương lai.
+- **Dao mượn/sinh kế:** Chủ đồ tự xem/chọn dao riêng của Bùi Ninh Viễn, dùng phần thô, mượn2ngày/chiều16 trả Bùi Gia. Giữ khung/dao cũ/kim chưa lấy, không bồi thường/tha lỗi từ nhận mượn.
+- **Tuyến thuốc chuyển việc:** Tạ Nghiên Chi đem bản trả lời Tông, không cấp lời Trần Dực theo đổi thuốc; yêu cầu Hòa Sinh người giải phần giữ hòm/nguồn. Chưa hòm về/người mua/đại diện. Chiều15 tại viện dự kiến hỏi Trần Dực, hắn nhận có điều kiện/y sư chưa chốt.
+- **Trần Dực chủ động:** Nhận nghe hỏi sau lượt tưởng niệm sáng, sửa không hứa nhớ thêm; tay trái không vận động mới. Không tự hóa thành nhân chứng luôn sẵn hoặc trả lời thay phỏng đoán.
+- **Tang và học:** Giữa sáng15 lượt tưởng niệm đồng nghiệp được viện chủ thu xếp, thân nhân/đồ tiếp giữ. Lâm Uyên nhận có mặt, xin học quan sát sau đó nếu sức cho, chưa bài học/quyền y thuật mới.
+- **Phân việc:** Lâm Uyên nhận chấp sự cho người theo đội rồi báo, không tự có mặt sáng15; không viết tối, cuối đi nghỉ/nhờ gọi. Buồn/giận còn nhưng quyền chọn nhỏ đã đổi.
+- **Giữ riêng:** Thợ phụ/Bùi Khánh Vân chưa nguồn mới sau tin62, HFS/chìa/trang không chuyển; chỗ ở mẹ con/việc khám Lưu Định giữ nguồn61.
+
+Ch64 cần thực hiện một phần các hẹn sáng15 và duy trì chiều15/ngày16 đúng nguồn, không kéo thêm một buổi hỏi lịch trống.
+
+Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].

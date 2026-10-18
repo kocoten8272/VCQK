@@ -64,3 +64,14 @@ Gia phả, tên, quan hệ, độ tuổi, động cơ và chức năng trong h�
 - Cuối cảnh còn ở nhà trú đối việc trước khi gọi đội, nhận sẽ tới viện báo cả phần chưa làm được. Chưa có kết quả lượt tiếp, sửa xong, kết luận trách nhiệm hoặc liên hệ mạng thuốc/Hắc Nha/Tả tiên sinh.
 
 Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].
+
+## Diễn biến theo bản thảo Chương 63
+
+- Trước tối ngày thứ mười bốn trở lại viện cùng một thợ lớn tuổi dẫn lượt, báo đã gọi được đội tới nhà trú sáng ngày mười lăm. Người thợ trực tiếp nhận việc xem lại, đủ sáng phải gặp người phụ trách cứu rồi mới chia việc; chưa có lượt mới làm xong hoặc lối đã mở.
+- Báo đúng phần còn hạn chế: mái nối dãy trong chưa cho qua, chưa lấy thêm khung/dao/gói kim. Nhận chuyển lời và báo tới cả chỗ chủ đồ đang chờ, không chỉ bàn nhận việc nhà mình; chưa hứa thu hồi được mọi món.
+- Đem dao nhỏ của riêng mình cho người làm giỏ tự thử, không đưa Lâm Uyên nhận thay. Người ấy thấy không vừa tay nhưng dùng được vót thô, nhận mượn hai ngày; hẹn trả chiều ngày mười sáu tại bàn nhận việc Bùi Gia, phải nói rõ của Bùi Ninh Viễn và để người trực biết phần nhận.
+- Nhận lời nhờ giữ các thanh cong của khung nếu còn dùng được, chuyển cho người làm nhưng không bảo đảm chúng còn nguyên. Dao cho mượn không phải dao đã lấy ra, bồi thường đầy đủ hoặc món quà xóa trách nhiệm xem nhà cũ.
+- Theo người trực vào viếng Mạnh Thanh Tễ rồi rời viện; không xin Lâm Uyên bớt giận nhờ việc viếng hoặc cho mượn đồ. Không có Bùi Khánh Vân trực tiếp trong lượt này, chưa đối thêm lời thợ phụ.
+- Chưa có kết luận nguyên nhân sập, sửa xong, lệnh mở lối hoặc quan hệ với mạng thuốc/Hắc Nha/Tả tiên sinh. Tuổi chính xác/gia phả giữ lớp thiết kế như trước.
+
+Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].

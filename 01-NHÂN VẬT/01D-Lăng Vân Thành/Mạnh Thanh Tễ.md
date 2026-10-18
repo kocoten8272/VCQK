@@ -160,3 +160,12 @@ Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
 - Nguyên nhân công trình và trách nhiệm vẫn chưa được kết luận dù đã có người nhận lời hẹn xem dột. Đồ ông vẫn do viện giữ, chưa có tang lễ hoàn chỉnh, chôn cất hoặc bàn giao di sản. Trạng thái qua đời đêm ngày thứ mười ba giữ nguyên.
 
 Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].
+
+## Hậu quả theo bản thảo Chương 63
+
+- Cuối ngày thứ mười bốn, gian yên vẫn do viện giữ. Bùi Ninh Viễn và Tạ Nghiên Chi được hướng dẫn vào viếng; không có lời đáp hoặc hành động mới từ Mạnh Thanh Tễ.
+- Viện chủ thu xếp lượt tưởng niệm của đồng nghiệp và người từng được giúp vào giữa buổi sáng ngày mười lăm. Đây là kế hoạch chưa diễn ra, không phải quyết định chôn cất, tang lễ hoàn chỉnh hoặc xác nhận thân nhân đã tới.
+- Nguồn liên hệ người cần báo còn tiếp, đồ riêng vẫn có người giữ; chưa trao sổ nghề, túi thuốc, di nguyện hoặc di sản cho Lâm Uyên.
+- Lâm Uyên chọn có mặt rồi xin học tiếp công việc do giám dược đang trực chỉ sau lượt tưởng niệm nếu còn sức. Không biến người chỉ việc thành người thay thế Mạnh Thanh Tễ hoặc xem nhận việc là đã hết đau buồn; trạng thái qua đời đêm ngày mười ba không đổi.
+
+Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].

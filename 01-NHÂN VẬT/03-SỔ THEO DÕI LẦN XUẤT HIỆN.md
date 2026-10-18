@@ -9,7 +9,7 @@ tags:
 
 # Sổ Theo Dõi Lần Xuất Hiện
 
-> Bảng nền rà soát Chương 1–52; cập nhật Chương 53–62 ở các mục dưới. Mốc “lần cuối” có thể là hậu quả/nhắc lại, không khẳng định người có mặt trong cảnh. Mở hồ sơ nguồn trước khi viết tiếp.
+> Bảng nền rà soát Chương 1–52; cập nhật Chương 53–63 ở các mục dưới. Mốc “lần cuối” có thể là hậu quả/nhắc lại, không khẳng định người có mặt trong cảnh. Mở hồ sơ nguồn trước khi viết tiếp.
 
 ## Đã xuất hiện hoặc được nhận diện
 
@@ -214,3 +214,20 @@ Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
 Khương Tố Nương/con, Lưu Định, Tô Tín không có diễn biến trực tiếp mới; giữ điều kiện chỗ ở/tái khám/thương tích theo61. Người thợ phụ chỉ tin qua Bùi Khánh Vân, không tự thêm lần trực tiếp hoặc chắc sống tại viện. Người ôm bao/đóng nan giỏ là vai vô danh mới, chưa tên/tuvi/gia đình; nguồn ở sổ vai.
 
 Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].
+
+## Mốc mới theo bản thảo Chương 63
+
+| ID | Nhân vật | Kiểu/mốc | Nơi cuối và giới hạn |
+| --- | --- | --- | --- |
+| CHAR-026 | Bùi Ninh Viễn | Trực tiếp trước tối14 | Viện cùng người dẫn đội nhận lượt sáng15; cho mượn dao riêng2ngày/chiều16 trả Bùi Gia, viếng rồi rời. Không đã sửa/lấy đồ |
+| CHAR-046 | Tạ Nghiên Chi | Trực tiếp tối14, tái xuất sau58 | Viếng, mang trả lời Tông Sảnh, hỏi Trần Dực/viện; giữ phần nhận có điều kiện. Chưa tự chốt án/nhận hòm hoặc người mua |
+| CHAR-044 | Trần Dực | Trực tiếp gian bệnh | Tay trái yên/chén bằng phải; nhận nghe hỏi chiều15 có điều kiện y sư, không nhận sẽ nhớ thêm |
+| CHAR-019 | Tô Tín | Trực tiếp ghế gian bệnh | Nạng trong tầm tay, nhờ lùi ghế/chừa lối, không nhận lời hộ hoặc kết quả HFS |
+| CHAR-047 | Viện chủ | Trực tiếp | Thu xếp tưởng niệm đồng nghiệp giữa sáng15/tiếp liên hệ, nhận phối hợp sức bệnh nhân |
+| CHAR-005 | Lâm Uyên | Trực tiếp, cuối chỗ nghỉ | Nhờ chủ đồ tự chọn mượn, chấp nhận người khác theo đội; nhận học bằng nghe sau tưởng niệm nếu sức cho, tối không viết, chưa học xong |
+| CHAR-006 | Tô Thanh Ly | Trực tiếp tại viện | Hỏi phần thuốc/đối, nhờ đặt bàn, tay phải thương; nhờ gọi sáng rồi nhận đi nghỉ |
+| CHAR-037 | Mạnh Thanh Tễ | Thi thể/lượt viếng, không hành động sống | Vẫn viện, chưa thân nhân/chôn/trao di vật |
+
+Người đóng giỏ và người dẫn đội dùng vai vô danh, không đọc tên rồi giấu; không tạo CHAR mới. Bùi Khánh Vân/thợ phụ chỉ còn theo nguồn62, không đối mới63. Hồ Nhuận Chi nhắc gói kim chưa lấy, không cảnh khám.
+
+Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].

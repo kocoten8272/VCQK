@@ -8,7 +8,7 @@ tags:
 
 # Sơ Đồ Quan Hệ Nhân Vật
 
-> Bảng nền có căn cứ đến Chương 52; cập nhật Chương 54–62 ở cuối. Đường liền là quan hệ được xác nhận; nét chấm là quan hệ xã hội/đang hình thành. Không suy chức quyền hay huyết thống từ cùng họ.
+> Bảng nền có căn cứ đến Chương 52; cập nhật Chương 54–63 ở cuối. Đường liền là quan hệ được xác nhận; nét chấm là quan hệ xã hội/đang hình thành. Không suy chức quyền hay huyết thống từ cùng họ.
 
 ## Gia đình Lâm Uyên
 
@@ -182,3 +182,19 @@ Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
 Tô Thanh Ly nghe cùng, giúp lối/chuyến xe/nghỉ; không giải mất mát bằng trấn an. Mạnh Thanh Tễ không có lời đáp/di nguyện mới.
 
 Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].
+
+## Quan hệ theo bản thảo Chương 63
+
+| Người | Quan hệ/việc mới | Giới hạn |
+| --- | --- | --- |
+| Bùi Ninh Viễn → người dẫn đội | Gọi được người trực tiếp nhận lượt sáng15, cần gặp phụ trách cứu/xem lại trước làm | Hẹn chưa thực hiện, không toàn quyền/mái đã an toàn |
+| Bùi Ninh Viễn → người đóng giỏ | Dao nói là của mình, cho mượn2ngày; người nhận chọn chỉ dùng phần thô/chiều16 trả bàn Bùi Gia | Không bồi thường đủ/thay khung/tha lỗi trách nhiệm nhà |
+| Lâm Uyên → chủ đồ | Không nhận hộ, nhờ tự xem/đọc phần cần nhắn, nghe còn thiếu | Không quyết thay nhu cầu hoặc ký nợ thay |
+| Tạ Nghiên Chi → Trần Dực/viện | Đọc trả lời Tông, hỏi ý/sức trước chốt chiều15; ghi nhận nghe hỏi chứ không hứa nhớ thêm | Không đưa bản lời cho người đặt, không tự phán quyết |
+| Tô Tín → Trần Dực | Chừa ghế/đặt nước, không nhận hộ | Không gán thân hữu trước chuyến đi hoặc năng lực đi núi |
+| Lâm Uyên → giám dược trực | Xin học tiếp, nhận chỗ quan sát sau tưởng niệm nếu sức cho | Chưa thầy trò thay thế/giỏi thuốc/quyền tự xem bệnh |
+| Lâm Uyên → chấp sự/người trực | Nhờ báo phần đội lấy đồ, nhờ gọi sáng, chịu nghỉ | Hộ tống/Dược Khế còn, không cần có mặt mọi nơi |
+
+Bùi Ninh Viễn chưa được Lâm Uyên tha lỗi/định tội; việc cho mượn có ích không trả lời nguyên nhân cái chết. Viện chủ tổ chức tưởng niệm đồng nghiệp, chưa quyền tang thay thân nhân.
+
+Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].

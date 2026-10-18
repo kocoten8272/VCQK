@@ -151,3 +151,13 @@ Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
 - Tay phải vẫn thương, giữ yên/nhờ người khỏe; chưa hồi phục mới, kiếm vẫn làm bảo chứng, Dược Khế bốn tháng và giới hạn đi lại không đổi. Mạng thuốc/chìa/trang mất không có kết quả mới trong chương.
 
 Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].
+
+## Trạng thái mới theo bản thảo Chương 63
+
+- Tối ngày thứ mười bốn tại viện, kéo ghế bằng tay lành và nhờ người khỏe đặt bàn thấp khi Tạ Nghiên Chi tới; không dùng tay phải thương để nâng bàn.
+- Nghe phản hồi Tông Sảnh, hỏi người đặt thuốc có tới không và được trả lời chưa nhận diện được người đặt. Yêu cầu Hòa Sinh cử người không đồng nghĩa người ấy đã tới, hòm đã được giao hoặc đã rõ đầu não.
+- Cùng dự lượt ngắn được y sư cho tại gian Trần Dực, nghe hắn nhận nghe hỏi chiều ngày mười lăm theo sức; không nhận quyền giao bản lời thay thuốc hoặc hỏi thay người bệnh.
+- Nhận xem phần câu hỏi của mình, không bắt Lâm Uyên thức cùng; chưa bảo đảm sẽ dự buổi hỏi hoặc có lệnh tới Tông Sảnh. Hồ sơ chìa/trang mất vẫn riêng, không có giấy mới trong ống Tạ Nghiên Chi mang.
+- Đặt nước phía tay trái Lâm Uyên, nhờ người trực báo giờ sáng rồi nhận về nghỉ. Bản thân cũng mệt, tay phải còn thương; không nhận hết việc đêm hoặc có hồi phục mới. Dược Khế bốn tháng, kiếm bảo chứng và giới hạn đi lại giữ nguyên.
+
+Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].

@@ -142,3 +142,15 @@ Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
 - Không gộp nhà trú/đội cống với mạng thuốc/Hắc Nha/chìa hoặc đại thế lực.
 
 Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].
+
+## Phạm vi nghề nghiệp và quyền hạn Chương 63
+
+- **Bùi Gia/đội làm:** Bùi Ninh Viễn gọi người nhận lượt xem tiếp sáng15, người dẫn đội trực tiếp nhận có điều kiện gặp phụ trách cứu/xem trước làm. Dao là phần riêng anh nói sở hữu/cho mượn, không nguồn gia tộc vô hạn hoặc khoản bồi thường đã khép.
+- **Tông Sảnh/Tạ Nghiên Chi:** Bản trả lời giao viện từ chối cấp bản lời theo điều kiện đổi hòm; yêu cầu Hòa Sinh cử người có quyền trả phần giữ thuốc/nguồn yêu cầu. Buổi chiều15 lấy lời dự kiến tại viện có điều kiện y sư/người bệnh, chưa được xem là đã diễn ra.
+- **Hòa Sinh:** Chưa có người trong phường trực tiếp63, chưa biết đại diện có nhận/tới hoặc đã giao hòm. Không coi yêu cầu của Tông là sửa quy chế chung hay người mua đã lộ.
+- **Viện:** Thu xếp tưởng niệm đồng nghiệp sáng15, tiếp liên hệ/giữ đồ; người học xin quan sát sau lễ nếu sức cho, không nhận quyền xem bệnh hoặc thuốc.
+- **Hộ tống:** Chấp sự nhận cho người đi cùng đội/báo phần việc, Lâm Uyên không theo từ sớm; không gỡ quản thúc/7–4 tháng hoặc kiếm bảo chứng.
+
+Nguồn các quyết định, lời nhận và việc thực hiện có tầng riêng, không nhập đường nhà trú với mạng thuốc/chìa/Hắc Nha.
+
+Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].

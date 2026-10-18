@@ -206,3 +206,17 @@ Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
 HFS/Hòa Sinh/người mua/chìa/trang/Hắc Nha không có chứng cứ mới; không dùng mất mát để nối mọi mạng.
 
 Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].
+
+## Tiến triển theo bản thảo Chương 63
+
+| Đầu mối/lời hứa | Phần trả | Phần cần tiếp |
+| --- | --- | --- |
+| Báo trước tối14 của Bùi Ninh Viễn | Đã trở lại cùng người nhận đội/lượt sáng15, báo cả chưa lấy | Đội chưa tới/lối chưa mở/khung–dao cũ–kim chưa thu |
+| Người đóng giỏ cần đồ | Nhận dao mượn riêng tự chọn, chiều16 trả bàn Bùi Gia | Chưa khung/đồ cũ/bồi thường hoặc sinh kế đầy đủ |
+| Đổi lời khai lấy thuốc | Bản Tông không cấp bản theo điều kiện, yêu cầu người có quyền Hòa Sinh trả phần giữ/nguồn | Chưa hòm/nguồn mua hoặc buổi giải trình Hòa Sinh diễn ra |
+| Lời Trần Dực | Nhận nghe hỏi chiều15 tại viện sau tưởng niệm, có điều kiện sức | Chưa lời mới/nhớ thêm, người được dự phải báo |
+| Tang/học | Sáng15 tưởng niệm đồng nghiệp; sau đó học quan sát nếu sức cho | Thân nhân/đồ/chôn chưa xác lập, chưa bài học/năng lực mới |
+
+Câu hỏi nguyên nhân nhà sập khác hỗ trợ trước mắt; tuyến chìa/trang/Hắc Nha/HFS không giải bởi thuốc hoặc giận sau tang.
+
+Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].

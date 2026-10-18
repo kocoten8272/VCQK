@@ -148,3 +148,16 @@ Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]]. Không có
 | Cuối chiều | Y sư nhắc nghỉ, Lâm Uyên xin hương bên thi thể, người trực giúp khi mỏi | Chưa người nhà nhận/tang/chôn/trao đồ; chưa tới sau hạn trước tối để khẳng định Bùi Ninh Viễn thất hẹn |
 
 Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]]. Ngày12 chỉ qua nguồn ghi/lời đối tại ngày14, không thêm cảnh hồi tố hoặc ngày lịch tuyệt đối.
+
+## Trước tối đến đêm ngày thứ mười bốn — Chương 63
+
+| Thời điểm | Sự kiện đã viết | Giới hạn |
+| --- | --- | --- |
+| Đầu chương còn ánh chiều | Bùi Ninh Viễn trở lại viện cùng người dẫn đội nhận sáng15 | Hạn báo trước tối14 trả đúng, chưa lượt xem/sửa |
+| Chập tối | Chủ đồ được gọi tới/chọn dao mượn2ngày, chiều16 trả bàn Bùi Gia; người khảo sát viếng/rời | Khung/dao cũ/kim còn, không bồi thường hoặc tha lỗi |
+| Tối14 | Tạ Nghiên Chi tới viếng/đọc bản trả lời Tông về phần thuốc/lấy lời | Yêu cầu mới không đồng nghĩa Hòa Sinh đã tới/giao hòm |
+| Tối14 gian bệnh | Trần Dực nhận nghe hỏi chiều15 tại viện có điều kiện, y sư sẽ xem lại | Không phiên đã diễn ra/ký hứa nhớ thêm hoặc tay trái hồi phục |
+| Cùng đêm | Viện chủ thu xếp tưởng niệm đồng nghiệp giữa sáng15, tiếp báo/giữ đồ; Lâm Uyên nhận học sau đó nếu sức cho | Chưa lễ/chôn/trao di sản hoặc bài học xong |
+| Cuối63 | Nhận người chấp sự theo đội/báo, nhờ gọi sáng, về nghỉ không viết | Chưa sáng15 hoặc sau hạn chiều16, quản thúc/thương tay/Dược Khế giữ |
+
+Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]]. Mốc sáng15/chiều15/chiều16 là hẹn phát sinh, không dùng để xác nhận đã xảy ra.

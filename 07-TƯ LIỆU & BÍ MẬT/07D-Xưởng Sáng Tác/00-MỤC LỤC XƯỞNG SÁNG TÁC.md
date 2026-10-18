@@ -20,6 +20,7 @@ tags:
 | REF-003 | [[REF-003-Nguồn Về Mưa Lũ Và Không Gian Cứu Trợ]] | Nguồn tham khảo | verified | Red Cross về an toàn mưa lũ, đọc ngày 2026-10-09; giới hạn nguồn và tổ chức điểm chuyển người |
 | REF-004 | [[REF-004-Nguồn Về Mất Mát Và Hậu Quả Nhân Vật]] | Nguồn tham khảo | verified | Writing Excuses 13.48, một đoạn transcript đọc ngày 2026-10-13, hậu quả mất mát/giới hạn nguồn |
 | REF-005 | [[REF-005-Nguồn Về Phản Ứng Và Lựa Chọn Sau Biến Cố]] | Nguồn tham khảo | verified | Phản ứng sau biến cố chuyển thành lựa chọn cụ thể; phạm vi bài K.M. Weiland |
+| REF-006 | [[REF-006-Nguồn Về Đan Tuyến Và Hệ Quả Lựa Chọn]] | Nguồn tham khảo | verified | Writing Excuses16.41 đọc11.000ký tự đầu18/10/2026, đổi hệ quả/đan tuyến |
 | PAT-001 | [[PAT-001-Giới Hạn Làm Thay Đổi Lựa Chọn]] | Mẫu kỹ thuật | ready | Cảnh có giải pháp quá dễ, cái giá chưa ảnh hưởng hoặc chuẩn bị thêm hệ thống |
 | SEED-001 | [[SEED-001-Ngày Công Bị Bỏ Trống]] | Chất liệu VCQK | seed | Hệ quả công việc của việc trình lời; phẩm giá người làm nghề |
 | SEED-002 | [[SEED-002-Một Thanh Chống Hai Lời Hứa]] | Chất liệu VCQK | seed | Chuẩn bị vật tư Hắc Phong Sơn; năng lực hữu hạn và trách nhiệm với người sống |
@@ -32,6 +33,7 @@ tags:
 | LOG-007 | [[LOG-007-Áp Dụng Kỹ Thuật Trong Chương 60]] | Phản hồi/áp dụng | recorded | Mất thầy, phần việc trao người khác và sáng đầu; nguồn REF-004 mở lại có phạm vi |
 | LOG-008 | [[LOG-008-Áp Dụng Kỹ Thuật Trong Chương 61]] | Phản hồi/áp dụng | recorded | Lưu Định đã viếng, giữ chỗ mẹ con và đầu nguồn Bùi Gia; sửa giờ/tên bị giấu |
 | LOG-009 | [[LOG-009-Áp Dụng Kỹ Thuật Trong Chương 62]] | Phản hồi/áp dụng | recorded | Bùi Ninh Viễn nhận việc chưa làm; ngoại vi/lối lấy đồ và hẹn báo trước tối14 |
+| LOG-010 | [[LOG-010-Áp Dụng Kỹ Thuật Trong Chương 63]] | Phản hồi/áp dụng | recorded | Trả hạn14, dao mượn và tuyến thuốc, phân việc cho15 |
 
 Các seed chưa được dùng trong chương. Không lấy chúng làm căn cứ xác nhận tiền công, hợp đồng hoặc tiến độ chống vách.
 
@@ -95,3 +97,7 @@ Tra REF-005/LOG-008 cho nguồn mới và sửa cục bộ. PAT-001 dùng với 
 ## Áp dụng ở Chương 62
 
 Tra LOG-009 cho lượt Exa mở lại REF-003 ngày17/10/2026, giữ ngày truy cập gốc và giới hạn nguồn. REF-005 được tham khảo từ ghi chú đã lưu, không mở lại trong62; PAT-001 dùng với tay/quyền/giới hạn lối. SEED-001/002 vẫn chưa dùng. Bùi Ninh Viễn CHAR-026 đã có node chính, không thêm hồ sơ hoặc nhân đôi lore tại Xưởng. Trạng thái tiếp nối ở04E sau62.
+
+## Áp dụng ở Chương 63
+
+Tra REF-006/LOG-010 cho nguồn mới và cách đổi nhịp hậu quả. PAT-001 dùng với lựa chọn có giới hạn, SEED-001/002 vẫn chưa dùng. Không nhân vật/ID mới; trạng thái63 ở04E giữ hẹn15/16, đồ/tri thức ở node chính. Không lặp các nguồn cũ thành lượt đọc mới.

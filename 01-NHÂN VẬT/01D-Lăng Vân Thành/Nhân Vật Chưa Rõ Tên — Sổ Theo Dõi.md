@@ -215,3 +215,18 @@ Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
 Khung gia phả của Bùi Ninh Viễn không tự thành tri thức nhân vật chỉ vì tên đã xuất hiện. Những vai chuyển tin/giữ lối/cứu người vẫn tách với tuyến thuốc, chìa/trang mất và Hắc Nha.
 
 Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].
+
+## Vai trò được phân biệt ở Chương 63
+
+| Vai | Điều mới theo cảnh/nguồn | Giới hạn |
+| --- | --- | --- |
+| Người thợ lớn tuổi dẫn lượt tiếp nhà trú | Bùi Ninh Viễn đưa tới viện trước tối ngày mười bốn; trực tiếp nhận đội tới sáng mười lăm khi đủ sáng, gặp người phụ trách cứu rồi xem lại/chia việc | Chưa tên/tuổi chính xác/tu vi; không gộp thợ phụ Bùi Khánh Vân tìm hoặc thợ Hắc Phong Sơn. Lời nhận không phải đã khảo sát xong, mở lối hoặc lấy được đồ. |
+| Người làm giỏ ôm bao lép | Được gọi tới viện, tự thử dao riêng của Bùi Ninh Viễn rồi nhận mượn vót thô hai ngày, hẹn trả chiều mười sáu ở bàn nhận việc Bùi Gia; nhờ giữ thanh cong của khung | Dùng lại vai Chương 62, chưa có tên/CHAR riêng. Khung/dao của ông vẫn chưa lấy, chưa đủ chỗ làm hoặc được bồi thường đầy đủ; nhận mượn không xóa yêu cầu xét nhà cũ. |
+| Chấp sự/người giữ phần ghi đồ/người trực bàn nhận việc | Đối số người/dụng cụ/người báo, nhờ tới đúng chỗ gọi chủ đồ; ghi và đọc lại phần giữ khung, nhận cho người tới lượt sáng và báo thay đổi | Nhiều chức năng, chưa đủ nhận diện để gộp một người hoặc cho quyền mở lối thay người phụ trách cứu. Không có Lâm Uyên viết thêm tối ấy. |
+| Y sư cho lượt ngắn/người trực gian Trần Dực | Cho người tới hỏi trong lượt ngắn, nhận xem sức trước buổi chiều mười lăm; chưa duyệt trước sức ngày mai | Không tự gộp y sư với viện chủ hoặc mọi ca trước. Buổi hỏi còn điều kiện, tay trái Trần Dực không có vận động mới. |
+| Giám dược trực buổi tối | Nhận lời xin học tiếp, hẹn sau tưởng niệm nếu đủ sức; dặn nghe người có nghề tiếp nhận/hỏi rồi hỏi lại phần chưa hiểu, không tự xem bệnh | Chưa tên hoặc đủ căn cứ gộp mọi giám dược các ca. Chưa có bài mới học xong, chức danh/sư phụ thay thế hoặc quyền kê/cân/phối thuốc. |
+| Người giữ gian yên/người phụ giúp/nhận báo giờ sáng | Hướng dẫn Bùi Ninh Viễn/Tạ Nghiên Chi viếng, thay nước cạnh đèn, nhận thay nhau giữ và báo thay đổi; thu xếp nước/đèn và nhận gọi Lâm Uyên sáng mai | Không tự thành thân nhân Mạnh Thanh Tễ, người quyết chôn cất hoặc người nhận di sản. Viện tiếp liên hệ người cần báo, đồ riêng vẫn giữ. |
+
+Không có người có tên mới hoặc hồ sơ CHAR mới. Người trực, chấp sự, giám dược, người phụ trách cứu và thợ vẫn có giới hạn riêng; không gộp vì cùng xuất hiện trong một lượt. Bùi Khánh Vân không trực tiếp trong chương, chưa có nguồn đối thợ phụ mới.
+
+Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].

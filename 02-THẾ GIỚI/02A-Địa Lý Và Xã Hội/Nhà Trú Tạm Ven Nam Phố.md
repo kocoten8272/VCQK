@@ -101,3 +101,13 @@ Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
 - Sở hữu/quản trị, hợp đồng bảo trì, nguyên nhân kết cấu, trách nhiệm cuối và tổng thương vong vẫn chưa xác định. Không nối với mạng thuốc/Hắc Nha/Tả tiên sinh; hai thanh gỗ viện không chuyển ra đây.
 
 Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]], [[Bùi Ninh Viễn]].
+
+## Lượt tiếp được hẹn theo bản thảo Chương 63
+
+- Cuối chiều ngày thứ mười bốn tại viện, Bùi Ninh Viễn hoàn thành lời hẹn báo trước tối: gọi được một người thợ dẫn đội, người ấy trực tiếp nhận tới sáng ngày mười lăm khi đủ sáng, gặp người phụ trách cứu rồi xem lại trước khi chia việc.
+- Chưa có cảnh đội tới lượt mới, mái nối dãy trong được phép đi qua, sửa xong hoặc tìm thêm đồ. Khung/dao riêng của người làm giỏ và gói kim Hồ Nhuận Chi vẫn chưa lấy; không lấy lời hẹn thành kết quả mở lối.
+- Người làm giỏ nhận mượn dao riêng của Bùi Ninh Viễn dùng vót thô hai ngày, hẹn trả chiều ngày mười sáu tại bàn nhận việc Bùi Gia, yêu cầu tiếp xem trách nhiệm nhà cũ. Ông nhờ giữ thanh cong của khung, người nhận chỉ chuyển lời chứ chưa bảo đảm vật còn nguyên.
+- Chấp sự nhận cho người tới cùng người phụ trách cứu, giữ phần chưa lấy được và báo khi giờ/phạm vi đổi; Lâm Uyên đồng ý không theo xe từ sớm để dự tưởng niệm ở viện. Đây là phân việc ngày sau, không bỏ việc hoặc cho hắn quyền mở lối từ xa.
+- Nguyên nhân sập, tổng thương vong, quyền sở hữu/quản trị và trách nhiệm cuối vẫn chưa xác định; không có kết quả mới từ thợ phụ Bùi Khánh Vân tìm hoặc tuyến Hắc Phong Sơn.
+
+Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].

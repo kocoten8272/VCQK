@@ -61,3 +61,12 @@ Một nguồn có thể hỏi cả công việc phối thuốc và chỉ dẫn g
 - Tô Thanh Ly yêu cầu câu hỏi Trần Dực trình Tông Sảnh, không lấy lời thay thuốc; chấp sự yêu cầu không tiếp đặt điều kiện ấy lên giao thuốc vụ đang kiểm. Chưa có lời Trần Dực mới hoặc phương án trả lời thay hắn.
 - Tạ Nghiên Chi đem hồ sơ về Tông Sảnh, Lâm Uyên/Tô Thanh Ly về viện theo giấy. Không có cảnh nhân sự Hòa Sinh ở nhà trú sập ngày mười ba hoặc bằng chứng cơ sở gây tai nạn.
 - Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]].
+
+## Phản hồi Tông Sảnh theo bản thảo Chương 63
+
+- Tối ngày thứ mười bốn, Tạ Nghiên Chi mang phản hồi Tông Sảnh tới viện: không cấp bản lời Trần Dực theo điều kiện đổi hòm thuốc; yêu cầu Hòa Sinh cử người có quyền giải quyết trình riêng phần giữ hòm và nguồn yêu cầu đã nhận.
+- Chưa có người đặt được nhận diện để xác nhận đã mời; chưa có đại diện Hòa Sinh trực tiếp tới, lời mới từ người mua hoặc hòm thuốc giao về. Không mặc định người được yêu cầu là Tề Duy Cẩn hoặc mọi khâu thuộc một cá nhân.
+- Việc lấy lời Trần Dực dự kiến chiều ngày mười lăm tại viện, người bệnh nhận nghe hỏi sau lượt tưởng niệm buổi sáng và y sư còn phải xem sức. Ai dự với vai gì phải được báo trước; người từng đặt điều kiện đổi thuốc không tự có quyền nghe.
+- Trần Dực chỉ nhận trả lời trong phần nhớ/biết, không hứa nhớ thêm. Chưa có buổi đối diễn ra, chứng cứ nguồn tiền/người đặt mới, giải thích mẫu vón hoặc liên hệ với Hắc Nha/Tả tiên sinh/chìa và trang mất.
+
+Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].

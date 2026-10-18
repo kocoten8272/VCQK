@@ -34,7 +34,7 @@ tags:
 ## Động cơ, mâu thuẫn và giới hạn
 
 - **Động cơ đã thể hiện:** Giữ cho hồ sơ phản ánh đúng điều đã ghi nhận, không để người trực đêm cháy bị buộc tội chỉ vì ô giờ chưa được điền.
-- **Mâu thuẫn đã thể hiện:** Nghiên Chi sửa câu mẫu của Tông Sảnh theo đúng phạm vi sổ trước hai người chứng kiến, chịu sự không hài lòng của một người chứng kiến; việc xin lấy lời người nhận ca vẫn chờ lệnh.
+- **Mâu thuẫn đã thể hiện:** Tạ Nghiên Chi sửa câu mẫu của Tông Sảnh theo đúng phạm vi sổ trước hai người chứng kiến, chịu sự không hài lòng của một người chứng kiến; việc xin lấy lời người nhận ca vẫn chờ lệnh.
 - **Giới hạn thông tin:** Chỉ biết điều bản thân ghi nhận, được bàn giao hoặc có thể xác minh từ sổ. Không biết danh tính nhóm áo đen, người mua thuốc, hay người lấy trang gốc nếu chưa có chứng cứ.
 - Không mặc định nàng là đồng phạm, người cung cấp tin bí mật hoặc thành viên của một thế lực lớn.
 
@@ -47,7 +47,7 @@ tags:
 ## Liên tục
 
 - Xuất hiện lần đầu ở Chương 51, tại buổi mở sổ trực trước hai người chứng kiến.
-- Phiếu bổ sung sau đêm cháy không ghi giờ hai người gác trở lại. Nghiên Chi ghi rõ giới hạn ấy; chưa có chứng cứ ai vào phòng hoặc ai lấy trang giấy.
+- Phiếu bổ sung sau đêm cháy không ghi giờ hai người gác trở lại. Tạ Nghiên Chi ghi rõ giới hạn ấy; chưa có chứng cứ ai vào phòng hoặc ai lấy trang giấy.
 - Tên Tạ Nghiên Chi đã được tác giả chốt. Chương 51 xác lập nàng là nữ và một số nét ngoại hình; tuổi, đơn vị cụ thể ngoài nhiệm vụ giữ sổ và đời tư còn để mở.
 - Mọi phát hiện của nàng phải dựa trên sổ hoặc vật chứng xuất hiện trong cảnh; không dùng nàng để giải thích thay toàn bộ vụ án.
 
@@ -112,3 +112,14 @@ Giữ sổ trực và cung cấp lời chứng hữu hạn về ca trực, con d
 - Ghi Tề Duy Cẩn tự nhận đề nghị chia hai lần; hỏi nguồn yêu cầu và phần hắn tự thêm. Người phụ trách cho sao phần liên quan, không mở mọi giao dịch; bản gốc giữ theo biên nhận.
 - Sau buổi trở lại Tông Sảnh cùng hồ sơ, là nơi cuối trực tiếp trong Chương 58. Ngày mười ba Tô Thanh Ly nhờ báo giữ hồ sơ; không có cảnh Tạ Nghiên Chi dự cứu trợ, thấy nhà sập hoặc biết danh sách nạn nhân.
 - Chìa/người nhận giỏ/trang mất vẫn chưa có kết luận mới. Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]].
+
+## Trạng thái mới theo bản thảo Chương 63
+
+- Tối ngày thứ mười bốn trực tiếp tới viện, hỏi rõ Mạnh Thanh Tễ mất lúc nào rồi theo người trực vào thắp hương. Trước đó chỉ biết tin nhà sập, chưa biết kết cục ở viện; không tự có tri thức về toàn cảnh cứu.
+- Mang phản hồi Tông Sảnh: không cấp bản lời Trần Dực theo điều kiện đổi hòm thuốc, yêu cầu Hòa Sinh cử người có quyền giải quyết trình riêng phần giữ hòm/nguồn yêu cầu. Chưa mang thuốc, lời mới từ người đặt hoặc tên người mua cuối.
+- Đề xuất chiều ngày mười lăm lấy lời tại viện, còn phải hỏi y sư và Trần Dực. Vào gian theo lượt ngắn y sư cho, đọc điều kiện, trả lời ai được dự phải báo trước; không để việc đặt điều kiện đổi thuốc tự cho người ấy quyền ngồi nghe.
+- Đọc lại lời nhận để Trần Dực sửa thành nhận nghe hỏi, không hứa nhớ thêm; hắn muốn qua lượt tưởng niệm buổi sáng và không bị đưa khỏi viện. Y sư sẽ xem sức trước, có thể dừng; nàng ghi nhận điều kiện rồi chờ báo chốt.
+- Không giao Lâm Uyên quyền hỏi thay Trần Dực hoặc mặc định hắn có lệnh tham dự; câu hỏi cần gửi qua người phụ trách. Nhận trả lời Tông Sảnh về phần viện phối hợp.
+- Hồ sơ chìa/trang mất vẫn tách riêng, không có giấy mới trong ống mang tới lần này; chưa xác định người lấy trang, người đặt/nguồn tiền hoặc nối hai mạng lưới.
+
+Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
