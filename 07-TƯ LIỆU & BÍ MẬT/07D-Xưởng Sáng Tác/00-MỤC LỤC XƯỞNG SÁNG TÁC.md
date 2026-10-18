@@ -1,7 +1,7 @@
 ---
 type: muc-luc-xuong-sang-tac
 status: hoan-thien
-updated: 2026-10-18
+updated: 2026-10-19
 tags:
   - thu-vien
   - tra-cuu
@@ -34,6 +34,7 @@ tags:
 | LOG-008 | [[LOG-008-Áp Dụng Kỹ Thuật Trong Chương 61]] | Phản hồi/áp dụng | recorded | Lưu Định đã viếng, giữ chỗ mẹ con và đầu nguồn Bùi Gia; sửa giờ/tên bị giấu |
 | LOG-009 | [[LOG-009-Áp Dụng Kỹ Thuật Trong Chương 62]] | Phản hồi/áp dụng | recorded | Bùi Ninh Viễn nhận việc chưa làm; ngoại vi/lối lấy đồ và hẹn báo trước tối14 |
 | LOG-010 | [[LOG-010-Áp Dụng Kỹ Thuật Trong Chương 63]] | Phản hồi/áp dụng | recorded | Trả hạn14, dao mượn và tuyến thuốc, phân việc cho15 |
+| LOG-011 | [[LOG-011-Áp Dụng Kỹ Thuật Trong Chương 64]] | Phản hồi/áp dụng | recorded | Tưởng niệm đã diễn ra, học quan sát đầu và khung/dao hỏng trả về |
 
 Các seed chưa được dùng trong chương. Không lấy chúng làm căn cứ xác nhận tiền công, hợp đồng hoặc tiến độ chống vách.
 
@@ -101,3 +102,7 @@ Tra LOG-009 cho lượt Exa mở lại REF-003 ngày17/10/2026, giữ ngày truy
 ## Áp dụng ở Chương 63
 
 Tra REF-006/LOG-010 cho nguồn mới và cách đổi nhịp hậu quả. PAT-001 dùng với lựa chọn có giới hạn, SEED-001/002 vẫn chưa dùng. Không nhân vật/ID mới; trạng thái63 ở04E giữ hẹn15/16, đồ/tri thức ở node chính. Không lặp các nguồn cũ thành lượt đọc mới.
+
+## Áp dụng ở Chương 64
+
+Tra LOG-011 cho lần Exa mở lại REF-004 ngày19/10/2026/phạm vi15.000ký tự đầu, giữ ngày truy cập gốc. PAT-001 dùng, SEED-001/002 vẫn chưa dùng. Hứa Tĩnh Xuyên CHAR-064 có node chính ở01D, trạng thái sau64 ở04E; không nhân bản hồ sơ/lore trong Xưởng hoặc coi tuổi thiết kế đã lộ.

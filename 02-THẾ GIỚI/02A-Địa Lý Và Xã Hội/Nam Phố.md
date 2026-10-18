@@ -127,3 +127,13 @@ Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]], [[Bùi Nin
 - Hậu quả nhà trú tiếp tục riêng với phản hồi Tông Sảnh về hòm thuốc Hòa Sinh. Phản hồi mới chưa mang thuốc tới, xác định người mua hoặc nối một nhóm gây sập với mạng thuốc/Hắc Nha; không có quyền quản Nam Phố mới được xác lập.
 
 Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
+
+## Hậu quả theo bản thảo Chương 64
+
+- Sáng ngày thứ mười lăm không có cảnh trực tiếp mới tại Nam Phố. Người chấp sự cử đi cùng đội trở lại viện báo đã tới đúng buổi/gặp người phụ trách cứu rồi theo phạm vi được chỉ; nguồn này tận mắt đi cùng lượt nhận đồ.
+- Đội chỉ dọn được một chỗ tiếp cận riêng để đưa mấy món ở gian đầu ra; dãy mái nối phía trong vẫn bị giữ. Không xác nhận lối sát sân/toàn nhà đã dùng được, sửa xong hoặc đủ số người/tài sản.
+- Tại viện, khung gãy một cạnh/dao cũ sứt được chính người làm giỏ nhận diện, đối tình trạng rồi nhận. Ông có chỗ khô đầu hiên để xem phần có thể nối, không phải đã phục hồi nghề hoặc được bồi thường đầy đủ; dao mượn riêng của Bùi Ninh Viễn vẫn hẹn trả chiều ngày thứ mười sáu.
+- Gói kim Hồ Nhuận Chi còn trong phần tìm, chưa ai nhận đã thấy; người trực nhận báo bà khi thức. Mẹ con Khương Tố Nương vẫn cần viện đối phần giữ chỗ sáng nay, chưa có xác nhận chuyển tới nơi mới.
+- Lượt tưởng niệm Mạnh Thanh Tễ đã diễn ra ở viện, bệnh nhân vẫn được chăm. Bùi Ninh Viễn chỉ qua nguồn người theo đội nói còn ở hiện trường, không có kết luận nguyên nhân sập, trách nhiệm cuối hoặc liên hệ mạng thuốc/Hắc Nha/chìa.
+
+Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].

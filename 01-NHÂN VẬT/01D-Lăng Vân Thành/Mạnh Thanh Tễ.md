@@ -169,3 +169,13 @@ Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].
 - Lâm Uyên chọn có mặt rồi xin học tiếp công việc do giám dược đang trực chỉ sau lượt tưởng niệm nếu còn sức. Không biến người chỉ việc thành người thay thế Mạnh Thanh Tễ hoặc xem nhận việc là đã hết đau buồn; trạng thái qua đời đêm ngày mười ba không đổi.
 
 Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
+
+## Hậu quả theo bản thảo Chương 64
+
+- Giữa buổi sáng ngày thứ mười lăm, viện thực sự tổ chức lượt tưởng niệm trong gian yên. Quan tài được người của viện thu xếp, nắp còn để riêng, vải phủ được sửa ngay ngắn; chưa có chôn cất, tang lễ hoàn chỉnh hoặc chuyển thi thể ra khỏi viện.
+- Viện chủ nhận việc báo người thân còn tiếp, đồ riêng vẫn do người viện giữ. Chưa có thân nhân được tìm thấy, người nhận tin xác nhận, người thừa kế hoặc di nguyện mới; không giao sổ/túi thuốc cho Lâm Uyên.
+- Đồng nghiệp và người từng được giúp tới theo lượt; Trần Dực được phép ngồi gần cửa một lượt ngắn, con Khương Tố Nương đi cùng người phụ giúp. Người đang chờ hương vẫn quay lại khi người bệnh cần, công việc chuyên môn không dừng hết.
+- Hứa Tĩnh Xuyên có tên lần đầu, được nhận diện là giám dược hẹn Lâm Uyên tối Chương 63; nhận phần quan sát/nghe hỏi sau tưởng niệm. Không là người thay thế Mạnh Thanh Tễ, người nhận di sản hoặc một truyền thừa bí mật.
+- Lâm Uyên còn nhớ thầy, chờ một câu hỏi theo thói quen và muốn trở lại gian yên; việc tiếp tục học không chứng minh đã nguôi đau. Trạng thái qua đời trong đêm ngày thứ mười ba giữ nguyên, không có hành động/lời dạy mới từ người mất.
+
+Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].

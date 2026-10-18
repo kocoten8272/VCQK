@@ -5,7 +5,7 @@ importance-tier: C
 vai-tro: nhan-vat-phu
 status: da-xuat-hien
 created: 2026-10-13
-updated: 2026-10-18
+updated: 2026-10-19
 tags:
   - nhan-vat
   - nam-pho
@@ -87,3 +87,11 @@ Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]].
 - Tình trạng thương chân/cần theo dõi còn giữ; chưa có nguồn xác nhận hồi phục, xuất viện, chỗ ở mới hoặc nối lại nghề.
 
 Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].
+
+## Phần được nhắc theo bản thảo Chương 64
+
+- Không có cảnh khám/đối thoại trực tiếp mới của bà. Người theo lượt nhà trú về báo tên bà còn trong phần tìm, chưa có ai nhận đã thấy gói kim.
+- Lâm Uyên hỏi việc báo vào viện, người trực nhận sẽ nói với bà lúc thức; chưa có cảnh bà đã nhận tin hoặc gói kim được giao. Khung/dao vừa trả thuộc người làm giỏ, không đem đồ người khác tới cho bà nhận.
+- Giới hạn thương tích/cần theo dõi, giỏ áo ở viện và chưa xác nhận chỗ ở/khỏi/xuất viện giữ như nguồn trước. Không có nguồn xác nhận gói kim mất hẳn hoặc đã lấy.
+
+Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].

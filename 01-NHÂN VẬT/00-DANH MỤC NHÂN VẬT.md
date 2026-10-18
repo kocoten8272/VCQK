@@ -45,7 +45,7 @@ Mẫu dùng khi lập hồ sơ: [Mẫu Hồ Sơ Nhân Vật](M%E1%BA%AAU%20H%E1%
 | `01E-Vân Châu` | Liễu Gia, Kiếm Các, Thính Phong Lâu, Thương Hội, Tầm Chân Ti | Nhân vật mới của các thế lực cấp châu |
 | `01F-Thế Lực Bí Ẩn` | Vĩnh Sinh Môn, Di Kỷ Tộc và nhân vật chưa thể xếp công khai | Chuyển sang nhóm địa bàn/thế lực phù hợp khi thân phận được xác nhận rõ |
 
-Tính đến Chương 63, sổ cái có **63 hồ sơ cá nhân**, trong đó **22 hồ sơ mang trạng thái `da-xuat-hien`**. Các trạng thái `dang-phat-trien`, sống/chết và chỉ được nhắc đến được theo dõi riêng tại [[02-SỔ CÁI NHÂN VẬT]].
+Tính đến Chương 64, sổ cái có **64 hồ sơ cá nhân**, trong đó **23 hồ sơ mang trạng thái `da-xuat-hien`**. Các trạng thái `dang-phat-trien`, sống/chết và chỉ được nhắc đến được theo dõi riêng tại [[02-SỔ CÁI NHÂN VẬT]].
 
 ## Danh sách hồ sơ theo tuyến
 
@@ -91,6 +91,7 @@ Tính đến Chương 63, sổ cái có **63 hồ sơ cá nhân**, trong đó **
 - [Hồ Nhuận Chi](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/H%E1%BB%93%20Nhu%E1%BA%ADn%20Chi.md) — `da-xuat-hien`
 - [Lão Bán Pháp Khí](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/L%C3%A3o%20B%C3%A1n%20Ph%C3%A1p%20Kh%C3%AD.md) — `da-xuat-hien`
 - [Mạnh Thanh Tễ](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/M%E1%BA%A1nh%20Thanh%20T%E1%BB%85.md) — `da-qua-doi`
+- [Hứa Tĩnh Xuyên](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/H%E1%BB%A9a%20T%C4%A9nh%20Xuy%C3%AAn.md) — `da-xuat-hien` — CHAR-064, hạng C; tên/nhận diện Chương 64, giám dược đã hẹn học tối Chương 63, chưa gộp mọi ca cũ.
 - [Trần Dực](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Tr%E1%BA%A7n%20D%E1%BB%B1c.md) — `da-xuat-hien`
 - [Tạ Nghiên Chi](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/T%E1%BA%A1%20Nghi%C3%AAn%20Chi.md) — `da-xuat-hien`
 - [Tạ Hạnh](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/T%E1%BA%A1%20H%E1%BA%A1nh.md) — `da-xuat-hien`
@@ -138,7 +139,7 @@ Tính đến Chương 63, sổ cái có **63 hồ sơ cá nhân**, trong đó **
 - [Người Áo Đen (chưa rõ danh tính)](01F-Th%E1%BA%BF%20L%E1%BB%B1c%20B%C3%AD%20%E1%BA%A8n/Ng%C6%B0%E1%BB%9Di%20%C3%81o%20%C4%90en%20%28ch%C6%B0a%20r%C3%B5%20danh%20t%C3%ADnh%29.md) — `da-xuat-hien`
 - [Hắc Nha](01F-Th%E1%BA%BF%20L%E1%BB%B1c%20B%C3%AD%20%E1%BA%A8n/H%E1%BA%AFc%20Nha.md) — `chua-xuat-hien`
 
-## Nhân vật đã xuất hiện trong truyện (đối chiếu đến hết Chương 62)
+## Nhân vật đã xuất hiện trong truyện (đối chiếu đến hết Chương 64)
 
 > Danh sách này chỉ ghi người có mặt trong cảnh, được gọi tên trong lời kể/hồi ức có căn cứ, hoặc có vai trò cá nhân rõ. Nhân vật đề xuất và người chỉ được nhắc qua lời khai được tách riêng. Hồ sơ vẫn có thể ghi tuổi, cảnh giới hoặc quá khứ là “chưa nêu” nếu bản thảo chưa xác nhận.
 
@@ -172,8 +173,9 @@ Tính đến Chương 63, sổ cái có **63 hồ sơ cá nhân**, trong đó **
 - [Đỗ Hoài Chương](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/%C4%90%E1%BB%97%20Ho%C3%A0i%20Ch%C6%B0%C6%A1ng.md) — trực tiếp xuất hiện Chương 54, thợ sửa sách nhà hong.
 
 - [Lão Bán Pháp Khí](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/L%C3%A3o%20B%C3%A1n%20Ph%C3%A1p%20Kh%C3%AD.md) — biệt danh nghề nghiệp; tên thật chưa nêu.
-- [Mạnh Thanh Tễ](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/M%E1%BA%A1nh%20Thanh%20T%E1%BB%85.md) — qua đời trong đêm ngày13 theo bản thảo Chương 60; Chương 61 có lượt viếng trong gian yên viện, chưa chôn cất/bàn giao đồ.
-- [Trần Dực](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Tr%E1%BA%A7n%20D%E1%BB%B1c.md)
+- [Mạnh Thanh Tễ](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/M%E1%BA%A1nh%20Thanh%20T%E1%BB%85.md) — qua đời trong đêm ngày13 theo bản thảo Chương 60; Chương 64 thực sự tưởng niệm giữa buổi sáng ngày mười lăm, quan tài ở gian yên/nắp riêng, chưa chôn cất/bàn giao đồ hoặc tìm được thân nhân.
+- [Hứa Tĩnh Xuyên](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/H%E1%BB%A9a%20T%C4%A9nh%20Xuy%C3%AAn.md) — CHAR-064, hạng C; giám dược hẹn học tối Chương 63 được gọi tên Chương 64, cho Lâm Uyên quan sát nghe/hỏi có kiểm; không phải sư phụ thay thế.
+- [Trần Dực](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Tr%E1%BA%A7n%20D%E1%BB%B1c.md) — Chương 64 dự tưởng niệm gần cửa theo y sư, sau về giường; trước trưa còn xem sức để quyết buổi hỏi chiều.
 - [Tạ Nghiên Chi](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/T%E1%BA%A1%20Nghi%C3%AAn%20Chi.md)
 - [Tạ Hạnh](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/T%E1%BA%A1%20H%E1%BA%A1nh.md)
 - [Lưu Định](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/L%C6%B0u%20%C4%90%E1%BB%8Bnh.md) — Chương 61 cổ tay vẫn sưng đau, hoãn chuyến nặng chờ tái khám; đã được dẫn vào viếng Mạnh Thanh Tễ. Việc tới trạm trước đó vẫn là lời tự kể.
@@ -199,7 +201,7 @@ Tính đến Chương 63, sổ cái có **63 hồ sơ cá nhân**, trong đó **
 
 ## Theo dõi trạng thái hiện tại
 
-Trạng thái mỗi người nằm trong frontmatter của hồ sơ. Danh sách “đã xuất hiện” ở trên được cập nhật theo nguồn đến Chương 63; mốc chi tiết và kiểu xuất hiện xem [[03-SỔ THEO DÕI LẦN XUẤT HIỆN]]. Những nhân vật mới được đặt hồ sơ tạm có thể chưa có tuổi, cảnh giới hoặc tên thật; không điền suy đoán thành canon.
+Trạng thái mỗi người nằm trong frontmatter của hồ sơ. Danh sách “đã xuất hiện” ở trên được cập nhật theo nguồn đến Chương 64; mốc chi tiết và kiểu xuất hiện xem [[03-SỔ THEO DÕI LẦN XUẤT HIỆN]]. Những nhân vật mới được đặt hồ sơ tạm có thể chưa có tuổi, cảnh giới hoặc tên thật; không điền suy đoán thành canon.
 
 | Trạng thái | Ý nghĩa |
 | --- | --- |

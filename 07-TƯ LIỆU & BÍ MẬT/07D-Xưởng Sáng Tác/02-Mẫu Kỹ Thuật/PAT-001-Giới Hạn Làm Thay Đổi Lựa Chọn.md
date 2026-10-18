@@ -20,8 +20,9 @@ used_in_chapters:
   - 61
   - 62
   - 63
+  - 64
 created: 2026-10-08
-updated: 2026-10-18
+updated: 2026-10-19
 tags:
   - nhan-qua
   - cai-gia
@@ -31,7 +32,7 @@ tags:
 
 # PAT-001-Giới Hạn Làm Thay Đổi Lựa Chọn
 
-> Mẫu kỹ thuật do người viết thiết kế cho VCQK từ [[REF-001-Nguồn Về Sinh Tồn Và Giới Hạn]]. `ready` nghĩa là dùng được để lập cảnh; đã áp dụng có phạm vi ở bản thảo Chương 55–63.
+> Mẫu kỹ thuật do người viết thiết kế cho VCQK từ [[REF-001-Nguồn Về Sinh Tồn Và Giới Hạn]]. `ready` nghĩa là dùng được để lập cảnh; đã áp dụng có phạm vi ở bản thảo Chương 55–64.
 
 ## Vấn đề cần xử lý
 
@@ -137,3 +138,9 @@ Tra [[LOG-009-Áp Dụng Kỹ Thuật Trong Chương 62]]. SEED-001/002 chưa d�
 Chủ đồ tự chọn dao riêng có thể dùng phần thô, không nhận hết thay sinh kế; Trần Dực chỉ nhận nghe hỏi trong sức mình, không hứa nhớ thêm. Lâm Uyên phân việc để có mặt tưởng niệm/học mà không theo mọi lượt hiện trường; trái không viết đêm, phải còn đau. Kết quả có ích giữ phần chưa đủ, khác thêm giấy rồi chờ.
 
 Tra [[LOG-010-Áp Dụng Kỹ Thuật Trong Chương 63]]/[[REF-006-Nguồn Về Đan Tuyến Và Hệ Quả Lựa Chọn]]. SEED-001/002 vẫn chưa dùng, không nhận phản hồi độc giả hoặc coi gợi ý là canon.
+
+## Lần áp dụng tại bản thảo Chương 64
+
+Người dự tưởng niệm theo sức/đổi ca, người học chỉ nghe/phân điều kể với đoán, gọi y sư xem bệnh. Lượt đội trả khung gãy/dao sứt, người chủ tự nhận và sửa phần có thể, dao mượn còn tới16. Giới hạn không làm cảnh đứng yên nhưng cũng không biến thành khỏi/đã mở toàn lối.
+
+Tra [[LOG-011-Áp Dụng Kỹ Thuật Trong Chương 64]]. SEED-001/002 vẫn chưa dùng; không phản hồi độc giả hoặc kỹ thuật y khoa mượn từ nguồn kể chuyện.

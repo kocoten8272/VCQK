@@ -212,3 +212,18 @@ Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].
 HFS/chìa/trang và nguồn thợ phụ không mới63. Không cho Tạ Nghiên Chi thành nhân chứng vụ sập hoặc biết nguyên nhân vì đã viếng.
 
 Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
+
+## Tri thức theo bản thảo Chương 64
+
+| Người | Biết/nghe | Giới hạn |
+| --- | --- | --- |
+| Lâm Uyên/viện | K: dự tưởng niệm giữa sáng15, Hứa Tĩnh Xuyên được gọi tên/đúng người hẹn tối14 | Không biết đời tư/tuổi44 thiết kế hoặc mọi ca cũ là cùng người |
+| Lâm Uyên | K: nghe bệnh nhân đau từ chiều trước đêm chăn ẩm, nguyên nhân lạnh do người cùng nhà đoán; nhìn Hứa Tĩnh Xuyên gọi y sư | Chỉ phân nguồn/điều kể, chưa biết bệnh/thuốc/độc lập phân loại cấp cứu |
+| Người theo đội → nhóm viện | R: tới đúng buổi/gặp phụ trách cứu, làm chỗ tiếp cận riêng gian đầu; Bùi Ninh Viễn còn đó | Người báo đi cùng/tận mắt nhận đồ nhưng Lâm Uyên không thấy lượt làm; không toàn nhà an toàn hoặc nguyên nhân sập |
+| Chủ giỏ/nhóm viện | K: khung gãy/dao sứt vật thật, nhận dấu ghép đúng đồ, còn thiếu phần/tình trạng được ghi | Không biết hỏng từ lúc sập/hay lúc chuyển, chưa dùng lại toàn bộ nghề |
+| Lâm Uyên/người trực | R: kim Hồ Nhuận Chi chưa ai nhận thấy, sẽ báo bà lúc thức | Không vào tìm/khẳng định mất hẳn hoặc giỏ chứa kim |
+| Trần Dực/nhóm | K: y sư cho lượt ngắn dự, sau về giường; gần trưa đang xem sức chiều | Chưa buổi đối đã chốt/đã diễn ra hoặc nhớ thêm/tay trái cử động mới |
+
+HFS/Hòa Sinh/chìa/trang không chứng cứ mới64; hẹn chiều15 và dao16 còn tương lai. Sinh tử Lâm Chinh UNKNOWN, thân nhân Mạnh Thanh Tễ chưa liên hệ xong.
+
+Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].

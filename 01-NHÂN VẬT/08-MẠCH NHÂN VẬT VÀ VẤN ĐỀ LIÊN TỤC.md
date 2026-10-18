@@ -9,7 +9,7 @@ tags:
 
 # Mạch Nhân Vật Và Vấn Đề Liên Tục
 
-> Bảng nền sau Chương 52; tiến triển Chương 53–63 được lưu ở cuối. Đây là sổ theo dõi, không phải lệnh tự giải quyết tuyến.
+> Bảng nền sau Chương 52; tiến triển Chương 53–64 được lưu ở cuối. Đây là sổ theo dõi, không phải lệnh tự giải quyết tuyến.
 
 ## Open Character Threads
 
@@ -174,3 +174,16 @@ Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].
 Ch64 cần thực hiện một phần các hẹn sáng15 và duy trì chiều15/ngày16 đúng nguồn, không kéo thêm một buổi hỏi lịch trống.
 
 Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
+
+## Tiến triển theo bản thảo Chương 64
+
+- **Tưởng niệm đã diễn ra giữa sáng15**, viện thu xếp quan tài/nắp riêng. Trần Dực được cho ngồi một lượt ngắn, con Khương Tố Nương theo phụ giúp; một người phải rời đáp bệnh. Không tiếp để lời hẹn lễ như chưa thực hiện, chưa chôn/trao đồ/thân nhân.
+- **Lượt học đầu đã thực hiện:** Hứa Tĩnh Xuyên có tên CHAR-064, chính giám dược hẹn63. Lâm Uyên nghe hỏi, phân điều đau với lý do người ta đoán, trở lại ghế sau tin ngoài. Không tự xem bệnh/ghi/kê/cân hoặc hết đau.
+- **Lượt đội có kết quả vật thật:** Người theo đội mang khung gãy/dao cũ sứt, chủ nhận giữ cả mảnh để sửa. Chỉ dọn chỗ riêng gian đầu qua báo nguồn, chưa mở toàn lối/nhà an toàn hoặc nguyên nhân.
+- **Dao mượn chiều16:** Chủ nhắc giữ hẹn vì dao cũ phải sửa. Không lấy thu hồi dao cũ làm đã trả dao Bùi Ninh Viễn.
+- **Kim Hồ Nhuận Chi:** Chưa có người nhận thấy, người trực sẽ báo bà lúc thức; không giao nhầm/khép tìm.
+- **Chỗ mẹ con:** Người nhận việc đối sáng15 đã tới hỏi người trực/đi, chưa cảnh chủ chỗ xác nhận lại hoặc xuất viện. Giữ cam kết61 theo nguồn, không tước chỗ do bận tang.
+- **Chiều15:** Gần trưa y sư đang xem Trần Dực để chốt sức, nhờ Tạ Nghiên Chi chờ tin; chưa đối/Hòa Sinh/người mua. Ch65 cần vào việc chiều có kết quả thay thêm một lịch.
+- **Tuyến khác:** Không tin mới thợ phụ/Bùi Khánh Vân/HFS/chìa/trang. Lâm Chinh UNKNOWN, Tô Lạc–miếng đồng chưa thu, không phần thưởng tu vi từ mất mát.
+
+Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].

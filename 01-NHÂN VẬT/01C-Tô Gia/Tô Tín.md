@@ -103,3 +103,12 @@ Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]].
 - Không có mốc hồi phục mới, tin thử nền mới hoặc lệnh vào hầm. Tô Lạc/miếng đồng chưa được thu hồi, vị trí thi thể sau sập vẫn chưa xác minh.
 
 Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
+
+## Trạng thái mới theo bản thảo Chương 64
+
+- Sáng ngày thứ mười lăm ngồi cạnh Trần Dực ở gần cửa gian tưởng niệm, nạng tựa phía trong để chừa lối. Sau lượt ngắn nhờ lấy nạng, đi sau với người giúp; không tự khiêng người hoặc đi nhà trú.
+- Trước trưa vẫn ở ghế gần gian Trần Dực, hỏi Lâm Uyên đã qua gian thuốc rồi nhờ người mang bát tới bàn nhỏ; không ép kể bài học hoặc đòi hỏi phần lời ngay giữa bữa.
+- Chân/tay chưa có mốc hồi phục mới. Y sư còn xem sức Trần Dực để quyết buổi chiều, chưa có buổi hỏi diễn ra.
+- Không có tin thử nền mới, lệnh vào hầm hoặc kết quả thu hồi Tô Lạc/miếng đồng. Vị trí thi thể sau sập chưa xác minh; việc tìm vẫn còn mở.
+
+Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].

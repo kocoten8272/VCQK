@@ -204,3 +204,16 @@ Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].
 - Tối không viết thêm, tay phải vẫn đau dưới băng, tay trái còn mỏi. Nhờ người trực báo giờ sáng rồi đi nghỉ, không tự giữ gian yên suốt đêm; đau buồn còn nguyên dù đã nhận một việc cho hôm sau. Dược Khế bảy tháng, quản thúc/hộ tống và tình trạng thật UNKNOWN của Lâm Chinh không đổi.
 
 Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
+
+## Trạng thái mới theo bản thảo Chương 64
+
+- Sáng ngày thứ mười lăm tại viện, nhận người phụ giúp gỡ vạt áo/kê tay, ăn rồi dự lượt tưởng niệm Mạnh Thanh Tễ giữa buổi sáng. Nhận/cắm hương bằng tay trái có người giúp, tự nhường lượt; không có lời đáp, di nguyện hoặc bàn giao đồ từ người đã mất.
+- Sau lượt tưởng niệm tự chọn ngồi nghỉ/uống nước rồi tới chỗ hẹn học. Biết tên Hứa Tĩnh Xuyên khi viện chủ gọi; người này được nhận diện là giám dược đã hẹn tối Chương 63, không tự gộp mọi giám dược các ca cũ.
+- Hoàn thành buổi quan sát đầu: nghe người tới xin thuốc tự giải thích đau bụng vì lạnh, nhận ra thời điểm đau có trước đêm dùng chăn ẩm. Khi Hứa Tĩnh Xuyên hỏi lại, phân biệt điều người bệnh đang chịu với lời giải thích của họ; đây là việc học nghe/hỏi có kiểm, chưa biết nguyên nhân bệnh hoặc loại thuốc cần dùng.
+- Chỉ ngồi nghe, để người có nghề chuyển y sư phần xem bệnh. Khi có người muốn thuốc từng uống, chờ câu hỏi thay vì nhìn ngay các ngăn; không tự tiếp nhận bệnh, chẩn đoán, kê/chọn/cân/phối thuốc hoặc nhận nghề của Mạnh Thanh Tễ.
+- Tạm ra nghe người chấp sự cử theo đội nhà trú báo, tận mắt thấy khung gãy một cạnh/dao cũ sứt và chủ đồ đối nhận. Không nhận đã lấy đủ đồ, nhà an toàn hoặc hết trách nhiệm; gói kim Hồ Nhuận Chi còn tìm, người trực nhận báo lúc bà thức.
+- Không cầm bút hoặc đỡ khay: đã được y sư xem tay sau lúc dậy, tay phải còn đau, chưa được viết lâu; Hứa Tĩnh Xuyên nhắc để hai tay nghỉ và cho ngừng trước trưa. Không có hồi phục mới, tăng tu vi hoặc năng lực y dược tức thời.
+- Trước trưa nghe y sư còn đang xem sức Trần Dực để quyết phần chiều; chưa có buổi hỏi hoặc quyền dự hỏi mới. Ở lại ăn/nghỉ với Tô Tín và Tô Thanh Ly, còn muốn tới gian yên và còn thói quen quay lại hỏi thầy; học tiếp không khép đau buồn.
+- Dược Khế bảy tháng, quản thúc/hộ tống, thương tích và tình trạng thật UNKNOWN của Lâm Chinh giữ nguyên. Không có lời giải mới về Hắc Phong Sơn, người mua thuốc, chìa/trang mất hoặc nguyên nhân sập.
+
+Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].

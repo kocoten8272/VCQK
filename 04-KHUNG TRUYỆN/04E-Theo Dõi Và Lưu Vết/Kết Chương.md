@@ -84,21 +84,22 @@ tags:
 | Chương 61 | 🔶 | Chỗ Cho Người Còn Sống | `status: nhap` |
 | Chương 62 | 🔶 | Lối Chưa Được Mở | `status: nhap` |
 | Chương 63 | 🔶 | Một Việc Cho Ngày Mai | `status: nhap` |
+| Chương 64 | 🔶 | Sau Làn Hương Mỏng | `status: nhap` |
 
 ## Chương tiếp theo
 
-- Chương 64: hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 63]]. Chương 51–63 đã có bản nháp trên `main`; áp dụng [[11_AUTONOMOUS_STORY_DESIGN]] để chuẩn bị nội dung mới phù hợp.
+- Chương 65: hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 64]]. Chương 51–64 đã có bản nháp trên `main`; áp dụng [[11_AUTONOMOUS_STORY_DESIGN]] để chuẩn bị nội dung mới phù hợp.
 - Các ý tưởng cũ cho chương 39–44 trong hồ sơ hỗ trợ thuộc mạch trước bản Chương 37–38 hiện tại. Chỉ dùng làm chất liệu sau khi đối chiếu, không coi là sự kiện đã xảy ra.
 
 ## Tổng số
 
-- Có tệp chương 1–63 trên `main`: 63.
+- Có tệp chương 1–64 trên `main`: 64.
 - Hoàn thiện: 33 chương theo tracker (1–25) và frontmatter (26–32, 34). Chương 2–7 thiếu khai báo frontmatter nhưng tracker hiện đánh dấu hoàn thiện.
-- Nháp theo frontmatter: 29 chương (33, 36–63).
+- Nháp theo frontmatter: 30 chương (33, 36–64).
 - Chương 35 có tệp nhưng chưa khai báo trạng thái; tracker cũng chưa xác định hoàn thiện hay nháp.
-- Chương 64 trở đi: chưa có tệp; các mốc tương lai giữ ở mức kế hoạch.
+- Chương 65 trở đi: chưa có tệp; các mốc tương lai giữ ở mức kế hoạch.
 
 ## Liên kết
 
 - Nhịp: [[Nhịp Truyện]]
-- Chương: [[Chương 1]] → [[Chương 63]]
+- Chương: [[Chương 1]] → [[Chương 64]]

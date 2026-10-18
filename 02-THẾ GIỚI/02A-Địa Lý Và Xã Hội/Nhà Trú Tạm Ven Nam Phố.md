@@ -3,7 +3,7 @@ type: the-gioi
 id: LOC-010
 status: dang-phat-trien
 created: 2026-10-09
-updated: 2026-10-18
+updated: 2026-10-19
 tags:
   - the-gioi
   - dia-diem
@@ -111,3 +111,14 @@ Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]], [[Bùi Nin
 - Nguyên nhân sập, tổng thương vong, quyền sở hữu/quản trị và trách nhiệm cuối vẫn chưa xác định; không có kết quả mới từ thợ phụ Bùi Khánh Vân tìm hoặc tuyến Hắc Phong Sơn.
 
 Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
+
+## Kết quả cục bộ được báo theo bản thảo Chương 64
+
+- Người được chấp sự cử theo đội đã về viện sáng ngày thứ mười lăm, báo đội tới đúng buổi, gặp người phụ trách cứu rồi làm phần được chỉ. Người ấy tận mắt đi cùng lượt nhận đồ, nói Bùi Ninh Viễn còn tại hiện trường với người dẫn đội; không có cảnh nhân vật có tên khảo sát mới trực tiếp trên trang.
+- Đã dọn được **một chỗ tiếp cận riêng** để đưa mấy món gian đầu ra. Dãy mái nối phía trong vẫn bị giữ; không có lệnh mở toàn lối sát sân/toàn nhà, sửa hoàn chỉnh hoặc đánh giá nguyên nhân cũ.
+- Khung người làm giỏ được đưa về viện, gãy một cạnh, các thanh/mảnh buộc cùng; dao cũ bọc riêng và sứt lưỡi. Chủ đồ đối hai miếng gỗ khác màu, thanh cong và dao rồi nhận, người giữ phần ghi tình trạng trước giao. Thu hồi đồ không đồng nghĩa chúng còn nguyên hoặc phần hỏng bị xóa.
+- Người làm giỏ cất dao cũ riêng với dao mượn của Bùi Ninh Viễn, nhắc trả dao mượn chiều ngày thứ mười sáu như hẹn. Chưa trả, bồi thường đủ hoặc phục hồi hoàn toàn khả năng làm việc/chỗ ở.
+- Tên Hồ Nhuận Chi vẫn có trong phần còn tìm, chưa ai nhận đã thấy gói kim; người trực ở viện nhận sẽ nói khi bà thức. Không tự xác nhận mất hẳn, đem nhầm đồ hoặc cho người quay vào dưới mái để tìm.
+- Tổng thương vong, người còn thiếu, quyền sở hữu/quản trị, nguyên nhân kết cấu và trách nhiệm cuối vẫn chưa xác định. Nguồn mới không nối nhà trú với Hòa Sinh/Hắc Nha/Tả tiên sinh; hai thanh gỗ viện chưa chuyển ra đây.
+
+Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].

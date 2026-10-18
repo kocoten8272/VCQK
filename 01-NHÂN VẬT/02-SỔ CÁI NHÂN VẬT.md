@@ -8,7 +8,7 @@ tags:
 
 # Sổ Cái Nhân Vật
 
-> 63 hồ sơ cá nhân trong cây thư mục tại mốc Chương 63. Nhân vật thoáng qua chưa rõ tên được giữ trong sổ riêng.
+> 64 hồ sơ cá nhân trong cây thư mục tại mốc Chương 64. Nhân vật thoáng qua chưa rõ tên được giữ trong sổ riêng.
 
 ## Quy tắc ID
 
@@ -83,6 +83,7 @@ tags:
 | CHAR-061 | [[01D-Lăng Vân Thành/Tề Duy Cẩn|Tề Duy Cẩn]] | C | da-xuat-hien | [[01D-Lăng Vân Thành/Tề Duy Cẩn]] |
 | CHAR-062 | [[01D-Lăng Vân Thành/Khương Tố Nương|Khương Tố Nương]] | C | da-xuat-hien | [[01D-Lăng Vân Thành/Khương Tố Nương]] |
 | CHAR-063 | [[01D-Lăng Vân Thành/Hồ Nhuận Chi|Hồ Nhuận Chi]] | C | da-xuat-hien | [[01D-Lăng Vân Thành/Hồ Nhuận Chi]] |
+| CHAR-064 | [[01D-Lăng Vân Thành/Hứa Tĩnh Xuyên|Hứa Tĩnh Xuyên]] | C | da-xuat-hien | [[01D-Lăng Vân Thành/Hứa Tĩnh Xuyên]] |
 
 ## Cấp biên tập
 
@@ -94,7 +95,7 @@ S: trục trung tâm; A: tuyến dài/ảnh hưởng lớn đã xác lập hoặ
 | --- | ---: |
 | chua-xuat-hien | 16 |
 | da-qua-doi | 5 |
-| da-xuat-hien | 22 |
+| da-xuat-hien | 23 |
 | dang-phat-trien | 3 |
 | unknown | 1 |
 | de-xuat | 15 |

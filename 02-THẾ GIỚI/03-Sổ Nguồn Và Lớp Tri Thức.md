@@ -199,3 +199,19 @@ Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].
 79 node lore giữ, không tạo node cho dao thường/đội ngắn chỉ vì xuất hiện. REF-006/LOG-010 là lớp biên tập, không thế giới do nguồn ngoài dạy nhân vật.
 
 Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
+
+## Đối chiếu có phạm vi sau Chương 64 — 2026-10-19
+
+| Mệnh đề | Nguồn/lớp | Giới hạn |
+| --- | --- | --- |
+| Tưởng niệm/quan tài | DRAFT TEXT64: viện thu xếp nắp để riêng, lượt giữa sáng diễn ra | Không chôn/tang hoàn tất, không thân nhân/di vật chuyển |
+| Hứa Tĩnh Xuyên CHAR-064 | DRAFT TEXT64: viện chủ gọi, narrator nối đúng giám dược hẹn63; nam ngoài40 | Tuổi thiết kế44/đời tư không lộ, không đồng nhất mọi ca vô danh trước |
+| Bài quan sát đầu | DRAFT TEXT64: nghe hỏi bệnh nhân/tách điều kể/đoán, y sư tiếp xem bệnh | Không chứng minh nguyên nhân do chăn hoặc thuốc mới/tu vi, không quyền tự chẩn |
+| Đội đã làm lượt sáng15 | CHARACTER REPORT64 của người được cử đi cùng, hàng trên xe tới viện | Chỉ chỗ tiếp cận riêng, Bùi Ninh Viễn còn hiện trường qua báo, không cảnh Lâm Uyên trực tiếp |
+| Khung/dao cũ về chủ | DRAFT TEXT64: vật thật gãy/sứt, chủ nhận dấu ghép và tình trạng trước giao | Chưa sửa/xác lập ai gây hỏng/toàn sinh kế |
+| Dao mượn | DRAFT TEXT64: chủ nhắc trả chiều mai16 như hẹn, giữ tách dao cũ | Chưa trả hoặc hết nghĩa vụ |
+| Sức Trần Dực | DRAFT TEXT64: được cho dự ngắn/rồi về giường, gần trưa đang xem | Chưa chốt buổi chiều/lời mới hoặc tay trái hồi phục |
+
+Tổng lore79 giữ; thêm hồ sơ người CHAR-064 ở01, không tạo lore/pháp khí từ dao thường. Nguồn Exa LOG-011 chỉ biên tập, không canon y dược từ bài ngoài.
+
+Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].

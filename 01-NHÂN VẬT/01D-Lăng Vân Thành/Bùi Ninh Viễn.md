@@ -75,3 +75,13 @@ Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].
 - Chưa có kết luận nguyên nhân sập, sửa xong, lệnh mở lối hoặc quan hệ với mạng thuốc/Hắc Nha/Tả tiên sinh. Tuổi chính xác/gia phả giữ lớp thiết kế như trước.
 
 Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
+
+## Phần được báo theo bản thảo Chương 64
+
+- Không trực tiếp xuất hiện trong chương. Người được chấp sự cử theo đội về viện báo đã cùng lượt tới nhà trú buổi sáng ngày thứ mười lăm, gặp người phụ trách cứu rồi làm trong phần được chỉ; nói Bùi Ninh Viễn còn ở hiện trường với người dẫn đội.
+- Người báo tận mắt đi cùng lượt nhận đồ: đội dọn được một chỗ tiếp cận riêng để đưa vài món gian đầu ra, mái nối dãy trong vẫn bị giữ. Đây là kết quả cục bộ theo người theo đội, không xác nhận cả lối sát sân/cả nhà đã an toàn hoặc Bùi Ninh Viễn tự mở mọi lối.
+- Nhờ trả đúng chủ và giữ cả phần chưa lấy; tại viện, người làm giỏ trực tiếp nhận khung gãy một cạnh, dao cũ sứt và đối tình trạng trước giao. Gói kim Hồ Nhuận Chi vẫn chưa thấy; không có kết quả mới về nguyên nhân sập/trách nhiệm công trình.
+- Người làm giỏ phân biệt dao cũ vừa lấy với dao riêng đã mượn của Bùi Ninh Viễn, nhắc trả chiều mai — ngày thứ mười sáu — như hẹn. Chưa trả dao, chưa có bồi thường đủ hoặc cảnh người chủ hết giận.
+- Tuổi/gia phả giữ lớp thiết kế; không có lời mới của Bùi Khánh Vân, xác minh thợ phụ hoặc quan hệ mạng thuốc/Hắc Nha/Tả tiên sinh.
+
+Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].

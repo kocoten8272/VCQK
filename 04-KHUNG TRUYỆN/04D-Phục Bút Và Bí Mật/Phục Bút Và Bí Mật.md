@@ -220,3 +220,18 @@ Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].
 Câu hỏi nguyên nhân nhà sập khác hỗ trợ trước mắt; tuyến chìa/trang/Hắc Nha/HFS không giải bởi thuốc hoặc giận sau tang.
 
 Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
+
+## Tiến triển theo bản thảo Chương 64
+
+| Hẹn/đầu mối | Trả trong64 | Còn giữ |
+| --- | --- | --- |
+| Tưởng niệm sáng15 | Đã diễn ra, quan tài viện/nắp riêng, nhân viên thay trực | Chưa chôn/di vật/thân nhân |
+| Học sau lễ | Hứa Tĩnh Xuyên được gọi tên, nhận đúng hẹn63; Lâm Uyên nghe buổi đầu | Chưa tự trị/tu vi hoặc thay thầy |
+| Đội sáng15 | Báo đi cùng + khung gãy/dao sứt thật trả đúng chủ | Không mở toàn lối/nhà an toàn/căn nguyên |
+| Kim Hồ Nhuận Chi | Phần còn tìm được giữ, chờ báo lúc thức | Chưa thu/mất hẳn hoặc trả cho người khác |
+| Dao riêng Bùi Ninh Viễn | Chủ nhắc chiều16 trả, vẫn cần mượn do dao cũ sứt | Chưa trả/giải hết trách nhiệm nhà |
+| Lấy lời chiều15 | Y sư gần trưa xem sức, Tạ Nghiên Chi chờ chốt | Chưa phiên/đại diện Hòa Sinh/thuốc/người mua |
+
+Các mạng thuốc/chìa/Hắc Nha/HFS riêng, không thêm dấu tận thế hoặc cơ chế mới từ quan tài/làn hương.
+
+Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].

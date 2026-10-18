@@ -154,3 +154,14 @@ Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].
 Nguồn các quyết định, lời nhận và việc thực hiện có tầng riêng, không nhập đường nhà trú với mạng thuốc/chìa/Hắc Nha.
 
 Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
+
+## Phạm vi nghề nghiệp và quyền hạn Chương 64
+
+- **Tế Sinh Viện / Hứa Tĩnh Xuyên CHAR-064:** Giám dược được nhận diện bằng tên, cùng người hẹn đêm63; không tự nâng thành y sư/trận sư hoặc đồng nhất mọi giám dược trước. Người có nghề xem bệnh nhận phần riêng.
+- **Viện/quan tài/tưởng niệm:** Viện thu xếp quan tài nắp để riêng và lượt đồng nghiệp đã diễn ra; vẫn giữ đồ/liên hệ. Không quyền thân nhân/chôn hoặc để học trò nhận di sản.
+- **Đội nhà trú:** Theo người đi cùng báo, đến đúng buổi/gặp phụ trách cứu/dọn chỗ tiếp cận giới hạn trả đồ gian đầu. Không suy toàn đội được phép vào mọi mái/công trình an toàn hay Bùi Gia đã sửa xong.
+- **Đồ mượn/đồ cũ:** Chủ nhận khung gãy và dao sứt, giữ dao riêng mượn tới chiều16; không lấy giúp đỡ làm thanh toán trách nhiệm Bùi Gia.
+- **Tông Sảnh:** Chiều15 vẫn dự kiến lấy lời Trần Dực tại viện, y sư xem sức/chờ báo Tạ Nghiên Chi. Chưa người Hòa Sinh tới, hòm giao hoặc tuyến thuốc có chứng cứ mới.
+- **Giới hạn người chính:** Tay thương/7–4 tháng/kiếm bảo chứng/hộ tống giữ. Học quan sát chưa phải được trị người; không cần nam chính có mặt mọi nơi mới nhận tin.
+
+Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].

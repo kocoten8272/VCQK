@@ -230,3 +230,23 @@ Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].
 Không có người có tên mới hoặc hồ sơ CHAR mới. Người trực, chấp sự, giám dược, người phụ trách cứu và thợ vẫn có giới hạn riêng; không gộp vì cùng xuất hiện trong một lượt. Bùi Khánh Vân không trực tiếp trong chương, chưa có nguồn đối thợ phụ mới.
 
 Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
+
+## Vai trò được đối và phân biệt ở Chương 64
+
+| Vai | Điều mới theo cảnh/nguồn | Giới hạn |
+| --- | --- | --- |
+| Giám dược hẹn tối Chương 63 | Viện chủ gọi Hứa Tĩnh Xuyên, CHAR-064; văn bản nhận đúng người đã hẹn, trực tiếp chỉ việc nghe/hỏi sáng ngày mười lăm | Dẫn về hồ sơ chính [[Hứa Tĩnh Xuyên]], không giữ người giám dược Chương 63 như một hồ sơ vô danh trùng người. Chưa đủ nguồn nhận mọi ca Chương 60–62 hoặc mọi giám dược cũ là ông. |
+| Người trực gọi sáng / giữ gian yên / người chuẩn bị quan tài | Gọi Lâm Uyên, giúp áo/hương/giữ lượt, thu xếp quan tài và nắp riêng trong gian yên | Nhiều chức năng, chưa đủ gộp một người. Không thành thân nhân, người thừa kế hoặc đã lo chôn cất. |
+| Người y tế / phụ giúp dự tưởng niệm | Đổi ca để thắp hương, có người bỏ lượt trở lại gian bệnh khi được gọi, người khác nhận phần hương | Chưa tên/tiểu sử hoặc bằng chứng mọi nhân viên từng cùng một ca cứu. Công việc tiếp không chứng minh họ đã hết đau buồn. |
+| Con Khương Tố Nương | Được người phụ giúp dẫn tới đứng ngoài cùng/chắp tay theo ở lượt tưởng niệm rồi về mẹ, giày bùn đã khô | Sáu tuổi theo nguồn cũ, tên/giới tính UNKNOWN. Mẹ vẫn cần xem chân, không phải mẹ con đã chuyển chỗ ở. |
+| Người nhận việc đối giữ chỗ hai mẹ con | Được nhắc đối phần giữ chỗ trong sáng nay, tới hỏi người trực rồi đi làm | Chưa có xác nhận đối xong hoặc nơi mới đã nhận người. Không gộp người thu xếp chỗ/viện chủ/người giữ sổ. |
+| Người đàn ông lớn tuổi xin thuốc | Mang lọ rỗng, kể đau từ chiều hôm kia và muốn thứ hàng xóm dùng; lời nhiễm lạnh do người cùng nhà đoán | Chưa tên/tuổi chính xác/nghề; chuyển y sư xem, chưa kết quả bệnh/thuốc hoặc khỏi. Không viết lời đoán thành chẩn đoán. |
+| Người được chấp sự cử theo đội nhà trú | Trực tiếp về viện, tận mắt đi cùng lượt nhận đồ, báo đội làm phạm vi được chỉ/Bùi Ninh Viễn còn ở hiện trường | Người báo riêng với chấp sự/người dẫn đội/người phụ trách cứu, không tự gộp. Không xác nhận cả nhà an toàn hoặc nguyên nhân sập. |
+| Người giữ phần nhận / người khỏe chuyển đồ | Đặt xe ngoài lối bệnh, gọi chủ, hạ bó khung/lấy mảnh rơi, đối ghi tình trạng trước giao | Nhiều vai, không đồng nhất mọi người với người trông nhà hoặc tự đủ chứng cứ chủ mọi đồ. |
+| Người làm giỏ ôm bao | Nhận đúng khung gãy/dao cũ sứt, giữ cả các mảnh; nhắc trả dao mượn của Bùi Ninh Viễn chiều mười sáu, xin chỗ khô xem cách nối | Dùng lại vai Chương 62–63, chưa tên/CHAR riêng. Có mảnh đồ về không đồng nghĩa đã sửa xong, được bồi thường đủ hoặc hết giận. |
+| Người trực nhận báo Hồ Nhuận Chi | Nhận sẽ báo gói kim còn tìm khi bà thức, không đưa đồ người khác tới nhận | Chưa có cảnh bà nhận tin/gói kim đã thấy. Không đủ nhận diện để gộp giám dược đang dạy với người nhận tin. |
+| Y sư / người trực gian Trần Dực | Cho gần cửa một lượt ngắn, đưa về giường; trước trưa đang xem sức để quyết phần chiều, nhờ báo Tạ Nghiên Chi chờ tin | Chưa có quyết định cho buổi hỏi chiều, lời khai mới hoặc vận động tay trái mới; không gộp mọi y sư với viện chủ. |
+
+Các dòng Chương 63 là lịch sử ở mốc chưa biết tên; ở mốc hiện hành vai giám dược hẹn học có hồ sơ CHAR-064. Giữ riêng các ca/chức năng còn chưa nhận diện, không dùng tên mới để hồi tố mọi nhân viên của viện. Người thân Mạnh Thanh Tễ vẫn chưa rõ, đồ ông còn viện giữ, mới tưởng niệm chứ chưa chôn cất.
+
+Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].

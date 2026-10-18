@@ -161,3 +161,13 @@ Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].
 - Đặt nước phía tay trái Lâm Uyên, nhờ người trực báo giờ sáng rồi nhận về nghỉ. Bản thân cũng mệt, tay phải còn thương; không nhận hết việc đêm hoặc có hồi phục mới. Dược Khế bốn tháng, kiếm bảo chứng và giới hạn đi lại giữ nguyên.
 
 Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
+
+## Trạng thái mới theo bản thảo Chương 64
+
+- Sáng ngày thứ mười lăm tại viện, nhận ăn/uống và giữ tay phải sát người; chỉ giúp phần nhỏ bằng tay lành hoặc nhờ người phụ giúp. Cùng Lâm Uyên ra nghỉ sau tưởng niệm, hỏi hắn cần nghỉ thêm rồi nhận nhờ gọi Hứa Tĩnh Xuyên khi hắn muốn qua; không theo hắn làm mọi việc.
+- Tại hiên trực tiếp nghe người chấp sự cử theo đội báo lượt nhà trú và thấy phần khung/dao được đưa về. Nhờ gọi đúng người làm giỏ tới đối, không tự nhận tài sản hoặc hứa nguyên vẹn.
+- Ngồi cùng chấp sự nghe phần còn phải báo, không giữ Lâm Uyên đứng hết lượt. Trước trưa báo việc còn tìm đã có người nhận tiếp, đồ trả về giữ rõ chỗ hỏng; chưa tự nhận tất cả đồ đã tìm, lối dùng được hoặc Bùi Ninh Viễn đã hết trách nhiệm.
+- Nhắc buổi chiều Trần Dực phải đợi y sư quyết, chưa có buổi hỏi hoặc lệnh dự hỏi mới. Mệt/quầng mắt và tay phải thương còn giữ; Dược Khế bốn tháng, kiếm bảo chứng, quản thúc/hộ tống không đổi.
+- Không có giấy mới hoặc kết quả tuyến chìa/trang mất, người mua thuốc hoặc liên hệ giữa các mạng.
+
+Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].

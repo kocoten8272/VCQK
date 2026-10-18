@@ -10,7 +10,7 @@ tags:
 
 # Trần Dực
 
-> Người được nhóm Lâm Uyên gặp trong phế tích ở Chương 40; đến Chương 63 vẫn chữa trị tại Tế Sinh Viện. Hồ sơ tách lời khai khỏi sự thật đã quan sát.
+> Người được nhóm Lâm Uyên gặp trong phế tích ở Chương 40; đến Chương 64 vẫn chữa trị tại Tế Sinh Viện. Hồ sơ tách lời khai khỏi sự thật đã quan sát.
 
 ## Điều đã biết và lời khai
 
@@ -52,3 +52,11 @@ Tuổi, gia đình, cảnh giới và kết cục chưa chốt.
 - Chưa kể thêm ký ức, danh tính người thuê, người mua hoặc bí mật mới. Giới hạn nghề dẫn đường sau di chứng và quyền từ chối phần không biết vẫn giữ.
 
 Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
+
+## Trạng thái mới theo bản thảo Chương 64
+
+- Giữa buổi sáng ngày thứ mười lăm được y sư cho ngồi ghế gần cửa gian tưởng niệm một lượt ngắn, có người giúp chuyển. Tay trái vẫn yên trên đùi; dùng tay phải nhận hương rồi nhờ người cắm, không đứng lên hoặc có vận động tay trái mới.
+- Sau tưởng niệm được đưa trở lại giường theo lời y sư. Trước trưa y sư đang xem sức để quyết phần chiều, người trực nhờ báo Tạ Nghiên Chi chờ tin chốt lượt; chưa phải đã duyệt hoặc đã có buổi hỏi.
+- Không có ký ức/lời khai mới, phép thử, liều thuốc hoặc kết quả hồi phục mới. Quyền nói phần mình nhớ, dừng khi không đủ sức và không hứa nhớ thêm của Chương 63 giữ nguyên.
+
+Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].

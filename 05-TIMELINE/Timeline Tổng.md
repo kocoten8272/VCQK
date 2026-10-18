@@ -161,3 +161,16 @@ Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]]. Ngày12 ch
 | Cuối63 | Nhận người chấp sự theo đội/báo, nhờ gọi sáng, về nghỉ không viết | Chưa sáng15 hoặc sau hạn chiều16, quản thúc/thương tay/Dược Khế giữ |
 
 Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]]. Mốc sáng15/chiều15/chiều16 là hẹn phát sinh, không dùng để xác nhận đã xảy ra.
+
+## Sáng đến gần trưa ngày thứ mười lăm — Chương 64
+
+| Thời điểm | Sự kiện đã viết | Giới hạn |
+| --- | --- | --- |
+| Sáng15 | Người trực gọi, xem lại băng/ăn/nghỉ, nhân viên phân lượt chăm và viếng | Tay chưa lành/không tự viết |
+| Giữa sáng15 | Quan tài viện nắp riêng, tưởng niệm đồng nghiệp/người từng được giúp diễn ra; Trần Dực ngồi gần cửa một lượt ngắn rồi về giường | Chưa chôn/liên hệ thân nhân xong hoặc trao đồ |
+| Sau lượt | Hứa Tĩnh Xuyên được gọi tên, Lâm Uyên quan sát nghe hỏi/tách điều kể với đoán, y sư nhận xem bệnh | Tuổi44 thuộc thiết kế, chưa dược/y thuật độc lập |
+| Cùng buổi | Người theo đội báo sáng15 tới/tiếp cận riêng, xe trả khung gãy/dao sứt đúng chủ | Kim chưa tìm, không mở toàn nhà/nguyên nhân |
+| Sau tin | Lâm Uyên trở lại ghế nghe buổi đầu tới lúc được nghỉ | Không bỏ việc nhà trú hoặc tự điều trị |
+| Gần trưa15 | Y sư xem sức Trần Dực cho phần chiều/chờ báo Tạ Nghiên Chi; người chính ăn/nghỉ | Buổi đối15/thuốc vẫn chưa xảy ra, dao mượn trả chiều16 chưa đến hạn |
+
+Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]]. Thời điểm song song theo tin có nguồn, không đưa Lâm Uyên ra hiện trường trong lúc dự lễ/học.

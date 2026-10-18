@@ -8,7 +8,7 @@ tags:
 
 # Sơ Đồ Quan Hệ Nhân Vật
 
-> Bảng nền có căn cứ đến Chương 52; cập nhật Chương 54–63 ở cuối. Đường liền là quan hệ được xác nhận; nét chấm là quan hệ xã hội/đang hình thành. Không suy chức quyền hay huyết thống từ cùng họ.
+> Bảng nền có căn cứ đến Chương 52; cập nhật Chương 54–64 ở cuối. Đường liền là quan hệ được xác nhận; nét chấm là quan hệ xã hội/đang hình thành. Không suy chức quyền hay huyết thống từ cùng họ.
 
 ## Gia đình Lâm Uyên
 
@@ -198,3 +198,19 @@ Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].
 Bùi Ninh Viễn chưa được Lâm Uyên tha lỗi/định tội; việc cho mượn có ích không trả lời nguyên nhân cái chết. Viện chủ tổ chức tưởng niệm đồng nghiệp, chưa quyền tang thay thân nhân.
 
 Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
+
+## Quan hệ theo bản thảo Chương 64
+
+| Người | Liên hệ có chiều | Giới hạn |
+| --- | --- | --- |
+| Hứa Tĩnh Xuyên → Lâm Uyên | Nhận đúng người đã hẹn63, buổi đầu quan sát/hỏi phần nghe được và giải thích riêng | Không truyền thừa/thay Mạnh Thanh Tễ hoặc cấp quyền tự xem bệnh |
+| Hứa Tĩnh Xuyên → y sư/người phụ giúp | Phần hỏi thuốc gọi y sư xem, nhờ người tiếp lượt khi chỉ học trò | Nghề/phạm vi riêng, chưa tên toàn bộ ca |
+| Lâm Uyên → người nhận bệnh mới | Nghe họ nói, phân điều đang chịu với điều họ đoán | Không chẩn đoán hoặc trực tiếp nhận kê toa cho họ |
+| Viện/nhân viên → người bệnh/người mất | Thay lượt trực để thắp hương, một người rời đáp gian bệnh | Tưởng niệm và chăm cùng vận hành; không bài tiểu sử/di nguyện mới |
+| Người theo đội → chủ giỏ | Đồ thật khung gãy/dao sứt được trả, chủ nhận dấu ghép/giữ cả mảnh | Không đền đủ/sửa khung hoặc kết luận ai làm hỏng |
+| Chủ giỏ → Bùi Ninh Viễn | Giữ hẹn dao mượn chiều16 vì dao cũ cần sửa | Không trả sớm/quên nợ mượn, không bồi thường đổi trách nhiệm |
+| Tô Thanh Ly/chấp sự → Lâm Uyên | Nhận phần đối tin đồ để hắn trở lại ghế/nghỉ | Không hết thương/quản thúc hoặc phân việc cho toàn thành |
+
+Trần Dực ngồi gần cửa có y sư cho, Tô Tín không tự khiêng hoặc nhận lời chiều hộ. Gia đình/di sản người mất chưa đổi.
+
+Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].

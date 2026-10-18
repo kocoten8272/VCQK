@@ -5,7 +5,7 @@ importance-tier: C
 vai-tro: nhan-vat-phu
 status: da-xuat-hien
 created: 2026-10-09
-updated: 2026-10-17
+updated: 2026-10-19
 tags:
   - nhan-vat
   - nam-pho
@@ -99,3 +99,12 @@ Nguồn: [[Chương 60]], [[Trạng Thái Truyện Sau Chương 60]].
 - Trẻ mang đôi giày bùn được lau, nhường mép bàn khi Lâm Uyên ghi rồi nằm bên mẹ. Tên/giới tính trẻ và các thân nhân khác vẫn UNKNOWN; không mặc định đứa trẻ có hồ sơ riêng hoặc thêm người nhà tử vong.
 
 Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
+
+## Trạng thái mới theo bản thảo Chương 64
+
+- Sáng ngày thứ mười lăm bà vẫn ở gian bệnh cần xem chân; không có cảnh đứng dậy, dự tưởng niệm trực tiếp hoặc xuất viện.
+- Con được người phụ giúp dẫn tới lượt tưởng niệm Mạnh Thanh Tễ, đứng ngoài cùng/chắp tay theo rồi được dẫn về mẹ; giày bùn đã khô, mép vải còn co. Trẻ vẫn sáu tuổi theo nguồn Chương 58, tên/giới tính UNKNOWN.
+- Phần giữ chỗ ở chung của hai mẹ con cần viện đối trong sáng nay, người nhận việc đã được nhắc rồi đi làm. Chưa có tin xác nhận đã đối xong, nơi mới nhận người hoặc mẹ con chuyển tới.
+- Không có kết quả trị chân/chẩn đoán mới, thêm gia đình hoặc nguồn sinh kế hồi phục. Hồ Nhuận Chi tiếp tục là hồ sơ khác, không cùng con hoặc cùng thân tộc.
+
+Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].

@@ -9,7 +9,7 @@ tags:
 
 # Sổ Theo Dõi Lần Xuất Hiện
 
-> Bảng nền rà soát Chương 1–52; cập nhật Chương 53–63 ở các mục dưới. Mốc “lần cuối” có thể là hậu quả/nhắc lại, không khẳng định người có mặt trong cảnh. Mở hồ sơ nguồn trước khi viết tiếp.
+> Bảng nền rà soát Chương 1–52; cập nhật Chương 53–64 ở các mục dưới. Mốc “lần cuối” có thể là hậu quả/nhắc lại, không khẳng định người có mặt trong cảnh. Mở hồ sơ nguồn trước khi viết tiếp.
 
 ## Đã xuất hiện hoặc được nhận diện
 
@@ -231,3 +231,20 @@ Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].
 Người đóng giỏ và người dẫn đội dùng vai vô danh, không đọc tên rồi giấu; không tạo CHAR mới. Bùi Khánh Vân/thợ phụ chỉ còn theo nguồn62, không đối mới63. Hồ Nhuận Chi nhắc gói kim chưa lấy, không cảnh khám.
 
 Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
+
+## Mốc mới theo bản thảo Chương 64
+
+| ID | Nhân vật | Kiểu/mốc | Nơi cuối/giới hạn |
+| --- | --- | --- | --- |
+| CHAR-064 | [[Hứa Tĩnh Xuyên]] | Lần đầu được gọi tên64, nhận đúng giám dược đã hẹn63 | Nam ngoài40; tưởng niệm rồi chỉ Lâm Uyên quan sát/hỏi, gọi y sư xem bệnh. Không đồng nhất mọi giám dược cũ |
+| CHAR-005 | Lâm Uyên | Trực tiếp sáng15 | Tưởng niệm bằng trái/người trực giúp; học quan sát hai lượt, gần trưa ăn/nghỉ ở viện. Không tự viết/chẩn/kê/cân hoặc đi hiện trường |
+| CHAR-006 | Tô Thanh Ly | Trực tiếp viện | Dự cùng/nhờ người gọi/đối đồ–tin, phải còn thương; ngồi ăn cuối |
+| CHAR-044 | Trần Dực | Trực tiếp gần cửa rồi giường | Y sư cho ngồi một lượt ngắn/giúp chuyển, trái yên, hương bằng phải/nhờ cắm; gần trưa xem sức phần chiều, chưa chốt |
+| CHAR-019 | Tô Tín | Trực tiếp ghế/nạng/giúp đi sau | Không khiêng người/đi núi, nhờ bát cho Lâm Uyên |
+| CHAR-047 | Viện chủ | Trực tiếp tưởng niệm | Thu xếp quan tài/lượt đồng nghiệp, tiếp liên hệ/giữ đồ; không chôn |
+| CHAR-037 | Mạnh Thanh Tễ | Thi thể/quan tài/memorial | Quan tài viện thu xếp/nắp để riêng, chết13 giữ; không trao di vật/lời dạy mới |
+| CHAR-062 | Khương Tố Nương | Nhắc tình trạng tại gian bệnh | Con sáu tuổi trực tiếp đi với phụ giúp/dự rồi về; giới tính/tên trẻ vẫn UNKNOWN, mẹ chưa chuyển |
+
+Bùi Ninh Viễn không trực tiếp trong64: người đi theo đội báo anh còn hiện trường; không nâng lời báo thành cảnh nam chính chứng kiến. Hồ Nhuận Chi nhắc kim chưa tìm/báo lúc thức, người trực nhờ báo Tạ Nghiên Chi chờ tin chốt chiều, không tự cập nhật đã tới. Vai chủ giỏ/người bệnh dùng sổ vô danh.
+
+Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].

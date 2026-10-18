@@ -12,7 +12,7 @@ tags:
 
 # Viện Chủ Tế Sinh Viện (chưa rõ tên)
 
-> Chức danh của người đứng đầu Tế Sinh Viện. Tên riêng chưa được nêu trong bản thảo đến hết Chương 63; không tự đặt tên hoặc chốt giới tính nếu chưa có bằng chứng.
+> Chức danh của người đứng đầu Tế Sinh Viện. Tên riêng chưa được nêu trong bản thảo đến hết Chương 64; không tự đặt tên hoặc chốt giới tính nếu chưa có bằng chứng.
 
 ## Thông tin đã xác nhận
 
@@ -84,3 +84,14 @@ Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
 - Tên thật, tuổi, giới tính, tu vi và gia đình vẫn UNKNOWN. Việc hỏi Trần Dực chiều mai còn phụ thuộc y sư xem sức, không phải viện chủ đã duyệt một buổi vô điều kiện.
 
 Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
+
+## Trạng thái mới theo bản thảo Chương 64
+
+- Giữa buổi sáng ngày thứ mười lăm gọi những người đã chờ vào lượt tưởng niệm Mạnh Thanh Tễ. Viện đã thu xếp quan tài trong gian yên, nắp riêng; viện chủ chỉ nhận phần tưởng niệm hiện tại, chưa công bố chôn cất hoặc tang hoàn chỉnh.
+- Nói việc báo người thân vẫn tiếp và đồ riêng còn người giữ. Chưa có kết quả liên hệ/thân nhân, người nhận di sản hoặc quyền lo tang giao Lâm Uyên.
+- Gọi Hứa Tĩnh Xuyên tới gần khi giám dược vừa đổi ca tới thắp hương; lần đầu tên này được nói trên trang. Không tự đồng nhất Hứa Tĩnh Xuyên với mọi nhân viên y tế cũ.
+- Khi có tiếng người bệnh gọi, nhờ người nhận phần hương để người phụ giúp trở lại làm; phần chăm người bệnh vẫn chạy trong lúc tưởng niệm. Trần Dực dự một lượt ngắn theo y sư, sau được đưa lại giường, không có quyền ra ngoài vô điều kiện.
+- Khương Tố Nương vẫn phải xem chân; người nhận việc đối giữ chỗ sáng nay được nhắc làm, chưa có xác nhận đã chuyển hai mẹ con hoặc khỏi.
+- Tên thật, tuổi, giới tính, tu vi và gia đình của viện chủ vẫn UNKNOWN; không thêm quyền điều tra công trình hoặc trả lời mạng thuốc.
+
+Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].

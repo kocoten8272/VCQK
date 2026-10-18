@@ -91,3 +91,13 @@ Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].
 - Bùi Khánh Vân không trực tiếp trong chương; không có xác minh độc lập mới về thợ phụ, người đưa lời hoặc gia đình thợ. Gia phả giữ lớp thiết kế, không nâng các thành viên khác thành đã xuất hiện hoặc nối gia tộc với Hòa Sinh/Hắc Nha/Tả tiên sinh.
 
 Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
+
+## Kết quả được báo theo bản thảo Chương 64
+
+- Không có thành viên Bùi Gia trực tiếp trong chương. Người chấp sự cử theo đội về viện nói Bùi Ninh Viễn còn tại nhà trú với người dẫn đội; người báo tận mắt đi cùng lượt nhận đồ, không kể thay mọi việc trước đó.
+- Theo nguồn ấy, đội tới sáng ngày thứ mười lăm/gặp người phụ trách cứu rồi làm theo phần được chỉ, đã dọn một chỗ tiếp cận riêng để đưa mấy món gian đầu ra. Mái nối dãy trong vẫn bị giữ, chưa phải cả lối/cả nhà được mở hoặc Bùi Gia tự có toàn quyền hiện trường.
+- Khung gãy một cạnh và dao cũ sứt được đem tới viện, người làm giỏ trực tiếp nhận đúng/tình trạng trước giao. Bùi Ninh Viễn nhờ trả đúng chủ và giữ phần chưa lấy được; gói kim Hồ Nhuận Chi chưa thấy.
+- Dao cũ vừa lấy khác dao riêng đã cho mượn: người làm giỏ nhắc hẹn trả dao mượn chiều ngày thứ mười sáu tại bàn nhận việc, chưa trả hoặc coi đó là bồi thường toàn bộ.
+- Chưa có kết luận nguyên nhân sập, lỗi kết cấu/trách nhiệm cuối, chứng minh mới về thợ phụ hoặc quan hệ mạng thuốc/Hắc Nha/Tả tiên sinh. Việc thực hiện lượt tiếp không xóa trách nhiệm đối lời hẹn xem nhà cũ; các thành viên khác chưa thành đã xuất hiện.
+
+Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].
