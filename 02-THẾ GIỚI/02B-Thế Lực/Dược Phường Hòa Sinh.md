@@ -64,9 +64,22 @@ Một nguồn có thể hỏi cả công việc phối thuốc và chỉ dẫn g
 
 ## Phản hồi Tông Sảnh theo bản thảo Chương 63
 
-- Tối ngày thứ mười bốn, Tạ Nghiên Chi mang phản hồi Tông Sảnh tới viện: không cấp bản lời Trần Dực theo điều kiện đổi hòm thuốc; yêu cầu Hòa Sinh cử người có quyền giải quyết trình riêng phần giữ hòm và nguồn yêu cầu đã nhận.
+- Tối ngày thứ mười bốn, Tạ Nghiên Chi mang phản hồi Tông Sảnh tới viện: không cấp bản lời Trần Dực theo điều kiện từng đặt lên việc giao hòm thuốc; yêu cầu Hòa Sinh cử người có quyền giải quyết trình riêng trách nhiệm ấy và nguồn yêu cầu đã nhận. Hai hòm đã về viện từ Chương 47–48, không còn là hàng chờ giao đổi lời trong buổi này.
 - Chưa có người đặt được nhận diện để xác nhận đã mời; chưa có đại diện Hòa Sinh trực tiếp tới, lời mới từ người mua hoặc hòm thuốc giao về. Không mặc định người được yêu cầu là Tề Duy Cẩn hoặc mọi khâu thuộc một cá nhân.
 - Việc lấy lời Trần Dực dự kiến chiều ngày mười lăm tại viện, người bệnh nhận nghe hỏi sau lượt tưởng niệm buổi sáng và y sư còn phải xem sức. Ai dự với vai gì phải được báo trước; người từng đặt điều kiện đổi thuốc không tự có quyền nghe.
 - Trần Dực chỉ nhận trả lời trong phần nhớ/biết, không hứa nhớ thêm. Chưa có buổi đối diễn ra, chứng cứ nguồn tiền/người đặt mới, giải thích mẫu vón hoặc liên hệ với Hắc Nha/Tả tiên sinh/chìa và trang mất.
 
 Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
+
+## Trạng thái mới theo bản thảo Chương 65
+
+- Chiều ngày thứ mười lăm cử quản sự [[Cố Hoài An]] tới viện cùng Tề Duy Cẩn. Chấp sự kiểm giấy giao đối công chép/chỉ dẫn giao/nguồn yêu cầu; quyền sắp lại bàn nhận chỉ áp dụng vụ đang đối. Không xác định bà là chủ sở hữu, y sư hoặc người mua thuốc.
+- Người Hòa Sinh chờ ngoài trong lượt hỏi Trần Dực, không nhận bản lời. Phần lời bệnh nhân được Tạ Nghiên Chi cất riêng; cơ sở không có quyền ngồi nghe nhờ điều kiện đổi thuốc đã đặt.
+- Cố Hoài An đối phiếu công, trả Đinh Bá Nghiêm khoản chép/chuyển lời còn thiếu. Hắn ký riêng phần làm xong, không chốt cả chuyến hai hòm; thanh toán công không xóa trách nhiệm chỉ dẫn hoặc mua lời.
+- **Lời mới của Tề Duy Cẩn:** Chữ dược liệu do hắn dùng khi trình việc; theo lời hắn người đặt cần lời người dẫn đường còn sống. Không có nguồn độc lập xác nhận người đặt, nguồn tiền hoặc trong hòm dài dưới núi có gì; lời chưa biết của Trần Dực không đồng nghĩa chắc không có thuốc.
+- Cố Hoài An yêu cầu Tề Duy Cẩn giao lại thẻ trực cửa bên và bàn giao lượt dở, người khác nhận phần phiếu giao/thuê chép tới lúc đối xong nguồn. Không phải đóng phường, sa thải mọi việc, bắt giữ hoặc phán quyết tội.
+- Bà nhận giữ phần gốc tiếp yêu cầu/sổ ca liên quan cho người có lệnh tới đối. Tạ Nghiên Chi/chấp sự nhận hướng kiểm mảnh nhận đầu và người trực cùng lượt; chưa có bản gốc mới được mở hoặc người đặt được nhận diện.
+- **Phân biệt vật:** Hai hòm thuốc ở bến đã về viện từ Chương 47–48; một gói đã dùng cứu người, phần không đạt phép kiểm giữ niêm làm chứng. Không có hòm thuốc mới mang tới trong buổi này, không tự gộp với hòm dài trong lời Trần Dực.
+- Nguyên nhân mẫu nguyên niêm vón, vết sáp nhấc, người mua ba hiệu, trách nhiệm toàn phường và quan hệ Hắc Nha/Tả tiên sinh/chìa/trang mất vẫn chưa giải.
+
+Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]].

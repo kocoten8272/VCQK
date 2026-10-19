@@ -215,3 +215,19 @@ Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
 Tổng lore79 giữ; thêm hồ sơ người CHAR-064 ở01, không tạo lore/pháp khí từ dao thường. Nguồn Exa LOG-011 chỉ biên tập, không canon y dược từ bài ngoài.
 
 Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].
+
+## Đối chiếu có phạm vi sau Chương 65 — 2026-10-19
+
+| Mệnh đề | Nguồn/lớp | Giới hạn |
+| --- | --- | --- |
+| Buổi hỏi chiều15 đã diễn ra | DRAFT TEXT65: y sư cho ngắn/dừng, Trần Dực nhận người dự và sửa khi đọc lại | Không hỏi hết/có thêm trí nhớ hoặc bản lời cấp Hòa Sinh |
+| Hòm gỗ trên chuyến núi | CHARACTER TESTIMONY40/65: hai người mang, Trần Dực không thấy bên trong và không nhận giữ/giao thuốc | Không biết không là chắc không có thuốc; chưa số hòm, chưa đồng nhất với hai hòm bến |
+| Chữ dược liệu trong yêu cầu | CHARACTER SELF-REPORT65 của Tề Duy Cẩn: cách hắn trình việc; kể lại câu cần lời người dẫn đường còn sống | Chưa kiểm mảnh nhận/người trực để xác nhận nguyên văn, người gửi hoặc nguồn tiền ba hiệu |
+| Cố Hoài An CHAR-065 | DRAFT TEXT65: nữ ngoài40, giấy giao việc được xem, quyền đối công/chỉ dẫn/nguồn và sắp bàn trong vụ này | Tuổi41/đời tư thiết kế chưa kể; không chủ phường/người mua/tuvi hoặc quyền nghe buổi kín |
+| Khoản công Đinh Bá Nghiêm | DRAFT TEXT65: đối khoản thiếu, giao tiền/tự đếm, ký riêng công chép/chuyển lời | Không chốt toàn chuyến hoặc xóa trách nhiệm lời chép |
+| Thẻ trực Tề Duy Cẩn | DRAFT TEXT65: giao thực tế, người khác nhận phần phiếu/thuê chép tới khi đối xong | Không kết án/bắt người/sa thải mọi việc; nguồn đặt vẫn phải kiểm |
+| Tình trạng hai hòm thuốc bến | DRAFT TEXT47–48 được đối lại65: tạm giữ tại viện, phần không đạt kiểm giữ niêm làm chứng | Không có giao hòm mới65. Hai câu63 được sửa để hỏi việc giữ thuốc trước đó, không dựng lại tình trạng Hòa Sinh còn giữ hòm |
+
+Tổng lore79 giữ; CHAR-065 ở mục nhân vật, FAC-019 Hòa Sinh được phát triển, không tạo lore/vật phẩm từ thẻ trực hoặc hòm thường. REF-007/LOG-012 là nguồn biên tập, không tri thức thế giới hoặc chứng cứ mà nhân vật được tự biết.
+
+Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]], [[Chương 40]], [[Chương 47]], [[Chương 48]], [[Chương 58]], [[Chương 63]].

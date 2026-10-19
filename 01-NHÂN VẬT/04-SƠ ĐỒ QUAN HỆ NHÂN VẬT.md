@@ -214,3 +214,17 @@ Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
 Trần Dực ngồi gần cửa có y sư cho, Tô Tín không tự khiêng hoặc nhận lời chiều hộ. Gia đình/di sản người mất chưa đổi.
 
 Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].
+
+## Quan hệ theo bản thảo Chương 65
+
+| Người | Liên hệ/chuyển biến | Giới hạn |
+| --- | --- | --- |
+| Trần Dực → Lâm Uyên/Tô Thanh Ly | Cho nghe và sửa đúng phần họ đã thấy, không nói thay chỗ mình không nhớ | Sự đồng ý có phạm vi; bản lời không chuyển cho Hòa Sinh theo điều kiện đổi thuốc |
+| Lâm Uyên → Trần Dực | Chủ động để câu hỏi của mình sau khi thấy người bệnh mệt; cuối xác nhận phần không biết được giữ đúng rồi lui | Không lấy nhu cầu tìm người làm quyền ép trả lời; chưa khỏi buồn hoặc hết việc cần hỏi |
+| Tạ Nghiên Chi → Trần Dực | Hỏi qua nguồn, đọc lại, sửa sự khác nhau giữa không biết và chắc không có thuốc; dừng theo y sư | Không tự chẩn sức hoặc biến bệnh nhân thành người biết người mua |
+| Cố Hoài An → Đinh Bá Nghiêm | Đối phiếu và trả khoản công còn thiếu; chỉ nhận ký phần chép/chuyển lời | Trả tiền không mua sự sửa lời, không xác nhận toàn chuyến đã xong hoặc bồi thường mọi trách nhiệm |
+| Cố Hoài An → Tề Duy Cẩn | Theo giấy giao việc, nhận lại thẻ trực cửa bên, giao người khác xử lý phần phiếu/thuê chép tới khi đối xong | Quyền sắp bàn trong vụ này, không quyền chủ phường/sa thải mọi việc hoặc bắt người |
+| Tạ Nghiên Chi/chấp sự → Hòa Sinh | Nhận giữ yêu cầu đối mảnh tiếp nhận đầu và người trực, giữ riêng lời bệnh nhân | Chưa được giao nguồn gốc đầy đủ hoặc người đặt cuối; không đồng minh/địch thù mới |
+| Tô Thanh Ly → Lâm Uyên | Nhắc Trần Dực đã giữ được lời mình, hỏi sức tay và nhờ giúp đổi chỗ | Hỗ trợ cụ thể, không thay câu hỏi chưa giải bằng lời bảo đã biết hết |
+
+Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]].

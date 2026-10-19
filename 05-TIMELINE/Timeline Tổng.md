@@ -174,3 +174,19 @@ Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]]. Mốc sán
 | Gần trưa15 | Y sư xem sức Trần Dực cho phần chiều/chờ báo Tạ Nghiên Chi; người chính ăn/nghỉ | Buổi đối15/thuốc vẫn chưa xảy ra, dao mượn trả chiều16 chưa đến hạn |
 
 Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]]. Thời điểm song song theo tin có nguồn, không đưa Lâm Uyên ra hiện trường trong lúc dự lễ/học.
+
+## Chiều ngày thứ mười lăm — Chương 65
+
+| Thời điểm | Sự kiện đã viết | Giới hạn |
+| --- | --- | --- |
+| Đầu chiều15 | Y sư cho lượt hỏi ngắn tại giường, Trần Dực nhận người dự; Tô Tín nhờ chuyển ghế sang gian bên | Tay trái bệnh nhân yên, không sức đã khỏe/thuốc mới |
+| Trong lượt hỏi | Đối việc dẫn5người, hòm gỗ dài/không xem bên trong và miếng đồng/Tả tiên sinh theo nguồn cũ | Không nhận có/không có dược liệu, không tên người mua hoặc số hòm từ số người mang |
+| Khi bệnh nhân mệt | Lâm Uyên để câu của mình sau; y sư dừng, đọc lại sửa đúng phần không biết | Không hỏi tiếp cùng lượt hoặc nhớ thêm bí mật |
+| Sau buổi kín, gian ngoài | Cố Hoài An có giấy giao quyền hẹp đối công, trả khoản thiếu cho Đinh Bá Nghiêm; hắn ký riêng phần đã làm | Không công toàn chuyến/chuyển bản lời bệnh nhân hoặc mua sửa lời |
+| Cùng buổi ngoài | Tề Duy Cẩn tự nhận chữ dược liệu là cách trình, kể câu người đặt cần lời người dẫn đường sống trở về | Lời tự khai mới, chưa đối mảnh nhận đầu/người trực hoặc nguồn tiền |
+| Sau đối | Cố Hoài An nhận thẻ trực cửa bên, giao phần phiếu/thuê chép cho người khác tới khi đối xong; giữ yêu cầu bảo toàn nguồn | Không bắt giam/mất mọi việc hoặc người mua lộ |
+| Cuối chiều15 | Đinh Bá Nghiêm nhận giấy/rời; Tạ Nghiên Chi giữ riêng ống lời khai/rời; Lâm Uyên nghỉ hiên, Trần Dực xin ngủ | Chưa qua ngày16/trả dao/thu kim/giải HFS hoặc chôn Mạnh Thanh Tễ |
+
+Hai hòm thuốc ở bến đã tạm giữ tại viện từ47–48, không phát sinh lần giao/thu hồi mới vào chiều15. Hai câu Ch63 được chỉnh cho đúng trách nhiệm về điều kiện giữ trước đó; mốc cũ không đổi. Sinh tử thật Lâm Chinh UNKNOWN, thương tay/quản thúc/Dược Khế7–4 tháng giữ.
+
+Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]], [[Chương 47]], [[Chương 48]], [[Chương 63]].

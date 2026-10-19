@@ -250,3 +250,19 @@ Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
 Các dòng Chương 63 là lịch sử ở mốc chưa biết tên; ở mốc hiện hành vai giám dược hẹn học có hồ sơ CHAR-064. Giữ riêng các ca/chức năng còn chưa nhận diện, không dùng tên mới để hồi tố mọi nhân viên của viện. Người thân Mạnh Thanh Tễ vẫn chưa rõ, đồ ông còn viện giữ, mới tưởng niệm chứ chưa chôn cất.
 
 Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].
+
+## Vai trò được phân biệt ở Chương 65
+
+| Vai | Điều mới theo cảnh/nguồn | Giới hạn |
+| --- | --- | --- |
+| Quản sự Hòa Sinh được giao đối vụ | Cố Hoài An, CHAR-065, trực tiếp chiều mười lăm; chấp sự xem giấy giao đối công/chỉ dẫn/nguồn yêu cầu và bàn nhận vụ đang kiểm | Dẫn về hồ sơ chính [[Cố Hoài An]], không gộp người phụ trách phòng sổ/người cân/người phụ trách phường ở các chương cũ thành bà. Không là chủ/người mua/y sư. |
+| Y sư xem Trần Dực/người phụ giúp | Cho hỏi ngắn tại giường, nhắc sửa chăn thay bệnh nhân, đưa nước, xem sức rồi dừng; sau cho người bệnh ngủ | Nhiều chức năng riêng, chưa đủ tên/nhận diện gộp viện chủ hoặc mọi ca trước. Không có kết quả hồi phục, phép thử hoặc liều thuốc mới. |
+| Chấp sự đi cùng Tạ Nghiên Chi | Kiểm giấy/vai người dự, giữ lượt và phạm vi đối công/nguồn, nhận hướng hỏi bàn cửa bên | Không trao Hòa Sinh quyền nghe lời riêng, không kết tội nguồn thuốc hoặc bắt Tề Duy Cẩn. Chưa đủ nhận diện gộp mọi chấp sự các tuyến. |
+| Người trực gian bệnh/đem nước/nhờ đỡ ghế | Giữ độ mở cửa, cho Lâm Uyên nói một câu khi được phép, đem nước phía tay trái và giúp đổi chỗ | Không tự gộp một người với mọi ca, giám dược đang dạy hoặc người giữ gian yên. Không nhận Lâm Uyên đã khỏi/mất mát được khép. |
+| Người đặt yêu cầu gốc/người trực lượt nhận đầu | Chỉ qua lời Tề Duy Cẩn: cần lời người dẫn đường sống trở về, còn phải đối mảnh nhận và người trực | Chưa tên/nhận diện hoặc trực tiếp xuất hiện. Câu yêu cầu chưa được kiểm độc lập; không gộp người mua ba hiệu, Tả tiên sinh, Hắc Nha hoặc người ra chỉ dẫn đổi điểm giao. |
+| Người nhận bàn cửa bên kế tiếp | Cố Hoài An yêu cầu người khác nhận phiếu giao/thuê chép tới lúc đối nguồn | Chưa tên/cảnh nhận bàn thực tế, không tự tạo nhân vật mới hoặc khẳng định toàn việc bàn giao đã xong. |
+| Người gọi hỏi chỗ nhận đồ nhà trú | Tiếng gọi ở sân cuối buổi, việc trả đồ buổi sáng còn tiếp | Chưa tên/chủ món đồ, không có đồ mới được nhận, gói kim tìm thấy hoặc nhà đã an toàn. |
+
+Cố Hoài An dùng một hồ sơ mới CHAR-065; các vai chưa tên còn tách riêng. Đinh Bá Nghiêm có khoản công riêng được trả, Tề Duy Cẩn tạm giao thẻ, không vì thế đổi nguồn lời người mua thành sự thật đã chứng minh. Tô Tín chỉ nhờ chuyển ghế sang gian bên, không mặc định ngồi nghe toàn buổi.
+
+Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]].

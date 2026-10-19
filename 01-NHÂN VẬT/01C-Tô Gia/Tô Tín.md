@@ -112,3 +112,11 @@ Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
 - Không có tin thử nền mới, lệnh vào hầm hoặc kết quả thu hồi Tô Lạc/miếng đồng. Vị trí thi thể sau sập chưa xác minh; việc tìm vẫn còn mở.
 
 Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].
+
+## Trạng thái mới theo bản thảo Chương 65
+
+- Đầu giờ chiều ngày thứ mười lăm tại viện, nhờ người giúp đưa ghế sang gian bên để chừa chỗ gần giường cho buổi lấy lời Trần Dực, giữ nạng sát chân.
+- Không được ghi như người ngồi dự toàn buổi hoặc đã nghe trực tiếp lời khai mới; việc ở gian bên không xác nhận tri thức về nguồn yêu cầu của Hòa Sinh.
+- Chân/tay chưa có mốc hồi phục mới, không tới nhà trú/núi. Không có tin thử nền, lệnh vào hầm hoặc thu hồi Tô Lạc/miếng đồng mới; vị trí thi thể sau sập vẫn chưa xác minh.
+
+Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]].

@@ -21,6 +21,7 @@ tags:
 | REF-004 | [[REF-004-Nguồn Về Mất Mát Và Hậu Quả Nhân Vật]] | Nguồn tham khảo | verified | Writing Excuses 13.48, một đoạn transcript đọc ngày 2026-10-13, hậu quả mất mát/giới hạn nguồn |
 | REF-005 | [[REF-005-Nguồn Về Phản Ứng Và Lựa Chọn Sau Biến Cố]] | Nguồn tham khảo | verified | Phản ứng sau biến cố chuyển thành lựa chọn cụ thể; phạm vi bài K.M. Weiland |
 | REF-006 | [[REF-006-Nguồn Về Đan Tuyến Và Hệ Quả Lựa Chọn]] | Nguồn tham khảo | verified | Writing Excuses16.41 đọc11.000ký tự đầu18/10/2026, đổi hệ quả/đan tuyến |
+| REF-007 | [[REF-007-Nguồn Về Manh Mối Và Lời Chứng]] | Nguồn tham khảo | verified | Writing Excuses 6.26; 16.000 ký tự đầu đọc 19/10/2026, tách chi tiết/ý nghĩa/nguồn lời |
 | PAT-001 | [[PAT-001-Giới Hạn Làm Thay Đổi Lựa Chọn]] | Mẫu kỹ thuật | ready | Cảnh có giải pháp quá dễ, cái giá chưa ảnh hưởng hoặc chuẩn bị thêm hệ thống |
 | SEED-001 | [[SEED-001-Ngày Công Bị Bỏ Trống]] | Chất liệu VCQK | seed | Hệ quả công việc của việc trình lời; phẩm giá người làm nghề |
 | SEED-002 | [[SEED-002-Một Thanh Chống Hai Lời Hứa]] | Chất liệu VCQK | seed | Chuẩn bị vật tư Hắc Phong Sơn; năng lực hữu hạn và trách nhiệm với người sống |
@@ -35,6 +36,7 @@ tags:
 | LOG-009 | [[LOG-009-Áp Dụng Kỹ Thuật Trong Chương 62]] | Phản hồi/áp dụng | recorded | Bùi Ninh Viễn nhận việc chưa làm; ngoại vi/lối lấy đồ và hẹn báo trước tối14 |
 | LOG-010 | [[LOG-010-Áp Dụng Kỹ Thuật Trong Chương 63]] | Phản hồi/áp dụng | recorded | Trả hạn14, dao mượn và tuyến thuốc, phân việc cho15 |
 | LOG-011 | [[LOG-011-Áp Dụng Kỹ Thuật Trong Chương 64]] | Phản hồi/áp dụng | recorded | Tưởng niệm đã diễn ra, học quan sát đầu và khung/dao hỏng trả về |
+| LOG-012 | [[LOG-012-Áp Dụng Kỹ Thuật Trong Chương 65]] | Phản hồi/áp dụng | recorded | Lời Trần Dực, nguồn cách gọi dược liệu, trả công, giao thẻ và sửa tối thiểu Ch63 |
 
 Các seed chưa được dùng trong chương. Không lấy chúng làm căn cứ xác nhận tiền công, hợp đồng hoặc tiến độ chống vách.
 
@@ -106,3 +108,7 @@ Tra REF-006/LOG-010 cho nguồn mới và cách đổi nhịp hậu quả. PAT-0
 ## Áp dụng ở Chương 64
 
 Tra LOG-011 cho lần Exa mở lại REF-004 ngày19/10/2026/phạm vi15.000ký tự đầu, giữ ngày truy cập gốc. PAT-001 dùng, SEED-001/002 vẫn chưa dùng. Hứa Tĩnh Xuyên CHAR-064 có node chính ở01D, trạng thái sau64 ở04E; không nhân bản hồ sơ/lore trong Xưởng hoặc coi tuổi thiết kế đã lộ.
+
+## Áp dụng ở Chương 65
+
+Tra [[REF-007-Nguồn Về Manh Mối Và Lời Chứng]]/[[LOG-012-Áp Dụng Kỹ Thuật Trong Chương 65]] cho nguồn mới, phạm vi và sửa hai đoạn Chương 63 theo việc thu hòm ở Chương 47–48. PAT-001 dùng với sức/quyền và giới hạn lời chứng; SEED-001/002 vẫn chưa dùng. Cố Hoài An CHAR-065 có node chính ở 01D, trạng thái sau 65 ở 04E. Không ghép lời người tiếp yêu cầu với lời người đặt đã được kiểm hoặc lưu bản sao hồ sơ ở Xưởng.

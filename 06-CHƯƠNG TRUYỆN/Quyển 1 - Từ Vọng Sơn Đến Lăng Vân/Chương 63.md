@@ -94,11 +94,11 @@ Tô Thanh Ly nhìn ống giấy.
 
 Ngày họ đối Tề Duy Cẩn, người giữ bàn ấy đã nhận tự đề nghị chia hai lượt, giữ hòm sau để đối bản chép lời Trần Dực. Sau đó mưa tới, nhà trú sập, những việc đang chờ tưởng như dồn hết vào cánh cửa gian cứu. Lâm Uyên vẫn nhớ phiếu thuốc, nhưng nghe nó được gọi lại trong đêm này, hắn mới nhận ra người khác đã tiếp tục đi trên đường ấy khi mình ngồi ở đây.
 
-Tạ Nghiên Chi mở bản giao cho viện. Tông Sảnh không cấp bản lời khai Trần Dực theo điều kiện đổi hòm thuốc; việc lấy lời thuộc buổi đối của Tông, phần thuốc giữ lại phải được Hòa Sinh cử người có quyền giải quyết tới trình riêng. Buổi lấy lời mới dự kiến chiều ngày thứ mười lăm tại viện, còn phải hỏi y sư và chính Trần Dực trước khi chốt.
+Tạ Nghiên Chi mở bản giao cho viện. Tông Sảnh không cấp bản lời khai Trần Dực theo điều kiện đổi hòm thuốc; việc lấy lời thuộc buổi đối của Tông, việc đặt điều kiện giữ thuốc ở bến phải được Hòa Sinh cử người có quyền giải quyết tới trình riêng. Buổi lấy lời mới dự kiến chiều ngày thứ mười lăm tại viện, còn phải hỏi y sư và chính Trần Dực trước khi chốt.
 
 “Người đặt thuốc có tới không?” Tô Thanh Ly hỏi.
 
-“Chưa có người đặt nào được nhận diện để bảo đã mời được. Yêu cầu gửi tới Hòa Sinh là cử người trả lời phần giữ hòm và nguồn yêu cầu họ đã nhận. Chưa phải đã lấy được hòm về.”
+“Chưa có người đặt nào được nhận diện để bảo đã mời được. Yêu cầu gửi tới Hòa Sinh là cử người trả lời phần giữ hòm và nguồn yêu cầu họ đã nhận. Việc tạm giữ hai hòm ở bến vẫn theo hai biên nhận cũ; trả lời này chưa cho biết người mua là ai.”
 
 Tạ Nghiên Chi để phần ấy trước người giữ việc của viện, chỉ chỗ cần báo lại. Nàng không mang lời hẹn giao thuốc, cũng chưa có tên người đứng sau để đọc. Nhưng tờ giấy lần này cho họ một buổi đối có thể thu xếp, không buộc Trần Dực gửi bản lời cho người mua mới được chăm tiếp.
 

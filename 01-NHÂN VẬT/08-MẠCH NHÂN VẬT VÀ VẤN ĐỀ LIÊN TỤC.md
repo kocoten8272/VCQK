@@ -187,3 +187,16 @@ Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
 - **Tuyến khác:** Không tin mới thợ phụ/Bùi Khánh Vân/HFS/chìa/trang. Lâm Chinh UNKNOWN, Tô Lạc–miếng đồng chưa thu, không phần thưởng tu vi từ mất mát.
 
 Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].
+
+## Tiến triển theo bản thảo Chương 65
+
+- **Hẹn chiều15 đã thực hiện:** Y sư cho hỏi ngắn tại giường, Trần Dực đồng ý người dự; đọc lại và dừng theo sức. Không để Ch66 mở lại như chưa có buổi hỏi. Câu Lâm Uyên còn muốn hỏi về người che mặt/đường phế tích được giữ để sau, chưa có đáp.
+- **Giới hạn lời Trần Dực tạo bước tiến:** Chỉ nhận dẫn đường, hai người mang hòm gỗ dài, chưa thấy trong; không nhận chắc có hoặc chắc không có thuốc. Miếng đồng/Tả tiên sinh là phần cũ có giới hạn, không hồi ức mới mở danh tính.
+- **Nguồn chữ dược liệu:** Tề Duy Cẩn tự nhận đó là cách trình việc của mình; câu về người dẫn đường còn sống là lời hắn kể lại. Cần đối mảnh tiếp nhận đầu/người trực, chưa xác nhận nguyên văn/người gửi hoặc nối người mua ba hiệu.
+- **Khoản công đã trả:** Cố Hoài An đối khoản và giao Đinh Bá Nghiêm tiền còn thiếu; ký riêng công chép/chuyển lời, không chốt toàn chuyến. Lần tiếp không đòi khoản này như chưa nhận hoặc dùng nhận tiền để sửa lời.
+- **Hậu quả tại Hòa Sinh:** Cố Hoài An có quyền giao hẹp đã nhận thẻ trực cửa bên từ Tề Duy Cẩn, phần phiếu/thuê chép giao người khác tới khi đối xong; hắn còn phải trả lời/giao việc dở. Không sa thải toàn nghề/bắt giam hoặc chủ phường đã lộ.
+- **Hai hòm thuốc:** Đã bị tạm giữ47–48 tại viện, không có lần thu/giao mới65. Sửa hai câu63 cho đúng việc hỏi trách nhiệm với điều kiện giữ trước đây; mọi tóm tắt63–64 nói chờ hòm không là một sự kiện mới. Hòm núi không tự là cùng lô thuốc bến.
+- **Lâm Uyên / nhịp tuyến:** Tự bỏ lượt hỏi để người bệnh nghỉ, nhận mình từng ghép một giả định, vẫn còn thương và cần nghỉ; không hết buồn hoặc tăng năng lực thuốc/tuvi. Tạ Nghiên Chi giữ riêng lời bệnh nhân khi rời.
+- **Hẹn còn mở:** Chiều16 trả dao riêng Bùi Ninh Viễn; kim Hồ Nhuận Chi chưa thu; công trình/thợ phụ/chỗ mẹ con theo nguồn cũ. Mạnh Thanh Tễ đã mất13, tưởng niệm64, chưa chôn/trao đồ/thân nhân; HFS/Tô Lạc/miếng đồng/chìa/trang/Hắc Nha chưa có kết quả mới.
+
+Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]], [[Chương 47]], [[Chương 48]], [[Chương 63]].

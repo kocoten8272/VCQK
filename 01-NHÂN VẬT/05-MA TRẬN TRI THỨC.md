@@ -227,3 +227,18 @@ Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
 HFS/Hòa Sinh/chìa/trang không chứng cứ mới64; hẹn chiều15 và dao16 còn tương lai. Sinh tử Lâm Chinh UNKNOWN, thân nhân Mạnh Thanh Tễ chưa liên hệ xong.
 
 Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].
+
+## Tri thức theo bản thảo Chương 65
+
+| Người | Biết/nghe | Giới hạn |
+| --- | --- | --- |
+| Trần Dực / người dự được nhận | K: nhận dẫn5người tới chân núi, hai người mang hòm gỗ dài, không được thấy trong hòm; không nhận giữ/giao thuốc | Không biết nội dung khác biết chắc không có thuốc; số người mang không tự là số hòm. Miếng đồng/Tả tiên sinh vẫn phần đã nghe, không tên thật/người mua |
+| Lâm Uyên/Tô Thanh Ly/Tạ Nghiên Chi/chấp sự | K: nghe Trần Dực giữ đúng giới hạn lời cũ; không có lời mới chứng minh hòm núi là dược liệu | Tô Thanh Ly chỉ đối vật mình thấy dưới vai Tô Lạc, không chứng minh cùng tấm đồ đồng được nhắc hoặc Trần Dực đã thấy |
+| Người ở gian ngoài | K: Cố Hoài An có giấy giao quyền hẹp, khoản công Đinh Bá Nghiêm đã trả, thẻ trực Tề Duy Cẩn đã giao | Không suy có quyền nghe lời bệnh nhân/biết đời tư Cố Hoài An hoặc tuổi thiết kế41 |
+| Tề Duy Cẩn → người đối ngoài | R: chữ dược liệu là cách hắn trình việc; người đặt cần lời người dẫn đường còn sống trở về | Lời tự khai mới65, chưa câu nguyên bản được kiểm độc lập hoặc người gửi yêu cầu chính là người trả tiền qua ba hiệu |
+| Tạ Nghiên Chi/chấp sự/Cố Hoài An | K: phần tiếp nhận tại bàn cửa bên, mảnh đầu và người trực cùng lượt cần đối; Cố Hoài An nhận giữ nguồn liên quan | Chưa bản gốc/người trực đã được đối, chưa biết nguồn tiền/người mua hoặc ai nhấc sáp/lý do mẫu vón |
+| Lâm Uyên | Tự nhận đã ghép yêu cầu hỏi dược liệu với một điều tưởng được xác nhận; chọn chờ thay hỏi thêm bệnh nhân | Không tự thành kỹ năng điều tra hoàn chỉnh, không quên HFS/nhà trú/kim/dao16 |
+
+Hai hòm thuốc ở bến đã bị tạm giữ ở viện từ47–48; câu phần giữ thuốc trong các tóm tắt63–64 phải đọc là trách nhiệm về điều kiện giữ trước đó, không còn chờ Hòa Sinh giao hai hòm. Không nhập chúng với hòm gỗ dài dưới núi chỉ vì cùng chữ dược liệu. Hòa Sinh không nhận bản lời riêng; Cố Hoài An/Tề Duy Cẩn không biết nội dung buổi trong vì người kể chuyện đã cho độc giả đọc.
+
+Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]], [[Chương 47]], [[Chương 48]], [[Chương 58]].

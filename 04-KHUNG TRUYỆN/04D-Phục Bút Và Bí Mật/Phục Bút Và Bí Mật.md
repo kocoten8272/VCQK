@@ -235,3 +235,19 @@ Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
 Các mạng thuốc/chìa/Hắc Nha/HFS riêng, không thêm dấu tận thế hoặc cơ chế mới từ quan tài/làn hương.
 
 Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].
+
+## Tiến triển theo bản thảo Chương 65
+
+| Hẹn/đầu mối | Trả trong65 | Còn giữ |
+| --- | --- | --- |
+| Lấy lời chiều15 | Đã hỏi tại giường theo sức/đồng ý người dự, đọc lại rồi dừng | Câu về người che mặt/đường phế tích để sau, không có tên thật/Tả tiên sinh mới |
+| Dược liệu trên chuyến núi | Trần Dực chỉ nhận dẫn đường/không xem trong hòm; Tề Duy Cẩn tự nhận cách trình của mình | Chưa biết hòm núi chứa gì; không chắc không có thuốc/cùng hai hòm bến |
+| Nguồn yêu cầu người dẫn đường | Tề Duy Cẩn kể người đặt cần lời người còn sống; giữ hướng đối mảnh nhận đầu/người trực cùng lượt | Chưa xác minh độc lập câu gốc/người gửi/người mua hoặc nguồn tiền |
+| Công Đinh Bá Nghiêm còn thiếu | Đã thanh toán, ký phần chép/chuyển lời riêng | Không ký chốt toàn chuyến, phần chỉ dẫn và nguồn còn mở |
+| Hậu quả bàn cửa bên | Cố Hoài An có giao quyền hẹp, nhận thẻ trực thực tế từ Tề Duy Cẩn | Giao việc dở/giữ nguồn/đối tiếp, không chủ phường đã lộ hoặc bắt giam |
+| Hai hòm bến/đổi lời | Nhắc đúng đã tạm giữ47–48 tại viện, không giao lời bệnh nhân cho Hòa Sinh | Điều kiện giữ trước đây và mẫu vón/nhấc sáp/người mua chưa giải |
+| Dao16/kim/nhà trú/HFS | Chỉ nhắc các việc đang chạy, không bị buổi hỏi xóa | Dao mượn chưa trả, kim chưa thu, nhà chưa an toàn/toàn người chưa đối; Tô Lạc/miếng đồng chưa về |
+
+Không dùng lời tự nhận mới của Tề Duy Cẩn làm chứng cứ nối Hắc Nha/Người Áo Đen/Tả tiên sinh, không thêm bí ẩn cấp thế giới. Cố Hoài An mở một quyền xử lý nghề có giới hạn; chưa là đầu mối cao tầng hoặc mọi người tại Hòa Sinh cùng biết toàn vụ.
+
+Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]], [[Chương 47]], [[Chương 48]].

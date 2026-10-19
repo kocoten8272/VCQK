@@ -248,3 +248,20 @@ Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
 Bùi Ninh Viễn không trực tiếp trong64: người đi theo đội báo anh còn hiện trường; không nâng lời báo thành cảnh nam chính chứng kiến. Hồ Nhuận Chi nhắc kim chưa tìm/báo lúc thức, người trực nhờ báo Tạ Nghiên Chi chờ tin chốt chiều, không tự cập nhật đã tới. Vai chủ giỏ/người bệnh dùng sổ vô danh.
 
 Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].
+
+## Mốc mới theo bản thảo Chương 65
+
+| ID | Nhân vật | Kiểu/mốc | Nơi cuối/giới hạn |
+| --- | --- | --- | --- |
+| CHAR-005 | Lâm Uyên | Trực tiếp chiều15, tại viện | Trần Dực đồng ý cho nghe; giữ câu hỏi chưa hỏi để sau khi bệnh nhân mệt, dự đối phần ngoài rồi nghỉ ở hiên. Hai tay còn giới hạn, không viết/đi núi hoặc chữa bệnh |
+| CHAR-006 | Tô Thanh Ly | Trực tiếp | Nghe theo sự đồng ý của Trần Dực, chỉ đối phần miếng đồng mình thấy; sau hỏi phạm vi khoản công, cuối ở hiên cùng Lâm Uyên. Tay phải còn thương |
+| CHAR-044 | Trần Dực | Trực tiếp tại giường | Hỏi ngắn được y sư cho phép rồi dừng; nhận chỉ dẫn đường, không thấy trong hòm; sửa rõ không biết khác chắc không có thuốc. Tay trái vẫn yên, cuối xin ngủ |
+| CHAR-046 | Tạ Nghiên Chi | Trực tiếp | Giữ riêng bản lời bệnh nhân, hỏi Tề Duy Cẩn nguồn chữ dược liệu; cuối rời viện với ống lời khai, nhận tiếp đối mảnh đầu/người trực. Chưa biết người mua |
+| CHAR-060 | Đinh Bá Nghiêm | Trực tiếp ở gian ngoài | Nhận đủ khoản công chép/chuyển lời còn thiếu, ký riêng phần đã làm rồi rời; không ký chốt cả chuyến giao hòm |
+| CHAR-061 | Tề Duy Cẩn | Trực tiếp ở gian ngoài | Tự nhận chữ dược liệu là cách mình trình việc; giao thẻ trực cửa bên theo quyền hẹp của Cố Hoài An, còn phải giao việc dở/đối nguồn. Không bị bắt hoặc xác nhận là người mua |
+| CHAR-065 | [[Cố Hoài An]] | Lần đầu trực tiếp/có tên | Nữ ngoài40, quản sự Hòa Sinh được giao đối công/chỉ dẫn/nguồn và sắp bàn nhận trong vụ này; trả công, nhận thẻ, chờ ngoài buổi hỏi. Không chủ phường/y sư/người mua |
+| CHAR-019 | Tô Tín | Trực tiếp đầu chương | Nhờ giúp chuyển ghế sang gian bên, nạng sát chân để chừa giường hỏi; không dự trả lời hộ hoặc đi HFS |
+
+Y sư/chấp sự/người trực là vai công việc theo cảnh, không đồng nhất với viện chủ hoặc Hứa Tĩnh Xuyên. Hứa Tĩnh Xuyên, Bùi Ninh Viễn và các bệnh nhân khác không có cảnh trực tiếp mới65; Mạnh Thanh Tễ chỉ còn qua công việc buổi sáng. Hai hòm thuốc bến đã tạm giữ tại viện từ47–48, không có lần nhận hòm mới65.
+
+Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]], [[Chương 47]], [[Chương 48]].

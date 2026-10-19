@@ -8,10 +8,10 @@
 
 - **Tên truyện:** Vạn Cổ Quy Khư
 - **Nhân vật chính:** [[Lâm Uyên]]
-- **Địa điểm ở cuối Chương 64:** Tế Sinh Viện, gần trưa ngày15; đã tưởng niệm Mạnh Thanh Tễ, Lâm Uyên quan sát buổi đầu với Hứa Tĩnh Xuyên; khung/dao cũ trả về còn hỏng, chiều lấy lời Trần Dực chờ y sư
+- **Địa điểm ở cuối Chương 65:** Tế Sinh Viện, chiều ngày15; lượt lấy lời Trần Dực đã dừng theo sức, Đinh Bá Nghiêm nhận công còn thiếu; cần đối nguồn yêu cầu sau lời tự khai của Tề Duy Cẩn
 - **Thế lực gắn với arc hiện tại:** [[Tô Gia]]
-- **Chương mới nhất trên main:** [[Chương 64]] (nháp)
-- **Chương tiếp theo:** Chương 65 (dự kiến)
+- **Chương mới nhất trên main:** [[Chương 65]] (nháp)
+- **Chương tiếp theo:** Chương 66 (dự kiến)
 - **Trạng thái:** Đang sáng tác
 
 ---
@@ -53,6 +53,7 @@
 - [[REF-004-Nguồn Về Mất Mát Và Hậu Quả Nhân Vật]] — nguồn Writing Excuses đã đọc ngày 2026-10-13, giới hạn và suy luận riêng
 - [[LOG-006-Áp Dụng Kỹ Thuật Trong Chương 59]] — lựa chọn chuyển người, thương tích thầy và phần việc tại viện
 - [[LOG-007-Áp Dụng Kỹ Thuật Trong Chương 60]] — mất thầy, phản ứng đầu và công việc người sống; lượt tra nguồn ngày 2026-10-15
+- [[REF-007-Nguồn Về Manh Mối Và Lời Chứng]] · [[LOG-012-Áp Dụng Kỹ Thuật Trong Chương 65]] — tách lời chứng, cách đặt câu hỏi và chứng cứ; lượt tra nguồn ngày 2026-10-19
 
 ## NHÂN VẬT
 
@@ -197,13 +198,14 @@
 - [[Chương 61]] — Chỗ Cho Người Còn Sống; nháp
 - [[Chương 62]] — Lối Chưa Được Mở; nháp
 - [[Chương 63]] — Một Việc Cho Ngày Mai; nháp
-- [[Chương 64]] — Sau Làn Hương Mỏng; nháp mới
+- [[Chương 64]] — Sau Làn Hương Mỏng; nháp
+- [[Chương 65]] — Lời Của Người Dẫn Đường; nháp mới
 
 ### Chuẩn bị
 
-- Chương 65 — hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 64]].
+- Chương 66 — hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 65]].
 - [[Kết Chương]] — trạng thái từng chương, bao gồm các bản nháp và chương chưa có frontmatter.
-- [[Trạng Thái Truyện Sau Chương 64]] — trạng thái continuity hiện hành; các bản sau chương trước đó là lưu vết lịch sử.
+- [[Trạng Thái Truyện Sau Chương 65]] — trạng thái continuity hiện hành; các bản sau chương trước đó là lưu vết lịch sử.
 
 ---
 

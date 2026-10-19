@@ -116,10 +116,23 @@ Giữ sổ trực và cung cấp lời chứng hữu hạn về ca trực, con d
 ## Trạng thái mới theo bản thảo Chương 63
 
 - Tối ngày thứ mười bốn trực tiếp tới viện, hỏi rõ Mạnh Thanh Tễ mất lúc nào rồi theo người trực vào thắp hương. Trước đó chỉ biết tin nhà sập, chưa biết kết cục ở viện; không tự có tri thức về toàn cảnh cứu.
-- Mang phản hồi Tông Sảnh: không cấp bản lời Trần Dực theo điều kiện đổi hòm thuốc, yêu cầu Hòa Sinh cử người có quyền giải quyết trình riêng phần giữ hòm/nguồn yêu cầu. Chưa mang thuốc, lời mới từ người đặt hoặc tên người mua cuối.
+- Mang phản hồi Tông Sảnh: không cấp bản lời Trần Dực theo điều kiện từng đặt lên việc giao hòm thuốc, yêu cầu Hòa Sinh cử người có quyền giải quyết trình riêng trách nhiệm ấy/nguồn yêu cầu. Hai hòm đã về viện từ Chương 47–48; buổi tối này không mang thuốc mới, lời từ người đặt hoặc tên người mua cuối.
 - Đề xuất chiều ngày mười lăm lấy lời tại viện, còn phải hỏi y sư và Trần Dực. Vào gian theo lượt ngắn y sư cho, đọc điều kiện, trả lời ai được dự phải báo trước; không để việc đặt điều kiện đổi thuốc tự cho người ấy quyền ngồi nghe.
 - Đọc lại lời nhận để Trần Dực sửa thành nhận nghe hỏi, không hứa nhớ thêm; hắn muốn qua lượt tưởng niệm buổi sáng và không bị đưa khỏi viện. Y sư sẽ xem sức trước, có thể dừng; nàng ghi nhận điều kiện rồi chờ báo chốt.
 - Không giao Lâm Uyên quyền hỏi thay Trần Dực hoặc mặc định hắn có lệnh tham dự; câu hỏi cần gửi qua người phụ trách. Nhận trả lời Tông Sảnh về phần viện phối hợp.
 - Hồ sơ chìa/trang mất vẫn tách riêng, không có giấy mới trong ống mang tới lần này; chưa xác định người lấy trang, người đặt/nguồn tiền hoặc nối hai mạng lưới.
 
 Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
+
+## Trạng thái mới theo bản thảo Chương 65
+
+- Chiều ngày thứ mười lăm tới viện cùng chấp sự, đọc tên/vai những người dự và hỏi chính Trần Dực trước khi Lâm Uyên/Tô Thanh Ly ngồi nghe. Y sư cho lượt ngắn tại giường, có quyền dừng; Hòa Sinh chờ gian ngoài.
+- Đối lại lời dẫn đường/hòm dài, tách cách hỏi dược liệu từ phần việc đang kiểm với điều nhân chứng từng xác nhận. Ghi đúng Trần Dực chưa biết trong hòm, không ghi thành chắc không có thuốc; giữ lời về đồ đồng/danh xưng Tả tiên sinh ở mức nguồn nghe.
+- Nhận câu hỏi Lâm Uyên để sau, không bắt Trần Dực nghe thêm lúc mệt. Dừng theo y sư, đọc lại chậm để người bệnh sửa/nhận; không có ký ức mới hoặc lời về người mua được thu.
+- Ở gian ngoài đối phiếu công gốc với phần Đinh Bá Nghiêm giữ; ghi việc Cố Hoài An trả đủ khoản chép/chuyển lời còn thiếu, không chốt toàn chuyến. Chức năng ghi/đối không tự trao quyền kết tội.
+- Hỏi nguồn hai chữ dược liệu; ghi riêng Tề Duy Cẩn tự nhận do mình trình, cùng lời hắn kể người đặt cần lời người dẫn đường còn sống. Người đặt và người trực/mảnh nhận gốc còn phải đối, không ghi lời này thành nguồn độc lập đã kiểm.
+- Ghi Cố Hoài An thực hiện quyền sắp lại bàn nhận trong vụ đang đối, Tề Duy Cẩn giao thẻ trực cửa bên tạm thời. Không gộp việc này với bắt giữ, mất mọi việc hoặc xác định ai can thiệp thuốc/niêm.
+- Cất bản lời Trần Dực trong ống riêng, không giao Hòa Sinh. Nhận cùng chấp sự đối mảnh nhận đầu và người trực cùng lượt tại đúng bàn cửa bên; mới là hướng kiểm kế tiếp, chưa có kết quả.
+- Hồ sơ chìa/trang mất tiếp riêng, không có lời mới hoặc người lấy trang được nhận diện.
+
+Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]].

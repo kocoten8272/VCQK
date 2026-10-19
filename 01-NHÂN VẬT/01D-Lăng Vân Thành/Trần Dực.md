@@ -45,7 +45,7 @@ Tuổi, gia đình, cảnh giới và kết cục chưa chốt.
 ## Trạng thái mới theo bản thảo Chương 63
 
 - Tối ngày thứ mười bốn ở giường Tế Sinh Viện, tay trái vẫn đặt yên trên chăn, dùng tay phải đặt chén nước; chưa có cảm giác/cử động tay trái mới, phép thử hoặc liều thuốc mới.
-- Trực tiếp nghe Tạ Nghiên Chi trình phản hồi Tông Sảnh: bản lời không được cấp theo điều kiện đổi hòm, Hòa Sinh phải cử người giải riêng phần giữ hòm/nguồn yêu cầu. Chưa có lời người đặt, người mua cuối hoặc thuốc mới được giao.
+- Trực tiếp nghe Tạ Nghiên Chi trình phản hồi Tông Sảnh: bản lời không được cấp theo điều kiện từng đặt lên việc giao hòm, Hòa Sinh phải cử người giải riêng trách nhiệm ấy/nguồn yêu cầu. Hai hòm đã về viện từ Chương 47–48; tối này chưa có lời người đặt, người mua cuối hoặc thuốc mới được giao.
 - Hỏi ai được ngồi nghe, được báo người dự với vai trò phải nói trước; chưa có ai được quyền tham dự chỉ nhờ từng đặt điều kiện đổi thuốc. Không nhận phải nhớ hết, nói rõ có đoạn trước từng kể theo điều mình tưởng.
 - Tự chọn nhận nghe hỏi chiều ngày mười lăm tại viện sau lượt tưởng niệm Mạnh Thanh Tễ buổi sáng, y sư còn phải xem sức và có thể cho dừng. Sửa cách ghi thành nhận nghe hỏi, không phải nhận sẽ nhớ thêm; buổi ấy chưa diễn ra.
 - Xin được gần cửa lúc tưởng niệm nếu người có nghề cho phép, chưa có quyết định cho ra khỏi giường hoặc dự vô điều kiện. Không bị yêu cầu đi khỏi viện, Lâm Uyên/Tô Tín không nhận lời thay.
@@ -60,3 +60,14 @@ Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
 - Không có ký ức/lời khai mới, phép thử, liều thuốc hoặc kết quả hồi phục mới. Quyền nói phần mình nhớ, dừng khi không đủ sức và không hứa nhớ thêm của Chương 63 giữ nguyên.
 
 Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].
+
+## Trạng thái mới theo bản thảo Chương 65
+
+- Chiều ngày thứ mười lăm được y sư cho lượt hỏi ngắn tại giường, có người ở cạnh và dừng nếu mệt. Tự nhận cho Lâm Uyên/Tô Thanh Ly ngồi nghe, yêu cầu họ chỉ đối phần đã thấy, không nói thay chỗ mình không nhớ.
+- Nhắc lại nhận dẫn năm người tới chân núi, không biết tên thật; hai người mang hòm gỗ dài, bản thân không được xem trong hòm hoặc nhận thuê giữ thuốc. Đây là đối giới hạn lời cũ, không là ký ức mới hoặc kết luận trong hòm chắc không có thuốc.
+- Chỉ nhắc lại lời từng nghe về tấm đồ đồng/mục đích tìm miếng đồng, chưa nhìn vật tận mắt. Danh xưng Tả tiên sinh vẫn là nghe gọi, không có tên thật, người mua thuốc hoặc quan hệ hai mạng được xác minh.
+- Xin nước khi mệt, y sư dừng lượt. Khi đọc lại, tự sửa để ghi chưa biết bên trong hòm, không phải đã chắc chắn không có thuốc; nhận phần đúng rồi xin ngủ. Không được ép tiếp câu về đường trong phế tích/người che mặt.
+- Tay trái còn yên trên chăn, dùng tay phải giữ chén; nhờ người phụ giúp sửa nếp chăn khi y sư nhắc. Không có vận động/cảm giác trái mới, liều thuốc, phép thử hoặc kết quả y tế mới.
+- Người Hòa Sinh chờ ngoài trong lượt hỏi, không được giao bản lời riêng. Không có cảnh Trần Dực nghe phần đối công/Tề Duy Cẩn khai ở gian ngoài, nhận tiền, giao lời đổi thuốc hoặc trở thành nhân chứng biết nguồn mua.
+
+Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]].

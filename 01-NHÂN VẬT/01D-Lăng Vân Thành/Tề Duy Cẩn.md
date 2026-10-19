@@ -5,7 +5,7 @@ importance-tier: C
 vai-tro: nhan-vat-phu
 status: da-xuat-hien
 created: 2026-10-09
-updated: 2026-10-18
+updated: 2026-10-19
 tags:
   - nhan-vat
   - hoa-sinh
@@ -23,7 +23,7 @@ tags:
 - Tên có trên thẻ trực; người phụ trách xác nhận vai nhận việc giao tại cửa bên. Đây là nguồn tên/nơi làm, không chứng minh mọi lời khai.
 - Đinh Bá Nghiêm trực tiếp nhận người đã đọc cho mình chép. Tề Duy Cẩn nhận lập phiếu công, đọc chỉ dẫn và thấy việc chép/đọc lại.
 - Phiếu công và phần lưu hỗ trợ việc thuê chép/chuyển lời. Hai lời đối nhau chưa là giám định chữ hoặc chứng cứ hoàn chỉnh cho mọi chặng.
-- **Lời tự nhận:** Chia hai lượt, giữ hòm sau cho tới khi đối bản chép là đề nghị của mình. Yêu cầu ban đầu về Hắc Phong Sơn/lô hàng đến từ người đặt chưa xác minh.
+- **Lời tự nhận ở Chương 58:** Chia hai lượt, giữ hòm sau cho tới khi đối bản chép là đề nghị của mình; khi ấy trình yêu cầu như đối dược liệu Hắc Phong Sơn/lô hàng. Chương 65 tự nhận chữ dược liệu do mình dùng, còn câu người đặt theo lời hắn là cần lời người dẫn đường còn sống; nguồn gốc vẫn phải kiểm.
 - Không có căn cứ là người mua cuối, người can thiệp niêm, nguyên nhân mẫu vón, người áo đen hoặc thuộc Hắc Nha/Tả tiên sinh.
 
 ## Thông tin cơ bản
@@ -36,9 +36,9 @@ tags:
 | Nghề/việc | Nhận việc giao tại bàn cửa bên Hòa Sinh; lập phiếu công và đọc chỉ dẫn |
 | Quyền hạn đã thấy | Đối phần công/giấy tại bàn; không xác nhận có quyền quản toàn dược phường |
 | Cảnh giới/chiến lực | UNKNOWN; chức việc không chứng minh tu vi |
-| Nơi cuối trực tiếp | Bàn nhận giấy Hòa Sinh, sáng ngày thứ mười một sau Hắc Phong Sơn |
+| Nơi cuối trực tiếp | Gian ngoài tại Tế Sinh Viện, chiều ngày thứ mười lăm; sau buổi phải về bàn giao lượt dở |
 | Gia đình/huyết thống | UNKNOWN; không ghép vào gia tộc vì cùng họ |
-| Tình trạng | Còn sống; chưa có cảnh bắt giữ, mất việc hoặc phán quyết |
+| Tình trạng | Còn sống; Chương 65 giao thẻ trực cửa bên tạm thời theo quyền Cố Hoài An, chưa mất mọi việc/bị bắt hoặc có phán quyết |
 
 ## Nhận diện và cách nói
 
@@ -57,7 +57,7 @@ Giọng đã thể hiện thiên về hoàn tất giao nhận: đề nghị ghi 
 
 ## Quan hệ đã thể hiện
 
-- **[[Đinh Bá Nghiêm]]:** Thuê lượt chép/chuyển lời; phần công riêng còn chưa trả hết. Hai người xác nhận việc đọc/chép, tranh phạm vi ký kết chuyến; chưa có tình bạn hoặc thù riêng.
+- **[[Đinh Bá Nghiêm]]:** Thuê lượt chép/chuyển lời; tranh công Chương 58 được Cố Hoài An giải đúng phần còn thiếu ở Chương 65, không chốt cả chuyến. Hai người xác nhận việc đọc/chép; chưa có tình bạn hoặc thù riêng.
 - **Người phụ trách Hòa Sinh:** Xác nhận nơi việc, cho mở phần lưu liên quan, yêu cầu đối đúng công. Danh tính người phụ trách chưa nêu; không tự xem là cùng người giữ tiền.
 - **[[Tạ Nghiên Chi]] và chấp sự:** Nhận lời/phần câu hỏi, giữ bản gốc có biên nhận. Hồ sơ theo Tạ Nghiên Chi trở lại Tông Sảnh.
 - **[[Lâm Uyên]]:** Hỏi hậu quả chờ thuốc; trực tiếp thấy băng tay của Lâm Uyên, không có tri thức về công pháp hoặc thân thế.
@@ -68,14 +68,26 @@ Giọng đã thể hiện thiên về hoàn tất giao nhận: đề nghị ghi 
 
 Trả câu hỏi ai đọc chỉ dẫn ở Chương 57 bằng người có tên/việc và lời tự nhận trong Chương 58. Dùng lựa chọn giao nhận để hiện xung đột, không kéo dài bằng một người mang giấy vô danh nữa.
 
-Còn cần kiểm nguồn người đặt, nguồn tiền và nguyên trạng hàng; phần công còn tranh chấp. Chấp sự yêu cầu không tiếp đặt điều kiện ấy lên thuốc vụ đang kiểm, chưa phải lệnh thay mọi quy chế kinh doanh Hòa Sinh.
+Còn cần kiểm nguồn người đặt, nguồn tiền và nguyên trạng hàng; phần công chép/chuyển lời riêng đã được trả đủ ở Chương 65, trách nhiệm chỉ dẫn giao chưa khép. Chấp sự yêu cầu không tiếp đặt điều kiện ấy lên thuốc vụ đang kiểm, chưa phải lệnh thay mọi quy chế kinh doanh Hòa Sinh.
 
 [[Chương 57]] · [[Chương 58]] · [[Trạng Thái Truyện Sau Chương 58]] · [[Dược Phường Hòa Sinh]] · [[Đinh Bá Nghiêm]] · [[Nhân Vật Chưa Rõ Tên — Sổ Theo Dõi]]
 
 ## Nguồn liên quan theo bản thảo Chương 63
 
 - Không có cảnh trực tiếp mới; nơi cuối trực tiếp vẫn là Hòa Sinh sáng ngày mười một. Tạ Nghiên Chi mang phản hồi Tông Sảnh về việc không cấp bản lời Trần Dực theo điều kiện đổi hòm thuốc.
-- Hòa Sinh được yêu cầu cử người có quyền giải quyết tới trình riêng phần giữ hòm và nguồn yêu cầu; chưa xác nhận Tề Duy Cẩn chính là người được cử, đã tới hoặc khai thêm.
+- Hòa Sinh được yêu cầu cử người có quyền giải quyết tới trình riêng trách nhiệm về điều kiện từng đặt lên việc giao hòm và nguồn yêu cầu. Hai hòm đã về viện từ Chương 47–48; tại mốc Chương 63 chưa xác nhận Tề Duy Cẩn chính là người được cử, đã tới hoặc khai thêm.
 - Buổi lấy lời Trần Dực dự kiến chiều ngày mười lăm tại viện còn phải xét sức và sự đồng ý; không phải nhận được lời người đặt hoặc xác định người mua cuối. Chưa có hòm thuốc được giao mới, kết luận mẫu vón, nguồn tiền hoặc liên hệ Hắc Nha/Tả tiên sinh.
 
 Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
+
+## Trạng thái mới theo bản thảo Chương 65
+
+- Chiều ngày thứ mười lăm trực tiếp tới viện cùng Cố Hoài An, quản sự Hòa Sinh có giấy giao đối phần công/chỉ dẫn/nguồn yêu cầu. Chờ gian ngoài, không có quyền nghe lời Trần Dực hoặc nhận bản lời vì từng đặt điều kiện đổi thuốc.
+- **Lời tự nhận mới:** Hai chữ dược liệu là cách mình trình việc; theo lời hắn, người đặt cần lời người dẫn đường còn sống trở về. Nhận dùng cách gọi đối dược liệu để bàn nhận hiểu phần chép đi cùng giao thuốc, không đưa được chứng cứ rằng hắn đã biết trong hòm dài dưới núi có thuốc.
+- **Nguồn còn cần kiểm:** Chỉ phần tiếp yêu cầu ở bàn cửa bên, nói phải đối mảnh nhận ban đầu và người trực lúc ấy. Chưa nhận diện người đặt gốc, chứng minh người gửi yêu cầu là người trả tiền ba hiệu hoặc nối với Tả tiên sinh/Hắc Nha.
+- Tiếp nhận trách nhiệm cá nhân đã đề nghị chia hai lượt để buộc nhận đủ bản chép. Không dùng câu chỉ làm việc giao hoặc đối một lô để xóa phần mình thêm; chưa có kết luận cố ý gây chết người hoặc biết ai can thiệp niêm/mẫu vón.
+- Cố Hoài An trả Đinh Bá Nghiêm đúng phần công chép/chuyển lời còn thiếu. Đinh Bá Nghiêm vẫn không ký chốt cả chuyến; khoản ấy được giải không đồng nghĩa lời khai cũ bị xóa hoặc toàn việc thuốc hoàn tất.
+- Theo quyền sắp lại bàn nhận trong vụ đang đối do Cố Hoài An mang tới, giao thẻ trực cửa bên, phải bàn giao từng lượt đang dở; người khác nhận phiếu giao/thuê chép tới lúc đối xong nguồn. Đây là tạm ngừng phần trực ấy, không phải mất mọi việc, bị trói/bắt hoặc đã có phán quyết.
+- Lời Trần Dực giữ riêng bên Tông Sảnh. Hai hòm thuốc ở bến đã về viện từ Chương 47–48; hôm nay không có hòm mới được đem tới, không đánh đồng chúng với hòm dài dưới núi.
+
+Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]].

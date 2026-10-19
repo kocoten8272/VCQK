@@ -155,7 +155,7 @@ Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].
 ## Trạng thái mới theo bản thảo Chương 63
 
 - Tối ngày thứ mười bốn tại viện, kéo ghế bằng tay lành và nhờ người khỏe đặt bàn thấp khi Tạ Nghiên Chi tới; không dùng tay phải thương để nâng bàn.
-- Nghe phản hồi Tông Sảnh, hỏi người đặt thuốc có tới không và được trả lời chưa nhận diện được người đặt. Yêu cầu Hòa Sinh cử người không đồng nghĩa người ấy đã tới, hòm đã được giao hoặc đã rõ đầu não.
+- Nghe phản hồi Tông Sảnh, hỏi người đặt thuốc có tới không và được trả lời chưa nhận diện được người đặt. Yêu cầu Hòa Sinh cử người chưa đồng nghĩa đại diện đã tới hoặc đã rõ đầu não; hai hòm thuốc đã về viện từ Chương 47–48, không còn là hàng chờ bàn giao theo điều kiện ấy.
 - Cùng dự lượt ngắn được y sư cho tại gian Trần Dực, nghe hắn nhận nghe hỏi chiều ngày mười lăm theo sức; không nhận quyền giao bản lời thay thuốc hoặc hỏi thay người bệnh.
 - Nhận xem phần câu hỏi của mình, không bắt Lâm Uyên thức cùng; chưa bảo đảm sẽ dự buổi hỏi hoặc có lệnh tới Tông Sảnh. Hồ sơ chìa/trang mất vẫn riêng, không có giấy mới trong ống Tạ Nghiên Chi mang.
 - Đặt nước phía tay trái Lâm Uyên, nhờ người trực báo giờ sáng rồi nhận về nghỉ. Bản thân cũng mệt, tay phải còn thương; không nhận hết việc đêm hoặc có hồi phục mới. Dược Khế bốn tháng, kiếm bảo chứng và giới hạn đi lại giữ nguyên.
@@ -171,3 +171,14 @@ Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
 - Không có giấy mới hoặc kết quả tuyến chìa/trang mất, người mua thuốc hoặc liên hệ giữa các mạng.
 
 Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].
+
+## Trạng thái mới theo bản thảo Chương 65
+
+- Chiều ngày thứ mười lăm dự lượt hỏi Trần Dực tại viện sau khi y sư cho và chính hắn nhận người dự. Gửi câu hỏi về mục đích chuyến đi qua Tạ Nghiên Chi/chấp sự, không tự chen lượt hoặc nhận lời hộ.
+- Giữ lời riêng về hình dáng miếng đồng đã thấy dưới giếng. Không nhận Trần Dực từng thấy vật ấy hoặc thứ hắn nghe nói chắc là vật dưới vai Tô Lạc; hòm dài dưới núi chưa biết bên trong.
+- Trong phần đối ở gian ngoài, hỏi rõ khoản trả Đinh Bá Nghiêm có bị ghi khép phần chỉ dẫn giao không. Xem dòng chỉ chốt công chép/chuyển lời; phần nguồn yêu cầu và trách nhiệm Tề Duy Cẩn vẫn mở.
+- Nghe lời tự nhận của Tề Duy Cẩn về chữ dược liệu/câu yêu cầu người dẫn đường còn sống, chứng kiến giao thẻ trực tạm; chưa biết người đặt/người mua hoặc nguyên nhân thuốc vón/niêm bị nhấc. Không nối tới Tả tiên sinh, Hắc Nha hoặc hồ sơ chìa/trang mất.
+- Sau buổi ngồi cạnh Lâm Uyên, nhờ người giúp khi hắn đổi chỗ, hỏi tay còn chịu được không. Nhắc Trần Dực đã giữ được lời mình, không dùng lời ấy để khép đau buồn.
+- Tay phải còn thương, tránh đặt lên bàn, dùng tay lành/nhờ người khỏe. Không có hồi phục mới; Dược Khế bốn tháng, kiếm bảo chứng và quản thúc/hộ tống giữ nguyên.
+
+Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]].

@@ -5,7 +5,7 @@ importance-tier: C
 vai-tro: nhan-vat-phu
 status: da-xuat-hien
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-19
 tags:
   - nhan-vat
   - nam-pho
@@ -36,7 +36,7 @@ tags:
 | Giới tính thiết kế | Nam; lời về người phu dùng hắn |
 | Tuổi thiết kế | 34; dành cho lần xuất hiện tương lai, bản thảo chưa nêu |
 | Cảnh giới/chiến lực | UNKNOWN; nghề và sức lao động không chứng minh tu vi |
-| Nơi cuối trực tiếp | Bàn nhận giấy giao Dược Phường Hòa Sinh, sáng ngày mười một trong Chương 58 |
+| Nơi cuối trực tiếp | Tế Sinh Viện, chiều ngày mười lăm trong Chương 65; rời sau khi nhận đủ công và giấy riêng |
 | Huyết thống/gia đình | Chưa xác lập; không ghép với bất kỳ người cùng họ |
 | Thuộc gia tộc/bí mật | Chưa có căn cứ là người Hạ Gia hoặc thành viên mạng lưới bí mật |
 
@@ -76,7 +76,7 @@ Các câu hỏi trên được đặt trước buổi Chương 57; phần nào �
 
 ## Cách xuất hiện tiếp
 
-Buổi trình ngày thứ mười ở Chương 57 và đối người Hòa Sinh sáng mười một ở Chương 58 đã thực hiện. Bước còn mở là nguồn yêu cầu gốc, tiền và phần công tranh chấp; không lấy việc nhận nguồn đọc để giải cả đường dây.
+Buổi trình ngày thứ mười ở Chương 57 và đối người Hòa Sinh sáng mười một ở Chương 58 đã thực hiện. Đến Chương 65 khoản công chép/chuyển lời riêng đã trả đủ, không ký chốt cả chuyến. Bước còn mở là nguồn yêu cầu gốc, tiền mua và trách nhiệm chỉ dẫn; không lấy việc nhận nguồn đọc hoặc trả công để giải cả đường dây.
 
 Giữ một hồ sơ chính này. Các sổ vai, lần xuất hiện và tri thức chỉ dẫn về đây; không tạo hồ sơ thứ hai mang tên “phu xe đưa giấy”.
 
@@ -103,3 +103,13 @@ Giữ một hồ sơ chính này. Các sổ vai, lần xuất hiện và tri th�
 - Khoản công còn lại chưa được trả ngay; không có người trong tổ trả thay, không bị tuyên mất mọi việc. Hậu quả từ chối hợp tác của Phan Kính Chương 57 không tự được xóa.
 - Tuổi 34, gia đình, tu vi vẫn chưa nêu. Nơi cuối trực tiếp là Hòa Sinh ngày mười một; không có cảnh ở cứu trợ Nam Phố ngày mười ba hoặc nối hắn với nguyên nhân sập.
 - Nguồn: [[Chương 58]], [[Trạng Thái Truyện Sau Chương 58]].
+
+## Trạng thái mới theo bản thảo Chương 65
+
+- Chiều ngày thứ mười lăm trực tiếp tới viện đối phần công còn thiếu, chờ gần cửa sân; không tìm cách nghe buổi hỏi riêng Trần Dực. Không mặc định đã biết nội dung lời bệnh nhân.
+- Đối phiếu Tông Sảnh giữ với bản mình giữ, tiếp nhận phần đã chép theo Tề Duy Cẩn đọc/chuyển giấy tới Phan Kính. Vẫn không ký đã giao hai hòm trọn điều kiện hoặc cả chuyến.
+- Cố Hoài An đối khoản đã trả/phần còn thiếu rồi trả nốt tiền từ khoản công được mang tới. Hắn tự đếm, ký nhận chỉ công chép/chuyển lời đã xong; không nhận tiền đổi lời hoặc phải ký thêm việc chưa làm.
+- Cất tiền, được chấp sự cho ra chờ và giữ liên lạc khi cần gọi; sau trở lại nhận giấy của mình rồi rời. Không có phán quyết miễn mọi trách nhiệm, khôi phục hợp tác Phan Kính hoặc bảo đảm mọi lượt sau.
+- Khoản công riêng đã khép, nguồn người đặt/người mua/niêm và nguyên trạng thuốc vẫn chưa giải. Tuổi 34 còn là thiết kế, gia đình/tu vi chưa nêu; không có cảnh ở nhà trú.
+
+Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]].

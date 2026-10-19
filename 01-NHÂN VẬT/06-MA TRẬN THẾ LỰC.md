@@ -165,3 +165,15 @@ Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
 - **Giới hạn người chính:** Tay thương/7–4 tháng/kiếm bảo chứng/hộ tống giữ. Học quan sát chưa phải được trị người; không cần nam chính có mặt mọi nơi mới nhận tin.
 
 Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].
+
+## Phạm vi nghề nghiệp và quyền hạn Chương 65
+
+- **Tế Sinh Viện:** Y sư cho một lượt hỏi ngắn tại giường rồi dừng theo sức, có người chăm; Trần Dực đồng ý người dự/được đọc lại. Không giao quyền y sư cho người ghi hoặc để lời hẹn tối14 vượt sức bệnh nhân.
+- **Tông Sảnh / Tạ Nghiên Chi:** Lấy phần lời có nguồn và giữ riêng; không giao bản lời bệnh nhân để đổi thuốc. Yêu cầu đối mảnh tiếp nhận đầu cùng người trực chưa thành kết quả tìm được người mua.
+- **Dược Phường Hòa Sinh / Cố Hoài An CHAR-065:** Có giấy giao đối phần công, chỉ dẫn, nguồn và sắp lại bàn nhận trong vụ này. Đã trả công còn thiếu và nhận lại thẻ trực cửa bên; giữ nguồn liên quan để người có lệnh tới đối. Không quyền chủ phường, bao trùm toàn ba hiệu, chấp pháp bắt người hoặc nghe bản lời riêng.
+- **Tề Duy Cẩn:** Nhận cách trình chữ dược liệu và điều kiện mình đề nghị, tạm giao phần phiếu/thuê chép tại cửa bên cho người khác tới khi đối xong. Chưa mất mọi việc/đã bị bắt; lời kể về người đặt chưa xác minh độc lập.
+- **Đinh Bá Nghiêm:** Công chép/chuyển lời thực tế đã được thanh toán, phạm vi ký không gồm toàn chuyến hòm. Khoản công không khép phần chỉ dẫn/nguồn hoặc xóa lời cũ.
+- **Vật chứng:** Hai hòm thuốc đã tạm giữ47–48 ở viện, không có hòm mới được Hòa Sinh giao65. Việc hỏi trách nhiệm giữ/đổi thuốc khác quyền sở hữu/công năng hoặc đồng nhất với hòm gỗ núi.
+- **Giới hạn tuyến khác:** HFS/nhà trú/chìa/trang/Hắc Nha giữ riêng; tay thương, Dược Khế7–4tháng, quản thúc/kiếm bảo chứng và hộ tống không thay đổi.
+
+Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]], [[Chương 47]], [[Chương 48]].
