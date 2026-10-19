@@ -28,7 +28,7 @@ tags:
 | Tuổi thiết kế | 41, tự thiết kế ngày 2026-10-19 theo [[11_AUTONOMOUS_STORY_DESIGN]]; chưa nêu số tuổi chính xác trong chương |
 | Nghề / nơi gắn bó | Quản sự Dược Phường Hòa Sinh; phạm vi trong vụ đang đối theo giấy giao việc |
 | Lần đầu trực tiếp | Chiều ngày thứ mười lăm, gian ngoài tại Tế Sinh Viện, Chương 65 |
-| Tình trạng / nơi cuối | Còn sống; cuối buổi cùng Tề Duy Cẩn phải về bàn giao các lượt dở, chưa có cảnh bàn giao hoàn tất tại phường |
+| Tình trạng / nơi cuối | Còn sống; sáng ngày thứ mười sáu tại Hòa Sinh, đã có người khác nhận phiếu ở bàn cửa bên; tiếp phần đối với chấp sự và Phùng Quý Lương |
 | Gia đình / huyết thống / thân hữu | UNKNOWN; không ghép với Cố Thanh Phong hoặc người cùng họ |
 | Nhà riêng / tài sản / nguồn lương cá nhân | UNKNOWN; khoản công đem tới thuộc phần việc được giao, không chứng minh bà giàu hoặc dùng tiền riêng |
 | Tu vi / linh căn / công pháp / pháp khí | UNKNOWN; chức quản sự không chứng minh tu hành |
@@ -55,7 +55,7 @@ Nguồn thiết kế thường lệ là quyền tự phát triển tác giả đ
 - **Mục tiêu trước mắt đã thể hiện:** Giải đúng khoản công chép/chuyển lời có thể đối, nhận lại bàn giao phần cửa bên và giữ nguồn gốc tiếp yêu cầu cho người có lệnh.
 - **Mong muốn nghề — thiết kế:** Các lượt giao có người chịu trách nhiệm đúng phần, phường không bị đại diện bằng lời một người tự thêm mà không rõ nguồn; điều ấy có thể xung đột với nhu cầu tìm hết chuỗi của người hỏi.
 - **Nguồn lực trên trang:** Giấy giao việc, khoản công được đem tới, quyền sắp lại bàn nhận của vụ đang kiểm và yêu cầu Tề Duy Cẩn bàn giao. Không sở hữu mọi sổ/kho hoặc lực lượng chấp pháp.
-- **Xung đột đã thể hiện:** Phải giải khoản có thể thanh toán mà không đổi nó thành sự đồng ý chốt cả chuyến; phải nhận phần Tề Duy Cẩn tự thêm trong khi người đặt gốc chưa đưa được tới.
+- **Xung đột đã thể hiện:** Chương 65 phải giải khoản có thể thanh toán mà không đổi nó thành chốt cả chuyến khi người đặt gốc chưa tới. Chương 66 phải nhận trách nhiệm bàn phường sau khi Phùng Quý Lương tự nhận nguồn tiền, không chỉ đẩy sai sót sang Tề Duy Cẩn.
 - **Ranh lựa chọn đã thấy:** Không mua lời Trần Dực, không bắt Đinh Bá Nghiêm ký vượt phần làm; yêu cầu Tề Duy Cẩn giao thẻ nhưng vẫn phải trả lời phần đã nhận.
 - **Hướng có thể phát triển:** Tranh luận về phạm vi mở phần gốc/sổ ca hoặc trách nhiệm phường sau khi nguồn được đối. Chưa khóa bà thành đồng minh lâu dài, phản diện, người đứng đầu hoặc người sẽ trả hết hậu quả.
 
@@ -72,7 +72,8 @@ Nguồn thiết kế thường lệ là quyền tự phát triển tác giả đ
 | Người / nhóm | Quan hệ và mốc | Giới hạn |
 | --- | --- | --- |
 | [[Dược Phường Hòa Sinh]] | Quản sự được giao việc Chương 65 | Chưa xác định chủ sở hữu, người nhà chủ hoặc quyền quản toàn phường |
-| [[Tề Duy Cẩn]] | Cùng tới viện, đối nguồn cách trình việc, nhận thẻ và yêu cầu bàn giao | Thẩm quyền trong vụ có giấy; không chứng minh quan hệ thân hữu, cấp trên mọi mặt hoặc cùng biết người mua |
+| [[Phùng Quý Lương]] | Gọi tới sáng mười sáu theo nguồn tờ gốc, đối phần chỉ dẫn/thu yêu sách và trách nhiệm bàn phường | Không là người bảo lãnh thay, không giao bản lời hoặc nhận mọi lời về hàng bị thay |
+| [[Tề Duy Cẩn]] | Cùng tới viện, đối nguồn cách trình việc, nhận thẻ và yêu cầu bàn giao | Thẩm quyền trong vụ có giấy; không chứng minh quan hệ thân hữu, cấp trên mọi mặt hoặc cùng biết người mua từ trước |
 | [[Đinh Bá Nghiêm]] | Đối và trả nốt công chép/chuyển lời, để ký đúng phần | Không mua lời, bảo đảm sinh kế dài hạn hoặc ký chốt cả chuyến thay hắn |
 | [[Tạ Nghiên Chi]] / chấp sự | Trình giấy, đối phần công/nguồn theo quy trình; nhận giữ phần gốc cho người có lệnh | Bản lời riêng của Trần Dực không giao cho bà |
 | [[Lâm Uyên]] / [[Tô Thanh Ly]] | Có mặt phần đối gian ngoài; trả lời câu hỏi về phạm vi khoản chốt | Chưa là người bảo trợ, người chữa thương hoặc nguồn biết thân thế hai người |
@@ -82,8 +83,8 @@ Nguồn thiết kế thường lệ là quyền tự phát triển tác giả đ
 ## Tri thức và bí mật
 
 - **Biết trực tiếp trong Chương 65:** Phần giấy bà được giao, đối công đã thanh toán, Tề Duy Cẩn tự nhận chữ dược liệu và câu hắn kể về yêu cầu người dẫn đường còn sống; việc nhận thẻ/bàn giao cần tiếp.
-- **Lời chưa được kiểm độc lập:** Người đặt đã nói thế nào theo Tề Duy Cẩn, ai gửi yêu cầu và ai trực cùng lượt. Bà nhận giữ phần gốc/sổ ca để đối, chưa trình kết quả đọc chúng tại phường.
-- **Chưa có nguồn cho tri thức:** Vật trong hòm dài dưới núi, người mua cuối/nguồn tiền ba hiệu, vì sao mẫu vón, người nhấc niêm, Tả tiên sinh/Hắc Nha, chìa/trang mất hoặc nguyên nhân sập nhà trú.
+- **Nguồn tại mốc Chương 65:** Người đặt đã nói thế nào theo Tề Duy Cẩn còn chờ kiểm. Chương 66 tờ gốc/người cùng ca được đối, Phùng Quý Lương nhận gửi/cấp tiền; lời hàng thô bị thay vẫn chưa có kiểm độc lập.
+- **Chưa có nguồn cho tri thức:** Vật trong hòm dài dưới núi, tính thật lời hàng thô bị thay, vì sao mẫu vón, người nhấc niêm, Tả tiên sinh/Hắc Nha, chìa/trang mất hoặc nguyên nhân sập nhà trú. Nguồn tiền ba hiệu được Phùng Quý Lương tự nhận/đối ở Chương 66, không làm mọi chặng trở thành đã kiểm.
 - **Bí mật thiết kế:** Chưa đặt thân phận ngầm, công pháp thất truyền hoặc quan hệ huyết thống lớn. Không dùng phần UNKNOWN để lấp bằng một âm mưu mới.
 
 ## Vai trò và liên tục
@@ -91,7 +92,7 @@ Nguồn thiết kế thường lệ là quyền tự phát triển tác giả đ
 1. Làm rõ ai Hòa Sinh được giao giải một phần cụ thể sau phản hồi Tông Sảnh, thay vì kéo dài qua thêm một người chuyển lời không có quyền.
 2. Khép đúng tranh công Đinh Bá Nghiêm, giữ trách nhiệm giao/điều kiện/nguồn yêu cầu còn mở; không để trả tiền đồng nghĩa xóa lời khai.
 3. Tạo hậu quả nghề có giới hạn cho phần Tề Duy Cẩn tự trình, không cần biến toàn dược phường thành tổ chức bí mật.
-4. Sau buổi phải giữ/bàn giao nguồn cần đối; cảnh mở mảnh nhận đầu và người trực còn chưa diễn ra, không ghi thành đã tìm người đặt.
+4. Chương 65 nhận giữ/bàn giao nguồn; Chương 66 tờ gốc và người cùng ca được đối, Phùng Quý Lương nhận người gửi/cấp tiền. Phần hàng thô/đường giao vẫn cần kiểm, không ghi mọi lời y trình thành đã chứng minh.
 5. Hai hòm thuốc bến đã về viện Chương 47–48, không phải hàng bà đem tới hôm nay; không gộp với hòm dài dưới núi. Không có y thuật hoặc tu vi mới vì bà xuất hiện.
 6. Một hồ sơ chính tại 01D-Lăng Vân Thành, đồng bộ CHAR-065 và các sổ; không tạo bản nhân vật thứ hai trong thư mục thế lực.
 
@@ -101,3 +102,16 @@ Nguồn thiết kế thường lệ là quyền tự phát triển tác giả đ
 - Thiết kế thường lệ: [[11_AUTONOMOUS_STORY_DESIGN]], [[MẪU HỒ SƠ NHÂN VẬT]].
 - Tiền cảnh: [[Chương 58]], [[Chương 63]], [[Dược Phường Hòa Sinh]].
 - Tra cứu: [[02-SỔ CÁI NHÂN VẬT]], [[00-DANH MỤC NHÂN VẬT]], [[03-SỔ THEO DÕI LẦN XUẤT HIỆN]], [[05-MA TRẬN TRI THỨC]].
+
+## Trạng thái mới theo bản thảo Chương 66
+
+- Sau khi về phường chiều mười lăm, cho giữ riêng lượt tiếp nhận cần đối, tìm người cùng ca và gọi người đứng tên yêu cầu tới sáng mười sáu. Đây là hành động mới bà báo trong Chương 66, không hồi tố bà đã biết mọi nguồn ở buổi hỏi Trần Dực.
+- Sáng mười sáu trực tiếp ở gian sát bàn giấy Hòa Sinh; người khác đã nhận phiếu tại ghế cửa bên, Tề Duy Cẩn đứng trong không cầm thẻ/nhận lượt mới. Việc tạm giao thẻ được thực hiện tại bàn, chưa là mất mọi nghề hoặc bắt giữ.
+- Cùng người giữ sổ mở đúng lượt có lệnh; đòi giữ quyền tiếp việc/trả công cho lượt khác. Cuốn sổ chung ở phường, chỉ tờ/phần liên quan được giao giữ và sao có đối; không lấy cớ cuộc đối để mở mọi sổ/kho.
+- Giới thiệu Phùng Quý Lương là người ký/gửi yêu cầu. Tờ gốc, người cùng ca và chữ ký y tự nhận hỗ trợ nguồn; bà không được nhận bản lời riêng Trần Dực hoặc quyền quyết câu trả lời.
+- Hỏi thẳng Tề Duy Cẩn vì sao không nêu tên người gửi đã biết; hắn nhận né tránh vì sợ bị ghi biết luôn việc mua. Bà không xóa sự né tránh hoặc gộp nó với biết ai can thiệp niêm.
+- Nhắc Phùng Quý Lương nghĩa vụ trong khế là phần y nhận; Hòa Sinh không nhận làm cho lời người bệnh giúp y tránh trả. Đồng thời nhận trách nhiệm bàn phường đã tiếp khoản công/để chỉ dẫn đi theo giao thuốc, không đẩy hết sang Tề Duy Cẩn.
+- Cho người thay bàn chặn phần đòi bản chép ở lượt đang dở, giữ bản cũ riêng và dùng bản mới đã bỏ điều kiện. Phùng Quý Lương tự ký thu lại yêu sách; lệnh không tiếp đổi thuốc lấy lời đã có Chương 58, không phải hôm nay mới ban.
+- Cuối phần Lâm Uyên/Tô Thanh Ly dự vẫn tại Hòa Sinh; chưa có bản án, bồi hoàn toàn vụ, kết luận hàng thô bị thay, nguyên nhân mẫu vón hoặc người nhấc sáp. Quyền của bà vẫn giới hạn công/chỉ dẫn/nguồn/bàn nhận trong vụ, không mở thành chủ toàn phường hoặc người bảo lãnh tiền riêng.
+
+Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]], [[Phùng Quý Lương]].

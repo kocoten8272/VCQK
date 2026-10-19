@@ -45,7 +45,7 @@ Mẫu dùng khi lập hồ sơ: [Mẫu Hồ Sơ Nhân Vật](M%E1%BA%AAU%20H%E1%
 | `01E-Vân Châu` | Liễu Gia, Kiếm Các, Thính Phong Lâu, Thương Hội, Tầm Chân Ti | Nhân vật mới của các thế lực cấp châu |
 | `01F-Thế Lực Bí Ẩn` | Vĩnh Sinh Môn, Di Kỷ Tộc và nhân vật chưa thể xếp công khai | Chuyển sang nhóm địa bàn/thế lực phù hợp khi thân phận được xác nhận rõ |
 
-Tính đến Chương 65, sổ cái có **65 hồ sơ cá nhân**, trong đó **24 hồ sơ mang trạng thái `da-xuat-hien`**. Các trạng thái `dang-phat-trien`, sống/chết và chỉ được nhắc đến được theo dõi riêng tại [[02-SỔ CÁI NHÂN VẬT]].
+Tính đến Chương 66, sổ cái có **66 hồ sơ cá nhân**, trong đó **25 hồ sơ mang trạng thái `da-xuat-hien`**. Các trạng thái `dang-phat-trien`, sống/chết và chỉ được nhắc đến được theo dõi riêng tại [[02-SỔ CÁI NHÂN VẬT]].
 
 ## Danh sách hồ sơ theo tuyến
 
@@ -80,6 +80,8 @@ Tính đến Chương 65, sổ cái có **65 hồ sơ cá nhân**, trong đó **
 - [Tần Hạo](01C-T%C3%B4%20Gia/T%E1%BA%A7n%20H%E1%BA%A1o.md) — `chua-xuat-hien`
 
 ### 01D-Lăng Vân Thành
+
+- [Phùng Quý Lương](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Ph%C3%B9ng%20Qu%C3%BD%20L%C6%B0%C6%A1ng.md) — `da-xuat-hien` — CHAR-066, hạng C; trực tiếp Chương 66, nhận gửi yêu cầu/cấp tiền mua ba hiệu và nghĩa vụ bảo lãnh hàng thô; lời hàng bị thay còn cần kiểm.
 
 - [Cố Hoài An](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/C%E1%BB%91%20Ho%C3%A0i%20An.md) — `da-xuat-hien` — CHAR-065, hạng C; quản sự Hòa Sinh được giao đối công/chỉ dẫn/nguồn yêu cầu và bàn nhận trong vụ, lần đầu trực tiếp Chương 65.
 
@@ -141,7 +143,7 @@ Tính đến Chương 65, sổ cái có **65 hồ sơ cá nhân**, trong đó **
 - [Người Áo Đen (chưa rõ danh tính)](01F-Th%E1%BA%BF%20L%E1%BB%B1c%20B%C3%AD%20%E1%BA%A8n/Ng%C6%B0%E1%BB%9Di%20%C3%81o%20%C4%90en%20%28ch%C6%B0a%20r%C3%B5%20danh%20t%C3%ADnh%29.md) — `da-xuat-hien`
 - [Hắc Nha](01F-Th%E1%BA%BF%20L%E1%BB%B1c%20B%C3%AD%20%E1%BA%A8n/H%E1%BA%AFc%20Nha.md) — `chua-xuat-hien`
 
-## Nhân vật đã xuất hiện trong truyện (đối chiếu đến hết Chương 65)
+## Nhân vật đã xuất hiện trong truyện (đối chiếu đến hết Chương 66)
 
 > Danh sách này chỉ ghi người có mặt trong cảnh, được gọi tên trong lời kể/hồi ức có căn cứ, hoặc có vai trò cá nhân rõ. Nhân vật đề xuất và người chỉ được nhắc qua lời khai được tách riêng. Hồ sơ vẫn có thể ghi tuổi, cảnh giới hoặc quá khứ là “chưa nêu” nếu bản thảo chưa xác nhận.
 
@@ -166,6 +168,8 @@ Tính đến Chương 65, sổ cái có **65 hồ sơ cá nhân**, trong đó **
 
 ### Lăng Vân Thành và Tế Sinh Viện
 
+- [Phùng Quý Lương](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Ph%C3%B9ng%20Qu%C3%BD%20L%C6%B0%C6%A1ng.md) — CHAR-066, hạng C; lần đầu trực tiếp Chương 66, ký nhận gửi yêu cầu/nguồn tiền và thu yêu sách ép lời; chưa chứng minh hàng thô bị thay hoặc liên hệ Hắc Nha/Tả tiên sinh.
+
 - [Cố Hoài An](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/C%E1%BB%91%20Ho%C3%A0i%20An.md) — CHAR-065, hạng C; trực tiếp Chương 65 trả công đúng phần, yêu cầu Tề Duy Cẩn giao thẻ trực tạm theo giấy; không là chủ sở hữu, người mua hoặc được nhận lời Trần Dực.
 
 - [Bùi Khánh Vân](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/B%C3%B9i%20Kh%C3%A1nh%20V%C3%A2n.md) — lần đầu trực tiếp Chương 61; giữ bảng công, bàn giao phiếu hẹn có nhận, đồng thời tìm nơi nhận thợ phụ. Chưa chứng minh trách nhiệm sập nhà.
@@ -187,7 +191,7 @@ Tính đến Chương 65, sổ cái có **65 hồ sơ cá nhân**, trong đó **
 
 - [Đinh Bá Nghiêm](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/%C4%90inh%20B%C3%A1%20Nghi%C3%AAm.md) — `da-xuat-hien` — tên Chương 56, trực tiếp Chương 57 nhận phần giao/chép; Chương 65 nhận đủ công chép/chuyển lời còn thiếu, không ký chốt cả chuyến; không có mặt ở hiện trường nhà trú.
 - [Thẩm Từ Nghi](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Th%E1%BA%A9m%20T%E1%BB%AB%20Nghi.md) — `da-xuat-hien` — gia chủ Thẩm Gia, trực tiếp Chương 57 trong giao dịch nguyên liệu tại viện; bao giữ hộ được trả tối ngày thứ mười qua người làm ở Chương 58.
-- [Tề Duy Cẩn](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/T%E1%BB%81%20Duy%20C%E1%BA%A9n.md) — `da-xuat-hien` — CHAR-061, hạng C; lần đầu trực tiếp Chương 58 tại bàn giấy cửa bên Hòa Sinh, nhận đọc lời/lập phiếu/đề nghị chia hai lượt giao. Chương 65 tự nhận chữ dược liệu do mình trình, giao thẻ trực cửa bên tạm; người đặt/người mua cuối vẫn chưa xác định.
+- [Tề Duy Cẩn](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/T%E1%BB%81%20Duy%20C%E1%BA%A9n.md) — `da-xuat-hien` — CHAR-061, hạng C; lần đầu trực tiếp Chương 58 tại bàn giấy cửa bên Hòa Sinh, nhận đọc lời/lập phiếu/đề nghị chia hai lượt giao. Chương 65 giao thẻ tạm; Chương 66 nhận đã giữ lại tên người gửi biết trước. Phùng Quý Lương được đối nguồn/cấp tiền, chưa chứng minh Tề Duy Cẩn biết việc mua từ trước hoặc ai can thiệp thuốc.
 - [Khương Tố Nương](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Kh%C6%B0%C6%A1ng%20T%E1%BB%91%20N%C6%B0%C6%A1ng.md) — `da-xuat-hien` — CHAR-062, hạng C; lần đầu trực tiếp Chương 58. Chương 61 được giữ chỗ ở chung với con, cần viện đối mỗi sáng tới lúc y sư cho chuyển; mẹ con vẫn tại viện, giới tính trẻ chưa nêu.
 - [Hồ Nhuận Chi](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/H%E1%BB%93%20Nhu%E1%BA%ADn%20Chi.md) — `da-xuat-hien` — CHAR-063, hạng C; có tên Chương 59, nối vai mắc chân cuối58, tự nhận giỏ áo/nghề và đã được viện nhận; chưa khỏi.
 
@@ -205,7 +209,7 @@ Tính đến Chương 65, sổ cái có **65 hồ sơ cá nhân**, trong đó **
 
 ## Theo dõi trạng thái hiện tại
 
-Trạng thái mỗi người nằm trong frontmatter của hồ sơ. Danh sách “đã xuất hiện” ở trên được cập nhật theo nguồn đến Chương 65; mốc chi tiết và kiểu xuất hiện xem [[03-SỔ THEO DÕI LẦN XUẤT HIỆN]]. Những nhân vật mới được đặt hồ sơ tạm có thể chưa có tuổi, cảnh giới hoặc tên thật; không điền suy đoán thành canon.
+Trạng thái mỗi người nằm trong frontmatter của hồ sơ. Danh sách “đã xuất hiện” ở trên được cập nhật theo nguồn đến Chương 66; mốc chi tiết và kiểu xuất hiện xem [[03-SỔ THEO DÕI LẦN XUẤT HIỆN]]. Những nhân vật mới được đặt hồ sơ tạm có thể chưa có tuổi, cảnh giới hoặc tên thật; không điền suy đoán thành canon.
 
 | Trạng thái | Ý nghĩa |
 | --- | --- |

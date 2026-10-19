@@ -190,3 +190,20 @@ Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]]. Thời đi
 Hai hòm thuốc ở bến đã tạm giữ tại viện từ47–48, không phát sinh lần giao/thu hồi mới vào chiều15. Hai câu Ch63 được chỉnh cho đúng trách nhiệm về điều kiện giữ trước đó; mốc cũ không đổi. Sinh tử thật Lâm Chinh UNKNOWN, thương tay/quản thúc/Dược Khế7–4 tháng giữ.
 
 Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]], [[Chương 47]], [[Chương 48]], [[Chương 63]].
+
+## Sáng đến trước trưa ngày thứ mười sáu — Chương 66
+
+| Thời điểm | Sự kiện đã viết | Giới hạn |
+| --- | --- | --- |
+| Đầu sáng16 tại viện | Thay băng/xem sức, y sư cho Lâm Uyên đi lượt ngắn có xe/hộ tống; chủ giỏ bọc dao mượn, mẹ con vẫn gian bệnh | Tay chưa lành/không cầm bút hoặc mang đồ; dao chiều chưa trả, chỗ hôm nay lúc này chờ tin |
+| Tới Hòa Sinh | Ghế nhận phiếu đã người khác; Cố Hoài An kể giữ nguồn/gọi người ký sau khi về chiều15 | Hoạt động chiều15 qua lời kể66, không cảnh mới hồi tố; Tề Duy Cẩn không cầm thẻ lại |
+| Đối nguồn tại bàn | Mở đúng lượt, tờ gốc có chữ ký Phùng Quý Lương, người ca nhận tiếp/chuyển; Tề Duy Cẩn nhận đã giữ tên chiều qua | Chưa xác nhận hòm núi là thuốc hoặc người ca biết mọi trao đổi |
+| Cùng buổi | Phùng Quý Lương nhận gửi hỏi/ứng công/cấp tiền thuốc ba hiệu; ký phần mình, trình khế/phiếu cân và lời về lô hàng | Việc hàng bị thay/đường gần HFS chưa được xác minh; người mua không đọc lời bệnh nhân |
+| Sau đối điều kiện | Tề Duy Cẩn nhận đề nghị chia hai lượt, Phùng Quý Lương nhận chấp thuận rồi ký rút yêu sách; bàn dừng phần còn dở | Cấm đổi lời đã có58, không lần thu hòm mới hoặc xử án/hoàn tiền |
+| Cuối lượt tại phường | Chấp sự nhận tờ gốc/phần liên quan; Tạ Nghiên Chi còn ở lại với Phùng Quý Lương để chuẩn bị trình tiếp | Chưa tới Tông Sảnh; Lâm Uyên/Tô Thanh Ly được xe đưa về trước |
+| Trước trưa16 tại viện | Nhóm về nghỉ/ăn; người xác nhận đã về báo chỗ mẹ con giữ hôm nay theo điều kiện cũ | Mẹ vẫn cần xem chân, Trần Dực chỉ qua lời báo đã thức rồi nghỉ, không lượt hỏi mới |
+| Kết chương trước hạn chiều | Lâm Uyên nhờ báo Hứa Tĩnh Xuyên khi rảnh còn câu về mùi thuốc; chủ giỏ chuẩn bị phần trả dao | Chưa bài học mới/tên thuốc hoặc thực trả dao; chưa sang chiều16 |
+
+Hai hòm bến vẫn ở viện từ47–48. Không có thêm thuốc/chữa lành/tuvi, không chôn hoặc trao di vật Mạnh Thanh Tễ; Lâm Chinh UNKNOWN, HFS/Tô Lạc/miếng đồng/chìa/trang chưa có kết quả mới. Dao cũ đã về64 và dao mượn hẹn trả chiều16 là hai vật riêng.
+
+Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]], [[Chương 47]], [[Chương 48]], [[Chương 58]], [[Chương 65]].

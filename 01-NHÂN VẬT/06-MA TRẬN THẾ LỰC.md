@@ -177,3 +177,15 @@ Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].
 - **Giới hạn tuyến khác:** HFS/nhà trú/chìa/trang/Hắc Nha giữ riêng; tay thương, Dược Khế7–4tháng, quản thúc/kiếm bảo chứng và hộ tống không thay đổi.
 
 Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]], [[Chương 47]], [[Chương 48]].
+
+## Phạm vi nghề nghiệp và quyền hạn Chương 66
+
+- **Tông Sảnh/Tạ Nghiên Chi:** Lệnh đối nguồn cho mở lượt liên quan; đã nhận tờ gốc/phần giấy tự giao, giữ bản lời bệnh nhân riêng. Yêu cầu Phùng Quý Lương mang người/giấy đúng chặng tới trình tiếp; cuối còn Hòa Sinh, chưa chuyển thành xử án/tịch thu mọi sổ hoặc miễn khoản bảo lãnh.
+- **Hòa Sinh/Cố Hoài An:** Nhận bàn phường đã tiếp công và để chỉ dẫn đi cùng giao thuốc, bảo toàn nguồn/gọi người gửi/cho đối; sao phần cần dùng để công việc khác tiếp tục. Quyền xử lý vẫn trong vụ này, không lộ chủ phường hoặc xóa trách nhiệm vì Tề Duy Cẩn tự thêm.
+- **Tề Duy Cẩn CHAR-061:** Ghế/thẻ đã giao từ65, người thay thực sự nhận phiếu. Nay nhận đã giấu tên người gửi mình biết và đề nghị chia hai lượt; chưa bị bắt hoặc có quyền trở lại bàn.
+- **Phùng Quý Lương CHAR-066:** Người trực tiếp gửi yêu cầu/ứng công và cấp tiền đặt thuốc qua ba hiệu đã nhận diện bằng tờ gốc, giấy giao nhận/lời ký có phạm vi. Không tạo thế lực mới từ một người mua; nghề đứng bảo lãnh và động cơ tìm chặng hàng không làm y là chủ Hòa Sinh hoặc đại diện mọi mạng.
+- **Thu lại điều kiện:** Lệnh cấm đổi lời có trước ở58. Phùng Quý Lương nay ký rút yêu sách đang dở, người thay bàn dừng phần đòi lời/giữ bản cũ; không có một lệnh cấm đầu tiên mới hoặc thu hòm mới.
+- **Phạm vi nghề và sinh hoạt khác:** Y sư cho chuyến ngắn có xe/hộ tống, Lâm Uyên/Tô Thanh Ly về viện nghỉ trước trưa. Chỗ mẹ con được báo giữ ngày16 theo điều kiện cũ, không viện chuyển người khỏi giường; dao chiều16 chưa trả.
+- **Tầng thế lực:** Hòa Sinh/FAC-019 được làm rõ trách nhiệm bàn và người đặt, chưa chứng cùng Hắc Nha/Tả tiên sinh/nhóm áo đen. Nhà trú/HFS/chìa/trang giữ nguồn riêng; tuvi/Dược Khế7–4 tháng/quản thúc/kiếm bảo chứng không đổi.
+
+Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]], [[Chương 58]], [[Chương 65]].

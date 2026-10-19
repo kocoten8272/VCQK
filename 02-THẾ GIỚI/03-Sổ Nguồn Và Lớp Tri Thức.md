@@ -231,3 +231,20 @@ Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].
 Tổng lore79 giữ; CHAR-065 ở mục nhân vật, FAC-019 Hòa Sinh được phát triển, không tạo lore/vật phẩm từ thẻ trực hoặc hòm thường. REF-007/LOG-012 là nguồn biên tập, không tri thức thế giới hoặc chứng cứ mà nhân vật được tự biết.
 
 Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]], [[Chương 40]], [[Chương 47]], [[Chương 48]], [[Chương 58]], [[Chương 63]].
+
+## Đối chiếu có phạm vi sau Chương 66 — 2026-10-19
+
+| Mệnh đề | Nguồn/lớp | Giới hạn |
+| --- | --- | --- |
+| Phần tiếp nhận gốc đã đối | DRAFT TEXT66: mở đúng lượt, nguyên mép có chữ ký; người cùng ca nhận phần tiếp/kẹp công/chuyển bàn | Người ca không chứng mọi trao đổi; tờ không xác nhận hòm núi là dược liệu |
+| Phùng Quý Lương CHAR-066 | DRAFT TEXT66: nam ngoài40, tự nhận chữ ký gửi hỏi/ứng công và cấp tiền mua ba hiệu; phần giao nhận đối có phạm vi/lời ký riêng | Tuổi46 là thiết kế, chưa nghề/tầng thế lực/tuvi từ vẻ ngoài; không tự đứng mọi quầy hoặc chứng hết người vắng mặt |
+| Tề Duy Cẩn giữ tên chiều15 | CHARACTER SELF-REPORT66: nhận đã biết tên người gửi nhưng không nêu vì sợ bị ghi biết cả việc mua | Không biến điều biết tên thành biết tất cả; không sửa65 thành hắn đã khai đủ tên |
+| Lô dược liệu thô bị thay/chuyển gần núi | CHARACTER CLAIM66 của Phùng Quý Lương, xuất trình khế/phiếu cân về nghĩa vụ/lượt hàng | Chưa xác nhận có thay hàng, đường thật, hòm của toán Trần Dực hoặc cùng hai hòm bến |
+| Thu lại yêu sách | DRAFT TEXT66: Phùng Quý Lương nhận chấp thuận điều kiện, ký rút; bàn dừng phần đang dở/giữ bản cũ | Lệnh cấm đã có58, không hòm mới trả/giao; người mua chưa được hoàn tiền/miễn bảo lãnh |
+| Giữ nguồn và việc trình Tông | DRAFT TEXT66: chấp sự nhận tờ gốc/phần liên quan, có sao đối cho phường; Phùng Quý Lương nhận theo trình tiếp | Cuối còn Hòa Sinh, chưa tới Tông/đủ người đúng chặng hoặc phán quyết |
+| Chỗ mẹ con/dao mượn ngày16 | CHARACTER REPORT66 của người trở về xác nhận chỗ; DRAFT TEXT66 chủ giỏ bọc dao hẹn chiều | Chỗ giữ theo điều kiện cũ, mẹ còn viện; dao chưa thực trả, dao cũ đã về64 khác dao mượn |
+| Câu hỏi mùi thuốc | DRAFT TEXT66: Lâm Uyên chưa gọi được tên, nhờ báo Hứa Tĩnh Xuyên lúc rảnh | Không bài học đã diễn ra hoặc y thuật/thuốc mới |
+
+Tổng lore79 giữ; CHAR-066 là hồ sơ nhân vật, không tạo lore/vật phẩm mới từ khế/phiếu cân thường. Nguồn biên tập bên ngoài không là tri thức tự biết của người trong truyện. Hai hòm bến ở viện47–48; các mạng Hắc Nha/Tả tiên sinh/chìa/trang chưa được nối bởi lời về hàng thô.
+
+Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]], [[Chương 47]], [[Chương 48]], [[Chương 58]], [[Chương 65]].

@@ -22,6 +22,7 @@ tags:
 | REF-005 | [[REF-005-Nguồn Về Phản Ứng Và Lựa Chọn Sau Biến Cố]] | Nguồn tham khảo | verified | Phản ứng sau biến cố chuyển thành lựa chọn cụ thể; phạm vi bài K.M. Weiland |
 | REF-006 | [[REF-006-Nguồn Về Đan Tuyến Và Hệ Quả Lựa Chọn]] | Nguồn tham khảo | verified | Writing Excuses16.41 đọc11.000ký tự đầu18/10/2026, đổi hệ quả/đan tuyến |
 | REF-007 | [[REF-007-Nguồn Về Manh Mối Và Lời Chứng]] | Nguồn tham khảo | verified | Writing Excuses 6.26; 16.000 ký tự đầu đọc 19/10/2026, tách chi tiết/ý nghĩa/nguồn lời |
+| REF-008 | [[REF-008-Nguồn Về Câu Hỏi Và Bước Ngoặt Cảnh]] | Nguồn tham khảo | verified | Writing Excuses 10.25; 18.000 ký tự đầu đọc 19/10/2026, câu hỏi cảnh và thay đổi có hệ quả |
 | PAT-001 | [[PAT-001-Giới Hạn Làm Thay Đổi Lựa Chọn]] | Mẫu kỹ thuật | ready | Cảnh có giải pháp quá dễ, cái giá chưa ảnh hưởng hoặc chuẩn bị thêm hệ thống |
 | SEED-001 | [[SEED-001-Ngày Công Bị Bỏ Trống]] | Chất liệu VCQK | seed | Hệ quả công việc của việc trình lời; phẩm giá người làm nghề |
 | SEED-002 | [[SEED-002-Một Thanh Chống Hai Lời Hứa]] | Chất liệu VCQK | seed | Chuẩn bị vật tư Hắc Phong Sơn; năng lực hữu hạn và trách nhiệm với người sống |
@@ -37,6 +38,7 @@ tags:
 | LOG-010 | [[LOG-010-Áp Dụng Kỹ Thuật Trong Chương 63]] | Phản hồi/áp dụng | recorded | Trả hạn14, dao mượn và tuyến thuốc, phân việc cho15 |
 | LOG-011 | [[LOG-011-Áp Dụng Kỹ Thuật Trong Chương 64]] | Phản hồi/áp dụng | recorded | Tưởng niệm đã diễn ra, học quan sát đầu và khung/dao hỏng trả về |
 | LOG-012 | [[LOG-012-Áp Dụng Kỹ Thuật Trong Chương 65]] | Phản hồi/áp dụng | recorded | Lời Trần Dực, nguồn cách gọi dược liệu, trả công, giao thẻ và sửa tối thiểu Ch63 |
+| LOG-013 | [[LOG-013-Áp Dụng Kỹ Thuật Trong Chương 66]] | Phản hồi/áp dụng | recorded | Đối tờ gốc, người đặt/cấp tiền, rút yêu sách và giữ ranh giới lời thay hàng |
 
 Các seed chưa được dùng trong chương. Không lấy chúng làm căn cứ xác nhận tiền công, hợp đồng hoặc tiến độ chống vách.
 
@@ -112,3 +114,7 @@ Tra LOG-011 cho lần Exa mở lại REF-004 ngày19/10/2026/phạm vi15.000ký 
 ## Áp dụng ở Chương 65
 
 Tra [[REF-007-Nguồn Về Manh Mối Và Lời Chứng]]/[[LOG-012-Áp Dụng Kỹ Thuật Trong Chương 65]] cho nguồn mới, phạm vi và sửa hai đoạn Chương 63 theo việc thu hòm ở Chương 47–48. PAT-001 dùng với sức/quyền và giới hạn lời chứng; SEED-001/002 vẫn chưa dùng. Cố Hoài An CHAR-065 có node chính ở 01D, trạng thái sau 65 ở 04E. Không ghép lời người tiếp yêu cầu với lời người đặt đã được kiểm hoặc lưu bản sao hồ sơ ở Xưởng.
+
+## Áp dụng ở Chương 66
+
+Tra [[REF-008-Nguồn Về Câu Hỏi Và Bước Ngoặt Cảnh]]/[[LOG-013-Áp Dụng Kỹ Thuật Trong Chương 66]] cho nguồn mới, phạm vi và các đoạn sửa trực tiếp. PAT-001 dùng tiếp; SEED-001/002 vẫn chưa dùng. Phùng Quý Lương có hồ sơ chính trong mục nhân vật, trạng thái tiếp nối ở 04E sau 66. Tờ gốc/người cấp tiền/yêu sách được đối tới phần đã viết; lời thay hàng vẫn tách khỏi điều được chứng minh. Xưởng không nhân bản nhân vật/lore hoặc đổi ngày truy cập các REF cũ.

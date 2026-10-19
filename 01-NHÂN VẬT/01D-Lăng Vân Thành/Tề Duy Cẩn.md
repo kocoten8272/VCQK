@@ -36,9 +36,9 @@ tags:
 | Nghề/việc | Nhận việc giao tại bàn cửa bên Hòa Sinh; lập phiếu công và đọc chỉ dẫn |
 | Quyền hạn đã thấy | Đối phần công/giấy tại bàn; không xác nhận có quyền quản toàn dược phường |
 | Cảnh giới/chiến lực | UNKNOWN; chức việc không chứng minh tu vi |
-| Nơi cuối trực tiếp | Gian ngoài tại Tế Sinh Viện, chiều ngày thứ mười lăm; sau buổi phải về bàn giao lượt dở |
+| Nơi cuối trực tiếp | Hòa Sinh, sáng ngày thứ mười sáu; người khác đã nhận phiếu tại bàn cửa bên, thẻ trực chưa trả lại |
 | Gia đình/huyết thống | UNKNOWN; không ghép vào gia tộc vì cùng họ |
-| Tình trạng | Còn sống; Chương 65 giao thẻ trực cửa bên tạm thời theo quyền Cố Hoài An, chưa mất mọi việc/bị bắt hoặc có phán quyết |
+| Tình trạng | Còn sống; việc tạm giao thẻ Chương 65 còn hiệu lực ở bàn Chương 66, nhận đã giấu tên người gửi mình biết; chưa mất mọi việc/bị bắt hoặc có phán quyết |
 
 ## Nhận diện và cách nói
 
@@ -62,13 +62,14 @@ Giọng đã thể hiện thiên về hoàn tất giao nhận: đề nghị ghi 
 - **[[Tạ Nghiên Chi]] và chấp sự:** Nhận lời/phần câu hỏi, giữ bản gốc có biên nhận. Hồ sơ theo Tạ Nghiên Chi trở lại Tông Sảnh.
 - **[[Lâm Uyên]]:** Hỏi hậu quả chờ thuốc; trực tiếp thấy băng tay của Lâm Uyên, không có tri thức về công pháp hoặc thân thế.
 - **[[Tô Thanh Ly]]:** Hỏi lần nhìn viết, từ chối giao lời Trần Dực thay thuốc và yêu cầu trình câu hỏi qua Tông Sảnh.
+- **[[Phùng Quý Lương]]:** Người gửi yêu cầu Tề Duy Cẩn đã biết tên mà giữ lại Chương 65; Chương 66 y nhận cấp tiền/thuận điều kiện hai lượt. Không hồi tố Tề Duy Cẩn đã biết nguồn mua từ trước hoặc cùng biết ai mở hòm.
 - **[[Trần Dực]]:** Lời khai là đối tượng được yêu cầu; chưa có cảnh Tề Duy Cẩn gặp hoặc được đọc lời của Trần Dực.
 
 ## Vai trò và lần sau cần tra
 
 Trả câu hỏi ai đọc chỉ dẫn ở Chương 57 bằng người có tên/việc và lời tự nhận trong Chương 58. Dùng lựa chọn giao nhận để hiện xung đột, không kéo dài bằng một người mang giấy vô danh nữa.
 
-Còn cần kiểm nguồn người đặt, nguồn tiền và nguyên trạng hàng; phần công chép/chuyển lời riêng đã được trả đủ ở Chương 65, trách nhiệm chỉ dẫn giao chưa khép. Chấp sự yêu cầu không tiếp đặt điều kiện ấy lên thuốc vụ đang kiểm, chưa phải lệnh thay mọi quy chế kinh doanh Hòa Sinh.
+Chương 66 nguồn người gửi/nguồn cấp tiền được Phùng Quý Lương nhận và đối, còn chặng hàng thực/nguyên trạng hàng và trách nhiệm chỉ dẫn giao chưa khép. Phần công chép/chuyển lời riêng đã được trả đủ ở Chương 65. Chấp sự yêu cầu không tiếp đặt điều kiện ấy lên thuốc vụ đang kiểm, chưa phải lệnh thay mọi quy chế kinh doanh Hòa Sinh.
 
 [[Chương 57]] · [[Chương 58]] · [[Trạng Thái Truyện Sau Chương 58]] · [[Dược Phường Hòa Sinh]] · [[Đinh Bá Nghiêm]] · [[Nhân Vật Chưa Rõ Tên — Sổ Theo Dõi]]
 
@@ -91,3 +92,15 @@ Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
 - Lời Trần Dực giữ riêng bên Tông Sảnh. Hai hòm thuốc ở bến đã về viện từ Chương 47–48; hôm nay không có hòm mới được đem tới, không đánh đồng chúng với hòm dài dưới núi.
 
 Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]].
+
+## Trạng thái mới theo bản thảo Chương 66
+
+- Sáng ngày thứ mười sáu trực tiếp tại Hòa Sinh, đứng phía trong bàn đã có người khác nhận phiếu; không cầm thẻ trực hoặc tự tiếp lượt mới. Chưa có bắt giữ, sa thải mọi việc hoặc phán quyết.
+- Tờ yêu cầu gốc mang chữ ký Phùng Quý Lương được mở theo lệnh, người cùng ca nhận việc tiếp/giao đúng bàn; nội dung không xác nhận thứ trong hòm dài là dược liệu. Nguồn chữ dược liệu do hắn trình được đối với một bản gốc độc lập, không chỉ dựa lời tự nhận Chương 65.
+- Tự nhận đã biết tên người gửi yêu cầu nhưng không nêu ở buổi trước; lý do hắn kể là sợ bị ghi luôn đã biết việc mua thuốc. Tạ Nghiên Chi ghi riêng sự giữ lại điều biết, không chấp nhận nó như cách nói đúng giới hạn tri thức.
+- **Ranh thời điểm biết:** Biết Phùng Quý Lương gửi yêu cầu trước buổi chiều mười lăm không đồng nghĩa trước đó đã biết y là người cấp tiền mua ba hiệu. Chương 66 Phùng Quý Lương mới trực tiếp nhận/ký phần cấp tiền và đặt mua; không hồi tố Tề Duy Cẩn đã nắm mọi khâu.
+- Đối phần chia hai lượt, tiếp nhận chính mình đề nghị; Phùng Quý Lương nhận đã thuận dùng việc giao thuốc buộc có lời dù tờ đầu chưa ghi cách ấy. Không đẩy toàn điều kiện sang người vắng mặt, không vì cùng nhận điều kiện mà thành cùng biết ai nhấc sáp.
+- Hòa Sinh dừng các chỉ dẫn đòi bản chép còn dở theo người cấp tiền tự thu yêu sách; không ban lại lệnh đã có Chương 58, không có hòm mới phải lấy. Công chép/chuyển lời Đinh Bá Nghiêm đã trả Chương 65 giữ là khoản hoàn tất riêng.
+- Nơi cuối trực tiếp Hòa Sinh, chưa được nhận lại thẻ, đọc lời Trần Dực hoặc xóa trách nhiệm chỉ dẫn. Lô hàng thô Phùng Quý Lương kể, nguyên nhân mẫu thuốc vón và quan hệ các mạng bí mật vẫn chưa xác minh.
+
+Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]], [[Phùng Quý Lương]].

@@ -38,7 +38,7 @@ tags:
 | Con | Sáu tuổi theo lời mẹ, áo nâu/vạt vá đỏ; tên và giới tính UNKNOWN |
 | Cha mẹ/vợ chồng/thân tộc | UNKNOWN; không tự viết góa phụ hoặc mồ côi |
 | Cảnh giới/chiến lực | UNKNOWN; chưa có nguồn tu hành |
-| Nơi cuối trực tiếp | Tế Sinh Viện cùng con, sáng ngày thứ mười bốn trong bản thảo Chương 61 |
+| Nơi cuối trực tiếp | Tế Sinh Viện cùng con, sáng ngày thứ mười sáu trong bản thảo Chương 66 |
 | Sinh tử/tình trạng | Còn sống, chân vẫn đau tại viện; chưa có xác nhận hồi phục hoặc xuất viện |
 
 ## Dấu nhận và biểu hiện đã thấy
@@ -108,3 +108,12 @@ Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
 - Không có kết quả trị chân/chẩn đoán mới, thêm gia đình hoặc nguồn sinh kế hồi phục. Hồ Nhuận Chi tiếp tục là hồ sơ khác, không cùng con hoặc cùng thân tộc.
 
 Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].
+
+## Trạng thái mới theo bản thảo Chương 66
+
+- Sáng ngày thứ mười sáu thức tại giường Tế Sinh Viện; con ngồi cạnh gấp mảnh vải theo bà chỉ. Đây là phần sinh hoạt trực tiếp nhỏ, chưa phải nhận việc vá áo trở lại hoặc đủ sức tự chuyển chỗ.
+- Khi Lâm Uyên/Tô Thanh Ly về gần giờ cơm, người được nhờ xác nhận đã trở lại báo bên nhận tiếp giữ phần hôm nay cho cả hai theo điều kiện cũ. Tin ngày mười sáu khép riêng lượt xác nhận hôm nay, không miễn nghĩa vụ báo mỗi sáng trong các ngày sau.
+- Bà còn cần viện xem chân/đau, mẹ con chưa chuyển tới nơi giữ chỗ hoặc xuất viện. Trẻ vẫn sáu tuổi, tên/giới tính UNKNOWN; không thêm người nhà hoặc gán quan hệ thân tộc với Hồ Nhuận Chi.
+- Không dự buổi đối Hòa Sinh, không tự biết Phùng Quý Lương/nguồn tiền, lời Trần Dực hoặc kết quả điều tra. Việc có chỗ hôm nay không làm thương tích/sinh kế đã được giải quyết.
+
+Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]].

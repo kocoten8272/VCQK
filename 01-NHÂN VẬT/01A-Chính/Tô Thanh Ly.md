@@ -182,3 +182,15 @@ Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].
 - Tay phải còn thương, tránh đặt lên bàn, dùng tay lành/nhờ người khỏe. Không có hồi phục mới; Dược Khế bốn tháng, kiếm bảo chứng và quản thúc/hộ tống giữ nguyên.
 
 Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]].
+
+## Trạng thái mới theo bản thảo Chương 66
+
+- Sáng ngày thứ mười sáu đi một lượt xe có hộ tống tới Hòa Sinh cùng Lâm Uyên, Tạ Nghiên Chi/chấp sự theo lệnh đối nguồn. Giữ giấy bằng tay trái, nhờ xe dừng sát bậc và người khác giúp; tay phải còn thương, không khiêng đồ hoặc có hồi phục/tu vi mới.
+- Dự phần mở tờ yêu cầu gốc/người cùng ca và lời Phùng Quý Lương. Nghe Tề Duy Cẩn nhận đã biết tên người gửi nhưng giữ lại ở buổi trước; việc biết người gửi không tự chứng minh đã biết người trả tiền mua ba hiệu lúc ấy.
+- Hỏi khế/giấy có tên Trần Dực hoặc tên thật của toán hắn dẫn không; Phùng Quý Lương nhận không có, chưa tận mắt xem hòm. Không xem cùng hướng bắc là chứng minh cùng lô hàng; lời hàng bị thay vẫn chờ người/giấy đúng chặng.
+- Nhờ người chỉnh chỗ tựa cho Lâm Uyên khi tay đau. Giữ câu hỏi đúng phần có thể trả lời, không dùng lời riêng của Trần Dực để đỡ nghĩa vụ bảo lãnh thay Phùng Quý Lương hoặc tự cấp bản lời cho người đặt.
+- Chứng kiến điều kiện ép lời được chính người cấp tiền nhận/thu lại và phần giao việc còn dở được dừng. Lệnh cấm điều kiện vụ này đã có Chương 58, hai hòm bến ở viện từ Chương 47–48; không có hòm/thuốc mới phải thu về.
+- Gần giờ cơm trở về viện với Lâm Uyên/người hộ tống, nhờ phần ăn mang tới hiên, không kéo Trần Dực dậy kể kết quả. Tạ Nghiên Chi còn ở phường với người vừa nhận nghĩa vụ, chưa về Tông Sảnh xong.
+- Dược Khế bốn tháng, kiếm làm bảo chứng và quản thúc/hộ tống giữ nguyên. Không có kết quả mới chìa/trang mất, nguyên nhân nhà sập, Hắc Nha/Tả tiên sinh hoặc sinh tử thật của Lâm Chinh.
+
+Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]].

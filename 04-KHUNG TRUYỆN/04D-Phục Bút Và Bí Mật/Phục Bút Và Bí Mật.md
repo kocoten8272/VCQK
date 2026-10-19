@@ -251,3 +251,20 @@ Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].
 Không dùng lời tự nhận mới của Tề Duy Cẩn làm chứng cứ nối Hắc Nha/Người Áo Đen/Tả tiên sinh, không thêm bí ẩn cấp thế giới. Cố Hoài An mở một quyền xử lý nghề có giới hạn; chưa là đầu mối cao tầng hoặc mọi người tại Hòa Sinh cùng biết toàn vụ.
 
 Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]], [[Chương 47]], [[Chương 48]].
+
+## Tiến triển theo bản thảo Chương 66
+
+| Hẹn/đầu mối | Trả trong66 | Còn giữ |
+| --- | --- | --- |
+| Mảnh nhận đầu/người cùng ca | Đối tờ gốc nguyên mép có tên Phùng Quý Lương; người ca nhận phần tiếp/chuyển mình thấy | Không chứng toàn lời miệng; yêu cầu gốc không nhận hòm chứa thuốc |
+| Người đặt/nguồn tiền mua | Phùng Quý Lương trực tiếp nhận gửi hỏi/ứng công/cấp tiền ba hiệu, có lời ký và phần giao nhận đối | Không mọi người chạy việc/đóng gói đã xác minh; chưa ai nhấc sáp/lý do mẫu vón |
+| Điều Tề Duy Cẩn chưa nói | Nhận đã biết tên người gửi nhưng cố không nêu hết chiều15; nhận đề nghị chia hai lượt | Không biết hết nguồn hàng/người nhấc sáp, chưa bắt/hoàn chức |
+| Động cơ cần lời người dẫn đường | Người đặt nhận nghĩa vụ bảo lãnh, kể lô hàng được báo khác phần mua/đường gần HFS | Chỉ lời y cùng khế/phiếu cân về nghĩa vụ, chưa chứng thay hàng hoặc hòm của toán Trần Dực |
+| Đổi thuốc lấy lời | Phùng Quý Lương ký thu lại yêu sách, bàn dừng phần đòi lời đang dở và giữ bản cũ | Cấm từ58; không cấp lời bệnh nhân/thu hòm lần nữa hoặc xóa trách nhiệm cũ |
+| Bước đối tiếp | Tạ Nghiên Chi giữ nguồn, Phùng Quý Lương nhận theo tới Tông Sảnh sau buổi | Cuối còn Hòa Sinh, chưa tới/trình đủ người/hoàn khoản hàng hoặc xử án |
+| Mẹ con/nghề giỏ | Chỗ ngày16 được báo xác nhận; chủ giỏ bọc dao riêng để trả đúng hẹn chiều | Mẹ còn viện, dao chưa trả, dao cũ cần sửa; kim/nhà trú vẫn mở |
+| Học dược | Lâm Uyên có câu hỏi mùi thuốc, nhờ báo lúc Hứa Tĩnh Xuyên rảnh | Chưa bài mới/tên thuốc/năng lực chữa hoặc truyền thừa |
+
+Đầu mối mua thuốc có danh tính và động cơ có giới hạn, không mặc định cùng nhóm áo đen/Tả tiên sinh/Hắc Nha. Mệnh đề hàng bị thay/đường núi chưa là sự thật khách quan; những bí ẩn lớn giữ nguyên, không phát sinh bí ẩn cấp thế giới từ khoản khế.
+
+Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]], [[Chương 58]], [[Chương 65]].

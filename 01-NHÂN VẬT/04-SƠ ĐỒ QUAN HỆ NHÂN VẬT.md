@@ -228,3 +228,19 @@ Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].
 | Tô Thanh Ly → Lâm Uyên | Nhắc Trần Dực đã giữ được lời mình, hỏi sức tay và nhờ giúp đổi chỗ | Hỗ trợ cụ thể, không thay câu hỏi chưa giải bằng lời bảo đã biết hết |
 
 Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]].
+
+## Quan hệ theo bản thảo Chương 66
+
+| Người | Liên hệ/chuyển biến | Giới hạn |
+| --- | --- | --- |
+| Cố Hoài An → Phùng Quý Lương | Sau khi về phường chiều15 cho gọi người ký tới sáng16; đối trách nhiệm phần bàn đã tiếp việc | Đây là lời bà kể được thể hiện66, không cảnh trực tiếp chiều15 hoặc xác nhận bà biết toàn việc mua từ trước |
+| Tạ Nghiên Chi/chấp sự → Hòa Sinh | Đối đúng lượt theo lệnh, giữ tờ gốc/phần liên quan và để bản sao có đối cho công việc còn lại | Không lấy mọi sổ/ngừng toàn phường hoặc giao bản lời bệnh nhân |
+| Tạ Nghiên Chi/Cố Hoài An → Tề Duy Cẩn | Hỏi tên người gửi đã biết; hắn nhận chiều15 không nói hết vì sợ bị nhận biết cả việc mua | Lời né tránh được ghi riêng, không thành căn cứ hắn biết nguồn hòm núi/ai nhấc sáp |
+| Phùng Quý Lương → việc mua thuốc/đổi lời | Nhận cấp tiền ba lượt và chấp thuận cách chia giao để buộc có lời; tự ký thu lại yêu sách | Nhận phần mình không có nghĩa trực tiếp đứng ba quầy hoặc biết hết hành động người chạy việc |
+| Lâm Uyên/Tô Thanh Ly → Phùng Quý Lương | Bác yêu cầu đổi chỗ không biết trong hòm thành xác nhận không có thuốc; yêu cầu đối đúng giấy/người | Không ép Trần Dực hỏi lại, không đọc bản riêng để tranh thắng hoặc hứa giúp Phùng Quý Lương khỏi nghĩa vụ |
+| Cố Hoài An → bàn phường/Tề Duy Cẩn | Nhận trách nhiệm việc đã tiếp công/chỉ dẫn, giao người thay bàn dừng phần đòi lời còn dở; giữ bản cũ | Không lấy việc Tề Duy Cẩn tự thêm làm phường hết trách nhiệm, không kết tội chung cả phường |
+| Lâm Uyên → Hứa Tĩnh Xuyên | Nhờ người trực báo còn câu hỏi về mùi thuốc khi giám dược rảnh | Chưa có buổi học mới hoặc triệu người bỏ việc; không quan hệ truyền thừa mới |
+
+Chỗ mẹ con Khương Tố Nương được báo đã giữ cho ngày16 theo điều kiện cũ; người mẹ vẫn là bệnh nhân. Chủ giỏ vẫn giữ hẹn dao chiều16, chưa có hành động trả tại Bùi Gia.
+
+Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]].

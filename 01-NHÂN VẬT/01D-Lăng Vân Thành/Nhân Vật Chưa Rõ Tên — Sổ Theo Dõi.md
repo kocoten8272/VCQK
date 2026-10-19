@@ -23,7 +23,7 @@ tags:
 | Người trực viện / y sư phụ trách | Chương 51–52 | Thay đèn, ghi giờ thử, theo dõi người bệnh và trẻ nhỏ. | Chức trách đổi theo ca; chưa rõ có trùng với y sư trẻ. |
 | Người giao thuốc / chạy việc | Chương 46–52 | Mang thuốc và chứng từ qua hiệu, bến, dược phường; một số người chạy việc được nhắc theo số lượng. | Không biết có biết khách mua hay chủ ý của mạng lưới. |
 | Chủ hiệu thuốc và người giữ chìa khóa | Chương 49–50 | Có quyền quản lý sổ và thời điểm mở kho; Tạ Hạnh phải giải trình với chủ hiệu. | Chưa xác định là cùng một người ở ba hiệu; chưa nêu tên. |
-| Người mua thuốc ẩn danh | Chương 46–50 | Mua qua ba hiệu, dùng người chạy việc và nhận các gói trong hòm riêng. | Là vai trò của một hay nhiều người; chưa xác nhận là Tả tiên sinh hoặc nhóm áo đen. |
+| Người cấp tiền đặt mua ba hiệu | Chương 46–50; đối trực tiếp Chương 66 | Phùng Quý Lương nhận cấp tiền/nhờ mua, có chữ ký và giấy đối phần mình; dùng hồ sơ CHAR-066 [[Phùng Quý Lương]]. | Người chạy việc/chặng đóng gói/giao đổi vẫn tách riêng; chưa nhận y đã đứng ở ba quầy hoặc liên hệ Tả tiên sinh/nhóm áo đen. |
 
 ## Tô Gia và Vọng Sơn
 
@@ -266,3 +266,23 @@ Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].
 Cố Hoài An dùng một hồ sơ mới CHAR-065; các vai chưa tên còn tách riêng. Đinh Bá Nghiêm có khoản công riêng được trả, Tề Duy Cẩn tạm giao thẻ, không vì thế đổi nguồn lời người mua thành sự thật đã chứng minh. Tô Tín chỉ nhờ chuyển ghế sang gian bên, không mặc định ngồi nghe toàn buổi.
 
 Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]].
+
+## Vai trò được đối và phân biệt ở Chương 66
+
+| Vai | Điều mới theo cảnh/nguồn | Giới hạn |
+| --- | --- | --- |
+| Người gửi yêu cầu/cấp tiền mua ba hiệu | Phùng Quý Lương, CHAR-066, trực tiếp nhận chữ ký tờ yêu cầu gốc, khoản ứng công, cấp tiền và nhờ mua Xích Tủy Tán qua ba hiệu; ký phần mình làm | Dẫn về hồ sơ chính [[Phùng Quý Lương]], không lập thêm người mua vô danh cho đúng vai đã nhận. Không hồi tố y trực tiếp đứng ba quầy; người chạy việc/chứng từ vắng mặt còn đối. |
+| Người cùng ca nhận yêu cầu tại Hòa Sinh | Nhận đã tiếp tờ gửi/khoản ứng công, kẹp đúng lượt rồi giao đúng bàn; được hỏi trước khi Tề Duy Cẩn trình thêm | Chỉ nhận phần trực tiếp thấy/nghe, không xác nhận mọi trao đổi trước/sau hoặc tất cả chỉ dẫn của Tề Duy Cẩn. Chưa tên/tuổi/tu vi; khác Cố Hoài An và người giữ sổ nếu chưa có câu xác nhận trùng. |
+| Người giữ sổ phường | Mang cuốn bọc vải, tìm đúng trang theo lệnh, xin giữ phần cần trả công sáng, đối bản sao rồi nhận lại cuốn | Có nhiệm vụ cụ thể, không suy chủ sở hữu/đồng phạm; không gộp người cân hoặc người cùng ca. |
+| Người nhận bàn cửa bên kế tiếp | Trực tiếp nhận phiếu/hỏi nơi giao tại ghế cũ của Tề Duy Cẩn; nhận các lượt phải bỏ yêu sách, giữ bản cũ riêng | Việc đổi người đã có cảnh thực hiện, chưa tên hoặc thành quản sự mới; không đồng nhất với Cố Hoài An/người trực lượt nhận gốc. |
+| Người chạy việc mua thuốc ở ba hiệu | Phùng Quý Lương nói cấp tiền/nhờ các người tới từng hiệu, giao những tờ họ mang về | Không tự gọi tất cả là Phùng Quý Lương hoặc xem lời người cấp tiền đã chứng minh mọi lần đóng gói/chặng thuốc. Các vai cũ còn tra theo từng lượt. |
+| Người báo đường giao/lô hàng thô cho Phùng Quý Lương | Chỉ qua lời y: hàng chuyển nhánh gần Hắc Phong Sơn, tới nơi khác khế; nghe Trần Dực dẫn toán từ phía bắc | Chưa có cảnh, tên hoặc xác minh; không gộp người thuê Trần Dực, người áo đen, Tả tiên sinh, người nhấc sáp hay người đổi điểm giao. |
+| Chấp sự hộ tống/đối/giữ giấy | Kiểm phạm vi lệnh, giữ riêng phần liên quan, cho xe đưa hai người thương về; còn cùng Tạ Nghiên Chi đối người gửi | Không tự gộp mọi chấp sự thành một người. Phùng Quý Lương mới nhận theo trình tiếp, chưa tới Tông Sảnh/xử án. |
+| Y sư buổi sáng/người trực giúp ở viện | Cho Lâm Uyên đi một lượt có điều kiện sau xem tay; giúp áo/ghế/nước, cuối sáng nhận về nghỉ | Chưa đủ nhận diện gộp viện chủ/Hứa Tĩnh Xuyên; không thêm hồi phục, quyền kê thuốc hoặc lượt hỏi Trần Dực. |
+| Người xác nhận chỗ mẹ con Khương Tố Nương | Cuối sáng đã về báo nơi nhận tiếp giữ phần hôm nay cho cả hai theo điều kiện cũ | Đây là tin giữ chỗ ngày mười sáu, không phải mẹ con đã chuyển, chân khỏi hoặc được miễn xác nhận về sau. |
+| Chủ giỏ | Bọc dao mượn/chuẩn bị phần mang tới Bùi Gia chiều mười sáu; dao cũ sứt còn trên khung gãy | Chưa có cảnh trả dao, sửa xong đồ, hết giận, bồi hoàn hoặc nhận việc mới. Giữ vai cũ không đặt tên chỉ để lấp hồ sơ. |
+| Người làm/xin lấy thuốc tại phường | Hỏi công sáng hoặc thuốc đã trả tiền; gian cân/tiếng chày tiếp việc giữa buổi đối | Vai nền nghề có việc riêng, không gộp nhân chứng/đồng phạm hay tạo tiểu sử không nguồn. |
+
+Vai người gửi gốc nêu ở Chương 65 nay có hồ sơ CHAR-066 theo bản gốc và lời nhận trực tiếp; phần người trực lượt nhận vẫn riêng. Phùng Quý Lương tự nhận nguồn tiền/đặt mua, không có nghĩa mọi vai cũ mua/giao/đổi điểm đều cùng người. Chưa có chứng cứ nối Hắc Nha/Tả tiên sinh, chưa biết vì sao mẫu vón hoặc ai nhấc sáp.
+
+Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]], [[Phùng Quý Lương]].

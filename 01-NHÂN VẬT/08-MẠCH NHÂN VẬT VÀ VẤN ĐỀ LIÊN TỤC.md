@@ -200,3 +200,16 @@ Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].
 - **Hẹn còn mở:** Chiều16 trả dao riêng Bùi Ninh Viễn; kim Hồ Nhuận Chi chưa thu; công trình/thợ phụ/chỗ mẹ con theo nguồn cũ. Mạnh Thanh Tễ đã mất13, tưởng niệm64, chưa chôn/trao đồ/thân nhân; HFS/Tô Lạc/miếng đồng/chìa/trang/Hắc Nha chưa có kết quả mới.
 
 Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]], [[Chương 47]], [[Chương 48]], [[Chương 63]].
+
+## Tiến triển theo bản thảo Chương 66
+
+- **Trả đầu mối nguồn yêu cầu:** Tờ gốc nguyên mép cùng người nhận ca được đối tại Hòa Sinh; có tên Phùng Quý Lương và câu hỏi đúng phạm vi dẫn đường/chặng chuyển, không xác nhận hòm chứa thuốc. Tờ gốc/phần liên quan đã được chấp sự nhận, không còn hẹn tìm mảnh đầu như chưa có.
+- **Người gửi/người cấp tiền đã có mặt:** Phùng Quý Lương nhận chữ ký, ứng công và cấp tiền mua qua ba hiệu; đối phần giấy giao nhận có thể và ký lời mình. Không tiếp tục gọi toàn bộ người đặt là chưa rõ danh tính, nhưng người giao/nhận vắng mặt và từng thao tác còn phải kiểm.
+- **Động cơ có phần trả, lời về lô hàng còn mở:** Phùng Quý Lương nhận nghĩa vụ bảo lãnh và nói muốn đòi lại khoản hàng được báo khác phần mua. Khế/phiếu cân không chứng sự đổi hàng/đường thật hoặc hòm toán Trần Dực; chưa ai nhận giúp y có gian trá trong lô ấy.
+- **Tề Duy Cẩn phải trả phần đã giấu:** Nhận đã biết tên người gửi nhưng chiều15 không nêu hết vì sợ bị nhận cả việc mua. Thẻ/bàn vẫn đã giao từ65; không bắt giam/hoàn chức hoặc nâng y thành biết toàn vụ.
+- **Hậu quả đổi thuốc lấy lời:** Tề Duy Cẩn nhận đề nghị chia hai lượt, Phùng Quý Lương nhận chấp thuận. Người đặt thực ký thu lại yêu sách, người thay bàn chặn chỉ dẫn còn dở/giữ bản cũ; không để điều kiện như chưa bị cấm từ58 hoặc chờ thu lại hai hòm đã ở viện47–48.
+- **Điểm dừng đúng:** Tạ Nghiên Chi còn đối cùng Phùng Quý Lương tại Hòa Sinh, y nhận theo tới Tông Sảnh sau buổi; chưa đã tới/trình đủ người đúng chặng/được xử, chưa hoàn tiền hoặc xóa khoản bảo lãnh. Bản lời bệnh nhân không cấp cho y, Trần Dực không bị gọi hỏi lại sáng16.
+- **Tuyến sinh kế không mất:** Chỗ mẹ con được người đi xác nhận về báo giữ ngày16 theo điều kiện cũ, mẹ chưa khỏi/ra viện. Dao mượn được bọc để trả chiều16, chưa ra bàn Bùi Gia; dao cũ sứt đã về64 là vật khác. Kim Hồ Nhuận Chi/nhà trú/thợ phụ/HFS vẫn chưa có kết quả mới.
+- **Mất mát và học nghề:** Lâm Uyên gặp mùi thuốc chưa gọi được tên, nhờ báo Hứa Tĩnh Xuyên khi rảnh; chưa bài học mới/thuốc mới/năng lực tự trị. Mạnh Thanh Tễ đã mất13, tưởng niệm64, không sinh tử mới/chôn/trao di vật; Lâm Chinh vẫn UNKNOWN.
+
+Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]], [[Chương 47]], [[Chương 48]], [[Chương 58]], [[Chương 65]].

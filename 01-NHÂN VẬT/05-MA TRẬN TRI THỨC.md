@@ -242,3 +242,19 @@ Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].
 Hai hòm thuốc ở bến đã bị tạm giữ ở viện từ47–48; câu phần giữ thuốc trong các tóm tắt63–64 phải đọc là trách nhiệm về điều kiện giữ trước đó, không còn chờ Hòa Sinh giao hai hòm. Không nhập chúng với hòm gỗ dài dưới núi chỉ vì cùng chữ dược liệu. Hòa Sinh không nhận bản lời riêng; Cố Hoài An/Tề Duy Cẩn không biết nội dung buổi trong vì người kể chuyện đã cho độc giả đọc.
 
 Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]], [[Chương 47]], [[Chương 48]], [[Chương 58]].
+
+## Tri thức theo bản thảo Chương 66
+
+| Người | Biết/nghe | Giới hạn |
+| --- | --- | --- |
+| Tạ Nghiên Chi/chấp sự/Lâm Uyên/Tô Thanh Ly/Cố Hoài An | K: tờ nhận nguyên mép có chữ ký Phùng Quý Lương, hỏi người nhận dẫn/đi tới đâu/thấy hòm qua tay ai; không xác nhận trong hòm là thuốc | Người cùng ca chỉ nhận việc tiếp/kẹp công/chuyển bàn mình đã thấy, không chứng mọi trao đổi của Tề Duy Cẩn |
+| Tề Duy Cẩn → người đối | R: đã biết tên người gửi, chiều15 cố không nêu vì sợ bị ghi biết cả người mua; nay nhận đã không nói hết | Không biết toàn vụ từ một tên người gửi; việc cố giữ tên là phần được nhận mới66, không sửa lời65 thành chưa có |
+| Phùng Quý Lương/người đối | K: nhận chữ ký gửi hỏi/ứng công/cấp tiền mua qua ba hiệu; tờ giao nhận được đối phần có thể, lời về mình được ký | Người mua cấp tiền đã có tên trong phạm vi này; không nhận đã tự đứng mọi quầy/đóng gói hoặc người nhận thuốc vắng mặt đã xác minh hết |
+| Phùng Quý Lương → người đối | R: bảo lãnh lô dược liệu thô, được báo chuyển gần Hắc Phong Sơn rồi tới nơi khác phần mua; muốn đối chặng để đòi tiền | Khế/phiếu cân chứng phần nghĩa vụ/lượt ghi, chưa chứng thực có thay hàng, tuyến thật, hòm của toán Trần Dực hoặc ai đổi |
+| Tạ Nghiên Chi/Lâm Uyên/Tô Thanh Ly | K: khế không có tên Trần Dực/những người được dẫn; Phùng Quý Lương chưa tự thấy chỗ chuyển hoặc trong hòm | Cùng phía bắc không đủ đồng nhất chuyến; chưa thấy thuốc không chứng chắc không có thuốc |
+| Người tại bàn | K: Phùng Quý Lương nhận chấp thuận chia hai lượt, ký thu lại yêu sách; bàn dừng chỉ dẫn còn dở, giữ bản cũ | Lệnh không đổi lời đã có từ58, lần này là người đặt tự rút/việc bàn được xử; không thu hai hòm lần nữa |
+| Nhóm về viện | R: người đi xác nhận đã về, báo chỗ mẹ con giữ cho ngày16 theo điều kiện cũ; Trần Dực thức rồi nghỉ | Không mẹ đã chuyển/khỏi chân hoặc có lời khai/sức tay mới |
+
+Bản lời Trần Dực không đưa tới bàn người đặt hoặc đọc ra trong cuộc đối. Nguồn hai hòm bến ở viện47–48 giữ riêng với hòm núi; nguồn hàng thô là lời Phùng Quý Lương cần kiểm, không chứng nối Tả tiên sinh/Hắc Nha/chìa/trang. Tuổi46 của Phùng Quý Lương là thiết kế, trên trang chỉ ngoài40.
+
+Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]], [[Chương 58]], [[Chương 65]].

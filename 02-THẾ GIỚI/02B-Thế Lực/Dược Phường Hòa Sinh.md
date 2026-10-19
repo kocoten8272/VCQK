@@ -83,3 +83,17 @@ Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
 - Nguyên nhân mẫu nguyên niêm vón, vết sáp nhấc, người mua ba hiệu, trách nhiệm toàn phường và quan hệ Hắc Nha/Tả tiên sinh/chìa/trang mất vẫn chưa giải.
 
 Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]].
+
+## Trạng thái mới theo bản thảo Chương 66
+
+- Sáng ngày thứ mười sáu mở đúng lượt tiếp yêu cầu/công chép theo lệnh tại gian sát bàn cửa bên. Người khác đã ngồi nhận phiếu, Tề Duy Cẩn không cầm thẻ; Cố Hoài An báo sau khi về chiều trước đã giữ riêng phần cần đối, tìm người cùng ca và gọi người ký tới. Không coi các bước này đã xảy ra trước Chương 65.
+- Tờ yêu cầu gốc nguyên mép có chữ ký [[Phùng Quý Lương]], đối với dấu/ngày/lượt công. Người cùng ca nhận tiếp khoản ứng/tờ gửi rồi giao đúng bàn, không xác nhận mọi trao đổi. Nội dung hỏi người dẫn đường/đường đi/hòm qua tay, không xác nhận trong hòm dài là dược liệu.
+- [[Tề Duy Cẩn]] nhận đã biết tên người gửi mà không nói chiều trước vì sợ bị ghi biết luôn việc mua. Nguồn độc lập hỗ trợ việc chữ dược liệu không có trong yêu cầu gốc; không tự suy hắn đã biết người mua, hàng thực hoặc mọi chỉ dẫn.
+- Phùng Quý Lương trực tiếp nhận chữ ký/gửi yêu cầu/khoản ứng công, cấp tiền và nhờ người mua Xích Tủy Tán tại ba hiệu; ký đúng phần của y, giao các tờ để đối. Vai người tài trợ/đặt hỏi đã có tên, không đồng nhất y với ba người chạy quầy hoặc coi mọi chặng đã kiểm xong.
+- **Động cơ y tự trình:** Có nghĩa vụ bảo lãnh khoản hàng thô, muốn dùng lời người dẫn đường để đòi bên giao/nhận hoàn tiền sau khi được báo hàng khác khế. Khế chứng minh tên/nghĩa vụ, phiếu cân ghi một lượt; chưa chứng minh có thay hàng, đường đã đi, cùng hòm dài hay Trần Dực nhận giữ thuốc.
+- Tề Duy Cẩn nhận mình đề nghị điều kiện hai lượt, Phùng Quý Lương nhận thuận cách ép có lời. Cố Hoài An nhận phần bàn phường đã tiếp công/để chỉ dẫn theo giao, không xem sai riêng của người trực xóa trách nhiệm cơ sở.
+- Lệnh không tiếp đổi thuốc lấy lời đã có Chương 58. Phùng Quý Lương hôm nay ký tự thu lại yêu sách còn dở; người thay bàn bỏ phần đòi lời ở bản giao việc mới, bản cũ giữ. Không có hòm nào phải lấy lại hoặc thuốc mới được đem về, hai hòm bến vẫn theo niêm/biên nhận Chương 47–48.
+- Bản lời Trần Dực không ra bàn của phường, không cấp cho người trả tiền. Tờ gốc/phần Phùng Quý Lương tự giao được chấp sự/Tạ Nghiên Chi nhận riêng; sao có đối đủ phần phường cần tiếp việc, cuốn sổ chung/giấy không liên quan ở lại. Không đóng phường hoặc chiếm mọi hồ sơ.
+- Cuối phần Lâm Uyên/Tô Thanh Ly dự, Tạ Nghiên Chi/chấp sự còn ở phường cùng Phùng Quý Lương; y nhận theo tới trình tiếp chặng hàng, chưa có cảnh đến Tông Sảnh. Khoản bảo lãnh/tiền chưa trả hoặc xóa; thuốc vón/niêm nhấc, quan hệ Hắc Nha/Tả tiên sinh/chìa/trang mất vẫn riêng chưa giải.
+
+Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]], [[Phùng Quý Lương]], [[Cố Hoài An]].

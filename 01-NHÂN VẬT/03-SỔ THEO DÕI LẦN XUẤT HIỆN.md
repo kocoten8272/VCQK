@@ -265,3 +265,19 @@ Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].
 Y sư/chấp sự/người trực là vai công việc theo cảnh, không đồng nhất với viện chủ hoặc Hứa Tĩnh Xuyên. Hứa Tĩnh Xuyên, Bùi Ninh Viễn và các bệnh nhân khác không có cảnh trực tiếp mới65; Mạnh Thanh Tễ chỉ còn qua công việc buổi sáng. Hai hòm thuốc bến đã tạm giữ tại viện từ47–48, không có lần nhận hòm mới65.
 
 Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]], [[Chương 47]], [[Chương 48]].
+
+## Mốc mới theo bản thảo Chương 66
+
+| ID | Nhân vật | Kiểu/mốc | Nơi cuối/giới hạn |
+| --- | --- | --- | --- |
+| CHAR-005 | Lâm Uyên | Trực tiếp sáng16, viện → Hòa Sinh → viện | Y sư cho chuyến ngắn có xe/hộ tống; hỏi đúng phần người đặt muốn nhận, nhờ giúp chỉnh vạt áo/chỗ tựa. Gần trưa nghỉ/ăn tại viện, không cầm bút/mang đồ hoặc tự dùng thuốc |
+| CHAR-006 | Tô Thanh Ly | Trực tiếp cùng chuyến | Dùng tay trái giữ giấy, hỏi khế có tên người dẫn đường không, nhờ chỉnh tựa rồi cùng về viện; tay phải còn thương |
+| CHAR-046 | Tạ Nghiên Chi | Trực tiếp tại Hòa Sinh | Đối nguồn theo lệnh, nhận tờ yêu cầu gốc/phần giấy liên quan, giữ riêng lời bệnh nhân. Cuối còn ở Hòa Sinh đối với Phùng Quý Lương, chưa tới Tông Sảnh |
+| CHAR-061 | Tề Duy Cẩn | Trực tiếp tại Hòa Sinh | Không còn giữ thẻ/bàn nhận; nhận đã biết tên người gửi nhưng không nói hết chiều15, đối phần chia hai lượt. Không bị bắt hoặc được trả lại chức bàn |
+| CHAR-065 | Cố Hoài An | Trực tiếp tại Hòa Sinh | Cho mở đúng lượt, nhận trách nhiệm bàn phường, chặn chỉ dẫn đổi lời còn dở. Kể đã giữ nguồn/gọi người gửi sau khi về chiều15; không chủ phường hoặc quyền đọc bản lời riêng |
+| CHAR-066 | [[Phùng Quý Lương]] | Lần đầu trực tiếp/có tên | Nam ngoài40; nhận chữ ký gửi hỏi, ứng công/cấp tiền đặt thuốc qua ba hiệu và chấp thuận điều kiện; ký thu lại yêu sách. Cuối còn Hòa Sinh chuẩn bị theo chấp sự tới Tông, chưa đã tới/được xử |
+| CHAR-062 | Khương Tố Nương/con | Trực tiếp ngắn đầu sáng16 tại gian bệnh | Mẹ còn xem chân, trẻ chưa tên/giới tính; trước trưa người đi xác nhận về báo chỗ giữ hôm nay theo điều kiện cũ, không xuất viện |
+
+Chủ giỏ trực tiếp bọc dao mượn để trả chiều16, dao cũ sứt để riêng; chưa trả dao. Trần Dực chỉ qua lời báo đã thức rồi nghỉ, không buổi hỏi mới. Hứa Tĩnh Xuyên chỉ được nhờ báo khi rảnh, chưa trực tiếp dạy bài tiếp. Đinh Bá Nghiêm chỉ được nhắc trong nguồn công, không hiện diện mới. Người cùng ca, người giữ sổ, người thay bàn dùng vai vô danh riêng, không nhập với Cố Hoài An.
+
+Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]].

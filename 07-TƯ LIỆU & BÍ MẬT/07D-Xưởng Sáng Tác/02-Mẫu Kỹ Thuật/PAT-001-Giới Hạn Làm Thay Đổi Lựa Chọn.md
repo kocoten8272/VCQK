@@ -22,6 +22,7 @@ used_in_chapters:
   - 63
   - 64
   - 65
+  - 66
 created: 2026-10-08
 updated: 2026-10-19
 tags:
@@ -33,7 +34,7 @@ tags:
 
 # PAT-001-Giới Hạn Làm Thay Đổi Lựa Chọn
 
-> Mẫu kỹ thuật do người viết thiết kế cho VCQK từ [[REF-001-Nguồn Về Sinh Tồn Và Giới Hạn]]. `ready` nghĩa là dùng được để lập cảnh; đã áp dụng có phạm vi ở bản thảo Chương 55–65.
+> Mẫu kỹ thuật do người viết thiết kế cho VCQK từ [[REF-001-Nguồn Về Sinh Tồn Và Giới Hạn]]. `ready` nghĩa là dùng được để lập cảnh; đã áp dụng có phạm vi ở bản thảo Chương 55–66.
 
 ## Vấn đề cần xử lý
 
@@ -151,3 +152,9 @@ Tra [[LOG-011-Áp Dụng Kỹ Thuật Trong Chương 64]]. SEED-001/002 vẫn ch
 Trần Dực có quyền dừng và giữ đúng phần chưa biết; Lâm Uyên gác câu hỏi của mình thay ép người bệnh nhớ thêm. Quyền hạn hẹp của Cố Hoài An đủ để trả khoản công đã làm và nhận thẻ trực, chưa đủ để khép nguồn người mua. Giới hạn lời chứng tạo một thay đổi kiểm được trong hướng hỏi, trong khi tay thương và các việc chưa xong vẫn còn.
 
 Tra [[LOG-012-Áp Dụng Kỹ Thuật Trong Chương 65]]/[[REF-007-Nguồn Về Manh Mối Và Lời Chứng]]. SEED-001/002 vẫn chưa dùng; đây chưa phải phản hồi độc giả hoặc bằng chứng mọi cách kể khác đều sai.
+
+## Lần áp dụng tại bản thảo Chương 66
+
+Lâm Uyên đi một lượt được phép, giữ tay và bản lời riêng; không nhận thay điều Trần Dực chưa thấy. Phạm vi đối sổ cho phép lấy đúng tờ gốc mà phường còn tiếp công việc. Người cấp tiền phải rút yêu sách và nhận nghĩa vụ của mình, trong khi lời thay hàng chưa được chứng minh. Gần trưa, Lâm Uyên về nghỉ; chỗ mẹ con chỉ giữ cho hôm nay, dao chưa trả và học thuốc phải chờ người có nghề rảnh.
+
+Tra [[LOG-013-Áp Dụng Kỹ Thuật Trong Chương 66]]/[[REF-008-Nguồn Về Câu Hỏi Và Bước Ngoặt Cảnh]]. SEED-001/002 vẫn chưa dùng; đây là ghi nhận áp dụng, chưa có phản hồi độc giả hoặc bảo đảm hiệu quả/độ độc nhất.

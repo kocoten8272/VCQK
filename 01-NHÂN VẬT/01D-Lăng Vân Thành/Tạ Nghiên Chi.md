@@ -35,7 +35,7 @@ tags:
 
 - **Động cơ đã thể hiện:** Giữ cho hồ sơ phản ánh đúng điều đã ghi nhận, không để người trực đêm cháy bị buộc tội chỉ vì ô giờ chưa được điền.
 - **Mâu thuẫn đã thể hiện:** Tạ Nghiên Chi sửa câu mẫu của Tông Sảnh theo đúng phạm vi sổ trước hai người chứng kiến, chịu sự không hài lòng của một người chứng kiến; việc xin lấy lời người nhận ca vẫn chờ lệnh.
-- **Giới hạn thông tin:** Chỉ biết điều bản thân ghi nhận, được bàn giao hoặc có thể xác minh từ sổ. Không biết danh tính nhóm áo đen, người mua thuốc, hay người lấy trang gốc nếu chưa có chứng cứ.
+- **Giới hạn thông tin:** Chỉ biết điều bản thân ghi nhận, được bàn giao hoặc có thể xác minh từ sổ. Chương 66 đã đối Phùng Quý Lương nhận gửi yêu cầu/cấp tiền mua thuốc; chưa chứng minh mọi chặng thuốc hoặc lời hàng thô bị thay, danh tính nhóm áo đen và người lấy trang gốc.
 - Không mặc định nàng là đồng phạm, người cung cấp tin bí mật hoặc thành viên của một thế lực lớn.
 
 ## Quan hệ
@@ -136,3 +136,17 @@ Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
 - Hồ sơ chìa/trang mất tiếp riêng, không có lời mới hoặc người lấy trang được nhận diện.
 
 Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]].
+
+## Trạng thái mới theo bản thảo Chương 66
+
+- Sáng ngày thứ mười sáu tới Hòa Sinh cùng chấp sự, Lâm Uyên/Tô Thanh Ly theo lệnh đối nguồn/chứng từ liên quan. Bản lời Trần Dực giữ riêng ở hồ sơ, không mang cho người đặt xem hoặc dùng để thắng cuộc đối.
+- Đối phạm vi lệnh với Cố Hoài An/người giữ sổ, mở đúng lượt tiếp yêu cầu và thuê công Đinh Bá Nghiêm. Tờ gốc nguyên mép có chữ ký Phùng Quý Lương; đối dấu bàn/ngày/lượt công và lời người cùng ca nhận đã tiếp/giao, không buộc người này nhận mọi trao đổi của Tề Duy Cẩn.
+- Ghi riêng Tề Duy Cẩn nhận biết tên người gửi mà không nói chiều trước. Không biến lời sợ bị nhận thừa thành lý do miễn trách nhiệm giấu điều biết; cũng không suy hắn đã biết người mua thuốc lúc ấy.
+- Để Phùng Quý Lương tự nhận chữ ký, khoản ứng công, cấp tiền/đặt mua ba hiệu rồi ký phần của mình trước khi được biết lời bệnh nhân. Đối các phiếu được y giao với bản giao nhận mang theo; chữ/việc người vắng mặt vẫn chờ chính họ nhận.
+- Nhận khế có tên/nghĩa vụ bảo lãnh của Phùng Quý Lương và phiếu cân một lượt. Ghi lời hàng thô bị thay/đường gần Hắc Phong Sơn là lời y trình; chứng từ ấy chưa chứng minh có thay hàng, Trần Dực giữ lô hoặc thứ trong hòm dài.
+- Yêu cầu người đặt trình câu cần đối, không có quyền lấy lời riêng nhờ đã trả tiền. Khi y muốn từ chưa thấy chuyển thành không có thuốc qua tay, hỏi chứng từ cho phần thêm; không đọc lại bản riêng hoặc ghi giúp lời có lợi.
+- Ghi riêng Tề Duy Cẩn đề nghị/Phùng Quý Lương chấp thuận điều kiện hai lượt. Giữ chữ ký người cấp tiền tự thu yêu sách đang dở, bản cũ còn giữ; lệnh cấm đã có Chương 58, không phải một lệnh mới và không cần thu hòm lại.
+- Cùng chấp sự nhận tờ yêu cầu gốc và phần Phùng Quý Lương tự giao để đối nghĩa vụ; phần sao có đối đủ cho phường tiếp việc, không giữ cả sổ/giấy không liên quan. Chưa kết tội người can thiệp niêm hoặc quyết tiền bảo lãnh.
+- Gần giờ cơm còn ở Hòa Sinh đối Phùng Quý Lương sau khi cho xe đưa Lâm Uyên/Tô Thanh Ly về. Y nhận sẽ theo chấp sự trình tiếp tại Tông Sảnh; chưa có cảnh đoàn tới đó hoặc hồ sơ đã bàn giao xong. Chìa/trang mất, nhà trú và Hắc Nha/Tả tiên sinh vẫn tách riêng.
+
+Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]], [[Phùng Quý Lương]].

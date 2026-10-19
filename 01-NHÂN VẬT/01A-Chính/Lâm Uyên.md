@@ -230,3 +230,18 @@ Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].
 - Dao mượn còn hẹn trả chiều mười sáu, gói kim chưa tìm, Tô Lạc/miếng đồng còn chưa đưa về; không có kết quả mới các tuyến ấy. Dược Khế bảy tháng, quản thúc/hộ tống và tình trạng thật UNKNOWN của Lâm Chinh giữ nguyên.
 
 Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]].
+
+## Trạng thái mới theo bản thảo Chương 66
+
+- Sáng ngày thứ mười sáu được người trực buộc lại tay áo ở chỗ thay băng; y sư xem sức, cho đi một lượt bằng xe có hộ tống tới Hòa Sinh rồi về; nếu đau tăng phải báo, không ngồi cố. Tay phải còn đau dưới băng, tay trái đỡ mỏi sau nghỉ nhưng chưa được mang đồ/cầm bút; không có hồi phục hoàn toàn, vận lực hoặc tu vi mới.
+- Dự phần mở nguồn yêu cầu theo lệnh cùng Tô Thanh Ly, Tạ Nghiên Chi và chấp sự. Chỉ nghe phần giấy được mở; bản lời Trần Dực ở hồ sơ riêng, không mang ra cho người đặt xem. Không tự mở mọi sổ hoặc nhận quyền thẩm tra.
+- Nghe tờ yêu cầu gốc có chữ ký Phùng Quý Lương, người cùng ca nhận khâu tiếp/giao; không có câu xác nhận trong hòm dài là dược liệu. Nghe Tề Duy Cẩn nhận đã biết tên người gửi nhưng không nêu hôm trước; không biến sự né tránh thành bằng chứng biết mọi việc mua thuốc.
+- Trực tiếp gặp Phùng Quý Lương, nghe y nhận chữ ký, khoản ứng công, cấp tiền/nhờ mua Xích Tủy Tán qua ba hiệu và ký đúng phần mình làm. Người tới từng quầy là người chạy việc khác; chưa xác nhận toàn bộ chặng và nhân chứng vắng mặt.
+- Hỏi trách nhiệm dùng thuốc cần cứu người để ép lời. Khi Phùng Quý Lương muốn từ chưa thấy trong hòm chuyển thành chắc không có hàng qua tay Trần Dực, giữ đúng ranh điều nhân chứng chưa biết; không đọc hoặc nhận lời thay bệnh nhân.
+- Chứng kiến Phùng Quý Lương nhận đã thuận điều kiện hai lượt do Tề Duy Cẩn đề nghị và ký thu lại các yêu sách còn dở. Lệnh không tiếp đổi thuốc lấy lời đã có từ Chương 58; hai hòm bến đã về viện Chương 47–48, hôm nay không lấy lại hòm hoặc nhận thuốc mới.
+- Hiểu một phần động cơ giữ lời là Phùng Quý Lương sợ khoản bảo lãnh phải hoàn. Khế hỗ trợ nghĩa vụ y nhận; lời hàng thô bị thay/đường gần Hắc Phong Sơn vẫn là lời y trình, chưa chứng minh đúng lô hoặc vật trong hòm dài. Không nối Hắc Nha, Tả tiên sinh hoặc chìa/trang mất.
+- Gần giờ cơm về viện cùng Tô Thanh Ly/người hộ tống; Tạ Nghiên Chi và chấp sự còn đối Phùng Quý Lương tại phường. Nghe báo Trần Dực đã thức rồi nghỉ, không có lượt hỏi mới; nghe người xác nhận chỗ mẹ con Khương Tố Nương hôm nay còn được giữ, không phải đã xuất viện/chuyển nhà.
+- Thấy chủ giỏ bọc dao mượn chuẩn bị trả chiều mười sáu, chưa trả xong hoặc có việc làm mới. Nhờ báo Hứa Tĩnh Xuyên khi rảnh còn câu hỏi về mùi thuốc, chưa có bài học/nhận diện vị mới. Mất mát Mạnh Thanh Tễ còn trong thói quen quay tìm người chỉ, không có di sản hoặc thầy thay thế.
+- Dược Khế bảy tháng, quản thúc/hộ tống và tình trạng thật UNKNOWN của Lâm Chinh giữ nguyên. Gói kim, thi thể Tô Lạc/miếng đồng, nguyên nhân nhà sập và tình trạng mẫu thuốc/niêm chưa có lời giải mới.
+
+Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]].
