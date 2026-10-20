@@ -72,3 +72,13 @@ Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
 - Gia phả/tuổi chính xác vẫn là thiết kế, không tự thành tri thức của Lâm Uyên. Chưa liên hệ mạng thuốc, Hắc Nha hoặc Tả tiên sinh.
 
 Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].
+
+## Diễn biến theo bản thảo Chương 67
+
+- Chiều ngày thứ mười sáu trực tiếp qua bàn nhận việc Bùi Gia, mang bọc bảng công; dừng hỏi lượt đang làm, nghe Đào Thành Nghiệp nói đang vá quai giỏ riêng cho người thợ. Chỉ dặn chừa lối mang gỗ, không nhận gia tộc thuê sửa, thanh toán hoặc đã bồi thường nhà trú.
+- Khi Bùi Ninh Viễn hỏi, bà **báo đã sang trạm gặp đúng thợ phụ hôm trước — ngày mười lăm**; chân người ấy còn được giữ để xem, chưa nhận về làm. Đây là lời trực tiếp của Bùi Khánh Vân về chuyến mình đi, chưa có cảnh trạm/người bệnh xác nhận độc lập.
+- Bà còn báo người nhà đã nhận tin theo địa chỉ tìm từ bảng công; không phải gia đình còn cần chờ ở cổng viện này. Việc liên hệ đã tới mức có lời báo nhận, không đồng nghĩa đã chuyển người bệnh, khỏi chân, quyết xong tiền công hoặc trở lại làm.
+- Dặn đối đúng phần người nhà đã nhận, không gọi thợ về chỉ vì tìm được. Không gộp thợ phụ này với người đã chuyển mảnh nhắn của Bùi Ninh Viễn, người cứu mắc áo hoặc người thợ lớn tuổi thuê sửa quai.
+- Gia phả/tuổi chính xác giữ lớp thiết kế; không có kết luận nguyên nhân sập, trách nhiệm cuối của gia tộc hoặc liên hệ Hòa Sinh/Hắc Nha/Tả tiên sinh.
+
+Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]].

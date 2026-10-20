@@ -8,10 +8,10 @@
 
 - **Tên truyện:** Vạn Cổ Quy Khư
 - **Nhân vật chính:** [[Lâm Uyên]]
-- **Địa điểm ở cuối Chương 66:** Tế Sinh Viện, gần trưa ngày16; Lâm Uyên/Tô Thanh Ly đã về sau đối Hòa Sinh, Phùng Quý Lương nhận đặt/cấp tiền mua thuốc và ký rút yêu sách; dao mượn còn hẹn trả chiều nay
+- **Địa điểm ở cuối Chương 67:** Tế Sinh Viện, cuối chiều ngày16; Đào Thành Nghiệp đã trả dao riêng của Bùi Ninh Viễn và nhận hai đồng công sửa quai, khung còn gãy; Lâm Uyên nghỉ tại viện, được Hứa Tĩnh Xuyên chỉ mẫu quế
 - **Thế lực gắn với arc hiện tại:** [[Tô Gia]]
-- **Chương mới nhất trên main:** [[Chương 66]] (nháp)
-- **Chương tiếp theo:** Chương 67 (dự kiến)
+- **Chương mới nhất trên main:** [[Chương 67]] (nháp)
+- **Chương tiếp theo:** Chương 68 (dự kiến)
 - **Trạng thái:** Đang sáng tác
 
 ---
@@ -55,6 +55,7 @@
 - [[LOG-007-Áp Dụng Kỹ Thuật Trong Chương 60]] — mất thầy, phản ứng đầu và công việc người sống; lượt tra nguồn ngày 2026-10-15
 - [[REF-007-Nguồn Về Manh Mối Và Lời Chứng]] · [[LOG-012-Áp Dụng Kỹ Thuật Trong Chương 65]] — tách lời chứng, cách đặt câu hỏi và chứng cứ; lượt tra nguồn ngày 2026-10-19
 - [[REF-008-Nguồn Về Câu Hỏi Và Bước Ngoặt Cảnh]] · [[LOG-013-Áp Dụng Kỹ Thuật Trong Chương 66]] — đưa nguồn yêu cầu tới người đứng tên, giữ lời trình khác chứng cứ
+- [[REF-009-Nguồn Về Vật Dụng Và Quan Hệ]] · [[LOG-014-Áp Dụng Kỹ Thuật Trong Chương 67]] — trả vật đã mượn, hành động nghề và khoản công cụ thể
 
 ## NHÂN VẬT
 
@@ -201,13 +202,14 @@
 - [[Chương 63]] — Một Việc Cho Ngày Mai; nháp
 - [[Chương 64]] — Sau Làn Hương Mỏng; nháp
 - [[Chương 65]] — Lời Của Người Dẫn Đường; nháp
-- [[Chương 66]] — Người Đặt Câu Hỏi; nháp mới
+- [[Chương 66]] — Người Đặt Câu Hỏi; nháp
+- [[Chương 67]] — Chiều Trả Dao; nháp mới
 
 ### Chuẩn bị
 
-- Chương 67 — hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 66]].
+- Chương 68 — hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 67]].
 - [[Kết Chương]] — trạng thái từng chương, bao gồm các bản nháp và chương chưa có frontmatter.
-- [[Trạng Thái Truyện Sau Chương 66]] — trạng thái continuity hiện hành; các bản sau chương trước đó là lưu vết lịch sử.
+- [[Trạng Thái Truyện Sau Chương 67]] — trạng thái continuity hiện hành; các bản sau chương trước đó là lưu vết lịch sử.
 
 ---
 

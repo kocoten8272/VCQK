@@ -85,3 +85,15 @@ Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
 - Tuổi/gia phả giữ lớp thiết kế; không có lời mới của Bùi Khánh Vân, xác minh thợ phụ hoặc quan hệ mạng thuốc/Hắc Nha/Tả tiên sinh.
 
 Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].
+
+## Diễn biến theo bản thảo Chương 67
+
+- Chiều ngày thứ mười sáu trực tiếp tại bàn nhận việc Bùi Gia, mang túi dây căng. Người trực đã có phần nhận báo trước, gọi anh khi Đào Thành Nghiệp tới trả dao; chủ giỏ Chương 62–66 nay nói đủ tên, không là một chủ đồ mới.
+- Tự mở gói, xem mép dao riêng đã cho mượn, thử trên mảnh gỗ của bàn rồi cất về túi mình; nhờ người trực chốt phần nhận. Hẹn trả dao riêng chiều mười sáu đã thực hiện, dao cũ của Đào Thành Nghiệp vẫn là món khác và còn sứt.
+- Xem cạnh khung gãy theo ông chỉ rồi hỏi nơi sửa; người trong sân chỉ một nơi có thể tới đối, giá còn cần mang đúng khung cho người làm xem. Không tự chữa xong, định giá hoặc nhận thay một khoản bồi thường.
+- Giới thiệu người thợ lớn tuổi đã dẫn lượt tới nhà trú; chính người ấy nhận đã làm lượt sáng mười lăm. Đào Thành Nghiệp biết mặt người dẫn đội qua giới thiệu hiện tại, không hồi tố hai người đã gặp trực tiếp trong Chương 63–64.
+- Trong lúc chờ phần đo của mình, chỉ giữ đúng chỗ giỏ Đào Thành Nghiệp nhờ, đợi được bảo mới buông; không thành thợ đan hoặc làm thay kỹ năng nghề. Việc vá do người thợ thuê cho giỏ dụng cụ riêng, hai đồng trả trực tiếp cho người làm, không phải khoản công/bồi thường Bùi Gia.
+- Hỏi chỗ có thể tìm nếu sau này có người cần sửa, nhận chỉ giới thiệu đúng phần sửa xem được; chưa có đơn thuê tiếp, bảo đảm thu nhập, giỏ mới hoặc việc làm dài hạn.
+- Kết quả trả dao và một phần giúp nhỏ không xóa việc đối trách nhiệm nhà trú, nguyên nhân sập hoặc lời nhận chưa tới xem trước tai nạn. Gia phả/tuổi 26 giữ lớp thiết kế; không nối sang mạng thuốc/Hắc Nha/Tả tiên sinh.
+
+Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Đào Thành Nghiệp]].

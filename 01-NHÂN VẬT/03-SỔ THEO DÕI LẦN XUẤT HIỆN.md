@@ -281,3 +281,21 @@ Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]], [[Chương
 Chủ giỏ trực tiếp bọc dao mượn để trả chiều16, dao cũ sứt để riêng; chưa trả dao. Trần Dực chỉ qua lời báo đã thức rồi nghỉ, không buổi hỏi mới. Hứa Tĩnh Xuyên chỉ được nhờ báo khi rảnh, chưa trực tiếp dạy bài tiếp. Đinh Bá Nghiêm chỉ được nhắc trong nguồn công, không hiện diện mới. Người cùng ca, người giữ sổ, người thay bàn dùng vai vô danh riêng, không nhập với Cố Hoài An.
 
 Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]].
+
+## Mốc mới theo bản thảo Chương 67
+
+| ID | Nhân vật | Kiểu/mốc | Nơi cuối/giới hạn |
+| --- | --- | --- | --- |
+| CHAR-067 | [[Đào Thành Nghiệp]] | Lần đầu có tên67; cùng người làm giỏ đã trực tiếp62 | Chiều16 từ viện tới bàn Bùi Gia rồi về viện; trả dao mượn, mài một phần dao cũ, sửa quai giỏ riêng/nhận hai đồng. Cuối chẻ mây thừa ở chỗ được chỉ; khung còn gãy, chưa làm giỏ mới |
+| CHAR-026 | [[Bùi Ninh Viễn]] | Trực tiếp tại bàn/sân Bùi Gia trong POV người làm giỏ | Nhận lại dao riêng rồi cất túi, giới thiệu người dẫn đội, hỏi chỗ sửa khung, giữ đầu giỏ đúng chỗ được nhờ; chưa có cảnh tới viện hoặc giải toàn trách nhiệm nhà |
+| CHAR-022 | [[Bùi Khánh Vân]] | Trực tiếp tại bàn Bùi Gia | Qua với bọc bảng công, báo đã gặp thợ phụ ở trạm khác hôm trước15 và người nhà nhận tin; sau trở lại bàn. Người kể không đưa cảnh khám/trạm hoặc cho Lâm Uyên nghe từ xa |
+| CHAR-005 | Lâm Uyên | Trực tiếp tại viện suốt chương, chiều16 | Nghỉ sau chuyến sáng; được chỉ mẫu quế, nghe Đào Thành Nghiệp kể khi trở về. Tay phải còn băng/trái mỏi, không viết/mang đồ/đi cùng tới Bùi Gia |
+| CHAR-006 | Tô Thanh Ly | Trực tiếp tại viện | Hỏi bài ngắn, khi chủ giỏ về hỏi chỗ làm/nhờ giữ chỉ đường, chỉ đúng người giữ đồ để hỏi việc; tay phải còn thương, không tới bàn Bùi Gia trong chiều |
+| CHAR-064 | [[Hứa Tĩnh Xuyên]] | Trực tiếp buổi ngắn ở hiên viện, sau về gian thuốc | Cho xem/ngửi mẫu quế có thẻ, nhận riêng nồi trong viện có vị ấy. Không xác nhận nồi Hòa Sinh, không giao mẫu/quyền tự chọn hoặc kê thuốc |
+| CHAR-063 | [[Hồ Nhuận Chi]] | Trực tiếp qua lời trong gian bệnh cuối chiều | Hỏi gói kim vẫn chưa về, dặn giữ thanh khung còn dùng cho khô; không cảnh khỏi bệnh/ra viện hoặc đồ nghề đủ |
+
+Người dẫn đội đã có vai63 được Bùi Ninh Viễn giới thiệu cho Đào Thành Nghiệp trong67; nhận việc mình đã làm sáng15, thuê sửa giỏ dụng cụ riêng và trả công. Không gán cho chủ giỏ đã dự cuộc hẹn63 hoặc tự nhận ra người ấy từ cảnh mình không có mặt. Người giữ bàn/người giữ chỗ/người giữ đồ tiếp tục là các vai công việc có nguồn cảnh riêng.
+
+Tạ Nghiên Chi/Phùng Quý Lương không có cảnh mới sau66, Trần Dực không bị gọi hỏi lại; Mạnh Thanh Tễ không hành động sống hoặc có tang/di vật mới.
+
+Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Chương 62]], [[Chương 63]], [[Chương 64]], [[Chương 66]].

@@ -45,7 +45,7 @@ Mẫu dùng khi lập hồ sơ: [Mẫu Hồ Sơ Nhân Vật](M%E1%BA%AAU%20H%E1%
 | `01E-Vân Châu` | Liễu Gia, Kiếm Các, Thính Phong Lâu, Thương Hội, Tầm Chân Ti | Nhân vật mới của các thế lực cấp châu |
 | `01F-Thế Lực Bí Ẩn` | Vĩnh Sinh Môn, Di Kỷ Tộc và nhân vật chưa thể xếp công khai | Chuyển sang nhóm địa bàn/thế lực phù hợp khi thân phận được xác nhận rõ |
 
-Tính đến Chương 66, sổ cái có **66 hồ sơ cá nhân**, trong đó **25 hồ sơ mang trạng thái `da-xuat-hien`**. Các trạng thái `dang-phat-trien`, sống/chết và chỉ được nhắc đến được theo dõi riêng tại [[02-SỔ CÁI NHÂN VẬT]].
+Tính đến Chương 67, sổ cái có **67 hồ sơ cá nhân**, trong đó **26 hồ sơ mang trạng thái `da-xuat-hien`**. Các trạng thái `dang-phat-trien`, sống/chết và chỉ được nhắc đến được theo dõi riêng tại [[02-SỔ CÁI NHÂN VẬT]].
 
 ## Danh sách hồ sơ theo tuyến
 
@@ -80,6 +80,8 @@ Tính đến Chương 66, sổ cái có **66 hồ sơ cá nhân**, trong đó **
 - [Tần Hạo](01C-T%C3%B4%20Gia/T%E1%BA%A7n%20H%E1%BA%A1o.md) — `chua-xuat-hien`
 
 ### 01D-Lăng Vân Thành
+
+- [Đào Thành Nghiệp](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/%C4%90%C3%A0o%20Th%C3%A0nh%20Nghi%E1%BB%87p.md) — `da-xuat-hien` — CHAR-067, hạng C; người làm giỏ Chương 62–66, tự tên Chương 67, đã trả dao mượn và nhận công sửa quai riêng hai đồng; khung vẫn gãy.
 
 - [Phùng Quý Lương](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Ph%C3%B9ng%20Qu%C3%BD%20L%C6%B0%C6%A1ng.md) — `da-xuat-hien` — CHAR-066, hạng C; trực tiếp Chương 66, nhận gửi yêu cầu/cấp tiền mua ba hiệu và nghĩa vụ bảo lãnh hàng thô; lời hàng bị thay còn cần kiểm.
 
@@ -143,7 +145,7 @@ Tính đến Chương 66, sổ cái có **66 hồ sơ cá nhân**, trong đó **
 - [Người Áo Đen (chưa rõ danh tính)](01F-Th%E1%BA%BF%20L%E1%BB%B1c%20B%C3%AD%20%E1%BA%A8n/Ng%C6%B0%E1%BB%9Di%20%C3%81o%20%C4%90en%20%28ch%C6%B0a%20r%C3%B5%20danh%20t%C3%ADnh%29.md) — `da-xuat-hien`
 - [Hắc Nha](01F-Th%E1%BA%BF%20L%E1%BB%B1c%20B%C3%AD%20%E1%BA%A8n/H%E1%BA%AFc%20Nha.md) — `chua-xuat-hien`
 
-## Nhân vật đã xuất hiện trong truyện (đối chiếu đến hết Chương 66)
+## Nhân vật đã xuất hiện trong truyện (đối chiếu đến hết Chương 67)
 
 > Danh sách này chỉ ghi người có mặt trong cảnh, được gọi tên trong lời kể/hồi ức có căn cứ, hoặc có vai trò cá nhân rõ. Nhân vật đề xuất và người chỉ được nhắc qua lời khai được tách riêng. Hồ sơ vẫn có thể ghi tuổi, cảnh giới hoặc quá khứ là “chưa nêu” nếu bản thảo chưa xác nhận.
 
@@ -167,6 +169,8 @@ Tính đến Chương 66, sổ cái có **66 hồ sơ cá nhân**, trong đó **
 - [Vương Phúc](01C-T%C3%B4%20Gia/V%C6%B0%C6%A1ng%20Ph%C3%BAc.md) — quản sự ngoại viện; tình trạng hiện tại chưa được kể.
 
 ### Lăng Vân Thành và Tế Sinh Viện
+
+- [Đào Thành Nghiệp](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/%C4%90%C3%A0o%20Th%C3%A0nh%20Nghi%E1%BB%87p.md) — CHAR-067, hạng C; cùng người làm giỏ ôm bao từ Chương 62, tên lần đầu Chương 67; nhận công cho việc thực đã làm, chưa khôi phục đủ nghề hoặc được bồi thường nhà trú.
 
 - [Phùng Quý Lương](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Ph%C3%B9ng%20Qu%C3%BD%20L%C6%B0%C6%A1ng.md) — CHAR-066, hạng C; lần đầu trực tiếp Chương 66, ký nhận gửi yêu cầu/nguồn tiền và thu yêu sách ép lời; chưa chứng minh hàng thô bị thay hoặc liên hệ Hắc Nha/Tả tiên sinh.
 
@@ -209,7 +213,7 @@ Tính đến Chương 66, sổ cái có **66 hồ sơ cá nhân**, trong đó **
 
 ## Theo dõi trạng thái hiện tại
 
-Trạng thái mỗi người nằm trong frontmatter của hồ sơ. Danh sách “đã xuất hiện” ở trên được cập nhật theo nguồn đến Chương 66; mốc chi tiết và kiểu xuất hiện xem [[03-SỔ THEO DÕI LẦN XUẤT HIỆN]]. Những nhân vật mới được đặt hồ sơ tạm có thể chưa có tuổi, cảnh giới hoặc tên thật; không điền suy đoán thành canon.
+Trạng thái mỗi người nằm trong frontmatter của hồ sơ. Danh sách “đã xuất hiện” ở trên được cập nhật theo nguồn đến Chương 67; mốc chi tiết và kiểu xuất hiện xem [[03-SỔ THEO DÕI LẦN XUẤT HIỆN]]. Những nhân vật mới được đặt hồ sơ tạm có thể chưa có tuổi, cảnh giới hoặc tên thật; không điền suy đoán thành canon.
 
 | Trạng thái | Ý nghĩa |
 | --- | --- |

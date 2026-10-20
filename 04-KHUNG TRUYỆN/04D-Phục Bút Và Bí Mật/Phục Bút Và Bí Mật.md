@@ -268,3 +268,20 @@ Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]], [[Chương
 Đầu mối mua thuốc có danh tính và động cơ có giới hạn, không mặc định cùng nhóm áo đen/Tả tiên sinh/Hắc Nha. Mệnh đề hàng bị thay/đường núi chưa là sự thật khách quan; những bí ẩn lớn giữ nguyên, không phát sinh bí ẩn cấp thế giới từ khoản khế.
 
 Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]], [[Chương 58]], [[Chương 65]].
+
+## Tiến triển theo bản thảo Chương 67
+
+| Hẹn/đầu mối | Trả trong67 | Còn giữ |
+| --- | --- | --- |
+| Dao riêng hẹn chiều16 | Đào Thành Nghiệp giao tại bàn, Bùi Ninh Viễn nhận/cất lại túi, nhờ bàn chốt phần nhận | Hẹn đã hoàn thành, không tiếp chờ trả; không xóa trách nhiệm nhà trú |
+| Dao cũ/khung/sinh kế | Dao cũ mài một phần, sửa quai giỏ riêng/nhận hai đồng thực tế | Khung còn gãy, giỏ mới chưa nhận; chưa giá thay khung/khách tiếp hoặc cả nghề đã phục hồi |
+| Chủ giỏ vô danh | Tự nói tên Đào Thành Nghiệp tại bàn, nối đúng vai trực tiếp62; nhóm viện nghe khi về | CHAR-067 không người mới thay chủ cũ, tuổi52 chưa kể trên trang |
+| Thợ phụ/bảng công | Bùi Khánh Vân báo đã gặp hôm15 ở trạm khác, nhà nhận tin | Chân còn xem, không cảnh xuất trạm/làm lại; tin chưa đến Lâm Uyên trong lời chủ giỏ kể |
+| Câu hỏi mùi thuốc66 | Hứa Tĩnh Xuyên chỉ mẫu quế/thẻ tên và riêng nồi viện có dùng | Không biết nồi Hòa Sinh/công năng/liều, chưa năng lực tự lấy hoặc kê thuốc |
+| Kim Hồ Nhuận Chi | Bà trực tiếp hỏi lại, nguồn tìm vẫn giữ/chưa giao món về | Chưa kim hoặc toàn nghề may được trả, không làm mất hẳn vì chưa thấy |
+| Lượt xem đồ ở viện | Người giữ đồ nhận sáng17 rảnh sẽ cho chủ giỏ xem phần cần sửa | Chưa giá/việc nhận, viện chưa có khoản phải trả hoặc xưởng thuê dài hạn |
+| Thuốc/HFS/tang | Không mở thêm lời mới ngoài nguồn66/cũ | Tạ Nghiên Chi/Phùng Quý Lương chưa có báo trình Tông xong; Tô Lạc/miếng đồng chưa thu, Mạnh Thanh Tễ chưa chôn/trao đồ, Lâm Chinh UNKNOWN |
+
+Một món sửa xong và hai đồng trả công tạo chuyển biến đời sống có giới hạn; không biến thao tác sửa giỏ/quế thành bảo vật hay dấu hiệu bí ẩn cấp thế giới. Trách nhiệm nhà sập và phần giúp trước mắt vẫn là những việc phải theo nguồn riêng.
+
+Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Chương 63]], [[Chương 64]], [[Chương 66]].

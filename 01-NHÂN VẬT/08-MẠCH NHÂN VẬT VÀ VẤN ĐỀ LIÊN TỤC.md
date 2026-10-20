@@ -213,3 +213,19 @@ Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]], [[Chương
 - **Mất mát và học nghề:** Lâm Uyên gặp mùi thuốc chưa gọi được tên, nhờ báo Hứa Tĩnh Xuyên khi rảnh; chưa bài học mới/thuốc mới/năng lực tự trị. Mạnh Thanh Tễ đã mất13, tưởng niệm64, không sinh tử mới/chôn/trao di vật; Lâm Chinh vẫn UNKNOWN.
 
 Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]], [[Chương 47]], [[Chương 48]], [[Chương 58]], [[Chương 65]].
+
+## Tiến triển theo bản thảo Chương 67
+
+- **Hạn chiều16 đã trả:** Đào Thành Nghiệp tự tới đúng bàn Bùi Gia, giao dao riêng và Bùi Ninh Viễn nhận/cất túi; người nhận nhờ bàn chốt phần đã báo. Không tiếp để hẹn này như chưa thực hiện hoặc nhập dao mượn với dao cũ sứt.
+- **Chủ giỏ có tên và một việc hoàn thành:** CHAR-067 là người đã trực tiếp62, lần đầu có tên67. Ông mài đoạn dao cũ còn dùng, sửa quai giỏ dụng cụ riêng cho người dẫn đội/nhận đúng hai đồng sau thử; khung gãy vẫn mang về, chưa làm giỏ mới, chưa phục hồi cả nghề.
+- **Phạm vi giúp đỡ:** Bùi Ninh Viễn hỏi nguồn sửa khung/giới thiệu người dẫn đội và giữ đầu giỏ theo nhờ. Dao trả/giao dịch riêng không khép trách nhiệm nhà trú hoặc tạo tha thứ. Người làm giỏ biết vai người dẫn đội nhờ được giới thiệu67, không từng dự cuộc hẹn63.
+- **Thợ phụ có tin đối tiếp:** Bùi Khánh Vân báo đã gặp đúng người tại trạm khác hôm15, người nhà nhận tin theo địa chỉ bảng công. Chân còn xem, chưa cho làm lại; đây là tin tại bàn với Đào Thành Nghiệp, Lâm Uyên không tự biết vì POV đã chuyển.
+- **Bài học mùi thuốc đã thực hiện:** Hứa Tĩnh Xuyên chỉ mẫu quế/thẻ, nhận riêng nồi viện có dùng. Lâm Uyên chỉ nhìn/ngửi/hỏi khi nghỉ, không cầm mẫu, tự kê/chọn thuốc hoặc xác nhận nồi Hòa Sinh. Câu nhờ66 không còn là bài chưa diễn ra.
+- **Người chính không theo mọi chỗ:** Lâm Uyên ở viện cả chiều, chỉ nghe báo khi chủ giỏ về; không viết/mang đồ hoặc tăng tuvi. Tô Thanh Ly ở viện/tay phải còn thương, hỏi đúng phần việc mà không hứa thay nguồn tiền.
+- **Hẹn mới có điều kiện:** Sáng17 người giữ đồ lúc rảnh cho Đào Thành Nghiệp xem phần cần sửa; việc có nhận/giá còn phải bàn. Chưa viện thuê hoặc bảo đảm có khách tiếp, chưa biết giá thay khung.
+- **Kim và các tuyến khác:** Hồ Nhuận Chi trực tiếp hỏi, gói kim vẫn chưa về. Chỗ mẹ con ngày16 giữ theo tin66, không thêm quyết định xuất viện; nhà trú chưa sửa an toàn/nguyên nhân chưa chốt. HFS/Tô Lạc/miếng đồng/chìa/trang giữ nguồn cũ.
+- **Thuốc/tang/gia đình không bị tự giải ngoài cảnh:** Không báo mới Tạ Nghiên Chi/Phùng Quý Lương đã tới Tông hoặc lô hàng được xác minh; hai hòm bến vẫn ở viện từ47–48. Mạnh Thanh Tễ chết đêm13/tưởng niệm64, chưa chôn/trao đồ; Lâm Chinh UNKNOWN.
+
+Cuối67 vẫn chiều ngày16. Ch68 có thể theo hẹn sáng17 khi cần chuyển ngày, nhưng phải viết bước chuyển và kết quả thực tế thay vì ghi hẹn thành công việc đã nhận.
+
+Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Chương 62]], [[Chương 63]], [[Chương 64]], [[Chương 66]].

@@ -258,3 +258,22 @@ Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]], [[Chương
 Bản lời Trần Dực không đưa tới bàn người đặt hoặc đọc ra trong cuộc đối. Nguồn hai hòm bến ở viện47–48 giữ riêng với hòm núi; nguồn hàng thô là lời Phùng Quý Lương cần kiểm, không chứng nối Tả tiên sinh/Hắc Nha/chìa/trang. Tuổi46 của Phùng Quý Lương là thiết kế, trên trang chỉ ngoài40.
 
 Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]], [[Chương 58]], [[Chương 65]].
+
+## Tri thức theo bản thảo Chương 67
+
+| Người | Biết/nghe | Giới hạn |
+| --- | --- | --- |
+| Lâm Uyên | K: Hứa Tĩnh Xuyên đưa mẫu/thẻ tên quế, nhận nồi ở gian ngoài viện có dùng; nhớ hình vỏ và tên | Không nhận diện được nồi Hòa Sinh từ mùi tương tự, chưa biết công năng/liều hoặc quyền tự lấy thuốc |
+| Đào Thành Nghiệp/Bùi Ninh Viễn/người ở bàn | K: dao mượn được giao/nhận và cất lại túi riêng, dao cũ sứt/khung gãy là vật khác | Chưa khung đã sửa hoặc toàn nghề đã phục hồi; dao riêng không tự thành tiền đền nhà |
+| Đào Thành Nghiệp/người thuê/Bùi Ninh Viễn | K: chủ giỏ xem quai/chốt hai đồng, mài phần dao dùng được, sửa/cho thử đúng tải được hỏi rồi nhận tiền | Chỉ giỏ dụng cụ riêng của người thuê và phần quai này; chưa hợp đồng gia tộc/toàn món mới hoặc thu nhập ngày sau |
+| Đào Thành Nghiệp/người ở bàn ← Bùi Khánh Vân | R: bà đã sang trạm khác gặp đúng thợ phụ hôm15, chân còn xem; người nhà nhận tin theo địa chỉ bảng công | Không cảnh khám trực tiếp cho độc giả/Lâm Uyên; chưa kết luận đã bình phục, xuất trạm hoặc trở lại làm |
+| Đào Thành Nghiệp ← Bùi Ninh Viễn/người dẫn đội | K: được giới thiệu đúng người dẫn đội từng nhận việc63; người ấy nhận phần đã làm sáng15 | Chủ giỏ không có mặt cuộc hẹn63, không có trí nhớ tận mắt về cảnh ấy từ trước |
+| Lâm Uyên/Tô Thanh Ly/người trực ← Đào Thành Nghiệp | R: dao đã trả đúng người ở bàn; dao cũ mài một phần, đã sửa một quai/nhận hai đồng, khung chưa dùng ép giỏ | Không thấy buổi làm; lời báo này không kể tin thợ phụ/Bùi Khánh Vân nên chưa cấp phần ấy cho nhóm viện |
+| Hồ Nhuận Chi/người ở cửa gian bệnh | K/R: hỏi đồ kim chưa được đưa về, nghe khung còn gãy và dặn giữ thanh khô | Kim chưa thu khác mất hẳn; không biết mọi chi tiết giao dịch tại Bùi Gia |
+| Đào Thành Nghiệp/nhóm viện | K: người giữ đồ cho hỏi/xem phần cần sửa khi rảnh sáng17; giá/nhận việc phải bàn sau | Chưa viện thuê, cấp chỗ làm dài hạn/trả giá khung hoặc giỏ mới đủ dụng cụ |
+
+Tên Đào Thành Nghiệp được hỏi và nhắc đúng tại bàn; Lâm Uyên nghe/xác nhận tên khi người ấy về viện. Tuổi52 thuộc thiết kế hồ sơ, chưa được lời kể nêu. Cảnh ở Bùi Gia có ranh chuyển POV rõ; độc giả biết một việc không tự làm người đang ở viện biết.
+
+Tuyến thuốc dừng ở nguồn66, không có báo mới Tạ Nghiên Chi/Phùng Quý Lương đã tới Tông Sảnh hoặc lô hàng được kiểm xong. HFS/Tô Lạc/miếng đồng/chìa/trang không chứng cứ mới; sinh tử thật Lâm Chinh UNKNOWN.
+
+Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Chương 63]], [[Chương 66]].

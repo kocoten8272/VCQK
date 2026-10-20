@@ -101,3 +101,15 @@ Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
 - Chưa có kết luận nguyên nhân sập, lỗi kết cấu/trách nhiệm cuối, chứng minh mới về thợ phụ hoặc quan hệ mạng thuốc/Hắc Nha/Tả tiên sinh. Việc thực hiện lượt tiếp không xóa trách nhiệm đối lời hẹn xem nhà cũ; các thành viên khác chưa thành đã xuất hiện.
 
 Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].
+
+## Triển khai theo bản thảo Chương 67
+
+- Chiều ngày thứ mười sáu, bàn nhận việc đã giữ phần báo nhận dao riêng Bùi Ninh Viễn, người trực gọi đúng anh khi Đào Thành Nghiệp tới. Anh trực tiếp nhận, kiểm rồi cất về túi; lời hẹn dao mượn đã xong, không liên quan thẻ trực Hòa Sinh hoặc hồ sơ thuốc.
+- Đào Thành Nghiệp là người làm giỏ đã có mặt từ Chương 62, tên được nêu Chương 67, có hồ sơ CHAR-067 [[Đào Thành Nghiệp]]. Ông là chủ đồ/người dân tới trả dao và làm một việc riêng, không phải thành viên gia phả hoặc nhân công gia tộc đã được tuyển.
+- Khung giỏ vẫn gãy một cạnh, có nơi được chỉ để mang tới xem/thỏa giá nhưng chưa sửa. Bùi Ninh Viễn không tự định giá, sửa giỏ hoặc coi mượn dao là bồi thường nhà trú.
+- Qua giới thiệu hiện tại, Đào Thành Nghiệp biết người thợ lớn tuổi đã dẫn lượt; người thợ nhận đã làm lượt sáng mười lăm. Người ấy thuê ông vá quai giỏ dụng cụ **riêng**, cho mây sẵn, nhận giá hai đồng rồi thử sau khi làm và trả đủ; không là khoản gia tộc quyết bồi thường hoặc đảm bảo việc sau.
+- Người giữ chỗ cho dùng góc mài, Bùi Ninh Viễn chỉ giữ đầu giỏ theo lời chỉ. Dao cũ được chỉnh đủ làm việc nhỏ nhưng vết lõm còn, khung ép giỏ mới chưa dùng được; sinh kế mới khôi phục một phần hẹp, không hết thiệt hại hoặc hết trách nhiệm cũ.
+- Bùi Khánh Vân trực tiếp báo đã gặp đúng thợ phụ tại trạm hôm trước/ngày mười lăm và người nhà nhận tin theo địa chỉ bảng công. Giữ đây là lời bà báo về phần đã làm, chưa cảnh trạm/người bệnh đối độc lập; chân còn theo dõi, chưa trở lại làm, chưa quyết toàn bộ công/chi phí.
+- Nguyên nhân sập, trách nhiệm kết cấu cuối và phần đồ chưa lấy còn mở. Người khảo sát, người giữ bảng công, người dẫn đội, người phụ trách cứu và thợ phụ là các vai riêng; không nối Bùi Gia với mạng thuốc/Hắc Nha/Tả tiên sinh.
+
+Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Bùi Ninh Viễn]], [[Bùi Khánh Vân]], [[Đào Thành Nghiệp]].

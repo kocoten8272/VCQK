@@ -23,8 +23,9 @@ used_in_chapters:
   - 64
   - 65
   - 66
+  - 67
 created: 2026-10-08
-updated: 2026-10-19
+updated: 2026-10-20
 tags:
   - nhan-qua
   - cai-gia
@@ -34,7 +35,7 @@ tags:
 
 # PAT-001-Giới Hạn Làm Thay Đổi Lựa Chọn
 
-> Mẫu kỹ thuật do người viết thiết kế cho VCQK từ [[REF-001-Nguồn Về Sinh Tồn Và Giới Hạn]]. `ready` nghĩa là dùng được để lập cảnh; đã áp dụng có phạm vi ở bản thảo Chương 55–66.
+> Mẫu kỹ thuật do người viết thiết kế cho VCQK từ [[REF-001-Nguồn Về Sinh Tồn Và Giới Hạn]]. `ready` nghĩa là dùng được để lập cảnh; đã áp dụng có phạm vi ở bản thảo Chương 55–67.
 
 ## Vấn đề cần xử lý
 
@@ -158,3 +159,9 @@ Tra [[LOG-012-Áp Dụng Kỹ Thuật Trong Chương 65]]/[[REF-007-Nguồn Về
 Lâm Uyên đi một lượt được phép, giữ tay và bản lời riêng; không nhận thay điều Trần Dực chưa thấy. Phạm vi đối sổ cho phép lấy đúng tờ gốc mà phường còn tiếp công việc. Người cấp tiền phải rút yêu sách và nhận nghĩa vụ của mình, trong khi lời thay hàng chưa được chứng minh. Gần trưa, Lâm Uyên về nghỉ; chỗ mẹ con chỉ giữ cho hôm nay, dao chưa trả và học thuốc phải chờ người có nghề rảnh.
 
 Tra [[LOG-013-Áp Dụng Kỹ Thuật Trong Chương 66]]/[[REF-008-Nguồn Về Câu Hỏi Và Bước Ngoặt Cảnh]]. SEED-001/002 vẫn chưa dùng; đây là ghi nhận áp dụng, chưa có phản hồi độc giả hoặc bảo đảm hiệu quả/độ độc nhất.
+
+## Lần áp dụng tại bản thảo Chương 67
+
+Lâm Uyên ở viện vì giới hạn tay và chuyến đi buổi sáng; người làm nghề tự tới trả dao được. Bùi Ninh Viễn nhận lại dao riêng đúng hẹn. Đào Thành Nghiệp chọn mài dao cũ và nhận sửa một quai giỏ có vật liệu sẵn, nhận đủ hai đồng sau khi người thuê thử; khung gãy và việc làm giỏ mới vẫn chưa giải quyết. Hứa Tĩnh Xuyên chỉ đưa mẫu quế cho nhìn/ngửi có hướng dẫn, không trao quyền định thuốc. Nghĩa vụ đã khép và khả năng chưa đủ cùng có kết quả cụ thể, không mở lại thủ tục cho nguyên việc cũ.
+
+Tra [[LOG-014-Áp Dụng Kỹ Thuật Trong Chương 67]]/[[REF-009-Nguồn Về Vật Dụng Và Quan Hệ]]. SEED-001/002 vẫn chưa dùng, ghi chú tiếp tục `canonical: false`; chưa có phản hồi độc giả hoặc phép đo hiệu quả.

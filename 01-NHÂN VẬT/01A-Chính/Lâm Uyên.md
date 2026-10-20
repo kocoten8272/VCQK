@@ -245,3 +245,15 @@ Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]].
 - Dược Khế bảy tháng, quản thúc/hộ tống và tình trạng thật UNKNOWN của Lâm Chinh giữ nguyên. Gói kim, thi thể Tô Lạc/miếng đồng, nguyên nhân nhà sập và tình trạng mẫu thuốc/niêm chưa có lời giải mới.
 
 Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]].
+
+## Trạng thái mới theo bản thảo Chương 67
+
+- Chiều ngày thứ mười sáu ở Tế Sinh Viện sau lượt xe sáng đã được cho ở Chương 66. Vai còn mỏi nên không xin đi theo người làm giỏ tới Bùi Gia; giấy hộ tống đã được người trực cất. Không có lượt đi thứ hai, lao động nặng, cầm bút hoặc tự mở rộng quyền đi lại.
+- Hứa Tĩnh Xuyên đáp lời nhờ lúc sáng, cho ngửi/nhìn mẫu quế và thẻ tên. Lâm Uyên biết tên, nhớ hình mảnh vỏ cuộn; không nhận diện được nồi Hòa Sinh đun gì chỉ từ mùi gần giống, không được tự lấy thuốc theo mùi.
+- Nhận nhắc nghỉ, không cầm mẫu, giữ mẫu ở chỗ ăn, cân/phối thuốc hoặc tự chẩn trị. Hứa Tĩnh Xuyên trở lại việc gian thuốc; đây là một bài nhận diện nhỏ, không làm Lâm Uyên thành người có trình độ dược lý hoàn chỉnh hoặc thay thế Mạnh Thanh Tễ.
+- Không tận mắt dự buổi trả dao/sửa giỏ tại Bùi Gia. Cuối chiều nghe Đào Thành Nghiệp kể đã trả dao mượn đúng Bùi Ninh Viễn, tự mài dao cũ và nhận hai đồng tiền sửa một quai giỏ; xem phần mép dao còn lõm, không nhận hết hư hại hoặc đã được gia tộc bồi thường.
+- Biết đủ tên Đào Thành Nghiệp qua người trực hỏi lại để báo đúng nơi nhận đồ; tên mới nối đúng người làm giỏ ở Chương 62–66. Hỏi hai đồng có đủ thay khung, nghe ông còn phải mang đúng khung hỏi giá; không hứa tiền, việc mới hoặc nhận lời thuê thay viện.
+- Nghe Hồ Nhuận Chi hỏi gói kim, người trực báo chưa có món ấy đưa về. Không có tin mới về hồi phục, xuất viện hoặc gói kim tìm thấy.
+- Tay phải tiếp tục băng/đau, nhận chén bằng trái rồi đặt xuống khi được nhắc nghỉ; không có hồi phục mới, tăng tu vi hoặc giảm Dược Khế bảy tháng. Quản thúc/hộ tống, tình trạng thật UNKNOWN của Lâm Chinh và các bí mật đang mở giữ nguyên.
+
+Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Đào Thành Nghiệp]], [[Hứa Tĩnh Xuyên]].

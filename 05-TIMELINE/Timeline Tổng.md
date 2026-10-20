@@ -207,3 +207,20 @@ Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]], [[Chương
 Hai hòm bến vẫn ở viện từ47–48. Không có thêm thuốc/chữa lành/tuvi, không chôn hoặc trao di vật Mạnh Thanh Tễ; Lâm Chinh UNKNOWN, HFS/Tô Lạc/miếng đồng/chìa/trang chưa có kết quả mới. Dao cũ đã về64 và dao mượn hẹn trả chiều16 là hai vật riêng.
 
 Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]], [[Chương 47]], [[Chương 48]], [[Chương 58]], [[Chương 65]].
+
+## Sau trưa đến cuối chiều ngày thứ mười sáu — Chương 67
+
+| Thời điểm | Sự kiện đã viết | Giới hạn |
+| --- | --- | --- |
+| Sau trưa16 tại viện | Lâm Uyên thức sau nghỉ, chủ giỏ mang dao/đoạn khung để đi bàn Bùi Gia; người chính ở lại | Không chuyến đi mới của Lâm Uyên/Tô Thanh Ly, tay chưa lành/không viết hoặc mang đồ |
+| Cùng buổi tại hiên viện | Hứa Tĩnh Xuyên đáp câu nhờ sáng, chỉ mẫu quế/thẻ và riêng nồi viện có dùng rồi về việc | Lâm Uyên chỉ nhìn/ngửi/hỏi, không biết thành phần nồi Hòa Sinh hoặc quyền tự dùng thuốc |
+| Chiều16 tại bàn Bùi Gia, chuyển POV | Chủ giỏ tự nói tên Đào Thành Nghiệp, giao dao đúng bàn/hẹn; Bùi Ninh Viễn nhận/cất túi rồi nhờ bàn chốt phần báo | Hẹn trả dao hoàn thành; dao cũ và khung riêng vẫn còn hỏng |
+| Sau trả dao | Bùi Ninh Viễn giới thiệu đúng người dẫn đội đã có63, người ấy nhận phần làm15; Đào Thành Nghiệp xem quai giỏ riêng và chốt hai đồng/có mây | Người làm giỏ không từng dự cảnh hẹn63; không trả công gia tộc/bồi thường nhà hoặc thuê giỏ mới |
+| Trong lúc mài/sửa | Bùi Khánh Vân qua bàn, báo đã gặp đúng thợ phụ tại trạm khác hôm15/người nhà nhận tin rồi trở về bàn | Tin hôm15 qua lời kể67, không cảnh khám/xuất trạm/làm lại hoặc tri thức Lâm Uyên ở viện |
+| Cuối việc tại sân | Dao cũ mài phần dùng được, quai giỏ sửa xong/được thử, chủ nhận hai đồng; Bùi Ninh Viễn chỉ giữ đúng phần được nhờ | Khung ép vẫn gãy, chưa món mới/giá thay khung hoặc hợp đồng tiếp |
+| Cuối chiều16 tại viện, trở POV | Đào Thành Nghiệp về báo dao đã trả/việc sửa, nhóm nghe tên và phần ông kể; Hồ Nhuận Chi hỏi kim chưa về | Nhóm viện không chứng cảnh Bùi Gia hoặc được kể tin thợ phụ; kim chưa thu |
+| Trước kết chương | Người giữ đồ hẹn sáng17 rảnh cho xem món cần sửa; chủ giỏ ngồi chỗ được chỉ chẻ mây thừa | Chưa bước sang17/nhận việc/giá hoặc viện phải trả tiền; con dao dùng ở sân là dao cũ của chủ giỏ |
+
+Cuối67 vẫn chiều16. Lượt gặp thợ phụ hôm15 chỉ được biết qua Bùi Khánh Vân ở67, không dời ngày của tin62 hoặc thêm cảnh hồi tố. Dược Khế7–4tháng/quản thúc/kiếm bảo chứng và thương tay giữ; hai hòm bến ở viện47–48, tuyến thuốc theo66 không tự có kết quả mới, HFS/Tô Lạc/miếng đồng/chìa/trang/Lâm Chinh và tang Mạnh Thanh Tễ chưa đổi.
+
+Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Chương 62]], [[Chương 63]], [[Chương 64]], [[Chương 66]].

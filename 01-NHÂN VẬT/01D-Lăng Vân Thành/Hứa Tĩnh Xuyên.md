@@ -5,7 +5,7 @@ importance-tier: C
 vai-tro: nhan-vat-phu
 status: da-xuat-hien
 created: 2026-10-19
-updated: 2026-10-19
+updated: 2026-10-20
 tags:
   - nhan-vat
   - te-sinh-vien
@@ -27,7 +27,7 @@ tags:
 | Giới tính / tuổi trên trang | Nam, ngoài bốn mươi theo Chương 64 |
 | Tuổi thiết kế | 44, tự thiết kế ngày 2026-10-19 theo [[11_AUTONOMOUS_STORY_DESIGN]]; chưa nêu tuổi chính xác trong chương |
 | Lần đầu nhận diện | Vai giám dược hẹn học tối Chương 63; tên và nhận diện rõ ở Chương 64 |
-| Nơi / tình trạng mới nhất | Còn sống, làm tại gian thuốc buổi sáng ngày thứ mười lăm |
+| Nơi / tình trạng mới nhất | Còn sống, tại Tế Sinh Viện chiều ngày thứ mười sáu; sau bài mẫu quế trở lại gian thuốc |
 | Gia đình / nơi ở riêng / tiền công | UNKNOWN; không tự tạo vợ con, thân tộc, nguồn lương hoặc quá khứ nghèo khổ |
 | Tu vi / công pháp / pháp khí | UNKNOWN; nghề giám dược không chứng minh tu hành |
 
@@ -97,3 +97,13 @@ Thiết kế thường lệ được phát triển theo quyền tự chủ tác 
 - Nguồn dữ kiện: [[Chương 63]], [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].
 - Nguồn thiết kế: [[11_AUTONOMOUS_STORY_DESIGN]], [[MẪU HỒ SƠ NHÂN VẬT]].
 - Tra cứu: [[02-SỔ CÁI NHÂN VẬT]], [[00-DANH MỤC NHÂN VẬT]], [[03-SỔ THEO DÕI LẦN XUẤT HIỆN]], [[05-MA TRẬN TRI THỨC]].
+
+## Bài hướng dẫn theo bản thảo Chương 67
+
+- Chiều ngày thứ mười sáu tại hiên Tế Sinh Viện, đáp lời nhờ sáng Chương 66 khi có thời gian, mang hộp mẫu gỗ nhỏ; hỏi Lâm Uyên nghe mùi ở chỗ nào trong viện rồi cho ngửi/nhìn mẫu quế cùng thẻ tên.
+- Chỉ xác nhận nồi gian ngoài của viện có dùng vị ấy. Không ở Hòa Sinh để biết nồi bên đó đun gì, không suy cùng mùi là cùng nồi thuốc, cùng đơn hoặc cùng nguồn hàng; mẫu này không là vật chứng tuyến thuốc đang kiểm.
+- Dạy phải đối đúng vật và phần người có nghề giao, không tự chọn ngăn theo mùi từ xa. Cho nhìn hai mặt mảnh vỏ, đọc tên rồi cất hộp; Lâm Uyên không cầm/giữ mẫu, tự lấy, cân/phối thuốc hoặc có quyền chẩn trị.
+- Bài ngắn rồi ông về gian thuốc, cuối chiều còn đối lượt cuối. Hộp/mẫu/thẻ là đồ làm việc của người có nghề, không trao thành di sản, pháp khí hoặc tín vật thu đồ đệ.
+- Không đồng nhất ông với y sư cho Lâm Uyên đi xe sáng Chương 66, người thay băng hoặc mọi ca giám dược cũ. Tuổi 44 vẫn thiết kế, tu vi/đời riêng UNKNOWN; không thay Mạnh Thanh Tễ hoặc chữa xong đau buồn.
+
+Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]].

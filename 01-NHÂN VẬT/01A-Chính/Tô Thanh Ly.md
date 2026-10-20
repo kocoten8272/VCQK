@@ -194,3 +194,13 @@ Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]].
 - Dược Khế bốn tháng, kiếm làm bảo chứng và quản thúc/hộ tống giữ nguyên. Không có kết quả mới chìa/trang mất, nguyên nhân nhà sập, Hắc Nha/Tả tiên sinh hoặc sinh tử thật của Lâm Chinh.
 
 Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]].
+
+## Trạng thái mới theo bản thảo Chương 67
+
+- Chiều ngày thứ mười sáu ở Tế Sinh Viện, ngồi tại hiên cùng Lâm Uyên, nhờ người trực mang chén; tay phải giữ yên, không có hồi phục mới hoặc lượt ra ngoài thứ hai.
+- Hỏi Lâm Uyên tên vị vừa được học, nghe quế; không tuyên bố hắn đã biết thuốc hoặc thay phần hướng dẫn chuyên môn của Hứa Tĩnh Xuyên.
+- Cuối chiều nghe Đào Thành Nghiệp báo đã trả dao, nhận công sửa quai giỏ và khung còn gãy. Hỏi chỗ đợi có đủ sáng làm việc nhỏ, nhờ giữ phần chỉ đường tới nơi thay cạnh khung; không hứa viện sẽ trả tiền sửa hoặc có khách thuê tiếp.
+- Chỉ người giữ đồ để Đào Thành Nghiệp hỏi đúng việc có thể nhận. Người ấy mới hẹn sáng mai lúc rảnh cho nhìn phần cần xem; chưa có đơn thuê, giá hoặc quyền tự sửa mọi đồ rồi đòi viện thanh toán.
+- Không dự trực tiếp cảnh Bùi Gia, không xác nhận thay lời Bùi Khánh Vân về thợ phụ. Dược Khế bốn tháng, kiếm bảo chứng, tay phải thương và quản thúc/hộ tống giữ nguyên.
+
+Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Đào Thành Nghiệp]].

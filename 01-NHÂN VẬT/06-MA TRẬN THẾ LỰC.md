@@ -189,3 +189,18 @@ Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]], [[Chương
 - **Tầng thế lực:** Hòa Sinh/FAC-019 được làm rõ trách nhiệm bàn và người đặt, chưa chứng cùng Hắc Nha/Tả tiên sinh/nhóm áo đen. Nhà trú/HFS/chìa/trang giữ nguồn riêng; tuvi/Dược Khế7–4 tháng/quản thúc/kiếm bảo chứng không đổi.
 
 Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]], [[Chương 58]], [[Chương 65]].
+
+## Phạm vi nghề nghiệp và quyền hạn Chương 67
+
+- **Bùi Gia/bàn nhận việc:** Người trực nhận theo lời đã báo, gọi Bùi Ninh Viễn và được nhờ chốt phần nhận dao. Không phải một cơ quan quyết toàn việc nhà trú, không phát khoản bồi thường mới từ việc trả đồ riêng.
+- **Bùi Ninh Viễn CHAR-026:** Nhận dao của mình về túi, hỏi chỗ thay cạnh khung, giới thiệu đúng người dẫn đội đã có vai63; giúp giữ giỏ đúng yêu cầu trong lúc chờ việc. Không mặc định có quyền bảo đảm mọi sửa chữa/thuê thợ hoặc kỹ năng đan giỏ.
+- **Đào Thành Nghiệp CHAR-067:** Chủ giỏ đã lên trang62 nay có tên, nhận đúng việc sửa quai mình làm được; tự báo giá/nhận hai đồng. Khung ép còn gãy, dao cũ chỉ sửa một phần; không thành chủ xưởng, thành viên Bùi Gia hoặc tu sĩ nhờ công sửa.
+- **Người dẫn đội/việc thuê riêng:** Người ấy tự thuê sửa quai giỏ dụng cụ, có mây thay và trả công sau thử. Đây không là tiền Bùi Gia bồi thường/viện cấp, không thuê cả đời hoặc bảo đảm sinh kế.
+- **Bùi Khánh Vân/bảng công:** Báo đã đối đúng người tại trạm khác ngày15 và người nhà nhận tin theo địa chỉ bảng công. Không nhận quyền y sư cho trở lại làm, không tự gỡ trách nhiệm công trình.
+- **Tế Sinh Viện/Hứa Tĩnh Xuyên:** Chỉ mẫu quế/thẻ, nhận riêng nồi viện dùng vị ấy; giữ mẫu ở hộp và trở lại việc. Lâm Uyên không tự chọn/kê thuốc, không suy nồi Hòa Sinh cùng thành phần.
+- **Viện/người giữ đồ:** Chỉ chỗ ngồi/làm sạch, cho hẹn sáng17 rảnh xem món cần sửa rồi mới bàn việc/giá. Tô Thanh Ly không thay viện hứa tiền khung hoặc thuê mọi đồ hỏng.
+- **Các quyền và nghĩa vụ còn giữ:** Hai tay người chính chưa lành; chiều67 ở viện, không chuyến hộ tống mới. Dược Khế7–4tháng/quản thúc/kiếm bảo chứng giữ, tuyến Hòa Sinh/Tông theo66 chưa có phán quyết hoặc hoạt động mới trong67.
+
+Đồ thường không tạo thế lực/lore mới. Giao dịch hai đồng có kết quả cụ thể nhưng không kết luận nguyên nhân nhà sập, trách nhiệm Bùi Gia hoặc nối mạng thuốc/Hắc Nha/Tả tiên sinh.
+
+Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Chương 63]], [[Chương 66]].

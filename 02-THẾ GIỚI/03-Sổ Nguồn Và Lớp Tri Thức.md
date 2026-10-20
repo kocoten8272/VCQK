@@ -248,3 +248,20 @@ Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]], [[Chương
 Tổng lore79 giữ; CHAR-066 là hồ sơ nhân vật, không tạo lore/vật phẩm mới từ khế/phiếu cân thường. Nguồn biên tập bên ngoài không là tri thức tự biết của người trong truyện. Hai hòm bến ở viện47–48; các mạng Hắc Nha/Tả tiên sinh/chìa/trang chưa được nối bởi lời về hàng thô.
 
 Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]], [[Chương 47]], [[Chương 48]], [[Chương 58]], [[Chương 65]].
+
+## Đối chiếu có phạm vi sau Chương 67 — 2026-10-20
+
+| Mệnh đề | Nguồn/lớp | Giới hạn |
+| --- | --- | --- |
+| Đào Thành Nghiệp CHAR-067 | DRAFT TEXT67: cùng chủ giỏ đã trực tiếp62; lần đầu tự nói tên ở bàn, nhóm viện nghe tên khi về | Tuổi52 là thiết kế hồ sơ, chưa nêu trên trang; không thêm dòng họ/tổ chức/tuvi từ nghề |
+| Dao riêng đã trả đúng hạn | DRAFT TEXT67 trong POV Đào Thành Nghiệp: giao chiều16, Bùi Ninh Viễn xem/nhận/cất túi, nhờ bàn chốt phần nhận | Lâm Uyên chỉ nghe chủ báo khi về, không nhân chứng trực tiếp; dao cũ sứt/khung gãy là vật khác |
+| Sửa quai giỏ/nhận hai đồng | DRAFT TEXT67: giao dịch riêng với người dẫn đội, có mây/đá mài, thử phần quai rồi trả công | Không bồi thường Bùi Gia/viện hoặc hợp đồng nghề mới; khung chưa dùng ép giỏ mới, dao chỉ mài đoạn dùng được |
+| Nhận diện người dẫn đội | DRAFT TEXT67: Bùi Ninh Viễn giới thiệu vai đã có63, người ấy nhận phần làm15 | Chủ giỏ không có mặt cuộc hẹn63; không gán trí nhớ trực tiếp về cảnh cũ cho người vắng mặt |
+| Thợ phụ/nhà đã nhận tin | CHARACTER REPORT67 của Bùi Khánh Vân: bà sang trạm khác gặp hôm15, người nhà nhận tin theo địa chỉ bảng công | Chân còn cần xem, chưa khỏi/xuất trạm/làm lại; Lâm Uyên không nghe tin này tại viện |
+| Mùi quế | DRAFT TEXT67: Hứa Tĩnh Xuyên đưa mẫu/thẻ, nhận nồi gian ngoài viện có vị ấy; Lâm Uyên nhìn/ngửi | Không xác định nồi Hòa Sinh từ mùi giống, không công năng/liều thuốc hoặc quyền tự chọn/kê |
+| Kim/khung còn thiếu | DRAFT TEXT67: Hồ Nhuận Chi hỏi kim chưa về, chủ giỏ giữ thanh khung gãy/dao chỉ sửa một phần | Chưa mất hẳn kim, chưa toàn đồ nghề phục hồi hoặc nguyên nhân làm hỏng được chứng minh |
+| Việc sửa ở viện ngày sau | DRAFT TEXT67: người giữ đồ nhận sáng17 rảnh cho xem phần cần sửa, giá/nhận việc để sau | Chỉ một lượt xem có điều kiện, không viện đã thuê/trả khung hoặc bảo đảm thu nhập |
+
+Tổng lore79 giữ; CHAR-067 là hồ sơ người, không tạo lore/pháp khí cho dao/khung/mây/quế thông thường hoặc đồng tiền. Chuyển POV tách điều độc giả chứng kiến với điều Lâm Uyên được kể. Nguồn biên tập bên ngoài không tự thành kiến thức dược lý/canon thế giới.
+
+Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Chương 62]], [[Chương 63]], [[Chương 64]], [[Chương 66]].

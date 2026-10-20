@@ -5,7 +5,7 @@ importance-tier: C
 vai-tro: nhan-vat-phu
 status: da-xuat-hien
 created: 2026-10-13
-updated: 2026-10-19
+updated: 2026-10-20
 tags:
   - nhan-vat
   - nam-pho
@@ -95,3 +95,12 @@ Nguồn: [[Chương 62]], [[Trạng Thái Truyện Sau Chương 62]].
 - Giới hạn thương tích/cần theo dõi, giỏ áo ở viện và chưa xác nhận chỗ ở/khỏi/xuất viện giữ như nguồn trước. Không có nguồn xác nhận gói kim mất hẳn hoặc đã lấy.
 
 Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].
+
+## Trạng thái mới theo bản thảo Chương 67
+
+- Cuối chiều ngày thứ mười sáu còn ở gian bệnh Tế Sinh Viện, hỏi qua người trực ai vừa về. Nghe báo người làm giỏ đã trả dao và có một món sửa được nhận công; không trực tiếp dự buổi ở Bùi Gia hoặc tự biết mọi phần thương lượng.
+- Nhờ giữ giỏ áo ở chỗ đã biết, hỏi gói kim; người trực đáp phần nhờ tìm vẫn còn, chưa có món ấy đưa về. Không xác nhận gói kim mất hẳn, được thu hồi hoặc đã có đồ thay.
+- Nói ngắn với Đào Thành Nghiệp từ trong gian: hỏi khung, nghe vẫn gãy rồi nhắc giữ thanh còn dùng cho khô. Hai người có trao đổi cụ thể về đồ nghề, chưa xác nhận thân hữu lâu năm, họ hàng hoặc làm chung một nghề.
+- Lời thoại không là kết quả khám hoặc bằng chứng chân/hơi thở đã hồi phục. Vẫn ở viện, chưa xuất viện/chuyển chỗ/làm nghề trở lại; người làm giỏ chỉ chào ngoài cửa, không đứng sát giường kể cả buổi làm.
+
+Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Đào Thành Nghiệp]].

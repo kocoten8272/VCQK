@@ -244,3 +244,20 @@ Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]].
 Chỗ mẹ con Khương Tố Nương được báo đã giữ cho ngày16 theo điều kiện cũ; người mẹ vẫn là bệnh nhân. Chủ giỏ vẫn giữ hẹn dao chiều16, chưa có hành động trả tại Bùi Gia.
 
 Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]].
+
+## Quan hệ theo bản thảo Chương 67
+
+| Người | Liên hệ/chuyển biến | Giới hạn |
+| --- | --- | --- |
+| Đào Thành Nghiệp → Bùi Ninh Viễn | Đến đúng bàn hẹn, tự giao dao riêng để người cho mượn xem/nhận; Bùi Ninh Viễn nhờ bàn chốt phần nhận đã được báo | Dao đã về túi Bùi Ninh Viễn, không còn khoản mượn chờ trả; không thanh toán trách nhiệm nhà trú hoặc đồng nghĩa tha lỗi |
+| Bùi Ninh Viễn → Đào Thành Nghiệp | Hỏi nơi thay cạnh khung, giới thiệu đúng người dẫn đội, chỉ giữ đầu giỏ khi được nhờ/đúng chỗ | Hỗ trợ theo nghề/phạm vi, không tự biết sửa mọi khung hoặc giỏi đan giỏ; chưa bảo đảm việc thuê tiếp |
+| Người dẫn đội → Đào Thành Nghiệp | Thuê sửa quai giỏ dụng cụ của chính mình, nhận giá hai đồng/có mây, thử món hoàn thành rồi trả đủ | Giao dịch riêng, không bồi thường của Bùi Gia/ứng công toàn nghề hoặc ký hợp đồng lâu dài |
+| Bùi Khánh Vân → thợ phụ/người nhà | Báo đã gặp đúng người tại trạm khác hôm15, người nhà nhận tin theo địa chỉ bảng công; không gọi trở lại chỉ vì tìm được | Tin qua lời bà, chân người thợ còn cần xem; không xác nhận khỏi thương/ra trạm/đã làm lại hoặc họ hàng mới |
+| Hứa Tĩnh Xuyên → Lâm Uyên | Đáp câu nhờ66 bằng mẫu quế/thẻ tên, chỉ cách đối đúng phần được người có nghề giao | Buổi học mẫu ngắn, không nhận thầy trò thay Mạnh Thanh Tễ/truyền thừa hoặc quyền tự kê |
+| Đào Thành Nghiệp → Lâm Uyên/Tô Thanh Ly | Trở lại viện báo trả dao, sửa quai/nhận công, nói rõ khung còn phải thay/giỏ mới chưa nhận | Nhóm viện chỉ nghe phần được kể; không dùng tin để hứa viện trả khung hoặc có khách ngày mai |
+| Đào Thành Nghiệp ↔ Hồ Nhuận Chi | Hỏi đúng phần khung/kim còn thiếu, giữ phần đồ có thể dùng | Chia sẻ việc trước mắt, không người thân/thân hữu lâu năm mới được suy ra hoặc mất mát đã giải |
+| Tô Thanh Ly → Đào Thành Nghiệp/người giữ đồ | Chỉ đúng nơi hỏi việc, nhờ giữ chỉ đường; người giữ đồ nhận sáng17 rảnh sẽ cho xem phần cần sửa | Chưa giao việc/định giá hoặc thay viện chấp nhận mọi khoản công |
+
+Lâm Uyên ở viện cả chiều, nhận người khác có thể tự đi trả món mượn; không cần được kể toàn bộ cuộc trao đổi ở bàn Bùi Gia để có quan hệ hay tri thức mới.
+
+Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Chương 63]], [[Chương 66]].
