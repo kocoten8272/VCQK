@@ -160,3 +160,9 @@ Tổng cộng **79 hồ sơ nguồn** trong các nhóm thế giới, tu luyện,
 3. Sau chương được duyệt, cập nhật node bị tác động và ghi chương/đoạn nguồn, tri thức nhân vật, tri thức độc giả, sự thật tác giả xác nhận và phần còn mở.
 4. Nếu phát hiện mâu thuẫn, ghi cả hai nguồn, mức ảnh hưởng và đưa vào author review; không sửa một nguồn để xóa dấu mâu thuẫn.
 5. Tách hồ sơ đề xuất khỏi sự kiện đã xảy ra.
+
+## Mốc sử dụng bản thảo — Chương 68
+
+FAC-015 [[Thủ Danh Phường]] lần đầu trực tiếp qua Vệ Thu Nghi (CHAR-068), nhận phần đối tên/nơi chôn trong lượt Tế Sinh Viện thu xếp an táng Mạnh Thanh Tễ chiều ngày mười bảy. Chỉ hoạt động có nguồn trong [[Chương 68]] được ghi đã diễn ra: hỗ trợ lượt mai táng, giữ bản chỉ nơi/nguồn/đầu mối tiếp; chưa tìm được thân nhân, chưa nhận sổ nghề/túi thuốc hoặc quyền định di sản. Các hướng dài hạn giữ nhãn thiết kế trong hồ sơ chính.
+
+Tổng lore vẫn **79 hồ sơ nguồn**: nhân vật mới ở sổ CHAR, bãi chôn ngoài thành trong cảnh chưa có tên riêng hoặc lý do cần hồ sơ lore riêng, bản chỉ đường là vật thường. Không tạo node trùng hoặc gán quyền luật/pháp thuật vì phường đã lên trang. Nguồn và phần còn mở: [[Trạng Thái Truyện Sau Chương 68]], [[03-Sổ Nguồn Và Lớp Tri Thức]].

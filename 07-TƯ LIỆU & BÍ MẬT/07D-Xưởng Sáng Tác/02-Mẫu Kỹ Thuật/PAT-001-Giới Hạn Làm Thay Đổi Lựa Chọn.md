@@ -24,8 +24,9 @@ used_in_chapters:
   - 65
   - 66
   - 67
+  - 68
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 tags:
   - nhan-qua
   - cai-gia
@@ -35,7 +36,7 @@ tags:
 
 # PAT-001-Giới Hạn Làm Thay Đổi Lựa Chọn
 
-> Mẫu kỹ thuật do người viết thiết kế cho VCQK từ [[REF-001-Nguồn Về Sinh Tồn Và Giới Hạn]]. `ready` nghĩa là dùng được để lập cảnh; đã áp dụng có phạm vi ở bản thảo Chương 55–67.
+> Mẫu kỹ thuật do người viết thiết kế cho VCQK từ [[REF-001-Nguồn Về Sinh Tồn Và Giới Hạn]]. `ready` nghĩa là dùng được để lập cảnh; đã áp dụng có phạm vi ở bản thảo Chương 55–68.
 
 ## Vấn đề cần xử lý
 
@@ -165,3 +166,9 @@ Tra [[LOG-013-Áp Dụng Kỹ Thuật Trong Chương 66]]/[[REF-008-Nguồn Về
 Lâm Uyên ở viện vì giới hạn tay và chuyến đi buổi sáng; người làm nghề tự tới trả dao được. Bùi Ninh Viễn nhận lại dao riêng đúng hẹn. Đào Thành Nghiệp chọn mài dao cũ và nhận sửa một quai giỏ có vật liệu sẵn, nhận đủ hai đồng sau khi người thuê thử; khung gãy và việc làm giỏ mới vẫn chưa giải quyết. Hứa Tĩnh Xuyên chỉ đưa mẫu quế cho nhìn/ngửi có hướng dẫn, không trao quyền định thuốc. Nghĩa vụ đã khép và khả năng chưa đủ cùng có kết quả cụ thể, không mở lại thủ tục cho nguyên việc cũ.
 
 Tra [[LOG-014-Áp Dụng Kỹ Thuật Trong Chương 67]]/[[REF-009-Nguồn Về Vật Dụng Và Quan Hệ]]. SEED-001/002 vẫn chưa dùng, ghi chú tiếp tục `canonical: false`; chưa có phản hồi độc giả hoặc phép đo hiệu quả.
+
+## Lần áp dụng tại bản thảo Chương 68
+
+Lâm Uyên muốn hoãn nhưng chọn đi tiễn theo sức, dùng xe và báo khi mỏi; người có quyền nhận thu xếp an táng, người có nghề giữ đúng tên/nơi chôn. Gia đình chưa được liên hệ không bị coi là không còn; tuổi/quê chưa biết không được điền đoán. Quan tài đã rời viện và việc chôn cất đã hoàn tất, trong khi tìm thân nhân và giữ đồ riêng vẫn tiếp. Đào Thành Nghiệp không nhận sửa đáy giỏ vượt dụng cụ hiện có; chỗ mẹ con chỉ được xác nhận cho ngày 17. Giới hạn làm thay đổi hành động và phần việc nhận, không xóa kết quả đã đạt hoặc tự kéo dài hẹn trả dao đã xong.
+
+Tra [[LOG-015-Áp Dụng Kỹ Thuật Trong Chương 68]]/[[REF-010-Nguồn Về Tang Chế Và Việc Người Sống]]. SEED-001/002 vẫn chưa dùng, ghi chú giữ `canonical: false`; việc an táng có kết quả không được gọi là đã chữa lành nỗi buồn hoặc hiệu quả đã đo ở độc giả.

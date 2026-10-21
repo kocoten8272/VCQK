@@ -45,7 +45,7 @@ Mẫu dùng khi lập hồ sơ: [Mẫu Hồ Sơ Nhân Vật](M%E1%BA%AAU%20H%E1%
 | `01E-Vân Châu` | Liễu Gia, Kiếm Các, Thính Phong Lâu, Thương Hội, Tầm Chân Ti | Nhân vật mới của các thế lực cấp châu |
 | `01F-Thế Lực Bí Ẩn` | Vĩnh Sinh Môn, Di Kỷ Tộc và nhân vật chưa thể xếp công khai | Chuyển sang nhóm địa bàn/thế lực phù hợp khi thân phận được xác nhận rõ |
 
-Tính đến Chương 67, sổ cái có **67 hồ sơ cá nhân**, trong đó **26 hồ sơ mang trạng thái `da-xuat-hien`**. Các trạng thái `dang-phat-trien`, sống/chết và chỉ được nhắc đến được theo dõi riêng tại [[02-SỔ CÁI NHÂN VẬT]].
+Tính đến Chương 68, sổ cái có **68 hồ sơ cá nhân**, trong đó **27 hồ sơ mang trạng thái `da-xuat-hien`**. Các trạng thái `dang-phat-trien`, sống/chết và chỉ được nhắc đến được theo dõi riêng tại [[02-SỔ CÁI NHÂN VẬT]].
 
 ## Danh sách hồ sơ theo tuyến
 
@@ -80,6 +80,8 @@ Tính đến Chương 67, sổ cái có **67 hồ sơ cá nhân**, trong đó **
 - [Tần Hạo](01C-T%C3%B4%20Gia/T%E1%BA%A7n%20H%E1%BA%A1o.md) — `chua-xuat-hien`
 
 ### 01D-Lăng Vân Thành
+
+- [Vệ Thu Nghi](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/V%E1%BB%87%20Thu%20Nghi.md) — `da-xuat-hien` — CHAR-068, hạng C; người Thủ Danh Phường trực tiếp Chương 68, đối tên/nơi chôn và hỗ trợ lượt mai táng Mạnh Thanh Tễ; không là chủ phường hoặc người đã tìm được thân nhân.
 
 - [Đào Thành Nghiệp](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/%C4%90%C3%A0o%20Th%C3%A0nh%20Nghi%E1%BB%87p.md) — `da-xuat-hien` — CHAR-067, hạng C; người làm giỏ Chương 62–66, tự tên Chương 67, đã trả dao mượn và nhận công sửa quai riêng hai đồng; khung vẫn gãy.
 
@@ -145,7 +147,7 @@ Tính đến Chương 67, sổ cái có **67 hồ sơ cá nhân**, trong đó **
 - [Người Áo Đen (chưa rõ danh tính)](01F-Th%E1%BA%BF%20L%E1%BB%B1c%20B%C3%AD%20%E1%BA%A8n/Ng%C6%B0%E1%BB%9Di%20%C3%81o%20%C4%90en%20%28ch%C6%B0a%20r%C3%B5%20danh%20t%C3%ADnh%29.md) — `da-xuat-hien`
 - [Hắc Nha](01F-Th%E1%BA%BF%20L%E1%BB%B1c%20B%C3%AD%20%E1%BA%A8n/H%E1%BA%AFc%20Nha.md) — `chua-xuat-hien`
 
-## Nhân vật đã xuất hiện trong truyện (đối chiếu đến hết Chương 67)
+## Nhân vật đã xuất hiện trong truyện (đối chiếu đến hết Chương 68)
 
 > Danh sách này chỉ ghi người có mặt trong cảnh, được gọi tên trong lời kể/hồi ức có căn cứ, hoặc có vai trò cá nhân rõ. Nhân vật đề xuất và người chỉ được nhắc qua lời khai được tách riêng. Hồ sơ vẫn có thể ghi tuổi, cảnh giới hoặc quá khứ là “chưa nêu” nếu bản thảo chưa xác nhận.
 
@@ -170,6 +172,8 @@ Tính đến Chương 67, sổ cái có **67 hồ sơ cá nhân**, trong đó **
 
 ### Lăng Vân Thành và Tế Sinh Viện
 
+- [Vệ Thu Nghi](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/V%E1%BB%87%20Thu%20Nghi.md) — `da-xuat-hien` — CHAR-068, hạng C; người Thủ Danh Phường trực tiếp Chương 68, đối tên/nơi chôn và hỗ trợ lượt mai táng Mạnh Thanh Tễ; không là chủ phường hoặc người đã tìm được thân nhân.
+
 - [Đào Thành Nghiệp](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/%C4%90%C3%A0o%20Th%C3%A0nh%20Nghi%E1%BB%87p.md) — CHAR-067, hạng C; cùng người làm giỏ ôm bao từ Chương 62, tên lần đầu Chương 67; nhận công cho việc thực đã làm, chưa khôi phục đủ nghề hoặc được bồi thường nhà trú.
 
 - [Phùng Quý Lương](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Ph%C3%B9ng%20Qu%C3%BD%20L%C6%B0%C6%A1ng.md) — CHAR-066, hạng C; lần đầu trực tiếp Chương 66, ký nhận gửi yêu cầu/nguồn tiền và thu yêu sách ép lời; chưa chứng minh hàng thô bị thay hoặc liên hệ Hắc Nha/Tả tiên sinh.
@@ -185,7 +189,7 @@ Tính đến Chương 67, sổ cái có **67 hồ sơ cá nhân**, trong đó **
 - [Đỗ Hoài Chương](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/%C4%90%E1%BB%97%20Ho%C3%A0i%20Ch%C6%B0%C6%A1ng.md) — trực tiếp xuất hiện Chương 54, thợ sửa sách nhà hong.
 
 - [Lão Bán Pháp Khí](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/L%C3%A3o%20B%C3%A1n%20Ph%C3%A1p%20Kh%C3%AD.md) — biệt danh nghề nghiệp; tên thật chưa nêu.
-- [Mạnh Thanh Tễ](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/M%E1%BA%A1nh%20Thanh%20T%E1%BB%85.md) — qua đời trong đêm ngày13 theo bản thảo Chương 60; Chương 64 thực sự tưởng niệm giữa buổi sáng ngày mười lăm, quan tài ở gian yên/nắp riêng, chưa chôn cất/bàn giao đồ hoặc tìm được thân nhân.
+- [Mạnh Thanh Tễ](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/M%E1%BA%A1nh%20Thanh%20T%E1%BB%85.md) — qua đời trong đêm ngày13 theo bản thảo Chương 60; Chương 64 đã tưởng niệm; Chương 68 viện thu xếp an táng thực chiều mười bảy ngoài thành, có dấu tên và bản chỉ nơi. Thân nhân chưa hồi đáp xác nhận; đồ riêng vẫn viện giữ, không giao cho Lâm Uyên.
 - [Hứa Tĩnh Xuyên](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/H%E1%BB%A9a%20T%C4%A9nh%20Xuy%C3%AAn.md) — CHAR-064, hạng C; giám dược hẹn học tối Chương 63 được gọi tên Chương 64, cho Lâm Uyên quan sát nghe/hỏi có kiểm; không phải sư phụ thay thế.
 - [Trần Dực](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/Tr%E1%BA%A7n%20D%E1%BB%B1c.md) — Chương 65 đã nhận lượt hỏi ngắn chiều mười lăm theo y sư, giữ đúng chưa biết bên trong hòm dài; mệt thì dừng, tay trái không có vận động mới.
 - [Tạ Nghiên Chi](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/T%E1%BA%A1%20Nghi%C3%AAn%20Chi.md)

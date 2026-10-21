@@ -13,6 +13,8 @@ Nhân vật dân sinh, Tế Sinh Viện, Nam Phố và các cơ quan/nhà có ho
 
 ## Tuyến hiện có trong bản thảo
 
+- [Vệ Thu Nghi](V%E1%BB%87%20Thu%20Nghi.md) — `da-xuat-hien` — CHAR-068, hạng C; người Thủ Danh Phường nhận đối tên/nơi chôn trong lượt viện thu xếp an táng Mạnh Thanh Tễ chiều mười bảy. Ngoài bốn mươi trên trang, tuổi 42 chỉ thiết kế; không là chủ phường, không hứa tìm được thân nhân.
+
 - [Đào Thành Nghiệp](%C4%90%C3%A0o%20Th%C3%A0nh%20Nghi%E1%BB%87p.md) — `da-xuat-hien` — CHAR-067, hạng C; người làm giỏ từ Chương 62, tên Chương 67. Chiều mười sáu trả dao riêng Bùi Ninh Viễn, sửa quai giỏ riêng cho người thợ và nhận hai đồng; khung còn gãy, chưa có bồi thường hoặc việc dài hạn.
 
 - [Phùng Quý Lương](Ph%C3%B9ng%20Qu%C3%BD%20L%C6%B0%C6%A1ng.md) — `da-xuat-hien` — CHAR-066, hạng C; người gửi yêu cầu/cấp tiền mua ba hiệu, lần đầu trực tiếp Chương 66. Nhận bảo lãnh hàng thô và thu yêu sách ép lời; nghĩa vụ có khế, lời hàng bị thay chưa kiểm, không gộp người chạy quầy hoặc Hắc Nha/Tả tiên sinh.
@@ -23,17 +25,17 @@ Nhân vật dân sinh, Tế Sinh Viện, Nam Phố và các cơ quan/nhà có ho
 
 - [Lão Bán Pháp Khí](L%C3%A3o%20B%C3%A1n%20Ph%C3%A1p%20Kh%C3%AD.md) — `da-xuat-hien` — Chủ quầy pháp khí cũ trong Chợ Tu Hành phía đông Lăng Vân Thành, người bán cho Lâm Uyên thanh đoản đao và bình thuốc cầm máu.
 - [Lưu Định](L%C6%B0u%20%C4%90%E1%BB%8Bnh.md) — `da-xuat-hien` — Phu xe chở thuê bị thương trong lúc xe chở vải đổ nghiêng ở chợ phía tây; người lao động dân thường, không có hồ sơ tu hành. Chương 61 đã khám lại: còn sưng đau, hoãn chuyến nặng chờ lần khám sau; đã vào viếng Mạnh Thanh Tễ, chưa nhận chuyến xe mới.
-- [Mạnh Thanh Tễ](M%E1%BA%A1nh%20Thanh%20T%E1%BB%85.md) — `da-qua-doi` — Y sư/giám dược tại Tế Sinh Viện, người đã hướng dẫn Lâm Uyên những căn bản về dược liệu và cứu chữa bách tính nghèo. Chương 60 xác nhận qua đời trong đêm13 sau cứu chữa; quan tài ở gian yên viện/nắp riêng, Chương 64 đã có lượt tưởng niệm giữa buổi sáng ngày mười lăm; đồ chưa bàn giao, thân nhân còn chờ liên hệ, chưa chôn cất hoặc đủ nghi lễ tang.
+- [Mạnh Thanh Tễ](M%E1%BA%A1nh%20Thanh%20T%E1%BB%85.md) — `da-qua-doi` — Y sư/giám dược tại Tế Sinh Viện, người đã hướng dẫn Lâm Uyên những căn bản về dược liệu và cứu chữa bách tính nghèo. Chương 60 xác nhận qua đời trong đêm13 sau cứu chữa; Chương 64 đã tưởng niệm, Chương 68 viện thu xếp đặt nắp/chuyển/hạ/lấp và dấu tên ngoài thành chiều mười bảy. Đồ riêng vẫn viện giữ, thân nhân chưa hồi đáp xác nhận; không trao di sản cho Lâm Uyên.
 - [Hứa Tĩnh Xuyên](H%E1%BB%A9a%20T%C4%A9nh%20Xuy%C3%AAn.md) — `da-xuat-hien` — CHAR-064, hạng C; giám dược hẹn Lâm Uyên tối Chương 63, được viện chủ gọi tên Chương 64. Ngoài bốn mươi, chỉ buổi quan sát/nghe hỏi, không gộp mọi ca giám dược cũ hoặc thay Mạnh Thanh Tễ.
 - [Trần Dực](Tr%E1%BA%A7n%20D%E1%BB%B1c.md) — `da-xuat-hien` — Người được nhóm Lâm Uyên gặp trong phế tích ở Chương 40; Chương 65 tự nhận cho Lâm Uyên/Tô Thanh Ly dự lượt hỏi ngắn chiều mười lăm, giữ chưa biết trong hòm dài rồi dừng khi mệt; tay trái yên, không ký ức/y tế mới.
 - [Tạ Hạnh](T%E1%BA%A1%20H%E1%BA%A1nh.md) — `da-xuat-hien` — Người giữ sổ cân tại một hiệu thuốc ở chợ phía tây; chỉ xuất hiện trong một cuộc đối chiếu chứng từ tính đến hết Chương 52.
 - [Tạ Nghiên Chi](T%E1%BA%A1%20Nghi%C3%AAn%20Chi.md) — `da-xuat-hien` — Thư lại giữ sổ trực dãy phòng Tô Thanh Ly, lần đầu Chương 51; Chương 66 đối tờ gốc/người cùng ca, ghi riêng phần Phùng Quý Lương nhận cấp tiền/khế/thu yêu sách; bản lời bệnh nhân không ra bàn Hòa Sinh, lời hàng bị thay chưa kiểm.
-- [Viện Chủ Tế Sinh Viện (chưa rõ tên)](Vi%E1%BB%87n%20Ch%E1%BB%A7%20T%E1%BA%BF%20Sinh%20Vi%E1%BB%87n%20(ch%C6%B0a%20r%C3%B5%20t%C3%AAn).md) — `da-xuat-hien` — Chức danh của người đứng đầu Tế Sinh Viện. Tên riêng chưa được nêu trong bản thảo đến hết Chương 64; không tự đặt tên hoặc chốt giới tính nếu chưa có bằng chứng.
+- [Viện Chủ Tế Sinh Viện (chưa rõ tên)](Vi%E1%BB%87n%20Ch%E1%BB%A7%20T%E1%BA%BF%20Sinh%20Vi%E1%BB%87n%20(ch%C6%B0a%20r%C3%B5%20t%C3%AAn).md) — `da-xuat-hien` — Chức danh của người đứng đầu Tế Sinh Viện. Tên riêng chưa được nêu trong bản thảo đến hết Chương 68; không tự đặt tên hoặc chốt giới tính nếu chưa có bằng chứng.
 
 - [Đỗ Hoài Chương](%C4%90%E1%BB%97%20Ho%C3%A0i%20Ch%C6%B0%C6%A1ng.md) — `da-xuat-hien` — Thợ sửa sách nhà hong; trực tiếp nhận việc mượn hai chìa ở Chương 54, trách nhiệm chiếc thứ hai chưa rõ.
 
 - [Tề Duy Cẩn](T%E1%BB%81%20Duy%20C%E1%BA%A9n.md) — `da-xuat-hien` — CHAR-061, hạng C; lần đầu trực tiếp Chương 58 tại Hòa Sinh. Đinh Bá Nghiêm nhận người; hắn nhận đọc chỉ dẫn, lập phiếu công và đề nghị chia hai lượt. Chương 65 giao thẻ tạm theo Cố Hoài An; Chương 66 đứng ngoài phần nhận mới, nhận đã biết tên người gửi nhưng giữ lại chiều trước. Phùng Quý Lương được đối nguồn/cấp tiền, không suy Tề Duy Cẩn biết việc mua từ trước.
-- [Khương Tố Nương](Kh%C6%B0%C6%A1ng%20T%E1%BB%91%20N%C6%B0%C6%A1ng.md) — `da-xuat-hien` — CHAR-062, hạng C; lần đầu trực tiếp Chương 58, người vá áo thuê ở nhà trú Nam Phố. Mẹ được giải chân và chuyển cùng con sáu tuổi tới viện; không tự gán giới tính cho đứa trẻ. Chương 66 còn trên giường với con, người xác nhận báo giữ chỗ cả hai cho ngày mười sáu theo điều kiện cũ; vẫn đang trị chân, chưa xuất viện/chuyển nhà.
+- [Khương Tố Nương](Kh%C6%B0%C6%A1ng%20T%E1%BB%91%20N%C6%B0%C6%A1ng.md) — `da-xuat-hien` — CHAR-062, hạng C; lần đầu trực tiếp Chương 58, người vá áo thuê ở nhà trú Nam Phố. Mẹ được giải chân và chuyển cùng con sáu tuổi tới viện; không tự gán giới tính cho đứa trẻ. Chương 68 qua người trực báo phần giữ chỗ cho cả hai ngày mười bảy đã được nơi nhận xác nhận theo điều kiện cũ; bà vẫn ở viện xem chân, chưa xuất viện/chuyển nhà hoặc được miễn đối ngày sau.
 - [Hồ Nhuận Chi](H%E1%BB%93%20Nhu%E1%BA%ADn%20Chi.md) — `da-xuat-hien` — CHAR-063, hạng C; tự tên/nghề/nhận giỏ tại Chương 59, nối người mắc chân cuối58. Được viện nhận khi yếu hơi, khác Khương Tố Nương; chưa kết quả trị.
 
 ## Hạ Gia — hồ sơ đề xuất
@@ -72,17 +74,17 @@ Nhân vật dân sinh, Tế Sinh Viện, Nam Phố và các cơ quan/nhà có ho
 - [Đinh Bá Nghiêm](%C4%90inh%20B%C3%A1%20Nghi%C3%AAm.md) — `da-xuat-hien` — CHAR-060, hạng C; tên Chương 56, lần đầu trực tiếp Chương 57. Nhận giao phiếu/chép mặt sau; Chương 58 trực tiếp nhận Tề Duy Cẩn là người đọc cho chép; Chương 65 nhận đủ công chép/chuyển lời, không ký chốt cả chuyến. Trách nhiệm người mua cuối vẫn chưa giải; không có mặt ở hiện trường nhà trú.
 
 
-## Mốc cảnh hiện hành — cuối Chương 67
+## Mốc cảnh hiện hành — cuối Chương 68
 
-Cuối chiều ngày thứ mười sáu tại Tế Sinh Viện. Lâm Uyên/Tô Thanh Ly đã về từ một lượt xe Hòa Sinh sáng Chương 66, không có chuyến chiều mới; tay phải vẫn thương, Dược Khế bảy/bốn tháng, kiếm bảo chứng/quản thúc giữ nguyên. Hứa Tĩnh Xuyên đã trả lời câu về mùi, cho Lâm Uyên ngửi/nhìn mẫu quế và thẻ tên rồi cất hộp; chỉ nhận diện nhỏ có kiểm, chưa tự chọn thuốc, chẩn trị hoặc kết luận nồi Hòa Sinh.
+Ngày thứ mười bảy, từ sáng tới trước tối tại Tế Sinh Viện và một bãi chôn ngoài thành. Viện chủ báo chưa có hồi đáp xác nhận từ thân nhân Mạnh Thanh Tễ, đứng ra thu xếp an táng trước và tiếp việc tìm người cần báo. Chiều quan tài đã được đặt nắp, đưa bằng xe, hạ/lấp và đặt dấu tên; gian yên trong viện cuối chương trống chỗ cũ. Đây là an táng thực, không là chôn vọng hoặc bằng chứng người mất không còn gia đình.
 
-Đào Thành Nghiệp — CHAR-067, hạng C — là người làm giỏ ôm bao Chương 62–66, tự nói tên khi tới Bùi Gia và được hỏi lại tên lúc về viện. Dao riêng Bùi Ninh Viễn đã thực sự được nhận, kiểm và cất về túi chiều mười sáu. Dao cũ của ông còn sứt nhưng mài được phần dùng sửa nhỏ, khung vẫn gãy một cạnh; chưa biết giá thay, chưa có giỏ mới hoặc bồi thường nhà trú.
+Vệ Thu Nghi, CHAR-068 hạng C, lần đầu trực tiếp cùng Thủ Danh Phường (FAC-015). Người phường chỉ giúp phần được viện gọi: đối tên/nghề/nguồn, xem nơi chôn cùng người giữ bãi/người viện, ghi vị trí và đầu mối tiếp. Tuổi/quê Mạnh Thanh Tễ chưa biết thì để trống. Phường không tìm được thân nhân chỉ bằng sổ và không nhận quyền quyết di sản; sổ nghề/túi thuốc vẫn viện giữ.
 
-Người thợ lớn tuổi dẫn lượt nhà trú được giới thiệu ở cảnh hiện tại, nhận đã làm sáng mười lăm; ông thuê sửa giỏ dụng cụ riêng bằng mây sẵn, thử rồi trả hai đồng. Bùi Ninh Viễn chỉ giữ một chỗ theo lời nhờ, không là thợ giỏ hoặc người trả công thay gia tộc. Đào Thành Nghiệp về viện, mới hẹn sáng mai khi rảnh xem phần đồ có thể nhận sửa, giá/việc chưa thỏa.
+Lâm Uyên/Tô Thanh Ly có lượt mới riêng theo chấp sự, y sư xem sức và cho xe/hộ tống, không dùng lại lượt Chương 66. Hai tay main vẫn giữ giới hạn, tay phải nàng còn thương; người khỏe khiêng, Lâm Uyên chỉ sửa nhẹ mép vải bằng trái trong phần được cho, thả chút đất rồi báo mỏi/xin ngồi. Cuối chương về viện được gọi xem lại tay, không có kết quả hồi phục mới. Tô Thanh Ly giữ giúp bản chỉ đường tới mộ rồi đặt về phần giấy của hắn; đây không phải di sản, quyền ra thành tự do hoặc bước thay thầy.
 
-Bùi Khánh Vân trực tiếp báo đã tới trạm gặp đúng thợ phụ hôm trước và gia đình đã nhận tin theo địa chỉ bảng công. Đây là lời bà về phần mình đi, chưa cảnh trạm/người bệnh xác nhận độc lập; chân còn được giữ xem, chưa trở lại làm. Không gộp người chuyển mảnh nhắn, người dẫn đội hoặc người cứu mắc áo với thợ phụ ấy.
+Buổi sáng Đào Thành Nghiệp đã xem chiếc giỏ cũ được viện nhờ nhìn, thấy đáy mục/mềm ngoài phần vá và từ chối nhận với công cụ hiện có. Không thỏa công, nhận tiền hoặc làm lại xong; dao Bùi Ninh Viễn đã trả từ Chương 67, dao cũ còn sứt và khung còn gãy. Cuối ngày ông vẫn thu đồ tại sân viện, không được cấp công việc ổn định.
 
-Hồ Nhuận Chi vẫn ở gian bệnh, nói ngắn hỏi người làm giỏ/khung và gói kim. Người trực báo chưa có kim đưa về, giỏ áo giữ chỗ cũ; lời thoại không là kết quả khám hoặc dấu khỏi/ra viện. Chuyện Hòa Sinh không có tài liệu, thuốc hay phán quyết mới; nghĩa vụ Phùng Quý Lương nhận ở Chương 66 còn cần kiểm đúng nguồn, bản lời Trần Dực vẫn riêng. Tô Lạc/miếng đồng, niêm/mẫu vón, nguyên nhân sập, chìa/trang mất và thân nhân/đồ/chôn cất Mạnh Thanh Tễ chưa có kết quả mới. Tra [[Trạng Thái Truyện Sau Chương 67]] trước khi viết tiếp.
+Phần giữ chỗ mẹ con Khương Tố Nương ngày mười bảy được người trực báo đã xác nhận tại nơi nhận theo điều kiện cũ, cuối ngày giao nhắc buổi sáng sau. Bà còn ở viện xem chân; tin này không phải chuyển chỗ/xuất viện hoặc chỗ ở vĩnh viễn. Trẻ vẫn sáu tuổi, tên/giới tính UNKNOWN. Gói kim Hồ Nhuận Chi, nguyên nhân sập/trách nhiệm, Tô Lạc/miếng đồng, niêm/mẫu vón, chìa/trang mất không có kết quả mới. Nghĩa vụ Phùng Quý Lương nhận Chương 66 còn kiểm đúng nguồn, bản lời Trần Dực vẫn riêng. Dược Khế bảy/bốn tháng, kiếm bảo chứng, quản thúc/hộ tống và tình trạng thật UNKNOWN của Lâm Chinh giữ nguyên. Tra [[Trạng Thái Truyện Sau Chương 68]] trước khi viết tiếp.
 
 ## Quy ước của thư mục
 

@@ -179,3 +179,13 @@ Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
 - Lâm Uyên còn nhớ thầy, chờ một câu hỏi theo thói quen và muốn trở lại gian yên; việc tiếp tục học không chứng minh đã nguôi đau. Trạng thái qua đời trong đêm ngày thứ mười ba giữ nguyên, không có hành động/lời dạy mới từ người mất.
 
 Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].
+
+## Hậu quả theo bản thảo Chương 68
+
+- **An táng đã diễn ra:** Chiều ngày thứ mười bảy, viện thu xếp đặt nắp, chuyển quan tài bằng xe tới bãi chôn ngoài thành, hạ/lấp và đặt dấu tên. Cuối chương chỗ quan tài cũ ở gian yên đã trống. Không phải chôn vọng hoặc một kế hoạch chưa thực hiện; trạng thái qua đời đêm mười ba không đổi.
+- Viện chủ quyết thu xếp trước, cùng người viện và Thủ Danh Phường giữ nơi chôn/nguồn để người tới sau hỏi. Vệ Thu Nghi đối đúng tên/nghề giám dược Tế Sinh Viện; tuổi/quê chưa biết được để trống, không tự bổ sung từ diện mạo hoặc vai thầy.
+- Chưa có hồi đáp xác nhận từ thân nhân. Việc tìm người cần báo tiếp tục, không ghi người mất không có người nhà, người thừa kế đã được xác định hoặc liên hệ hoàn tất. Bãi chôn chưa có tên riêng/toạ độ được khóa, không tạo một địa danh bí ẩn mới.
+- Sổ nghề/túi thuốc vẫn do viện giữ, không đặt cùng quan tài hoặc giao cho Lâm Uyên. Người học việc chỉ xin bản chỉ đường tới nơi chôn, nhờ Tô Thanh Ly giữ tới chỗ nghỉ; không là bàn giao tài sản, di nguyện hoặc truyền nghề từ người mất.
+- Đồng nghiệp đổi ca đi tiễn/người còn trực tiếp tục chăm bệnh; Lâm Uyên dự trong giới hạn sức, báo mỏi rồi ngồi. Nỗi đau còn trong gian trống và thói quen muốn hỏi, không có lời đáp, hồi sinh, công lực hoặc thủ phạm mới.
+
+Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Vệ Thu Nghi]], [[Thủ Danh Phường]].

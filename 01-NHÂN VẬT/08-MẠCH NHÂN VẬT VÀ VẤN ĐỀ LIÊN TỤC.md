@@ -229,3 +229,18 @@ Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]], [[Chương
 Cuối67 vẫn chiều ngày16. Ch68 có thể theo hẹn sáng17 khi cần chuyển ngày, nhưng phải viết bước chuyển và kết quả thực tế thay vì ghi hẹn thành công việc đã nhận.
 
 Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Chương 62]], [[Chương 63]], [[Chương 64]], [[Chương 66]].
+
+## Tiến triển theo bản thảo Chương 68
+
+- **Đã chuyển ngày17 và trả hẹn xem giỏ:** Đào Thành Nghiệp xem món người giữ đồ đem ra sáng, thấy đáy hỏng nên không nhận làm lại bằng dụng cụ hiện có. Không để lượt xem như chưa diễn ra; chưa giá/công/việc thuê mới, khung cũ không tự sửa xong.
+- **Chỗ mẹ con có tin cho hôm nay:** Người trực báo bên nhận xác nhận phần ngày17 theo điều kiện cũ. Khương Tố Nương còn viện xem chân; cuối ngày người xác nhận giao phần đã làm/nhờ nhận lời sáng sau, chưa đã giữ ngày18.
+- **Tang sự đã tiến qua mốc không thể dùng lại:** Viện đứng lo an táng trước trong khi tiếp tìm thân nhân. Chiều17 đóng nắp quan tài, chuyển xe ra bãi ngoài thành, hạ huyệt/lấp đất/đặt tên thực sự hoàn thành. Không mở69 như thi thể vẫn trong gian yên hoặc hôm nay mới chết; mất đêm13/tưởng niệm15 vẫn giữ.
+- **Thủ Danh Phường được triển khai trực tiếp:** Vệ Thu Nghi CHAR-068 đối tên/nghề, nguồn biết, phần tuổi/quê chưa rõ, nơi giữ đồ và chỗ chôn. Không xác nhận hết người nhà, áp luật chờ số ngày cố định hoặc sinh bí mật cấp thế giới.
+- **Tài sản và đường tìm giữ tách biệt:** Sổ nghề/túi thuốc vẫn viện giữ. Lâm Uyên xin riêng bản chỉ đường; Tô Thanh Ly giữ giúp rồi đặt vào phần giấy của hắn sau khi về. Không truyền thừa/di nguyện mới, không gọi bản đường là quyền tự ra thành.
+- **Chuyến đưa tang có điều kiện cụ thể:** Y sư xem lại sức, chấp sự nhận riêng lượt này, xe/hộ tống giúp; cả hai tay chính vẫn hạn chế. Lâm Uyên chỉ sửa nhẹ góc vải bằng trái, thả ít đất, báo mỏi/ngồi, về trước tối/xem lại hai tay và nghỉ. Không khiêng/giữ mép quan tài hoặc tự đi tìm về sau.
+- **Mất mát có hệ quả trong không gian:** Gian yên đã trống; hắn nhờ người chuyển ghế rồi đi nghỉ, không tự nâng hoặc buộc mình chờ được nhìn mặt như trước. Việc thường trong viện tiếp tục, không hết buồn hay đổi đau buồn thành năng lực thuốc/tuvi.
+- **Những việc còn mở:** Kim Hồ Nhuận Chi chưa thu; nhà trú/trách nhiệm Bùi Gia chưa chốt; tin thợ phụ theo67 có giới hạn. Nguồn thuốc theo66, hai hòm bến ở viện47–48, HFS/Tô Lạc/miếng đồng/chìa/trang không mới; Lâm Chinh UNKNOWN, Dược Khế7–4tháng/quản thúc/kiếm bảo chứng giữ.
+
+Cuối68 đã trở về viện trước tối ngày17. Việc thăm mộ về sau phải xin đúng lượt/sức, liên hệ thân nhân vẫn tiếp qua viện/phường; không dùng an táng làm bằng chứng người mất không còn ai hoặc đóng toàn tuyến hậu quả.
+
+Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Chương 64]], [[Chương 66]], [[Chương 67]].

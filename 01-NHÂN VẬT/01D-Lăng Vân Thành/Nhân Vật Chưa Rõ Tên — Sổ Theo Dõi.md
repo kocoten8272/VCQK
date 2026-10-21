@@ -300,3 +300,21 @@ Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]], [[Phùng Q
 Hứa Tĩnh Xuyên dùng hồ sơ CHAR-064, chỉ hướng dẫn mẫu quế và trở lại gian thuốc; không đồng nhất y sư cho đi/thay băng. Hồ Nhuận Chi nói ngắn ở gian bệnh, không nhận đã khỏi. Dao Bùi Ninh Viễn đã trả, dao cũ Đào Thành Nghiệp còn dùng sửa nhỏ, khung còn gãy; không gộp ba món với nhau hoặc giỏ áo Hồ Nhuận Chi.
 
 Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Đào Thành Nghiệp]], [[Bùi Ninh Viễn]], [[Bùi Khánh Vân]].
+
+## Vai trò được đối và phân biệt ở Chương 68
+
+| Vai | Điều mới theo cảnh/nguồn | Giới hạn |
+| --- | --- | --- |
+| Người Thủ Danh Phường nhận đối tên/nơi chôn | Vệ Thu Nghi, CHAR-068, trực tiếp lần đầu sáng mười bảy; đối nguồn, đi xem vị trí với người phường/viện, giữ thông tin và giao bản chỉ nơi | Dẫn về hồ sơ chính [[Vệ Thu Nghi]]. Không gộp mọi người báo tang/giữ gian yên trước đó, không là chủ phường hay người tìm được thân nhân. |
+| Người giữ đồ viện | Đem giỏ cũ cho Đào Thành Nghiệp xem; sau để riêng giỏ chưa dùng được, không trả vào gian thuốc | Không có hợp đồng/tiền công hoặc giỏ đã vá; chưa đủ nhận diện gộp mọi người giữ đồ/giữ sổ y tế. |
+| Người nhận đối giữ chỗ mẹ con Khương Tố Nương | Qua người trực báo nơi nhận đã xác nhận phần cả hai ngày mười bảy theo điều kiện cũ; cuối ngày giao tiếp sáng sau | Chỉ một lượt xác nhận hôm nay, không chuyển người/xuất viện hoặc miễn đối ngày sau. Không là nhân vật tên mới. |
+| Người của phường / người viện đi xem bãi / người giữ bãi | Gần trưa cùng đối vị trí/đường xe, có người nhận tại bãi; chiều chỉ đúng chỗ đã thu xếp | Vai khác nhau, chưa tên; không gộp Vệ Thu Nghi hoặc lập thân nhân. Chưa khóa tên riêng/toạ độ địa danh. |
+| Người lo mai táng / bốn người khỏe chuyển quan tài | Chờ chỗ, đặt nắp, chuyển lên xe, hạ/lấp và sửa gò/dấu tên theo đúng phần | Không đồng nhất mọi phần việc thành một người, không bắt Lâm Uyên/Tô Thanh Ly khiêng hoặc dùng phép lực. |
+| Chấp sự/người hộ tống buổi đưa tang | Nhận lượt mới riêng theo đường/mục đích, giúp bậc/giữ thăng bằng/nhận báo mỏi và chỗ ngồi, về trước tối | Không dùng lại lượt Hòa Sinh Chương 66 hoặc gỡ quản thúc, không gộp mọi ca hộ tống. |
+| Y sư/người trực thay băng, nhận về | Xem sức, cho xe/giới hạn lực, giúp sửa vải/áo và sau gọi xem lại tay | Không gộp viện chủ/Hứa Tĩnh Xuyên, không có kết quả hồi phục hay quyền chẩn trị mới của Lâm Uyên. |
+| Đồng nghiệp đổi ca/người đi tiễn muộn | Chừa lối người chuyển, có người nhận phần hương thay người phải chăm bệnh, viện tiếp làm việc | Chưa nguồn nhận tất cả đã được Mạnh Thanh Tễ trực tiếp cứu hoặc là thân nhân. |
+| Người gánh nước / người bán bên phố | Nhường xe, giữ thùng/kéo mành/tiếp bán sau lượt qua | Vai nền đời sống, không là nhân chứng vụ thuốc hoặc khẳng định quan hệ với người mất. |
+
+Viện chủ (CHAR-047) tiếp đúng chức danh chưa tên/giới tính/tuổi. Viện thu xếp an táng thực và giữ đồ/tiếp báo tin; tuổi/quê Mạnh Thanh Tễ, thân nhân/nguồn hồi đáp còn UNKNOWN. Vệ Thu Nghi có một hồ sơ mới, bãi chôn chỉ là nơi được ghi/chỉ đường trong cảnh, không tự thêm lore node hoặc nhân vật quyền lực. Lâm Uyên chỉ nhận bản chỉ đường qua Tô Thanh Ly giữ giúp, không là sổ nghề, di sản hoặc quyền ra ngoài.
+
+Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Vệ Thu Nghi]], [[Thủ Danh Phường]].

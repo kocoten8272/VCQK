@@ -5,7 +5,7 @@ importance-tier: C
 vai-tro: nhan-vat-phu
 status: da-xuat-hien
 created: 2026-10-09
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - nhan-vat
   - nam-pho
@@ -117,3 +117,11 @@ Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].
 - Không dự buổi đối Hòa Sinh, không tự biết Phùng Quý Lương/nguồn tiền, lời Trần Dực hoặc kết quả điều tra. Việc có chỗ hôm nay không làm thương tích/sinh kế đã được giải quyết.
 
 Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]].
+
+## Trạng thái mới theo bản thảo Chương 68
+
+- Sáng ngày mười bảy người trực báo cho Lâm Uyên nơi nhận đã xác nhận phần giữ chỗ của cả mẹ con hôm nay theo điều kiện cũ; hắn nhờ báo lại cho bà. Đây là báo cáo về lượt xác nhận ngày mười bảy, không có cảnh bà đứng dậy hoặc trực tiếp nhận nơi ở.
+- Bà vẫn ở viện xem chân, mẹ con chưa được chuyển/xuất viện. Cuối ngày phần xác nhận hôm nay đã xong, người đi nhận nhờ người trực tiếp việc buổi sáng sau; chưa miễn nghĩa vụ đối tiếp hoặc cấp chỗ vĩnh viễn.
+- Không có chẩn đoán/kết quả trị mới, cảnh dự an táng ngoài thành hoặc nghe/biết thêm việc Hòa Sinh. Trẻ vẫn sáu tuổi, tên/giới tính UNKNOWN; không thêm thân nhân hoặc nhập bà với Hồ Nhuận Chi.
+
+Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]].

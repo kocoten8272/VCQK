@@ -12,7 +12,7 @@ tags:
 
 # Viện Chủ Tế Sinh Viện (chưa rõ tên)
 
-> Chức danh của người đứng đầu Tế Sinh Viện. Tên riêng chưa được nêu trong bản thảo đến hết Chương 64; không tự đặt tên hoặc chốt giới tính nếu chưa có bằng chứng.
+> Chức danh của người đứng đầu Tế Sinh Viện. Tên riêng chưa được nêu trong bản thảo đến hết Chương 68; không tự đặt tên hoặc chốt giới tính nếu chưa có bằng chứng.
 
 ## Thông tin đã xác nhận
 
@@ -95,3 +95,13 @@ Nguồn: [[Chương 63]], [[Trạng Thái Truyện Sau Chương 63]].
 - Tên thật, tuổi, giới tính, tu vi và gia đình của viện chủ vẫn UNKNOWN; không thêm quyền điều tra công trình hoặc trả lời mạng thuốc.
 
 Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].
+
+## Trạng thái mới theo bản thảo Chương 68
+
+- Sáng ngày mười bảy trực tiếp báo viện thu xếp đưa Mạnh Thanh Tễ an táng chiều nay; chưa có hồi đáp xác nhận từ thân nhân, viện tiếp tìm người cần báo. Không để sự chưa tới thành kết luận không còn người nhà, không giao Lâm Uyên quyền quyết thay thân nhân.
+- Gọi Thủ Danh Phường nhận phần đối tên/nơi chôn và hỗ trợ lượt mai táng; nhận nguồn hồ sơ/người biết, giao phần chăm bệnh cho người trực tiếp tục. Đây là thu xếp việc của viện trong cảnh, không thiết lập luật tang sự/định tài sản mới của toàn thành.
+- Dặn Lâm Uyên muốn đi phải xem sức/xin đúng lượt, không khiêng. Y sư và chấp sự có phần duyệt sức/đường/hộ tống riêng, không gộp tất cả vào viện chủ.
+- Chiều nhận phần thu xếp đặt nắp/chuyển quan tài, cùng đoàn tới bãi chôn ngoài thành, đặt hương trước; quan tài thực sự hạ/lấp, có dấu tên và bản chỉ nơi viện nhận. Trở lại công việc trước tối.
+- Viện tiếp giữ sổ nghề/túi thuốc và đầu mối cần báo, không giao di sản cho học trò. Tuổi/quê Mạnh Thanh Tễ chưa có nguồn vẫn trống; tên riêng, tuổi, giới tính, gia đình và tu vi của viện chủ vẫn UNKNOWN.
+
+Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Vệ Thu Nghi]], [[Thủ Danh Phường]].

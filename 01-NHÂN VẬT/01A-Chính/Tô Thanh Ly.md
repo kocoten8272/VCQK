@@ -204,3 +204,13 @@ Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]].
 - Không dự trực tiếp cảnh Bùi Gia, không xác nhận thay lời Bùi Khánh Vân về thợ phụ. Dược Khế bốn tháng, kiếm bảo chứng, tay phải thương và quản thúc/hộ tống giữ nguyên.
 
 Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Đào Thành Nghiệp]].
+
+## Trạng thái mới theo bản thảo Chương 68
+
+- Ngày mười bảy báo với chấp sự trực rồi tới hỏi viện chủ đường đi/phần người đưa làm; đứng cùng khi y sư xem sức Lâm Uyên. Nhận một lượt mới riêng đưa tang bằng xe có hộ tống, không dùng lượt sáng mười sáu cho đường khác.
+- Tay phải vẫn thương, nhờ người lành tay mang đồ/đỡ bậc/khiêng quan tài; không nhận phần nặng. Giữ bằng trái chiếc khăn chuẩn bị, nhận lại khi Lâm Uyên mỏi, đứng gần trong lượt đặt nắp/an táng mà không ép hắn nói lời tiễn.
+- Có mặt khi viện cùng người Thủ Danh Phường đưa Mạnh Thanh Tễ tới bãi chôn ngoài thành chiều mười bảy, quan tài được hạ/lấp và đặt dấu tên. Không thành người thay thân nhân quyết tang hoặc người chứng tuổi/quê chưa biết.
+- Giữ giúp bản chỉ đường Lâm Uyên xin từ Vệ Thu Nghi, tới viện đặt đúng phần giấy của hắn tránh bát nước. Tờ ấy không là sổ nghề/túi thuốc, di sản hoặc quyền tự ra ngoài; đồ riêng người mất vẫn do viện giữ, việc báo người nhà tiếp.
+- Về trước tối trong lượt được nhận, không có hồi phục/tăng tu vi mới. Dược Khế bốn tháng, kiếm bảo chứng, quản thúc/hộ tống và các tuyến điều tra còn mở giữ nguyên.
+
+Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Vệ Thu Nghi]], [[Thủ Danh Phường]].

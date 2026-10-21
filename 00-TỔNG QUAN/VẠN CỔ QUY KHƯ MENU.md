@@ -8,10 +8,10 @@
 
 - **Tên truyện:** Vạn Cổ Quy Khư
 - **Nhân vật chính:** [[Lâm Uyên]]
-- **Địa điểm ở cuối Chương 67:** Tế Sinh Viện, cuối chiều ngày16; Đào Thành Nghiệp đã trả dao riêng của Bùi Ninh Viễn và nhận hai đồng công sửa quai, khung còn gãy; Lâm Uyên nghỉ tại viện, được Hứa Tĩnh Xuyên chỉ mẫu quế
+- **Địa điểm ở cuối Chương 68:** Tế Sinh Viện, chiều ngày17, trở về trước tối sau khi an táng Mạnh Thanh Tễ ngoài thành; bản chỉ đường tới mộ đã được Tô Thanh Ly cất vào phần giấy của Lâm Uyên; viện tiếp tục tìm thân nhân và giữ đồ riêng
 - **Thế lực gắn với arc hiện tại:** [[Tô Gia]]
-- **Chương mới nhất trên main:** [[Chương 67]] (nháp)
-- **Chương tiếp theo:** Chương 68 (dự kiến)
+- **Chương mới nhất trên main:** [[Chương 68]] (nháp)
+- **Chương tiếp theo:** Chương 69 (dự kiến)
 - **Trạng thái:** Đang sáng tác
 
 ---
@@ -56,6 +56,7 @@
 - [[REF-007-Nguồn Về Manh Mối Và Lời Chứng]] · [[LOG-012-Áp Dụng Kỹ Thuật Trong Chương 65]] — tách lời chứng, cách đặt câu hỏi và chứng cứ; lượt tra nguồn ngày 2026-10-19
 - [[REF-008-Nguồn Về Câu Hỏi Và Bước Ngoặt Cảnh]] · [[LOG-013-Áp Dụng Kỹ Thuật Trong Chương 66]] — đưa nguồn yêu cầu tới người đứng tên, giữ lời trình khác chứng cứ
 - [[REF-009-Nguồn Về Vật Dụng Và Quan Hệ]] · [[LOG-014-Áp Dụng Kỹ Thuật Trong Chương 67]] — trả vật đã mượn, hành động nghề và khoản công cụ thể
+- [[REF-010-Nguồn Về Tang Chế Và Việc Người Sống]] · [[LOG-015-Áp Dụng Kỹ Thuật Trong Chương 68]] — việc an táng hoàn tất, nỗi mất mát tiếp tục và phần việc của người sống
 
 ## NHÂN VẬT
 
@@ -69,6 +70,7 @@
 - [[Vọng Sơn Trấn]] — điểm xuất phát
 - [[Lăng Vân Thành]] — thành thị hiện tại
 - [[Tô Gia]] — gia tộc che chở
+- [[Thủ Danh Phường]] — lần đầu xuất hiện trực tiếp ở68 qua Vệ Thu Nghi, hỗ trợ đối tên và lưu nơi chôn Mạnh Thanh Tễ; không quyết tang thay viện hoặc thân nhân
 - [[Vân Châu]] — châu phủ
 - [[Tiểu Vực]] — khu vực gần
 - [[Đại Vực]] — trung tâm thế lực
@@ -203,13 +205,14 @@
 - [[Chương 64]] — Sau Làn Hương Mỏng; nháp
 - [[Chương 65]] — Lời Của Người Dẫn Đường; nháp
 - [[Chương 66]] — Người Đặt Câu Hỏi; nháp
-- [[Chương 67]] — Chiều Trả Dao; nháp mới
+- [[Chương 67]] — Chiều Trả Dao; nháp
+- [[Chương 68]] — Nơi Người Đến Sau Còn Tìm Được; nháp mới
 
 ### Chuẩn bị
 
-- Chương 68 — hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 67]].
+- Chương 69 — hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 68]].
 - [[Kết Chương]] — trạng thái từng chương, bao gồm các bản nháp và chương chưa có frontmatter.
-- [[Trạng Thái Truyện Sau Chương 67]] — trạng thái continuity hiện hành; các bản sau chương trước đó là lưu vết lịch sử.
+- [[Trạng Thái Truyện Sau Chương 68]] — trạng thái continuity hiện hành; các bản sau chương trước đó là lưu vết lịch sử.
 
 ---
 

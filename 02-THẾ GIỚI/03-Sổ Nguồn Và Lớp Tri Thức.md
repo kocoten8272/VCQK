@@ -265,3 +265,20 @@ Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]], [[Chương
 Tổng lore79 giữ; CHAR-067 là hồ sơ người, không tạo lore/pháp khí cho dao/khung/mây/quế thông thường hoặc đồng tiền. Chuyển POV tách điều độc giả chứng kiến với điều Lâm Uyên được kể. Nguồn biên tập bên ngoài không tự thành kiến thức dược lý/canon thế giới.
 
 Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Chương 62]], [[Chương 63]], [[Chương 64]], [[Chương 66]].
+
+## Đối chiếu có phạm vi sau Chương 68 — 2026-10-21
+
+| Mệnh đề | Nguồn/lớp | Giới hạn |
+| --- | --- | --- |
+| Hẹn xem giỏ sáng17 | DRAFT TEXT68: Đào Thành Nghiệp thử đáy, nói phần nan hỏng và không nhận làm lại bằng dụng cụ hiện có | Chỉ lượt xem đã thực hiện; chưa công/giá/thu nhập mới hoặc viện bảo đảm nghề |
+| Chỗ mẹ con ngày17 | CHARACTER REPORT68: người trực báo bên nhận xác nhận theo điều kiện cũ; cuối người xác nhận giao phần hôm nay/nhờ nhận lời sáng sau | Mẹ còn viện, không trực tiếp thấy nơi nhận/chuyển khỏi viện; chưa ngày18 được xác nhận |
+| Thủ Danh Phường FAC-015 / Vệ Thu Nghi CHAR-068 | DRAFT TEXT68: phường được gọi giúp tang sự; người làm việc đối tên/nghề/nguồn, nơi giữ đồ/nơi chôn và đường hỏi về sau | Nữ ngoài40 trên trang;42 là thiết kế. Không đồng nhất người đưa tin cũ/chủ phường hoặc toàn quyền pháp lý từ một việc |
+| Thân nhân/tuổi/quê Mạnh Thanh Tễ | DRAFT TEXT68 và lời viện chủ: chưa có hồi đáp xác nhận, tiếp liên hệ; phần chưa rõ để trống | Không không còn người nhà, không luật chờ cố định hoặc tuổi/quê được đoán thêm |
+| An táng chiều17 | DRAFT TEXT68: đóng nắp, chuyển quan tài bằng xe, hạ huyệt/lấp đất và đánh dấu tên/nghề ngoài thành | Đã chết đêm13/tưởng niệm64; không chết mới, hồi sinh hoặc chôn diễn ra ngày15 |
+| Giới hạn chuyến đi | DRAFT TEXT68: xem sức/nhận lượt riêng, có xe/hộ tống, không khiêng; báo mỏi/ngồi và về trước tối/xem lại tay | Không hồi phục hai tay/tăng tuvi, quyền tự ra thành hoặc giấy lượt16 tự dùng lại |
+| Sổ/túi và bản đường | DRAFT TEXT68: viện tiếp giữ đồ; Lâm Uyên xin bản đường riêng, Tô Thanh Ly giữ giúp rồi đặt vào giấy hắn khi về | Không chuyển sổ nghề/túi thuốc/thừa kế, không bản nguồn gốc của phường bị giao hết |
+| Không gian cuối chương | DRAFT TEXT68: gian yên trống, ghế được nhờ người chuyển; viện tiếp chăm bệnh/làm việc | Chuyển biến mất mát cụ thể, không nhân vật biết nguyên nhân nhà sập hoặc có lời dạy mới từ người chết |
+
+Tổng lore79 giữ: FAC-015 đã có được triển khai, CHAR-068 thuộc mục nhân vật; bãi chôn không tên riêng/bản chỉ đường/dấu tên không tạo lore mới. Tuổi/quê Mạnh Thanh Tễ, tình trạng thật của Lâm Chinh và quan hệ các mạng chưa chứng minh giữ đúng lớp UNKNOWN/nguồn cũ. Nguồn biên tập bên ngoài không thành tri thức tự biết của nhân vật.
+
+Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Thủ Danh Phường]], [[Chương 64]], [[Chương 66]], [[Chương 67]].

@@ -224,3 +224,22 @@ Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]], [[Chương
 Cuối67 vẫn chiều16. Lượt gặp thợ phụ hôm15 chỉ được biết qua Bùi Khánh Vân ở67, không dời ngày của tin62 hoặc thêm cảnh hồi tố. Dược Khế7–4tháng/quản thúc/kiếm bảo chứng và thương tay giữ; hai hòm bến ở viện47–48, tuyến thuốc theo66 không tự có kết quả mới, HFS/Tô Lạc/miếng đồng/chìa/trang/Lâm Chinh và tang Mạnh Thanh Tễ chưa đổi.
 
 Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Chương 62]], [[Chương 63]], [[Chương 64]], [[Chương 66]].
+
+## Sáng đến trước tối ngày thứ mười bảy — Chương 68
+
+| Thời điểm | Sự kiện đã viết | Giới hạn |
+| --- | --- | --- |
+| Sáng17 tại sân viện | Người giữ đồ đem giỏ theo hẹn; Đào Thành Nghiệp xem vành/đáy, không nhận làm lại phần đáy với dụng cụ hiện có | Lượt xem đã diễn ra, chưa thuê/giá/công mới, giỏ được để riêng không trả làm đồ dùng được |
+| Cùng buổi | Người trực báo chỗ mẹ con Khương Tố Nương được bên nhận xác nhận giữ ngày17 theo điều kiện cũ | Mẹ vẫn viện xem chân, không chuyển đi hoặc giữ ngày18 đã xác nhận |
+| Sáng17, gian ngoài | Viện chủ báo an táng chiều, chưa hồi đáp thân nhân; gọi Thủ Danh Phường, Vệ Thu Nghi đối tên/nghề/nguồn và nơi viện giữ sổ/túi | Tuổi/quê chưa rõ để trống, tiếp liên hệ; không thân nhân tới nhận hoặc luật chờ cố định |
+| Trước trưa | Lâm Uyên xin đi cùng; y sư xem sức, chấp sự nhận riêng lượt xe/hộ tống và giới hạn không khiêng/giữ lâu, về theo lượt | Không tự dùng lại giấy lượt16, không chữa lành tay/đổi quản thúc |
+| Gần trưa17 | Vệ Thu Nghi/người phường và người viện đi đối vị trí với người giữ bãi; Lâm Uyên ở viện ăn/chờ rồi vào gian yên | Việc đối chỗ qua phần báo và phần ghi sau khi về, không nam chính đi trước tự chọn nơi |
+| Qua trưa17 | Vệ Thu Nghi về, quan tài thật sự được đóng nắp; người lành sức chuyển ra xe, đoàn đi có hộ tống | Lâm Uyên chỉ sửa nhẹ góc vải bằng trái trước khi lùi, không khiêng hoặc tự vịn tay băng giữ thành |
+| Chiều17 ngoài thành | Đối đúng chỗ, quan tài hạ xuống và lấp đất; Lâm Uyên thả ít đất bằng trái, báo mỏi/ngồi; đánh dấu tên Mạnh Thanh Tễ/nghề giám dược | Không sinh tử mới, quê/tuổi không điền đoán; bãi chôn không được đặt tên/toạ độ mới |
+| Sau an táng | Vệ Thu Nghi giao viện bản chỉ nơi chôn, giữ nguồn của phường; Lâm Uyên xin bản chỉ đường riêng/nhờ Tô Thanh Ly cất giúp | Sổ nghề/túi thuốc vẫn viện giữ, tiếp báo thân nhân; không quyền tự ra ngoài lần sau |
+| Trước tối17 tại viện | Xe trở về, người hộ tống giao lời/y sư xem lại hai tay; gian quan tài đã trống, Lâm Uyên nhờ người chuyển ghế rồi theo tới nghỉ; Tô Thanh Ly đặt bản đường vào giấy hắn | Tay mỏi/chưa lành, không tự mang đồ hoặc nhận di vật; viện tiếp việc thường |
+| Cuối chương | Đào Thành Nghiệp buộc bao, giỏ không nhận sửa để riêng; người xác nhận giao phần chỗ hôm nay/nhờ nhận lời sáng sau | Không ngày18 đã tới hoặc đã giữ chỗ, không công mới/giá khung hoặc nhà trú giải xong |
+
+Mạnh Thanh Tễ chết đêm13 và tưởng niệm giữa sáng15 ở64; an táng hoàn tất chiều17 trong68 là mốc tiếp theo, không thay hai mốc cũ. Chỗ mẹ con ngày16 theo66, ngày17 theo tin68; dao mượn đã trả chiều16 trong67 không trở thành khoản chờ. Dược Khế7–4tháng/thương tay/quản thúc/kiếm bảo chứng giữ; hai hòm bến ở viện47–48, nguồn thuốc theo66, HFS/Tô Lạc/miếng đồng/chìa/trang/kim và sinh tử thật Lâm Chinh chưa kết quả mới.
+
+Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Chương 64]], [[Chương 66]], [[Chương 67]].

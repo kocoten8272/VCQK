@@ -5,7 +5,7 @@ importance-tier: C
 vai-tro: nhan-vat-phu
 status: da-xuat-hien
 created: 2026-10-20
-updated: 2026-10-20
+updated: 2026-10-21
 tags:
   - nhan-vat
   - bach-tinh
@@ -30,7 +30,7 @@ tags:
 | Nơi gắn bó | Trước tai nạn làm/giữ đồ ở nhà trú ven Nam Phố; điều kiện sở hữu/thuê cụ thể UNKNOWN |
 | Lần đầu trên trang | Chương 62, chưa gọi tên |
 | Lần đầu có tên | Chương 67, tự xưng khi trả dao; người trực viện hỏi lại tên lúc ông về |
-| Nơi / tình trạng mới nhất | Cuối chiều ngày mười sáu ở sân Tế Sinh Viện, có chỗ được cho ngồi chẻ phần mây thừa, không ở gian bệnh |
+| Nơi / tình trạng mới nhất | Ngày mười bảy ở sân Tế Sinh Viện: xem giỏ cũ sáng, không nhận sửa với công cụ hiện có; cuối ngày buộc lại bao, chưa có việc/tiền mới |
 | Gia đình / quê / nơi trú cố định mới | UNKNOWN; không tự chốt vợ con, cô độc, góa hoặc mất cả người thân |
 | Tu vi / linh căn / công pháp | UNKNOWN; tay nghề lao động không là bằng chứng tu hành |
 
@@ -95,3 +95,13 @@ Chi tiết tuổi và hướng phát triển dưới đây là thiết kế thư
 - Nguồn diễn biến: [[Chương 62]], [[Chương 63]], [[Chương 64]], [[Chương 66]], [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]].
 - Nguồn thiết kế: [[11_AUTONOMOUS_STORY_DESIGN]], [[MẪU HỒ SƠ NHÂN VẬT]].
 - Tra cứu: [[02-SỔ CÁI NHÂN VẬT]], [[00-DANH MỤC NHÂN VẬT]], [[03-SỔ THEO DÕI LẦN XUẤT HIỆN]], [[05-MA TRẬN TRI THỨC]], [[Bùi Gia]], [[Nhà Trú Tạm Ven Nam Phố]].
+
+## Trạng thái mới theo bản thảo Chương 68
+
+- Sáng ngày mười bảy thực hiện đúng hẹn nhìn đồ ở sân viện: người giữ đồ đem giỏ cũ tới, ông xem vành rồi thử đáy, thấy nan dưới mềm/rời mối cài. Chỉ vá vành vẫn có thể làm rơi đồ.
+- Không nhận làm lại phần đáy với công cụ hiện có. Hai bên dừng ở mức xem, chưa định công, nhận đơn/tiền hoặc sửa xong. Không biến việc được viện cho hỏi thành hợp đồng dài hạn hay công cụ mới.
+- Nhặt đoạn nan rời lại vào giỏ, quét chỗ ngồi rồi chuyển bao theo chỗ được chỉ. Cuối ngày còn ở sân viện buộc đồ, chào Lâm Uyên/Tô Thanh Ly vừa về tang; không hỏi người đang buồn phải kể lại buổi tiễn.
+- Người giữ đồ để riêng chiếc giỏ chưa nhận vá, dặn không dùng trả vào gian thuốc. Giỏ ấy khác giỏ dụng cụ người thợ đã sửa lấy hai đồng Chương 67, khác khung ép gãy/giỏ áo Hồ Nhuận Chi.
+- Dao mượn Bùi Ninh Viễn đã trả từ chiều mười sáu; dao cũ còn sứt, khung vẫn gãy và giá thay chưa biết. Không có thu nhập/bồi thường mới, khỏi mọi khó khăn sinh kế hoặc kết luận trách nhiệm nhà trú.
+
+Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]].

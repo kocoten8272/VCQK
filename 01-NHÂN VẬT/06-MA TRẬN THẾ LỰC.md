@@ -204,3 +204,17 @@ Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]], [[Chương
 Đồ thường không tạo thế lực/lore mới. Giao dịch hai đồng có kết quả cụ thể nhưng không kết luận nguyên nhân nhà sập, trách nhiệm Bùi Gia hoặc nối mạng thuốc/Hắc Nha/Tả tiên sinh.
 
 Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Chương 63]], [[Chương 66]].
+
+## Phạm vi nghề nghiệp và quyền hạn Chương 68
+
+- **Tế Sinh Viện:** Đứng thu xếp công an táng Mạnh Thanh Tễ trong khi hồi đáp thân nhân chưa được xác nhận; giữ riêng đồ, nguồn liên hệ và nơi chôn. Chăm bệnh tiếp tục theo ca, không giao tang sự cho nam chính quyết thay người nhà hoặc xóa việc tìm người sau khi chôn.
+- **Thủ Danh Phường FAC-015:** Lần đầu được thể hiện trực tiếp qua Vệ Thu Nghi CHAR-068 và phần việc mai táng có nguồn. Đối tên/nghề với người biết, để phần chưa rõ chờ bổ sung, đối nơi chôn với người giữ bãi, giữ nơi hỏi để người tới sau tìm được. Không tự thành pháp đình/phép tìm thân nhân hoặc thế lực đứng sau tai nạn.
+- **Vệ Thu Nghi:** Người nhận việc đối tên và giữ thông tin nơi chôn của phường, có lượt đi đối vị trí trưa và theo đoàn chiều. Không chủ phường, y sư, thân nhân hoặc mọi người đưa tin vô danh trước đó; công việc trong cảnh không xác lập toàn quyền của phường.
+- **Y sư/chấp sự/hộ tống:** Lượt ra ngoài đưa tang được nhận riêng, có xe/chỗ ngồi, giới hạn không khiêng/không giữ lâu, báo mỏi và về trước tối; có xem lại hai tay khi về. Không gỡ quản thúc/kiếm bảo chứng hoặc tự tái dùng giấy lượt16.
+- **Viện/người giữ đồ/Đào Thành Nghiệp:** Buổi xem giỏ sáng17 đã diễn ra; không nhận sửa đáy khi dụng cụ chưa đủ, món được để riêng không đưa về gian thuốc như đồ dùng được. Không phát công mới/khoản bồi thường/việc làm dài hạn; phần hai đồng67 vẫn giao dịch cũ.
+- **Chỗ ở mẹ con:** Người đi xác nhận báo giữ phần ngày17 theo điều kiện cũ, mẹ còn viện. Cuối ngày giao phần hôm nay và nhờ người nhận lời sáng sau, không tự thành đã giữ cả ngày18 hoặc viện đã chuyển người.
+- **Các nghĩa vụ và tuyến khác:** Dược Khế7–4tháng, thương tay, quản thúc/hộ tống giữ; nguồn Hòa Sinh/Tông Sảnh theo66 không có kết quả mới. Nhà trú/HFS/chìa/trang không bị nhập vào công việc Thủ Danh Phường.
+
+Tổng lore79 giữ: FAC-015 đã có hồ sơ được triển khai, CHAR-068 là người mới có tên trong mục nhân vật. Bãi chôn ngoài thành, bản chỉ đường và dấu tên thông thường không mở thêm node địa lý/vật phẩm.
+
+Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Thủ Danh Phường]], [[Chương 66]], [[Chương 67]].

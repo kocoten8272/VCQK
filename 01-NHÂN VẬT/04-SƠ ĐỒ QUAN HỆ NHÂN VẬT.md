@@ -261,3 +261,20 @@ Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]].
 Lâm Uyên ở viện cả chiều, nhận người khác có thể tự đi trả món mượn; không cần được kể toàn bộ cuộc trao đổi ở bàn Bùi Gia để có quan hệ hay tri thức mới.
 
 Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Chương 63]], [[Chương 66]].
+
+## Quan hệ theo bản thảo Chương 68
+
+| Người | Liên hệ/chuyển biến | Giới hạn |
+| --- | --- | --- |
+| Viện chủ Tế Sinh Viện → Mạnh Thanh Tễ/thân nhân chưa xác nhận | Viện lo an táng, giữ nơi chôn có tên, đồ riêng và tiếp đầu mối báo tin | Chưa có người nhà nhận; an táng không đồng nghĩa hết thân nhân, tuổi/quê không được điền đoán hoặc trao sổ/túi cho người học |
+| Viện chủ Tế Sinh Viện → Lâm Uyên | Báo việc đưa tang, nghe mong muốn chờ/đi cùng và hướng tới đúng lượt xem sức, thu xếp | Không bắt Lâm Uyên quyết mọi việc thay người nhà, không chuyển trách nhiệm tiền tang hoặc quyền nhận di vật |
+| Thủ Danh Phường/Vệ Thu Nghi ↔ Tế Sinh Viện | Đối người biết tên/nghề, nguồn liên hệ, chỗ chôn và bên giữ đồ; giao viện bản chỉ nơi chôn, phường giữ phần nguồn để người tới sau hỏi | Quan hệ công việc cụ thể, không quyền xét thân nhân bằng phép thuật hoặc đặt luật chờ cố định |
+| Vệ Thu Nghi → Lâm Uyên | Đọc lại đủ tên Mạnh Thanh Tễ, để phần chưa rõ chờ nguồn; cho bản chỉ đường khi hắn xin | Hỗ trợ tìm đúng mộ, không nhận làm người nhà/sư phụ, không cho quyền tự đi ngoài thành hoặc thêm bí mật nguồn gốc |
+| Tô Thanh Ly → Lâm Uyên | Giữ khoảng đứng, nhờ người giúp phần nặng, đưa khăn bằng trái và cất bản chỉ đường tới phần giấy của hắn sau khi về | Đồng hành trong mất mát, không lời buộc hắn hết buồn; tay phải nàng chưa lành, không tự mang quan tài |
+| Y sư/chấp sự/người hộ tống → Lâm Uyên/Tô Thanh Ly | Xem sức, nhận riêng lượt xe đưa tang, giúp bậc/tựa/chỗ ngồi và xem lại sau chuyến | Quyền đi có mục đích/lượt này, không lấy giấy lượt16 dùng lại hoặc gỡ quản thúc/hộ tống |
+| Đào Thành Nghiệp ↔ người giữ đồ | Đã xem giỏ hẹn sáng17, nói rõ đáy hỏng và từ chối nhận sửa với dụng cụ hiện có; giỏ được để riêng | Không có giao việc/giá/công mới; không biến lòng giúp thành lời bảo đảm món dùng được |
+| Người xác nhận chỗ ↔ viện/mẹ con Khương Tố Nương | Báo phần giữ ngày17 đã được bên nhận xác nhận và giao phần theo dõi cho sáng sau | Mẹ chưa chuyển khỏi viện; phần sáng sau cần tiếp nhận, không tự đã xác nhận ngày18 |
+
+Sổ nghề/túi thuốc vẫn thuộc phần viện giữ. Bản chỉ đường Lâm Uyên xin là bản riêng có trình tự Vệ Thu Nghi giao → Tô Thanh Ly cất giúp → đặt vào phần giấy của hắn, không là chuyển giao di sản.
+
+Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Chương 67]].

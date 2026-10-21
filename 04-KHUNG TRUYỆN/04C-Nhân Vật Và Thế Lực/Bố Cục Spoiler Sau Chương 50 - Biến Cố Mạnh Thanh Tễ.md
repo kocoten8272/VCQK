@@ -11,7 +11,7 @@ tags:
 
 # Bố Cục Spoiler Sau Chương 50 — Biến Cố Mạnh Thanh Tễ
 
-> **Spoiler cho tác giả.** Mạnh Thanh Tễ ra đi là hướng tác giả đã chốt, được triển khai trong bản thảo Chương 58–60. Bố cục cũ dưới đây giữ để đối ý hướng; mốc thực tế/giới hạn xem phần lưu vết cuối tệp. Các phần tang sự/điều tra chưa viết tiếp tục là kế hoạch.
+> **Spoiler cho tác giả.** Mạnh Thanh Tễ ra đi là hướng tác giả đã chốt, được triển khai trong bản thảo Chương 58–60. Bố cục cũ dưới đây giữ để đối ý hướng; mốc thực tế/giới hạn xem phần lưu vết cuối tệp. Các phần chưa viết tiếp tục là kế hoạch; mốc an táng thực đã triển khai ở Chương 68 ghi cuối tệp.
 
 ## Lâm Uyên sẽ mất gì?
 
@@ -114,3 +114,15 @@ DRAFT TEXT61 nối sáng–gần trưa14: Lưu Định đã khám/viếng, mẹ 
 Đoạn “yêu cầu mới được nhận/chưa giấy” ở mốc58–60 là lịch sử đến60; nay đã có phiếu hẹn nhưng chưa chứng minh làm xong/nguyên nhân/tội ai. Thân nhân/tang/chuyển sở hữu sổ tiếp cần nguồn, các mục nghề/tiền tự ứng trong khung chưa được tự động xác lập. Hướng tiếp từ [[Trạng Thái Truyện Sau Chương 61]], không dùng các cách rút tên trong khung cũ vào bản thảo mới.
 
 Nguồn: [[Chương 61]], [[Trạng Thái Truyện Sau Chương 61]].
+
+## Mốc đã triển khai thêm — Chương 68
+
+DRAFT TEXT68 nối sáng tới trước tối ngày mười bảy. Viện chủ nhận thu xếp an táng trước khi có hồi đáp xác nhận từ thân nhân, giữ rõ nơi/đồ và tiếp tìm người cần báo. Thủ Danh Phường có cảnh trực tiếp đầu tiên qua Vệ Thu Nghi, giúp đối tên/nguồn/nơi chôn trong phần được viện gọi. Tuổi/quê Mạnh Thanh Tễ còn thiếu được để trống; chưa xác lập ông không có người nhà.
+
+Chiều đã đặt nắp quan tài, chuyển ra xe, hạ/lấp và đặt dấu tên tại bãi chôn ngoài thành; cuối chương gian yên trong viện trống. Đây là an táng thực, phần kế hoạch tang sự cũ không được dùng viết lại thành sự kiện chưa xảy ra. Lượt tưởng niệm sáng mười lăm ở Chương 64 giữ là mốc riêng. Không thêm luật tang sự, chôn vọng hoặc quyền thay mọi thân nhân của học trò.
+
+Lâm Uyên/Tô Thanh Ly nhận lượt mới có y sư xem sức/chấp sự/hộ tống/xe; người khỏe làm phần nặng, hắn báo mỏi rồi ngồi. Hắn chỉ xin bản chỉ đường tới nơi chôn, nhờ nàng giữ giúp; sổ nghề/túi thuốc vẫn viện giữ, chưa là di sản, di nguyện hoặc tri thức kế thừa. Nỗi buồn chuyển qua sự trống chỗ và một con đường có thể tới lại, chưa biến thành hết đau hoặc lời thề báo thù.
+
+Đào Thành Nghiệp đã xem giỏ cũ nhưng không nhận với đáy mềm/công cụ hiện có, chưa có việc/tiền mới; phần giữ chỗ mẹ con Khương Tố Nương ngày mười bảy được báo đã xác nhận theo điều kiện cũ, chưa chuyển người. Điều tra nhà sập/Hòa Sinh/Hắc Phong Sơn vẫn giữ nguồn riêng, không vì an táng mà tự có thủ phạm hoặc kết quả. Sinh tử thật của Lâm Chinh vẫn UNKNOWN theo chốt tác giả.
+
+Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Mạnh Thanh Tễ]], [[Vệ Thu Nghi]], [[Thủ Danh Phường]].

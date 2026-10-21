@@ -277,3 +277,20 @@ Tên Đào Thành Nghiệp được hỏi và nhắc đúng tại bàn; Lâm Uy�
 Tuyến thuốc dừng ở nguồn66, không có báo mới Tạ Nghiên Chi/Phùng Quý Lương đã tới Tông Sảnh hoặc lô hàng được kiểm xong. HFS/Tô Lạc/miếng đồng/chìa/trang không chứng cứ mới; sinh tử thật Lâm Chinh UNKNOWN.
 
 Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Chương 63]], [[Chương 66]].
+
+## Tri thức theo bản thảo Chương 68
+
+| Người | Biết/nghe | Giới hạn |
+| --- | --- | --- |
+| Đào Thành Nghiệp/người giữ đồ/Lâm Uyên tại hiên | K: giỏ hẹn xem có nan đáy mềm/rời, chỉ vá vành chưa dùng được; ông không nhận làm lại với dụng cụ hiện có | Chưa viện đã thuê/trả công hoặc có thể sửa mọi giỏ, không nguồn thu mới |
+| Lâm Uyên ← người trực | R: bên nhận đã xác nhận giữ chỗ mẹ con Khương Tố Nương ngày17 theo điều kiện cũ; mẹ còn viện xem chân | Không tự thấy nơi nhận hôm nay, không xuất viện/khỏi chân hoặc xác nhận sẵn ngày18 |
+| Viện chủ/Lâm Uyên/Vệ Thu Nghi | K/R: viện chưa có hồi đáp thân nhân được xác nhận, tiếp tìm qua đầu mối; viện lo an táng trước và giữ đồ/nơi chôn | Chưa người mất không còn thân nhân; không có di nguyện mới hoặc luật buộc chôn sau số ngày cố định |
+| Vệ Thu Nghi/viện/Lâm Uyên tại bàn | K: người trong viện nhận nguồn tên Mạnh Thanh Tễ/nghề giám dược; phần tuổi/quê chưa rõ để trống, sổ/túi vẫn viện giữ | Không lấy tuổi thiết kế trong hồ sơ hoặc vẻ ngoài điền vào điều người trong cảnh không biết; không nhận quan hệ thừa kế |
+| Lâm Uyên/Tô Thanh Ly/người đi cùng | K: lượt xe/hộ tống được nhận riêng sau xem sức; chứng kiến đóng nắp, đưa quan tài, hạ huyệt/lấp đất và dấu tên | Không tuvi/thương tay đã hồi phục hoặc quyền tự đi ra ngoài về sau; Mạnh Thanh Tễ không chết lần thứ hai |
+| Vệ Thu Nghi/viện/đoàn | K: chỗ ngoài thành được đối với người giữ bãi, có tên/nghề và đường để chỉ lại; phường/viện giữ phần nguồn | Vị trí trong cảnh là bãi chôn không tên riêng, không tự thêm địa danh/toạ độ/lore hoặc biết thân nhân sẽ tới lúc nào |
+| Lâm Uyên/Tô Thanh Ly | K: Vệ Thu Nghi cho bản chỉ đường khi xin, Tô Thanh Ly giữ rồi đặt vào giấy Lâm Uyên lúc về | Hắn nhận bản đường, không bản giữ đồ gốc/sổ nghề/túi thuốc hoặc lời dạy mới của người chết |
+| Lâm Uyên | K: gian quan tài thật sự đã trống sau khi về, người chăm bệnh/việc thường tiếp tục | Có thay đổi cụ thể trong cách trải qua mất mát, không hết buồn, được chữa thương hay biết thêm nguyên nhân tai nạn |
+
+Tuổi42 của Vệ Thu Nghi là thiết kế tác giả; trên trang chỉ ngoài40. Nguồn thuốc/Tạ Nghiên Chi/Phùng Quý Lương vẫn dừng ở66; không vì an táng mà giải nhà trú, kim Hồ Nhuận Chi, HFS/Tô Lạc/miếng đồng/chìa/trang. Sinh tử thật Lâm Chinh UNKNOWN.
+
+Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Chương 64]], [[Chương 66]], [[Chương 67]].

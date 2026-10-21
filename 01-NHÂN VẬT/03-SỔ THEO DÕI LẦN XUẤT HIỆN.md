@@ -299,3 +299,19 @@ Người dẫn đội đã có vai63 được Bùi Ninh Viễn giới thiệu ch
 Tạ Nghiên Chi/Phùng Quý Lương không có cảnh mới sau66, Trần Dực không bị gọi hỏi lại; Mạnh Thanh Tễ không hành động sống hoặc có tang/di vật mới.
 
 Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Chương 62]], [[Chương 63]], [[Chương 64]], [[Chương 66]].
+
+## Mốc mới theo bản thảo Chương 68
+
+| ID | Nhân vật | Kiểu/mốc | Nơi cuối/giới hạn |
+| --- | --- | --- | --- |
+| CHAR-005 | Lâm Uyên | Trực tiếp từ sáng17 ở viện, chiều đi an táng rồi về trước tối | Xin đi, được y sư xem sức và chấp sự nhận riêng lượt xe/hộ tống; không khiêng. Dùng trái sửa nhẹ góc vải, thả ít đất, báo mỏi và ngồi; về được xem lại hai tay rồi nghỉ. Không tự viết/đi ngoài thành về sau hoặc nhận di vật |
+| CHAR-006 | Tô Thanh Ly | Trực tiếp tại viện và cùng chuyến đưa tang | Báo đúng chấp sự, giữ tay phải thương/nhờ người lành tay giúp; dùng trái nhận giữ bản chỉ đường Lâm Uyên xin rồi đặt vào phần giấy của hắn tại viện |
+| CHAR-037 | Mạnh Thanh Tễ | Thi thể trong buổi an táng, không hành động sống | Quan tài thực sự đóng nắp, đưa ra bãi chôn ngoài thành và lấp đất chiều17; tên/nghề được ghi. Đã chết đêm13, không chết lần nữa; tuổi/quê/thân nhân chưa rõ, sổ nghề/túi thuốc vẫn viện giữ |
+| CHAR-047 | Viện chủ Tế Sinh Viện | Trực tiếp thu xếp và đi tiễn | Viện đứng lo an táng trước, giữ nơi chôn/đồ riêng, tiếp liên hệ; trở lại việc sau chuyến. Không nhận thay người nhà mọi quyền hoặc xác nhận người mất không còn thân nhân |
+| CHAR-068 | [[Vệ Thu Nghi]] | Lần đầu trực tiếp/có tên | Nữ ngoài40, làm việc đối tên/giữ thông tin nơi chôn của Thủ Danh Phường; đi đối chỗ trưa, theo đoàn chiều, giao bản chỉ nơi chôn cho viện và bản đường khi Lâm Uyên xin. Tuổi42 là thiết kế, không kể trên trang; không đồng nhất người đưa tin cũ |
+| CHAR-067 | Đào Thành Nghiệp | Trực tiếp sáng17 và khi nhóm về trước tối | Đã xem giỏ theo hẹn, không nhận làm lại đáy với dụng cụ hiện có, không chốt công; cuối buộc bao ở sân. Khung/dao cũ theo67, không có việc thuê hoặc tiền mới |
+| CHAR-062 | Khương Tố Nương/con | Qua tin người trực, không cảnh mới tại gian bệnh | Chỗ ngày17 được báo đã xác nhận theo điều kiện cũ; mẹ còn viện xem chân. Cuối ngày người xác nhận giao phần hôm nay, nhờ nhận lời cho sáng sau; chưa tự thành chỗ ngày18 đã được giữ |
+
+Các y sư, chấp sự trực, người hộ tống, người trực, người khiêng và người giữ bãi là vai theo phần việc trong cảnh; không tự nhập với viện chủ/Hứa Tĩnh Xuyên hoặc một người đã có từ trước. Tạ Nghiên Chi, Phùng Quý Lương, Trần Dực, Bùi Ninh Viễn, Bùi Khánh Vân và Hồ Nhuận Chi không có cảnh trực tiếp mới68.
+
+Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Chương 64]], [[Chương 67]].

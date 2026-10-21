@@ -285,3 +285,20 @@ Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]], [[Chương
 Một món sửa xong và hai đồng trả công tạo chuyển biến đời sống có giới hạn; không biến thao tác sửa giỏ/quế thành bảo vật hay dấu hiệu bí ẩn cấp thế giới. Trách nhiệm nhà sập và phần giúp trước mắt vẫn là những việc phải theo nguồn riêng.
 
 Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Chương 63]], [[Chương 64]], [[Chương 66]].
+
+## Tiến triển theo bản thảo Chương 68
+
+| Hẹn/đầu mối | Trả trong68 | Còn giữ |
+| --- | --- | --- |
+| Lượt xem giỏ sáng17 | Đào Thành Nghiệp đã xem, nhận đáy hỏng không thể chỉ vá vành rồi trả dùng; không nhận làm lại với dụng cụ hiện có | Chưa việc thuê/công mới, thay khung/giỏ mới hoặc sinh kế được bảo đảm |
+| Chỗ mẹ con | Người trực báo phần ngày17 được bên nhận xác nhận theo điều kiện cũ | Mẹ còn viện; nhờ nhận lời sáng sau chưa ngày18 đã được giữ |
+| Tang Mạnh Thanh Tễ | Chiều17 quan tài đóng nắp, đưa ra bãi ngoài thành, hạ/lấp đất và tên/nghề được đánh dấu | Mất đêm13/tưởng niệm15 giữ; chưa thân nhân được nhận diện, tuổi/quê/ý nguyện không tự được điền |
+| Nơi người tới sau tìm | Thủ Danh Phường/Vệ Thu Nghi đối nguồn, viện/phường giữ nơi hỏi và bản chỉ nơi chôn; Lâm Uyên xin bản đường riêng | Tiếp báo thân nhân, không bảo đảm sẽ tìm được ai hoặc xác nhận người mất không còn nhà |
+| Sổ nghề/túi thuốc | Rõ vẫn viện giữ, không đưa theo quan tài hay trao người học | Chưa di sản/truyền thừa/di nguyện, không nội dung mới được mở |
+| Thương tay/chuyến đi | Có lượt xe/hộ tống được nhận riêng, báo mỏi/ngồi/về trước tối và xem lại tay | Thương chưa lành, quản thúc/kiếm bảo chứng/Dược Khế7–4tháng giữ; không quyền tự thăm mộ |
+| Gian yên sau tang | Lâm Uyên trở về thấy chỗ quan tài trống, nhờ chuyển ghế rồi nghỉ | Không hết buồn, không thêm năng lực vì đau khổ hoặc lời thầy đáp từ trong mộ |
+| Thuốc/nhà trú/HFS/kim | Không đặt kết quả ngoài nguồn66–67 | Tạ Nghiên Chi/Phùng Quý Lương chưa có báo đối tiếp xong; kim chưa về, nhà chưa an toàn/toàn trách nhiệm, Tô Lạc/miếng đồng chưa thu; Lâm Chinh UNKNOWN |
+
+Mốc an táng đã hoàn thành, không nên dồn lại một lần đóng nắp khác ở chương sau. Tuyến người tới sau còn đường tìm là việc đời thường có nguồn; không biến Thủ Danh Phường, ngôi mộ hay bản đường thành bí ẩn cấp thế giới/công cụ xác nhận huyết thống.
+
+Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Chương 64]], [[Chương 66]], [[Chương 67]].

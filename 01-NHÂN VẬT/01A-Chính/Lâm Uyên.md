@@ -257,3 +257,16 @@ Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]].
 - Tay phải tiếp tục băng/đau, nhận chén bằng trái rồi đặt xuống khi được nhắc nghỉ; không có hồi phục mới, tăng tu vi hoặc giảm Dược Khế bảy tháng. Quản thúc/hộ tống, tình trạng thật UNKNOWN của Lâm Chinh và các bí mật đang mở giữ nguyên.
 
 Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Đào Thành Nghiệp]], [[Hứa Tĩnh Xuyên]].
+
+## Trạng thái mới theo bản thảo Chương 68
+
+- Sáng ngày thứ mười bảy tại viện, nghe người trực báo phần giữ chỗ mẹ con Khương Tố Nương đã được nơi nhận xác nhận hôm nay theo điều kiện cũ; bà vẫn ở viện xem chân. Thấy Đào Thành Nghiệp kiểm giỏ cũ rồi không nhận vá khi đáy đã mềm; không có việc trả công hoặc giỏ đã sửa.
+- Viện chủ trực tiếp báo thu xếp an táng Mạnh Thanh Tễ chiều nay, chưa có hồi đáp xác nhận từ thân nhân và việc tìm người cần báo vẫn tiếp. Hắn muốn chờ thêm, rồi xin đi tiễn; không nhận vai thay người nhà quyết tất cả.
+- Nghe Vệ Thu Nghi của Thủ Danh Phường đối tên/nghề, tự nhắc đủ tên thầy; khi được hỏi tuổi/quê nhận mình chưa hỏi. Không suy người mất không còn thân nhân hoặc tự bổ sung tiểu sử.
+- Được y sư xem sức, chấp sự nhận lượt mới riêng buổi đưa tang bằng xe có hộ tống; không dùng lại giấy lượt Chương 66, không khiêng/cầm nặng lâu. Tay phải vẫn băng, trái cũng cần nghỉ; chỉ sửa nhẹ mép vải theo cho phép, người khỏe lo phần nặng. Mỏi thì báo/xin ngồi, về viện trước tối có người nhận/gọi y sư xem lại, chưa kết quả hồi phục mới.
+- Thực sự chứng kiến đặt nắp/chuyển quan tài/hạ/lấp và dấu tên tại bãi chôn ngoài thành. Nhận chút đất trên tay trái rồi thả; không tự đào lấp, nâng hạ hoặc đứng cố suốt lượt. Cái chết vẫn từ đêm mười ba, hôm nay là an táng, không có lời dạy/di nguyện mới.
+- Xin một bản chỉ đường tới nơi chôn, nhờ Tô Thanh Ly giữ rồi đặt về chỗ giấy mình. Sổ nghề/túi thuốc thầy vẫn viện giữ, không có kế thừa tài sản/công lực/quyền trị bệnh; bản chỉ đường không gỡ hạn chế đi lại.
+- Khi về thấy gian yên trống, nhờ người trực chuyển ghế chắn lối thay vì tự nâng rồi tới chỗ nghỉ. Nỗi đau chuyển từ chỗ còn tới nhìn mặt sang nơi phải tìm đường tới; chưa nguôi đau hoặc thành lời thề báo thù.
+- Dược Khế bảy tháng, quản thúc/hộ tống, dược lý sơ học và tình trạng thật UNKNOWN của Lâm Chinh giữ nguyên. Không có tu vi, manh mối thuốc/công trình/chìa/trang mất hoặc kết quả Hắc Phong Sơn mới.
+
+Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Vệ Thu Nghi]], [[Thủ Danh Phường]].
