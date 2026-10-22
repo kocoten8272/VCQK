@@ -294,3 +294,24 @@ Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Chương
 Tuổi42 của Vệ Thu Nghi là thiết kế tác giả; trên trang chỉ ngoài40. Nguồn thuốc/Tạ Nghiên Chi/Phùng Quý Lương vẫn dừng ở66; không vì an táng mà giải nhà trú, kim Hồ Nhuận Chi, HFS/Tô Lạc/miếng đồng/chìa/trang. Sinh tử thật Lâm Chinh UNKNOWN.
 
 Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Chương 64]], [[Chương 66]], [[Chương 67]].
+
+## Tri thức theo bản thảo Chương 69
+
+| Người | Biết/nghe | Giới hạn |
+| --- | --- | --- |
+| Tạ Nghiên Chi/chấp sự | K/R: giấy lấy ở Hòa Sinh66 đã trình Tông Sảnh chiều16, có yêu cầu tìm bên nhận; lời mời gửi17, bên nhận nhận mở phần liên quan18 | Chi tiết hồi cố mới được nêu trong69, không biến thành cảnh trực tiếp đã viết66 hoặc luật khám kho tự động |
+| Lâm Uyên/Tô Thanh Ly ← Tạ Nghiên Chi trước chuyến | R: ba bao hàng thô đang được bên nhận giữ riêng, cần người có nghề xem; việc đòi đổi thuốc lấy lời đã được dừng ở những lượt còn dở | Hai người ở viện, không tự nhận diện người/hàng chưa thấy; chưa biết chất lượng khi đoàn chưa tới |
+| Lương Cảnh Thuận | K theo tự nhận: có mặt khi dỡ, đã mở bao ngoài cùng, ghi giữ riêng và không cho nhập phần nhận dùng; sau có dời tấm kê, không tự hong/lựa tạp | Đây là lời người giữ và giấy ông nhận nguồn; người vắng mặt chưa xác nhận hết, không chứng minh toàn chặng trước kho |
+| Tạ Nghiên Chi/Hứa Tĩnh Xuyên/chấp sự/Phùng Quý Lương tại kho | K: đối đúng số lượt/dấu nhận/ba bao, dòng cân đủ khác phần nhận đạt hạng; một bao từng mở được tháo lại trước người dự | Không dùng cân đủ xác nhận hạng khô sạch, không tự mở mọi sổ hoặc cả ba bao |
+| Hứa Tĩnh Xuyên/người dự | K: hai phần lấy ở ngoài và sâu trong bao đang mở có chỗ ẩm/lẫn đất, không đủ nhận phần đã xem đạt hạng khô sạch trong khế | Kết quả tình trạng hiện tại, không khẳng định lúc giao đã như vậy, ai làm, cố ý trộn/đổi hoặc chất lượng hai bao chưa mở |
+| Lương Cảnh Thuận/người dự | K: hai mẫu bọc riêng, ghi nguồn/ngày/chỗ lấy, do ông nhận giữ tại kho; bao buộc lại, ba bao tiếp giữ tới hết19 sau ba đồng Phùng Quý Lương ứng | Không mẫu về viện/dùng chữa bệnh, không kết quả kiểm cả lô hoặc bảo đảm tiền được hoàn; lần mở hai bao còn lại mới cần hẹn |
+| Tạ Nghiên Chi/Phùng Quý Lương tại kho | K/R: chưa có nguồn nối ba bao với toán Trần Dực dẫn; lời người bệnh không thay nguồn giao hàng | Chưa có thể loại trừ mọi liên hệ về sau, cũng chưa nối nhóm áo đen/Tả tiên sinh/mạng thuốc thành một phe |
+| Lâm Uyên/Tô Thanh Ly ← Tạ Nghiên Chi sau chuyến | R: tên Lương Cảnh Thuận, ba bao giữ riêng, một bao có phần hiện còn ẩm/tạp, hai bao chưa kiểm, giữ tới cuối19, chưa kết luận ai/chặng nào | Không biết toàn cuộc tranh tiền/những lời riêng tại kho chỉ vì người kể đã có mặt; không thành người chứng kiến vật |
+| Lâm Uyên ← Tạ Nghiên Chi/Hứa Tĩnh Xuyên | R: ba bao hàng thô khác hai hòm Xích Tủy Tán đã về viện; chưa căn cứ nối hòm gỗ dài. Nhìn thấy đất không tự cho biết người cố ý làm | Không thuốc bến mới được thu hồi hoặc học xong cách kiểm hàng; lời nhờ học vẫn chờ khi giám dược rảnh |
+| Viện chủ ← Hứa Tĩnh Xuyên | R/K: nhận phần cần biết sau chuyến để tiếp công việc của viện | Phạm vi báo trong cảnh không tự đồng nghĩa toàn cuộc đối ngoài kho |
+| Lâm Uyên/người trực ← người xác nhận chỗ | R: bên nhận đã giữ chỗ mẹ con Khương Tố Nương ngày18 theo điều kiện cũ | Mẹ còn viện/chân cần xem, không xuất viện hoặc chỗ19 đã xác nhận |
+| Lâm Uyên/Tô Thanh Ly | K: bản chỉ đường vẫn ở chỗ khô, không có vật thầy trao thêm hoặc tin thân nhân tới; buồn và thoáng nhẹ vì việc khác có thể cùng xuất hiện | Không hết đau buồn, có di nguyện mới hoặc được tăng dược lý/tuvi nhờ mất mát |
+
+Tuổi44 của Lương Cảnh Thuận thuộc thiết kế tác giả; trên trang chỉ ngoài40. Tri thức tại kho được tách khỏi phần báo về viện. Nguồn HFS/Tô Lạc/miếng đồng, nhà trú/kim, mạng áo đen/Tả tiên sinh và sinh tử thật Lâm Chinh không có kết quả mới.
+
+Nguồn: [[Chương 69]], [[Trạng Thái Truyện Sau Chương 69]], [[Chương 66]], [[Chương 68]].

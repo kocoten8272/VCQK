@@ -5,7 +5,7 @@ importance-tier: C
 vai-tro: nhan-vat-phu
 status: da-xuat-hien
 created: 2026-10-19
-updated: 2026-10-20
+updated: 2026-10-22
 tags:
   - nhan-vat
   - te-sinh-vien
@@ -27,7 +27,7 @@ tags:
 | Giới tính / tuổi trên trang | Nam, ngoài bốn mươi theo Chương 64 |
 | Tuổi thiết kế | 44, tự thiết kế ngày 2026-10-19 theo [[11_AUTONOMOUS_STORY_DESIGN]]; chưa nêu tuổi chính xác trong chương |
 | Lần đầu nhận diện | Vai giám dược hẹn học tối Chương 63; tên và nhận diện rõ ở Chương 64 |
-| Nơi / tình trạng mới nhất | Còn sống, tại Tế Sinh Viện chiều ngày thứ mười sáu; sau bài mẫu quế trở lại gian thuốc |
+| Nơi / tình trạng mới nhất | Còn sống, đã trở về Tế Sinh Viện sau bữa trưa ngày mười tám sau lượt kiểm hàng tại kho; cuối cảnh quay về bàn thuốc |
 | Gia đình / nơi ở riêng / tiền công | UNKNOWN; không tự tạo vợ con, thân tộc, nguồn lương hoặc quá khứ nghèo khổ |
 | Tu vi / công pháp / pháp khí | UNKNOWN; nghề giám dược không chứng minh tu hành |
 
@@ -107,3 +107,15 @@ Thiết kế thường lệ được phát triển theo quyền tự chủ tác 
 - Không đồng nhất ông với y sư cho Lâm Uyên đi xe sáng Chương 66, người thay băng hoặc mọi ca giám dược cũ. Tuổi 44 vẫn thiết kế, tu vi/đời riêng UNKNOWN; không thay Mạnh Thanh Tễ hoặc chữa xong đau buồn.
 
 Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]].
+
+## Phần kiểm hàng và lời giải thích theo bản thảo Chương 69
+
+- Viện chủ nhận phối hợp và thu xếp người thay bàn; ông giao xong bàn thuốc rồi theo Tạ Nghiên Chi/chấp sự tới kho bên nhận thuê sáng mười tám. Người cùng đi mang khay/giấy bọc/dụng cụ, ông đối lại trước khi đi. Không bỏ ca không ai nhận hoặc đưa Lâm Uyên đi học tại kho.
+- Đọc đúng phần khế mua rễ dược phơi khô/làm sạch theo hạng, hỏi nguồn lần xem trước và xin mở đúng bao đã từng mở. Không đòi mọi hàng/sổ được mở hoặc lấy hàng khỏi quyền người giữ.
+- Dự việc người phụ giúp lấy riêng phần lớp ngoài và sâu trong bao, xem chỗ đứt/kẽ đất/độ ẩm, hỏi cách giữ sau lần mở cũ. Phần vừa lấy còn ẩm/lẫn đất không đáp yêu cầu khô sạch, không thể lấy dòng đủ cân làm nhận đạt hạng. Hai bao chưa mở vẫn chưa được kiểm.
+- Phân biệt phát hiện hôm nay với nguyên nhân/chặng trước; chưa thấy lúc người giao đóng bao, không nhận bên giao đã tráo hoặc ai cố trộn. Chưa có nguồn nối với toán Trần Dực, hòm dài dưới núi hoặc mẫu vón/niêm của hai hòm Xích Tủy Tán.
+- Giữ riêng hai phần ngoài/sâu thành hai gói có nguồn/ngày/chỗ lấy, để Lương Cảnh Thuận nhận giữ và ký trong hộp riêng tại kho. Bao được buộc lại có ghi lượt hôm nay/người dự; không trút mẫu về bao, không đem tới viện/giao bệnh nhân hoặc phát dùng.
+- Sau bữa trưa về viện, giao lại đồ và báo viện chủ rồi nhận bàn thuốc. Ghé giải thích hữu hạn cho Lâm Uyên: đất trong mẫu chưa chứng minh ai cố ý trộn, nghề xem không cho thấy ngược cả chuyến hàng. Không mở hộp mẫu/nhận một buổi học mới; nhờ người trực giữ hai tay hắn nghỉ rồi về bàn.
+- Lời nhờ cuối chương của Lâm Uyên là muốn nghe khi ông rảnh cách bắt đầu xem món chưa rõ; chưa có bài học tiếp được thực hiện/lịch chắc. Nghề kiểm hàng cụ thể không tự xác nhận quyền trị mọi bệnh, tu vi, gia đình hoặc quan hệ thầy trò thay thế Mạnh Thanh Tễ.
+
+Nguồn: [[Chương 69]], [[Trạng Thái Truyện Sau Chương 69]], [[Lương Cảnh Thuận]], [[Phùng Quý Lương]].

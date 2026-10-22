@@ -282,3 +282,23 @@ Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Chương
 Tổng lore79 giữ: FAC-015 đã có được triển khai, CHAR-068 thuộc mục nhân vật; bãi chôn không tên riêng/bản chỉ đường/dấu tên không tạo lore mới. Tuổi/quê Mạnh Thanh Tễ, tình trạng thật của Lâm Chinh và quan hệ các mạng chưa chứng minh giữ đúng lớp UNKNOWN/nguồn cũ. Nguồn biên tập bên ngoài không thành tri thức tự biết của nhân vật.
 
 Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Thủ Danh Phường]], [[Chương 64]], [[Chương 66]], [[Chương 67]].
+
+## Đối chiếu có phạm vi sau Chương 69 — 2026-10-22
+
+| Mệnh đề | Nguồn/lớp | Giới hạn |
+| --- | --- | --- |
+| Giấy66 và lịch đối bên nhận | DRAFT TEXT69 hồi cố: Tạ Nghiên Chi/chấp sự trình giấy chiều16, lời mời gửi17, sáng18 bên nhận đồng ý phần mở | Không giả đã có cảnh trực tiếp ở Tông Sảnh trong66, không quyền mở toàn kho |
+| Lương Cảnh Thuận CHAR-069 | DRAFT TEXT69: người bên nhận giao coi phần kho/đối đúng ba bao, ngoài40, tự nhận việc mình làm và giấy mình ghi | Tuổi44 là thiết kế; không chủ toàn kho, gia tộc/phe mới hoặc người mua cuối |
+| Lúc dỡ đã mở/giữ riêng | CHARACTER REPORT69 của Lương Cảnh Thuận và phần bản kê ông nhận nguồn: có mặt, mở bao ngoài, ghi giữ riêng, buộc lại/không hong hay nhặt tạp; có chuyển tấm kê | Không người vắng mặt đã đồng ý, không chất lượng toàn lô/chặng trước kho đã được độc lập chứng minh |
+| Ba bao và phần kiểm | DRAFT TEXT69: một bao từng mở được mở lại trước người dự, lấy ngoài/sâu; hiện có chỗ ẩm/lẫn đất so với khế khô sạch, hai bao chưa mở | Kết quả hiện tại theo phần lấy, không khẳng định lúc giao/ai cố ý trộn hoặc chất lượng hai bao chưa mở |
+| Hai mẫu và nơi giữ | DRAFT TEXT69: bọc riêng ghi nguồn/ngày/chỗ lấy, Lương Cảnh Thuận nhận giữ tại kho; bao đã mở buộc lại, ba bao giữ tiếp | Không mẫu về viện/đưa cho Lâm Uyên hoặc nhập hàng chữa bệnh; lần mở hai bao còn lại mới được đồng ý khi hẹn đủ người |
+| Ba đồng/mốc19 | DRAFT TEXT69: Phùng Quý Lương ứng công chỗ tới hết ngày19, có tờ nhận được đọc lại | Không nhận lỗi làm hỏng, miễn khoản bảo lãnh hoặc được hứa hoàn tiền; hạn chưa trả xong ngay18 |
+| Phần nghề/quyền | DRAFT TEXT69: giám dược kiểm phần hiện có, chấp sự giữ phạm vi có đồng ý của bên nhận; Tạ Nghiên Chi ghi và đọc lại đúng nguồn | Không phán quyết thủ phạm, lệnh cấm công khai hoặc quyền giữ toàn kho vô hạn |
+| Về viện | DRAFT TEXT69: Hứa Tĩnh Xuyên giao đồ/báo viện chủ rồi về bàn, Tạ Nghiên Chi báo phần được phép cho hai người và rời để trở lại Tông Sảnh | Báo hữu hạn không mang toàn tri thức cuộc đối tới người không dự; chưa cảnh tới Tông Sảnh |
+| Hai hòm bến/hòm dài | DRAFT TEXT69 và trả lời Tạ Nghiên Chi: ba bao hàng thô khác hai hòm đã về viện, chưa căn cứ nối hòm gỗ dài/toán Trần Dực | Không thu hồi hai hòm lần nữa hoặc tự nối áo đen/Tả tiên sinh/thuốc thành một phe |
+| Nghỉ, chỗ ở và lời nhờ học | DRAFT TEXT69: Lâm Uyên ở viện/được dặn nghỉ, tin chỗ mẹ con ngày18 đã xác nhận; cuối nhờ nhắn khi giám dược rảnh | Không khỏi tay, chuyển mẹ con/giữ ngày19 hoặc buổi học thuốc mới đã diễn ra |
+| Tang và cảm xúc | DRAFT TEXT69: bản đường vẫn khô, đồ thầy viện giữ, chưa tin thân nhân; có thoáng nhẹ rồi khó chịu sau an táng17 | Không di sản mới, hết đau buồn hoặc tri thức từ người chết |
+
+Tuổi/quê Mạnh Thanh Tễ, sinh tử thật Lâm Chinh và các mối nối cấp thế giới không có nguồn mới. Một kho thuê, giấy lấy mẫu/công chỗ và hàng thô chưa có tên riêng không tự tạo node lore mới. Nguồn biên tập/nghiên cứu ngoài truyện không trở thành tri thức của nhân vật.
+
+Nguồn: [[Chương 69]], [[Trạng Thái Truyện Sau Chương 69]], [[Chương 66]], [[Chương 68]].

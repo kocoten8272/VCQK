@@ -244,3 +244,21 @@ Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Chương
 Cuối68 đã trở về viện trước tối ngày17. Việc thăm mộ về sau phải xin đúng lượt/sức, liên hệ thân nhân vẫn tiếp qua viện/phường; không dùng an táng làm bằng chứng người mất không còn ai hoặc đóng toàn tuyến hậu quả.
 
 Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Chương 64]], [[Chương 66]], [[Chương 67]].
+
+## Tiến triển theo bản thảo Chương 69
+
+- **Ngày18 đã bắt đầu tại viện:** Lâm Uyên/Tô Thanh Ly không có chuyến ra ngoài mới. Tay phải hắn còn đau/băng, có lúc tỉnh khi trở mình; y sư dặn nghỉ, việc được đi tang17 không thành sức đi tiếp hôm nay. Tô Thanh Ly vẫn chỉ dùng trái giúp giấy/chén.
+- **Chỗ mẹ con được trả hẹn theo ngày:** Người xác nhận báo bên nhận giữ phần18 theo điều kiện cũ. Khương Tố Nương còn viện cần xem chân; không đưa mẹ con ra khỏi viện hoặc chốt luôn19.
+- **Không treo đoàn66 mãi ở Hòa Sinh:**69 nêu giấy đã trình Tông Sảnh chiều16, lời mời bên nhận gửi17 và nhận lời mở phần liên quan sáng18. Đây là hồi cố mới trong69, không sửa66 thành cảnh đã tới Tông Sảnh.
+- **Vụ thuốc tiến từ lời người bệnh tới hàng thật:** Tạ Nghiên Chi/chấp sự đi cùng Hứa Tĩnh Xuyên sau khi viện bố trí thay bàn, đối ba bao do bên nhận giữ. Lương Cảnh Thuận CHAR-069 có phần việc riêng/giấy nhận nguồn, không nhân vật biết toàn mạng.
+- **Kết quả có phạm vi:** Bao từng mở được lấy phần ngoài/sâu, hiện có chỗ ẩm/lẫn đất so với hạng khô sạch; hai bao còn lại chưa mở/kiểm. Không kết luận đã như vậy lúc giao, ai làm hoặc cố ý đổi/trộn, không gán toàn lô từ một bao.
+- **Giữ được vật và đầu mối:** Ba bao ở kho, bao đã kiểm buộc lại; hai mẫu bọc riêng có nguồn/ngày/chỗ lấy do Lương Cảnh Thuận giữ, không theo giám dược về viện/dùng chữa bệnh. Bên nhận đồng ý mở hai bao kia khi hẹn đủ người, chưa buổi mở tiếp đã xảy ra.
+- **Có giá và hạn cụ thể:** Phùng Quý Lương ứng ba đồng giữ chỗ tới hết ngày19. Chưa miễn bảo lãnh, hoàn tiền hoặc nhận lỗi làm hỏng; nếu viết tiếp phải trả mốc giữ/thu xếp trước khi tự cho kho giữ vô hạn. Ba đồng khác khoản hai đồng Đào Thành Nghiệp đã nhận67.
+- **Phần báo về viện được tách:** Tạ Nghiên Chi nói kết quả/giới hạn, tên người giữ và mốc19; không gán Lâm Uyên/Tô Thanh Ly đã nghe mọi lời trong kho. Hứa Tĩnh Xuyên về bàn, Tạ Nghiên Chi rời viện để trở lại Tông Sảnh cùng chấp sự/phần ghi, chưa cảnh tới nơi.
+- **Học nghề còn là mong muốn có hẹn:** Lâm Uyên hỏi xem đất có biết cố ý không, nghe giới hạn rồi nhờ báo khi Hứa Tĩnh Xuyên rảnh về cách bắt đầu xem hàng chưa biết. Chưa lớp học mới, mẫu đem cho học hoặc quyền tự nhận thuốc/khám/kê.
+- **Tang đã qua nhưng nỗi đau vẫn chạy cùng việc sống:** Bản đường còn được giữ khô; đồ riêng thầy viện giữ, thân nhân chưa tin. Hắn thoáng nhẹ vì vụ hàng có đường kiểm rồi khó chịu với sự nhẹ ấy; chưa hết buồn hoặc có lời dạy/di vật mới.
+- **Những việc chưa giải:** Hai hòm bến đã ở viện47–48 và hòm gỗ dài không đồng nhất ba bao; chưa nguồn nối toán Trần Dực, không lấy lời mới. Kim Hồ Nhuận Chi/khung Đào Thành Nghiệp/nhà trú/trách nhiệm Bùi Gia/HFS/Tô Lạc/miếng đồng/chìa/trang không kết quả mới; Lâm Chinh vẫn UNKNOWN.
+
+Cuối69 là sau bữa trưa18, chưa tới ngày19 hoặc buổi mở hai bao tiếp. Không mở70 như đoàn vẫn sắp đi kho lần đầu, thuốc mới được cứu về viện, tang chưa an táng hoặc mốc giữ19 đã trả xong.
+
+Nguồn: [[Chương 69]], [[Trạng Thái Truyện Sau Chương 69]], [[Chương 66]], [[Chương 67]], [[Chương 68]].

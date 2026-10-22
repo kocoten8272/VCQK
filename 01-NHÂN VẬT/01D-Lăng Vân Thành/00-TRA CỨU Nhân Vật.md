@@ -13,6 +13,8 @@ Nhân vật dân sinh, Tế Sinh Viện, Nam Phố và các cơ quan/nhà có ho
 
 ## Tuyến hiện có trong bản thảo
 
+- [Lương Cảnh Thuận](L%C6%B0%C6%A1ng%20C%E1%BA%A3nh%20Thu%E1%BA%ADn.md) — `da-xuat-hien` — CHAR-069, hạng C; người coi kho bên nhận giao đối ba bao tại Chương 69. Nam ngoài bốn mươi, tuổi 44 chỉ thiết kế; giữ hai mẫu riêng và nhận ba đồng công chỗ tới cuối mười chín, không đại diện cả lô đạt hạng hoặc biết ai thay hàng.
+
 - [Vệ Thu Nghi](V%E1%BB%87%20Thu%20Nghi.md) — `da-xuat-hien` — CHAR-068, hạng C; người Thủ Danh Phường nhận đối tên/nơi chôn trong lượt viện thu xếp an táng Mạnh Thanh Tễ chiều mười bảy. Ngoài bốn mươi trên trang, tuổi 42 chỉ thiết kế; không là chủ phường, không hứa tìm được thân nhân.
 
 - [Đào Thành Nghiệp](%C4%90%C3%A0o%20Th%C3%A0nh%20Nghi%E1%BB%87p.md) — `da-xuat-hien` — CHAR-067, hạng C; người làm giỏ từ Chương 62, tên Chương 67. Chiều mười sáu trả dao riêng Bùi Ninh Viễn, sửa quai giỏ riêng cho người thợ và nhận hai đồng; khung còn gãy, chưa có bồi thường hoặc việc dài hạn.
@@ -30,7 +32,7 @@ Nhân vật dân sinh, Tế Sinh Viện, Nam Phố và các cơ quan/nhà có ho
 - [Trần Dực](Tr%E1%BA%A7n%20D%E1%BB%B1c.md) — `da-xuat-hien` — Người được nhóm Lâm Uyên gặp trong phế tích ở Chương 40; Chương 65 tự nhận cho Lâm Uyên/Tô Thanh Ly dự lượt hỏi ngắn chiều mười lăm, giữ chưa biết trong hòm dài rồi dừng khi mệt; tay trái yên, không ký ức/y tế mới.
 - [Tạ Hạnh](T%E1%BA%A1%20H%E1%BA%A1nh.md) — `da-xuat-hien` — Người giữ sổ cân tại một hiệu thuốc ở chợ phía tây; chỉ xuất hiện trong một cuộc đối chiếu chứng từ tính đến hết Chương 52.
 - [Tạ Nghiên Chi](T%E1%BA%A1%20Nghi%C3%AAn%20Chi.md) — `da-xuat-hien` — Thư lại giữ sổ trực dãy phòng Tô Thanh Ly, lần đầu Chương 51; Chương 66 đối tờ gốc/người cùng ca, ghi riêng phần Phùng Quý Lương nhận cấp tiền/khế/thu yêu sách; bản lời bệnh nhân không ra bàn Hòa Sinh, lời hàng bị thay chưa kiểm.
-- [Viện Chủ Tế Sinh Viện (chưa rõ tên)](Vi%E1%BB%87n%20Ch%E1%BB%A7%20T%E1%BA%BF%20Sinh%20Vi%E1%BB%87n%20(ch%C6%B0a%20r%C3%B5%20t%C3%AAn).md) — `da-xuat-hien` — Chức danh của người đứng đầu Tế Sinh Viện. Tên riêng chưa được nêu trong bản thảo đến hết Chương 68; không tự đặt tên hoặc chốt giới tính nếu chưa có bằng chứng.
+- [Viện Chủ Tế Sinh Viện (chưa rõ tên)](Vi%E1%BB%87n%20Ch%E1%BB%A7%20T%E1%BA%BF%20Sinh%20Vi%E1%BB%87n%20(ch%C6%B0a%20r%C3%B5%20t%C3%AAn).md) — `da-xuat-hien` — Chức danh của người đứng đầu Tế Sinh Viện. Tên riêng chưa được nêu trong bản thảo đến hết Chương 69; không tự đặt tên hoặc chốt giới tính nếu chưa có bằng chứng.
 
 - [Đỗ Hoài Chương](%C4%90%E1%BB%97%20Ho%C3%A0i%20Ch%C6%B0%C6%A1ng.md) — `da-xuat-hien` — Thợ sửa sách nhà hong; trực tiếp nhận việc mượn hai chìa ở Chương 54, trách nhiệm chiếc thứ hai chưa rõ.
 
@@ -74,17 +76,19 @@ Nhân vật dân sinh, Tế Sinh Viện, Nam Phố và các cơ quan/nhà có ho
 - [Đinh Bá Nghiêm](%C4%90inh%20B%C3%A1%20Nghi%C3%AAm.md) — `da-xuat-hien` — CHAR-060, hạng C; tên Chương 56, lần đầu trực tiếp Chương 57. Nhận giao phiếu/chép mặt sau; Chương 58 trực tiếp nhận Tề Duy Cẩn là người đọc cho chép; Chương 65 nhận đủ công chép/chuyển lời, không ký chốt cả chuyến. Trách nhiệm người mua cuối vẫn chưa giải; không có mặt ở hiện trường nhà trú.
 
 
-## Mốc cảnh hiện hành — cuối Chương 68
+## Mốc cảnh hiện hành — cuối Chương 69
 
-Ngày thứ mười bảy, từ sáng tới trước tối tại Tế Sinh Viện và một bãi chôn ngoài thành. Viện chủ báo chưa có hồi đáp xác nhận từ thân nhân Mạnh Thanh Tễ, đứng ra thu xếp an táng trước và tiếp việc tìm người cần báo. Chiều quan tài đã được đặt nắp, đưa bằng xe, hạ/lấp và đặt dấu tên; gian yên trong viện cuối chương trống chỗ cũ. Đây là an táng thực, không là chôn vọng hoặc bằng chứng người mất không còn gia đình.
+Ngày thứ mười tám, sáng tới sau bữa trưa tại Tế Sinh Viện và gian kho bên nhận thuê sau một sân dỡ hàng. Tạ Nghiên Chi kể xác nhận phần giấy Hòa Sinh đã giao Tông Sảnh chiều mười sáu, lời mời đúng bên nhận gửi mười bảy và sáng nay được đáp cho mở phần liên quan; không đóng băng các nhân vật ở Hòa Sinh hoặc chuyển cả việc bàn giao sang hôm nay. Viện thu xếp người thay bàn cho Hứa Tĩnh Xuyên theo chấp sự tới xem hàng; Lâm Uyên/Tô Thanh Ly ở lại viện.
 
-Vệ Thu Nghi, CHAR-068 hạng C, lần đầu trực tiếp cùng Thủ Danh Phường (FAC-015). Người phường chỉ giúp phần được viện gọi: đối tên/nghề/nguồn, xem nơi chôn cùng người giữ bãi/người viện, ghi vị trí và đầu mối tiếp. Tuổi/quê Mạnh Thanh Tễ chưa biết thì để trống. Phường không tìm được thân nhân chỉ bằng sổ và không nhận quyền quyết di sản; sổ nghề/túi thuốc vẫn viện giữ.
+Lương Cảnh Thuận (CHAR-069, hạng C), nam ngoài bốn mươi, được bên nhận giao đối đúng ba bao dược liệu thô. Tuổi 44 chỉ thiết kế. Ông có giấy/bản kê/phần ghi giữ riêng, không cho mở mọi sổ/lô khác. Một bao từng mở được mở lại trước người chứng; Hứa Tĩnh Xuyên thấy hai phần lấy ngoài/sâu còn ẩm/lẫn đất, không đạt yêu cầu rễ khô sạch trong khế. Hai bao kia chưa mở; bên nhận đã cho mở khi thu xếp được người dự, chưa có lượt kiểm ấy. Hiện trạng một bao không chứng minh ai cố ý trộn, lô bị thay hoặc toàn lô có cùng chất lượng. Lời khi dỡ/buộc lại/dời tấm kê vẫn riêng nguồn Lương Cảnh Thuận, người vắng mặt cần hỏi tiếp.
 
-Lâm Uyên/Tô Thanh Ly có lượt mới riêng theo chấp sự, y sư xem sức và cho xe/hộ tống, không dùng lại lượt Chương 66. Hai tay main vẫn giữ giới hạn, tay phải nàng còn thương; người khỏe khiêng, Lâm Uyên chỉ sửa nhẹ mép vải bằng trái trong phần được cho, thả chút đất rồi báo mỏi/xin ngồi. Cuối chương về viện được gọi xem lại tay, không có kết quả hồi phục mới. Tô Thanh Ly giữ giúp bản chỉ đường tới mộ rồi đặt về phần giấy của hắn; đây không phải di sản, quyền ra thành tự do hoặc bước thay thầy.
+Phùng Quý Lương trả ba đồng ứng công chỗ, Lương Cảnh Thuận ghi/nhận giữ tới hết ngày mười chín; không tự nhận lỗi làm hỏng, chưa hoàn tiền hoặc xóa nghĩa vụ bảo lãnh. Bao được buộc lại có ghi lượt hôm nay/người dự; hai gói mẫu ghi nguồn/ngày/chỗ lấy nằm trong hộp riêng do Lương Cảnh Thuận ký nhận giữ tại kho, không theo đoàn về viện. Phùng Quý Lương cuối trực tiếp vẫn ở kho hỏi dự lần mở tiếp, phải đối bên nhận để thu xếp; không có cảnh lần sau diễn ra hoặc y được tha trách nhiệm.
 
-Buổi sáng Đào Thành Nghiệp đã xem chiếc giỏ cũ được viện nhờ nhìn, thấy đáy mục/mềm ngoài phần vá và từ chối nhận với công cụ hiện có. Không thỏa công, nhận tiền hoặc làm lại xong; dao Bùi Ninh Viễn đã trả từ Chương 67, dao cũ còn sứt và khung còn gãy. Cuối ngày ông vẫn thu đồ tại sân viện, không được cấp công việc ổn định.
+Sau bữa trưa Hứa Tĩnh Xuyên và Tạ Nghiên Chi đã về viện, báo viện chủ/người bệnh trong giới hạn. Hứa Tĩnh Xuyên trở lại bàn thuốc sau lời giải thích ngắn, không mở hộp mẫu hoặc nhận buổi dạy mới. Tạ Nghiên Chi cuối chương rời viện cùng chấp sự/phần ghi để về Tông Sảnh, chưa có cảnh đã tới/bàn giao xong phần mới. Ba bao hàng thô khác hai hòm Xích Tủy Tán đã ở viện từ Chương 47–48; chưa có nguồn nối hòm dài Trần Dực thấy, không hỏi/đánh thức hắn hoặc mở bản lời riêng hôm nay.
 
-Phần giữ chỗ mẹ con Khương Tố Nương ngày mười bảy được người trực báo đã xác nhận tại nơi nhận theo điều kiện cũ, cuối ngày giao nhắc buổi sáng sau. Bà còn ở viện xem chân; tin này không phải chuyển chỗ/xuất viện hoặc chỗ ở vĩnh viễn. Trẻ vẫn sáu tuổi, tên/giới tính UNKNOWN. Gói kim Hồ Nhuận Chi, nguyên nhân sập/trách nhiệm, Tô Lạc/miếng đồng, niêm/mẫu vón, chìa/trang mất không có kết quả mới. Nghĩa vụ Phùng Quý Lương nhận Chương 66 còn kiểm đúng nguồn, bản lời Trần Dực vẫn riêng. Dược Khế bảy/bốn tháng, kiếm bảo chứng, quản thúc/hộ tống và tình trạng thật UNKNOWN của Lâm Chinh giữ nguyên. Tra [[Trạng Thái Truyện Sau Chương 68]] trước khi viết tiếp.
+Lâm Uyên còn băng/đau tay phải, vai bớt mỏi nhưng có lúc thức vì trở mình; y sư dặn ở viện nghỉ. Tô Thanh Ly dùng trái dời/cất giấy giúp, tay phải vẫn thương. Cả hai chỉ nghe báo, không trực tiếp kiểm kho hoặc nhận mẫu/quyền hành nghề. Lâm Uyên nhờ hỏi khi Hứa Tĩnh Xuyên rảnh cách bắt đầu xem món chưa rõ; chưa có lịch/buổi học xong. Bản chỉ đường nơi chôn Mạnh Thanh Tễ ở chỗ giấy khô, sổ nghề/túi thuốc vẫn viện giữ; chưa có tin thân nhân tới. Nỗi buồn sau an táng mười bảy chưa khép vì một việc khác tiến được.
+
+Phần giữ chỗ mẹ con Khương Tố Nương ngày mười tám được báo đã xác nhận theo điều kiện cũ. Bà vẫn ở viện cần xem chân, trẻ sáu tuổi tên/giới tính UNKNOWN, chưa chuyển/xuất viện hoặc được cấp chỗ vĩnh viễn. Đào Thành Nghiệp/gói kim Hồ Nhuận Chi/nhà trú không có diễn biến mới trong chương. Dược Khế bảy/bốn tháng, kiếm bảo chứng, quản thúc/hộ tống, Tô Lạc/miếng đồng, chìa/trang mất, niêm/mẫu vón và tình trạng thật UNKNOWN của Lâm Chinh giữ nguyên. Tra [[Trạng Thái Truyện Sau Chương 69]] trước khi viết tiếp.
 
 ## Quy ước của thư mục
 

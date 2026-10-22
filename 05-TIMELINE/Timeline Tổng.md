@@ -243,3 +243,22 @@ Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Chương
 Mạnh Thanh Tễ chết đêm13 và tưởng niệm giữa sáng15 ở64; an táng hoàn tất chiều17 trong68 là mốc tiếp theo, không thay hai mốc cũ. Chỗ mẹ con ngày16 theo66, ngày17 theo tin68; dao mượn đã trả chiều16 trong67 không trở thành khoản chờ. Dược Khế7–4tháng/thương tay/quản thúc/kiếm bảo chứng giữ; hai hòm bến ở viện47–48, nguồn thuốc theo66, HFS/Tô Lạc/miếng đồng/chìa/trang/kim và sinh tử thật Lâm Chinh chưa kết quả mới.
 
 Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Chương 64]], [[Chương 66]], [[Chương 67]].
+
+## Sáng đến sau bữa trưa ngày thứ mười tám — Chương 69
+
+| Thời điểm | Sự kiện đã viết | Giới hạn |
+| --- | --- | --- |
+| Hồi cố chiều16, mới nêu trong69 | Sau cuộc đối Hòa Sinh66, Tạ Nghiên Chi/chấp sự đã trình phần giấy Tông Sảnh; được yêu cầu tìm đúng bên nhận Phùng Quý Lương nêu | Không sửa66 thành có cảnh trực tiếp tới nơi hoặc đã xử xong tranh hàng |
+| Hồi cố ngày17, mới nêu trong69 | Lời mời đối hàng được gửi nơi bên nhận thuê kho | Không đoàn đi kho ngày17 hoặc chôn Mạnh Thanh Tễ bị dời khỏi chiều17 |
+| Sáng18, Tế Sinh Viện | Y sư xem băng/dặn Lâm Uyên nghỉ, Tô Thanh Ly dời bản đường khỏi khay bằng trái; Tạ Nghiên Chi tới báo bên nhận đồng ý mở phần liên quan | Hai người ở viện, không chuyến ra ngoài hoặc thương tay đã lành |
+| Trước khi đoàn đi | Người xác nhận báo chỗ mẹ con Khương Tố Nương giữ ngày18 theo điều kiện cũ; Hứa Tĩnh Xuyên giao bàn cho người thay, đối đồ đi xem hàng | Mẹ còn cần xem chân/chưa chuyển; chưa giữ ngày19. Không giám dược bỏ ca hoặc nhận học mới |
+| Sáng18, kho bên nhận | Tạ Nghiên Chi/chấp sự/Hứa Tĩnh Xuyên tới, Phùng Quý Lương có mặt; Lương Cảnh Thuận nhận tên/phần được giao, đối đúng giấy ba bao và bản kê | Chỉ phần được bên nhận cho, không mọi sổ/hàng; lời dỡ bao của Lương Cảnh Thuận có nguồn riêng |
+| Trong lượt đối | Mở lại đúng bao từng mở, lấy ngoài/sâu để xem; phần hiện tại có chỗ ẩm/lẫn đất, không đủ nhận theo hạng khô sạch trong khế | Không biết lúc giao/ai làm/cố ý đổi, hai bao còn lại chưa mở/kiểm |
+| Cùng lượt | Phùng Quý Lương ứng ba đồng công chỗ giữ tiếp tới hết19; bên nhận mới đồng ý bố trí mở hai bao còn lại khi đủ người | Không miễn bảo lãnh/hoàn tiền, hạn chưa qua hoặc buổi kiểm tiếp đã diễn ra |
+| Trước rời kho | Hai mẫu bọc riêng ghi nguồn/ngày/chỗ lấy giao Lương Cảnh Thuận giữ tại kho; bao đã xem buộc lại, ba bao ở phần kê | Không mẫu theo về viện, trộn lại hoặc nhập thuốc dùng. Phùng Quý Lương nơi cuối trực tiếp tại kho |
+| Sau bữa trưa18 tại viện | Đoàn về, Hứa Tĩnh Xuyên giao đồ/báo phần cần biết cho viện chủ rồi về bàn; Tạ Nghiên Chi báo phần kết quả/giới hạn cho Lâm Uyên/Tô Thanh Ly | Người không dự không biết toàn cuộc đối riêng; ba bao khác hai hòm bến, chưa nối hòm dài/toán Trần Dực |
+| Cuối chương | Hứa Tĩnh Xuyên trở lại việc; Tạ Nghiên Chi rời để về Tông Sảnh cùng chấp sự/phần ghi. Lâm Uyên nhờ nhắn khi giám dược rảnh để hỏi cách bắt đầu xem hàng, tiếp chờ ở viện | Chưa cảnh tới Tông Sảnh hoặc buổi học mới. Bản đường giữ khô, đồ thầy viện giữ/thân nhân chưa tin; không hết buồn hoặc tăng năng lực |
+
+Thời gian hiện tại cuối69 vẫn sau bữa trưa18, chưa tới ngày19. Mạnh Thanh Tễ mất đêm13/tưởng niệm15/an táng17, không lặp tang hay chuyển di vật. Mốc chỗ ở18 có tin mới, mốc giữ hàng tới hết19 là việc cần đối tiếp; hai hòm bến đã về viện47–48 không được thu lần nữa. Các nghĩa vụ Dược Khế7–4tháng/quản thúc/kiếm bảo chứng, nhà trú/HFS/kim/khung và Lâm Chinh UNKNOWN chưa kết quả mới.
+
+Nguồn: [[Chương 69]], [[Trạng Thái Truyện Sau Chương 69]], [[Chương 66]], [[Chương 68]].

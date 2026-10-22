@@ -218,3 +218,18 @@ Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Chương
 Tổng lore79 giữ: FAC-015 đã có hồ sơ được triển khai, CHAR-068 là người mới có tên trong mục nhân vật. Bãi chôn ngoài thành, bản chỉ đường và dấu tên thông thường không mở thêm node địa lý/vật phẩm.
 
 Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Thủ Danh Phường]], [[Chương 66]], [[Chương 67]].
+
+## Phạm vi nghề nghiệp và quyền hạn Chương 69
+
+- **Tông Sảnh/chấp sự/Tạ Nghiên Chi:** Giấy lấy66 đã được trình chiều16; sau yêu cầu tìm bên nhận, lời mời gửi17 và bên nhận đồng ý mở phần liên quan18. Chấp sự giữ phạm vi cuộc đối/lấy mẫu có người chứng kiến; không lục mọi sổ, áp quyền giữ kho vô hạn hoặc kết tội bên giao từ chất lượng hiện tại. Cuối69 rời viện để trở lại Tông Sảnh với phần ghi, chưa cảnh tới nơi.
+- **Bên nhận hàng/người giữ kho:** Lương Cảnh Thuận CHAR-069 nhận tên/phần được giao, đối đúng ba bao theo giấy; còn phải giữ lối cho hàng khác và có giới hạn công chỗ. Đây là bên nhận phối hợp trong giao dịch có tranh chấp, chưa tổ chức có tên mới, gia tộc hoặc phe chủ mưu.
+- **Tế Sinh Viện:** Viện chủ thu xếp người thay bàn cho Hứa Tĩnh Xuyên đi cùng, việc phát thuốc vẫn có người tiếp. Khi về, ông báo phần cần biết/giao đồ rồi trở lại việc; hai mẫu vẫn kho, không nhập thuốc viện. Lâm Uyên/Tô Thanh Ly ở lại theo sức, không được triệu tới nhận hàng hoặc tự kiểm.
+- **Hứa Tĩnh Xuyên:** Có quyền lời nghề đối phần ông trực tiếp xem hiện tại với yêu cầu khô sạch trong khế. Không nhìn ngược lúc đóng/giao, không quyết người cố ý trộn/đổi hoặc hạng cả ba bao; không lấy lời nghề làm lệnh cấm công khai hay quyền kết án.
+- **Phùng Quý Lương:** Phần cấp tiền/yêu sách đã nhận66 không tự mất;69 tới kho xem hàng, ứng ba đồng công chỗ tới hết19 và có thể xin hẹn dự đối tiếp. Không được miễn bảo lãnh, nhận tiền hoàn hoặc buộc ghi bên giao cố ý từ kết quả một bao; không chứng cứ mới nối y với áo đen/Tả tiên sinh.
+- **Việc giữ hàng/mẫu:** Ba bao hàng thô khác hai hòm thuốc bến và hòm gỗ dài; một bao đã mở lại/kiểm phần ngoài-sâu rồi buộc lại, hai bao chưa mở. Hai mẫu bọc có ghi nguồn/ngày/chỗ lấy do Lương Cảnh Thuận lưu riêng tại kho; bên nhận mới đồng ý mở hai bao còn lại khi bố trí đủ người, chưa mở thực tế.
+- **Chỗ ở mẹ con:** Tin xác nhận phần ngày18 theo điều kiện cũ đã có; Khương Tố Nương vẫn viện cần xem chân, chưa chuyển hoặc xác nhận ngày19.
+- **Các nghĩa vụ khác:** Dược Khế7–4tháng, thương tay, quản thúc/hộ tống và kiếm bảo chứng giữ. An táng17 đã xong, đồ thầy viện giữ/thân nhân chưa tin; Thủ Danh Phường không có việc hay quyền mới69.
+
+Kho được thể hiện qua phạm vi người bên nhận thuê và giao coi, không lập thế lực/lore mới chỉ vì có một nơi đối hàng. Không chuyển trách nhiệm tranh hàng sang bệnh nhân hoặc nhập nhà trú/HFS vào vụ này khi chưa có nguồn.
+
+Nguồn: [[Chương 69]], [[Trạng Thái Truyện Sau Chương 69]], [[Chương 66]], [[Chương 68]].

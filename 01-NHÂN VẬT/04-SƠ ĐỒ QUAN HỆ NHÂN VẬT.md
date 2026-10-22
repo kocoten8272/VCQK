@@ -278,3 +278,22 @@ Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Chương
 Sổ nghề/túi thuốc vẫn thuộc phần viện giữ. Bản chỉ đường Lâm Uyên xin là bản riêng có trình tự Vệ Thu Nghi giao → Tô Thanh Ly cất giúp → đặt vào phần giấy của hắn, không là chuyển giao di sản.
 
 Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Chương 67]].
+
+## Quan hệ theo bản thảo Chương 69
+
+| Người | Liên hệ/chuyển biến | Giới hạn |
+| --- | --- | --- |
+| Tạ Nghiên Chi/chấp sự → bên nhận hàng | Theo yêu cầu sau lượt trình giấy chiều16, gửi lời mời17 và được bên nhận đồng ý mở phần liên quan18 | Có nguồn thẩm quyền và sự phối hợp cụ thể; không quyền lục toàn kho, buộc mọi người đồng ý hoặc giữ vô hạn |
+| Viện chủ → Hứa Tĩnh Xuyên/người thay bàn | Nhận phối hợp, bố trí tiếp lượt bệnh nhân khi giám dược đi xem hàng | Không viện bỏ ca hoặc giám dược tự rời hết việc vì nam chính |
+| Lương Cảnh Thuận → bên nhận/Phùng Quý Lương | Nhận việc được giao coi đúng phần kho, đối cân với hạng hàng, tự nhận lời đã ghi và việc mình thấy khi dỡ | Đại diện phần được giao, không chủ mọi sổ/hàng hoặc nói thay người vắng mặt |
+| Hứa Tĩnh Xuyên → người giữ hàng/người dự | Xem phần lấy tại chỗ, đọc lại lời nghề và tách hiện trạng khỏi nguồn gây hỏng | Không xác nhận chất lượng lúc giao, người cố ý trộn/đổi hoặc cả ba bao từ một bao đã kiểm |
+| Phùng Quý Lương → Lương Cảnh Thuận/bên nhận | Trả ba đồng ứng công giữ chỗ để ba bao ở nguyên phần đang đối tới hết19; xin thu xếp dự lần mở tiếp | Khoản chỗ có phạm vi, không nhận lỗi làm hỏng hàng, miễn bảo lãnh hoặc bảo đảm được hoàn |
+| Lương Cảnh Thuận ↔ Hứa Tĩnh Xuyên/chấp sự | Thống nhất lấy hai phần ngoài/sâu riêng, ghi nguồn/ngày/chỗ lấy và giao chính người giữ kho lưu | Mẫu chưa về viện, chưa vào hàng dùng; hai bao còn lại phải hẹn đủ người mới mở |
+| Tạ Nghiên Chi/Hứa Tĩnh Xuyên → Lâm Uyên/Tô Thanh Ly | Về viện báo phần đã kiểm và giới hạn, trả lời câu hỏi về nguồn ba bao khác hai hòm cũ | Không kể toàn cuộc đối tiền/lời riêng ngoài kho hoặc yêu cầu người bị thương nhận hàng/lấy lời thay chứng cứ |
+| Lâm Uyên → Hứa Tĩnh Xuyên | Hỏi đất lẫn có đủ biết người bán cố ý, nhận giới hạn rồi nhờ báo khi rảnh để hỏi cách bắt đầu xem hàng | Chưa buổi học mới, trình độ độc lập hoặc quan hệ truyền thừa thay Mạnh Thanh Tễ; không gọi giám dược bỏ bệnh nhân |
+| Tô Thanh Ly → Lâm Uyên | Hỏi rồi cất giấy, giữ bản đường ở chỗ khô; dời chén tới nơi người trực giúp khi hắn ngừng lời | Hỗ trợ trong mất mát, không giải nghĩa hộ hoặc bắt hắn vui lên/quên tang |
+| Người đi xác nhận → viện/mẹ con Khương Tố Nương | Báo giữ chỗ cho ngày18 theo điều kiện cũ, để người trực báo gian bệnh | Không chuyển mẹ con khỏi viện, nhận nuôi, tài trợ dài hạn hoặc chốt chỗ19 |
+
+Mạnh Thanh Tễ đã an táng chiều17; vật riêng/thân nhân chưa có chuyển giao hay hồi đáp mới. Phùng Quý Lương không được nối với Lương Cảnh Thuận thành đồng minh lâu năm, họ hàng hoặc cùng âm mưu chỉ qua cuộc đối nghề.
+
+Nguồn: [[Chương 69]], [[Trạng Thái Truyện Sau Chương 69]], [[Chương 66]], [[Chương 68]].

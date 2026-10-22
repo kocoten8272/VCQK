@@ -315,3 +315,22 @@ Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Chương
 Các y sư, chấp sự trực, người hộ tống, người trực, người khiêng và người giữ bãi là vai theo phần việc trong cảnh; không tự nhập với viện chủ/Hứa Tĩnh Xuyên hoặc một người đã có từ trước. Tạ Nghiên Chi, Phùng Quý Lương, Trần Dực, Bùi Ninh Viễn, Bùi Khánh Vân và Hồ Nhuận Chi không có cảnh trực tiếp mới68.
 
 Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Chương 64]], [[Chương 67]].
+
+## Mốc mới theo bản thảo Chương 69
+
+| ID | Nhân vật | Kiểu/mốc | Nơi cuối/giới hạn |
+| --- | --- | --- | --- |
+| CHAR-005 | Lâm Uyên | Trực tiếp sáng đến sau trưa18, chỉ ở viện | Tay phải còn băng/đau, có lúc tỉnh khi trở mình; y sư dặn nghỉ. Nghe báo phần đối hàng, hỏi giới hạn của việc xem thuốc rồi nhờ nhắn khi Hứa Tĩnh Xuyên rảnh; chưa buổi học mới, tự kiểm/kê thuốc hoặc chuyến đi mới |
+| CHAR-006 | Tô Thanh Ly | Trực tiếp tại viện | Dùng tay trái dời/cất giấy sau khi hỏi, ở lại cùng Lâm Uyên. Nghe phần kết quả Tạ Nghiên Chi được báo; không tự biết toàn cuộc đối kho hoặc hết thương/quản thúc |
+| CHAR-046 | Tạ Nghiên Chi | Trực tiếp ở viện và kho bên nhận | Đến đón Hứa Tĩnh Xuyên, cùng chấp sự đối giấy/hàng trong phạm vi bên nhận cho; về viện báo phần đã kiểm rồi rời để trở lại Tông Sảnh cùng phần ghi. Chưa có cảnh tới Tông Sảnh hoặc phán quyết toàn lô |
+| CHAR-064 | Hứa Tĩnh Xuyên | Trực tiếp ở viện/kho | Đã giao ca cho người thay bàn, xem phần lấy ngoài/sâu trong đúng một bao từng mở, ghi nhận tình trạng hiện tại và giữ giới hạn lời nghề; trở về viện/bàn thuốc. Không mang mẫu về viện hoặc nhận một buổi học mới |
+| CHAR-066 | Phùng Quý Lương | Trực tiếp tại kho bên nhận | Nơi cuối trực tiếp vẫn tại kho, đã trả ba đồng ứng giữ chỗ tới hết19; muốn dự lần mở tiếp thì đối bên nhận để hẹn. Chưa được miễn bảo lãnh/hoàn tiền hoặc kết luận bên giao cố ý đổi hàng; không theo nhóm về viện |
+| CHAR-069 | [[Lương Cảnh Thuận]] | Lần đầu trực tiếp/có tên, ngoài40 trên trang | Người bên nhận giao coi phần kho và đối đúng ba bao; trực tiếp có mặt khi dỡ theo lời tự nhận. Giữ ba bao và hai mẫu bọc riêng sau buổi đối, nhận tiền/chốt giữ tới hết19. Tuổi44 thuộc thiết kế, chưa trên trang; không chủ toàn kho hoặc người mua cuối |
+| CHAR-047 | Viện chủ Tế Sinh Viện | Được kể nhận phối hợp trước chuyến và nhận báo sau chuyến | Thu xếp người thay Hứa Tĩnh Xuyên rồi nghe phần cần biết khi ông về; không mặc định đã chứng kiến cuộc đối kho hoặc được kể mọi lời riêng |
+| CHAR-062 | Khương Tố Nương/con | Qua tin người đi xác nhận, không cảnh mới trong gian bệnh | Chỗ ngày18 đã được báo giữ cho cả hai theo điều kiện cũ; mẹ vẫn cần xem chân, chưa chuyển đi hoặc xác nhận sẵn ngày19 |
+| CHAR-037 | Mạnh Thanh Tễ | Được nhắc/nhớ sau an táng17 | Bản chỉ đường còn trong phần giấy Lâm Uyên; sổ nghề/túi thuốc vẫn viện giữ, chưa tin người nhà đã tới. Không có hành động sống/di vật hoặc lời dạy mới |
+| CHAR-044 | Trần Dực | Nhắc tên/lời cũ trong việc đối hàng | Không bị gọi dậy/lấy lời mới; không nâng lời người bệnh thành nguồn chứng minh ba bao hoặc người làm hàng hỏng |
+
+Cố Hoài An/Tề Duy Cẩn không có cảnh mới trong69. Đào Thành Nghiệp, Bùi Ninh Viễn, Bùi Khánh Vân, Hồ Nhuận Chi, Vệ Thu Nghi và Tô Tín không có cảnh trực tiếp mới; không tự cập nhật việc làm/sức khỏe/vị trí của họ. Người thay ca, phụ giúp, hộ tống, chấp sự và nhân viên kho chưa tên phân theo đúng việc, không nhập vào nhân vật đã có.
+
+Nguồn: [[Chương 69]], [[Trạng Thái Truyện Sau Chương 69]], [[Chương 66]], [[Chương 68]].

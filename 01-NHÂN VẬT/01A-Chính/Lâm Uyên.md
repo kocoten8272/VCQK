@@ -270,3 +270,16 @@ Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Đào Th
 - Dược Khế bảy tháng, quản thúc/hộ tống, dược lý sơ học và tình trạng thật UNKNOWN của Lâm Chinh giữ nguyên. Không có tu vi, manh mối thuốc/công trình/chìa/trang mất hoặc kết quả Hắc Phong Sơn mới.
 
 Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Vệ Thu Nghi]], [[Thủ Danh Phường]].
+
+## Trạng thái mới theo bản thảo Chương 69
+
+- Sáng ngày thứ mười tám tại viện, phải nhờ Tô Thanh Ly dời bản chỉ đường khỏi chỗ khay. Tay phải còn đau sau thay băng, vai bớt mỏi nhưng tự báo trở mình có lúc tỉnh; y sư dặn ở viện nghỉ, không suy đã chịu chuyến đưa tang là đủ sức đi chuyến dài mới. Không ra kho, cầm bút, nâng hàng hoặc có tu vi/y thuật/hồi phục hoàn toàn mới.
+- Nghe Tạ Nghiên Chi báo phần giấy Hòa Sinh đã giao Tông Sảnh chiều mười sáu, lời mời đúng bên nhận gửi ngày mười bảy, sáng nay được đáp cho xem; người được viện thu xếp đi cùng là Hứa Tĩnh Xuyên. Không có yêu cầu hắn nhận mặt người mới hoặc quyền nghe mọi phần đối.
+- Trước đoàn đi, nghe người xác nhận phần chỗ mẹ con Khương Tố Nương ngày mười tám đã giữ theo điều kiện cũ. Mẹ còn cần xem chân; chưa chuyển người hoặc miễn việc xác nhận sau này.
+- Sau bữa trưa nghe báo hữu hạn: Lương Cảnh Thuận đang giữ ba bao hàng thô, một bao đã mở có phần ẩm/lẫn tạp, hai bao chưa kiểm; Phùng Quý Lương ứng ba đồng giữ tới cuối mười chín. Đây là tri thức qua báo, không phải hắn tận mắt kho/mẫu/nhận tiền; chưa biết ai làm hỏng/thay hàng.
+- Hỏi có phải lô Xích Tủy Tán ở bến, được Tạ Nghiên Chi phân biệt ba bao hàng thô với hai hòm đã về viện; chưa có nguồn nối hòm dài Trần Dực thấy. Không xem lời riêng bệnh nhân hoặc có lượt hỏi mới.
+- Nghe Hứa Tĩnh Xuyên giải thích phần lấy lẫn đất chưa cho biết ai cố ý trộn; không có mẫu về viện, hộp mẫu mở hoặc buổi học nghề hoàn chỉnh. Nhờ báo khi ông rảnh muốn nghe cách bắt đầu xem món hàng chưa rõ; lời nhờ chưa là buổi dạy đã nhận/lịch chắc.
+- Có lúc nhẹ đi vì việc đã có đường kiểm rồi khó chịu với chính mình sau buổi an táng hôm trước. Không vì chú ý việc người khác mà đã nguôi tang hoặc có thầy thay thế; sổ nghề/túi thuốc Mạnh Thanh Tễ vẫn viện giữ, thân nhân chưa có tin tới.
+- Dược Khế bảy tháng, quản thúc/hộ tống và tình trạng thật UNKNOWN của Lâm Chinh giữ nguyên. Mẫu vón/niêm, chìa/trang mất, gói kim, Tô Lạc/miếng đồng và nhà trú không có kết quả mới.
+
+Nguồn: [[Chương 69]], [[Trạng Thái Truyện Sau Chương 69]], [[Lương Cảnh Thuận]], [[Hứa Tĩnh Xuyên]].

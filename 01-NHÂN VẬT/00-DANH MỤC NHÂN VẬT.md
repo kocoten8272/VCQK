@@ -45,7 +45,7 @@ Mẫu dùng khi lập hồ sơ: [Mẫu Hồ Sơ Nhân Vật](M%E1%BA%AAU%20H%E1%
 | `01E-Vân Châu` | Liễu Gia, Kiếm Các, Thính Phong Lâu, Thương Hội, Tầm Chân Ti | Nhân vật mới của các thế lực cấp châu |
 | `01F-Thế Lực Bí Ẩn` | Vĩnh Sinh Môn, Di Kỷ Tộc và nhân vật chưa thể xếp công khai | Chuyển sang nhóm địa bàn/thế lực phù hợp khi thân phận được xác nhận rõ |
 
-Tính đến Chương 68, sổ cái có **68 hồ sơ cá nhân**, trong đó **27 hồ sơ mang trạng thái `da-xuat-hien`**. Các trạng thái `dang-phat-trien`, sống/chết và chỉ được nhắc đến được theo dõi riêng tại [[02-SỔ CÁI NHÂN VẬT]].
+Tính đến Chương 69, sổ cái có **69 hồ sơ cá nhân**, trong đó **28 hồ sơ mang trạng thái `da-xuat-hien`**. Các trạng thái `dang-phat-trien`, sống/chết và chỉ được nhắc đến được theo dõi riêng tại [[02-SỔ CÁI NHÂN VẬT]].
 
 ## Danh sách hồ sơ theo tuyến
 
@@ -80,6 +80,8 @@ Tính đến Chương 68, sổ cái có **68 hồ sơ cá nhân**, trong đó **
 - [Tần Hạo](01C-T%C3%B4%20Gia/T%E1%BA%A7n%20H%E1%BA%A1o.md) — `chua-xuat-hien`
 
 ### 01D-Lăng Vân Thành
+
+- [Lương Cảnh Thuận](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/L%C6%B0%C6%A1ng%20C%E1%BA%A3nh%20Thu%E1%BA%ADn.md) — `da-xuat-hien` — CHAR-069, hạng C; người coi kho được bên nhận giao đối ba bao, trực tiếp Chương 69; nhận giữ riêng hai mẫu và ba đồng công chỗ tới cuối mười chín, không xác nhận thay hàng hoặc cả lô đạt hạng.
 
 - [Vệ Thu Nghi](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/V%E1%BB%87%20Thu%20Nghi.md) — `da-xuat-hien` — CHAR-068, hạng C; người Thủ Danh Phường trực tiếp Chương 68, đối tên/nơi chôn và hỗ trợ lượt mai táng Mạnh Thanh Tễ; không là chủ phường hoặc người đã tìm được thân nhân.
 
@@ -147,7 +149,7 @@ Tính đến Chương 68, sổ cái có **68 hồ sơ cá nhân**, trong đó **
 - [Người Áo Đen (chưa rõ danh tính)](01F-Th%E1%BA%BF%20L%E1%BB%B1c%20B%C3%AD%20%E1%BA%A8n/Ng%C6%B0%E1%BB%9Di%20%C3%81o%20%C4%90en%20%28ch%C6%B0a%20r%C3%B5%20danh%20t%C3%ADnh%29.md) — `da-xuat-hien`
 - [Hắc Nha](01F-Th%E1%BA%BF%20L%E1%BB%B1c%20B%C3%AD%20%E1%BA%A8n/H%E1%BA%AFc%20Nha.md) — `chua-xuat-hien`
 
-## Nhân vật đã xuất hiện trong truyện (đối chiếu đến hết Chương 68)
+## Nhân vật đã xuất hiện trong truyện (đối chiếu đến hết Chương 69)
 
 > Danh sách này chỉ ghi người có mặt trong cảnh, được gọi tên trong lời kể/hồi ức có căn cứ, hoặc có vai trò cá nhân rõ. Nhân vật đề xuất và người chỉ được nhắc qua lời khai được tách riêng. Hồ sơ vẫn có thể ghi tuổi, cảnh giới hoặc quá khứ là “chưa nêu” nếu bản thảo chưa xác nhận.
 
@@ -171,6 +173,8 @@ Tính đến Chương 68, sổ cái có **68 hồ sơ cá nhân**, trong đó **
 - [Vương Phúc](01C-T%C3%B4%20Gia/V%C6%B0%C6%A1ng%20Ph%C3%BAc.md) — quản sự ngoại viện; tình trạng hiện tại chưa được kể.
 
 ### Lăng Vân Thành và Tế Sinh Viện
+
+- [Lương Cảnh Thuận](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/L%C6%B0%C6%A1ng%20C%E1%BA%A3nh%20Thu%E1%BA%ADn.md) — `da-xuat-hien` — CHAR-069, hạng C; người coi kho được bên nhận giao đối ba bao, trực tiếp Chương 69; nhận giữ riêng hai mẫu và ba đồng công chỗ tới cuối mười chín, không xác nhận thay hàng hoặc cả lô đạt hạng.
 
 - [Vệ Thu Nghi](01D-L%C4%83ng%20V%C3%A2n%20Th%C3%A0nh/V%E1%BB%87%20Thu%20Nghi.md) — `da-xuat-hien` — CHAR-068, hạng C; người Thủ Danh Phường trực tiếp Chương 68, đối tên/nơi chôn và hỗ trợ lượt mai táng Mạnh Thanh Tễ; không là chủ phường hoặc người đã tìm được thân nhân.
 
@@ -217,7 +221,7 @@ Tính đến Chương 68, sổ cái có **68 hồ sơ cá nhân**, trong đó **
 
 ## Theo dõi trạng thái hiện tại
 
-Trạng thái mỗi người nằm trong frontmatter của hồ sơ. Danh sách “đã xuất hiện” ở trên được cập nhật theo nguồn đến Chương 67; mốc chi tiết và kiểu xuất hiện xem [[03-SỔ THEO DÕI LẦN XUẤT HIỆN]]. Những nhân vật mới được đặt hồ sơ tạm có thể chưa có tuổi, cảnh giới hoặc tên thật; không điền suy đoán thành canon.
+Trạng thái mỗi người nằm trong frontmatter của hồ sơ. Danh sách “đã xuất hiện” ở trên được cập nhật theo nguồn đến Chương 69; mốc chi tiết và kiểu xuất hiện xem [[03-SỔ THEO DÕI LẦN XUẤT HIỆN]]. Những nhân vật mới được đặt hồ sơ tạm có thể chưa có tuổi, cảnh giới hoặc tên thật; không điền suy đoán thành canon.
 
 | Trạng thái | Ý nghĩa |
 | --- | --- |

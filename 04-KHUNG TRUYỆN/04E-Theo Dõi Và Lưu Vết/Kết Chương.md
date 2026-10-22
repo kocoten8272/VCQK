@@ -89,21 +89,22 @@ tags:
 | Chương 66 | 🔶 | Người Đặt Câu Hỏi | `status: nhap` |
 | Chương 67 | 🔶 | Chiều Trả Dao | `status: nhap` |
 | Chương 68 | 🔶 | Nơi Người Đến Sau Còn Tìm Được | `status: nhap` |
+| Chương 69 | 🔶 | Phần Hàng Còn Trong Kho | `status: nhap` |
 
 ## Chương tiếp theo
 
-- Chương 69: hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 68]]. Chương 51–68 đã có bản nháp trên `main`; áp dụng [[11_AUTONOMOUS_STORY_DESIGN]] để chuẩn bị nội dung mới phù hợp.
+- Chương 70: hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 69]]. Chương 51–69 đã có bản nháp trên `main`; áp dụng [[11_AUTONOMOUS_STORY_DESIGN]] để chuẩn bị nội dung mới phù hợp.
 - Các ý tưởng cũ cho chương 39–44 trong hồ sơ hỗ trợ thuộc mạch trước bản Chương 37–38 hiện tại. Chỉ dùng làm chất liệu sau khi đối chiếu, không coi là sự kiện đã xảy ra.
 
 ## Tổng số
 
-- Có tệp chương 1–68 trên `main`: 68.
+- Có tệp chương 1–69 trên `main`: 69.
 - Hoàn thiện: 33 chương theo tracker (1–25) và frontmatter (26–32, 34). Chương 2–7 thiếu khai báo frontmatter nhưng tracker hiện đánh dấu hoàn thiện.
-- Nháp theo frontmatter: 34 chương (33, 36–68).
+- Nháp theo frontmatter: 35 chương (33, 36–69).
 - Chương 35 có tệp nhưng chưa khai báo trạng thái; tracker cũng chưa xác định hoàn thiện hay nháp.
-- Chương 69 trở đi: chưa có tệp; các mốc tương lai giữ ở mức kế hoạch.
+- Chương 70 trở đi: chưa có tệp; các mốc tương lai giữ ở mức kế hoạch.
 
 ## Liên kết
 
 - Nhịp: [[Nhịp Truyện]]
-- Chương: [[Chương 1]] → [[Chương 68]]
+- Chương: [[Chương 1]] → [[Chương 69]]

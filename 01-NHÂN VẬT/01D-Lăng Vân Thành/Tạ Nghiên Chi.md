@@ -150,3 +150,16 @@ Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]].
 - Gần giờ cơm còn ở Hòa Sinh đối Phùng Quý Lương sau khi cho xe đưa Lâm Uyên/Tô Thanh Ly về. Y nhận sẽ theo chấp sự trình tiếp tại Tông Sảnh; chưa có cảnh đoàn tới đó hoặc hồ sơ đã bàn giao xong. Chìa/trang mất, nhà trú và Hắc Nha/Tả tiên sinh vẫn tách riêng.
 
 Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]], [[Phùng Quý Lương]].
+
+## Trạng thái mới theo bản thảo Chương 69
+
+- Mốc được kể hồi chiếu: cùng chấp sự giao phần giấy Hòa Sinh về Tông Sảnh ngay chiều ngày mười sáu, người phụ trách yêu cầu tìm đúng bên nhận Phùng Quý Lương nêu; ngày mười bảy gửi lời mời đối hàng tới nơi thuê kho. Đây là bước nay được văn bản xác nhận, không diễn ra trong sáng mười tám hoặc sửa cảnh cuối Chương 66 thành đã về lúc đó.
+- Sáng mười tám nhận hồi đáp cho mở phần liên quan trước người chứng, ghé viện đón Hứa Tĩnh Xuyên theo phần viện đã thu xếp thay bàn; báo người bệnh, không gọi Lâm Uyên/Tô Thanh Ly đi. Bản lời Trần Dực không mang theo để đối hàng.
+- Tại kho thuê, đối giấy bên nhận giao Lương Cảnh Thuận làm việc đúng ba bao, phiếu/bản kê với khế; chỉ mở phần được nhận. Đọc cả dòng nhận đủ cân lẫn yêu cầu giữ riêng, ghi phần ông tự nhận viết/thấy và người cần hỏi; không coi người vắng mặt đã xác nhận.
+- Trực tiếp dự mở bao từng mở, ghi riêng hiện trạng Hứa Tĩnh Xuyên kiểm với lời Lương Cảnh Thuận về khi dỡ/giữ/dời tấm kê. Một bao có phần lấy ngoài/sâu còn ẩm/lẫn đất không đạt yêu cầu khô sạch; hai bao chưa mở, không dùng kết quả ấy chứng minh cả lô hoặc ai đổi hàng.
+- Giữ đúng chưa có nguồn nối ba bao với toán Trần Dực dẫn. Chờ bên liên quan quyết công chỗ, không tự ghi tiền vào tên Phùng Quý Lương hoặc dùng danh Tông Sảnh buộc giữ vô hạn. Y ứng ba đồng tới cuối mười chín, phần nhận không là nhận lỗi hay xóa bảo lãnh.
+- Cất phần có nhận của người giữ hàng; hai phần mẫu bọc ghi nguồn/ngày/chỗ lấy do Lương Cảnh Thuận ký nhận giữ trong hộp riêng tại kho. Không đưa mẫu về viện hoặc giao người bệnh xem.
+- Sau bữa trưa về viện báo đúng phần được phép: tên người giữ/ba bao/tình trạng một bao/thời hạn; phân biệt với hai hòm Xích Tủy Tán đã ở viện và chưa có căn cứ nối hòm dài dưới núi. Không đánh thức/hỏi Trần Dực hoặc đưa bản riêng ra.
+- Cuối chương rời viện cùng chấp sự/phần ghi để trở lại Tông Sảnh; chưa có cảnh đã tới hoặc giao xong phần mới. Hồ sơ chìa/trang mất tiếp riêng, không có lời mới hay kết luận toàn chuyến.
+
+Nguồn: [[Chương 69]], [[Trạng Thái Truyện Sau Chương 69]], [[Lương Cảnh Thuận]], [[Phùng Quý Lương]], [[Hứa Tĩnh Xuyên]].

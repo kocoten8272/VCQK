@@ -25,8 +25,9 @@ used_in_chapters:
   - 66
   - 67
   - 68
+  - 69
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 tags:
   - nhan-qua
   - cai-gia
@@ -36,7 +37,7 @@ tags:
 
 # PAT-001-Giới Hạn Làm Thay Đổi Lựa Chọn
 
-> Mẫu kỹ thuật do người viết thiết kế cho VCQK từ [[REF-001-Nguồn Về Sinh Tồn Và Giới Hạn]]. `ready` nghĩa là dùng được để lập cảnh; đã áp dụng có phạm vi ở bản thảo Chương 55–68.
+> Mẫu kỹ thuật do người viết thiết kế cho VCQK từ [[REF-001-Nguồn Về Sinh Tồn Và Giới Hạn]]. `ready` nghĩa là dùng được để lập cảnh; đã áp dụng có phạm vi ở bản thảo Chương 55–69.
 
 ## Vấn đề cần xử lý
 
@@ -172,3 +173,9 @@ Tra [[LOG-014-Áp Dụng Kỹ Thuật Trong Chương 67]]/[[REF-009-Nguồn Về
 Lâm Uyên muốn hoãn nhưng chọn đi tiễn theo sức, dùng xe và báo khi mỏi; người có quyền nhận thu xếp an táng, người có nghề giữ đúng tên/nơi chôn. Gia đình chưa được liên hệ không bị coi là không còn; tuổi/quê chưa biết không được điền đoán. Quan tài đã rời viện và việc chôn cất đã hoàn tất, trong khi tìm thân nhân và giữ đồ riêng vẫn tiếp. Đào Thành Nghiệp không nhận sửa đáy giỏ vượt dụng cụ hiện có; chỗ mẹ con chỉ được xác nhận cho ngày 17. Giới hạn làm thay đổi hành động và phần việc nhận, không xóa kết quả đã đạt hoặc tự kéo dài hẹn trả dao đã xong.
 
 Tra [[LOG-015-Áp Dụng Kỹ Thuật Trong Chương 68]]/[[REF-010-Nguồn Về Tang Chế Và Việc Người Sống]]. SEED-001/002 vẫn chưa dùng, ghi chú giữ `canonical: false`; việc an táng có kết quả không được gọi là đã chữa lành nỗi buồn hoặc hiệu quả đã đo ở độc giả.
+
+## Lần áp dụng tại bản thảo Chương 69
+
+Lâm Uyên ở viện nghỉ và nghe phần kết quả được phép báo, không dùng chuyến tang hôm trước để tự nhận lượt ra kho. Người có nghề thực sự xem phần lấy từ một bao, không nhận thay lịch sử hàng hoặc hai bao chưa mở. Người giữ kho có mục tiêu sinh kế riêng, buộc Phùng Quý Lương chọn ứng ba đồng giữ tới hết 19 dù chưa biết sẽ đòi ai. Tông Sảnh không buộc kho giữ vô hạn; mẫu ở lại kho, lời người bệnh không thay cho đối hàng thật. Tiến triển làm phát sinh chi phí và phạm vi cần kiểm tiếp, không chỉ kéo thêm một hẹn hỏi sổ.
+
+Tra [[LOG-016-Áp Dụng Kỹ Thuật Trong Chương 69]]/[[REF-011-Nguồn Về Mục Tiêu Và Phản Ứng Trong Cảnh]]. SEED-001/002 vẫn chưa dùng và giữ `canonical: false`; nhật ký chưa có phản hồi độc giả hoặc bằng chứng nỗi buồn của Lâm Uyên đã kết thúc.

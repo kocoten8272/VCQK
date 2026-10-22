@@ -5,7 +5,7 @@ importance-tier: C
 vai-tro: nhan-vat-phu
 status: da-xuat-hien
 created: 2026-10-09
-updated: 2026-10-21
+updated: 2026-10-22
 tags:
   - nhan-vat
   - nam-pho
@@ -125,3 +125,11 @@ Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]].
 - Không có chẩn đoán/kết quả trị mới, cảnh dự an táng ngoài thành hoặc nghe/biết thêm việc Hòa Sinh. Trẻ vẫn sáu tuổi, tên/giới tính UNKNOWN; không thêm thân nhân hoặc nhập bà với Hồ Nhuận Chi.
 
 Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]].
+
+## Trạng thái mới theo bản thảo Chương 69
+
+- Sáng ngày mười tám, người đi xác nhận chỗ trở về trước đoàn Tạ Nghiên Chi rời viện, báo bên nhận giữ phần hôm nay cho cả hai theo điều kiện cũ. Người trực nhận lời báo tới gian bệnh; đây là tin xác nhận giữ chỗ, chưa có cảnh mẹ con tới nơi.
+- Chân bà còn cần xem, chưa chuyển người trong buổi sáng, chưa có hồi phục/chẩn đoán mới hoặc miễn đối mỗi sáng về sau. Tuổi 35 vẫn là thiết kế; trẻ vẫn sáu tuổi, tên/giới tính UNKNOWN.
+- Không có cảnh bà dự mở kho hoặc biết báo cáo ba bao/nguồn tiền. Sự an táng Mạnh Thanh Tễ đã diễn ra chiều mười bảy không tạo thêm thân tộc, di sản hoặc thay đổi điều kiện chỗ ở của bà.
+
+Nguồn: [[Chương 69]], [[Trạng Thái Truyện Sau Chương 69]].

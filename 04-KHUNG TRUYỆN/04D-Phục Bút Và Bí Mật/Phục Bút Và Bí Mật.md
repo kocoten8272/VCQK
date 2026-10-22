@@ -302,3 +302,23 @@ Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Chương
 Mốc an táng đã hoàn thành, không nên dồn lại một lần đóng nắp khác ở chương sau. Tuyến người tới sau còn đường tìm là việc đời thường có nguồn; không biến Thủ Danh Phường, ngôi mộ hay bản đường thành bí ẩn cấp thế giới/công cụ xác nhận huyết thống.
 
 Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Chương 64]], [[Chương 66]], [[Chương 67]].
+
+## Tiến triển theo bản thảo Chương 69
+
+| Hẹn/đầu mối | Trả trong69 | Còn giữ |
+| --- | --- | --- |
+| Đối người/hàng sau66 | Giấy đã trình chiều16, gửi bên nhận17 và được đồng ý mở phần liên quan18; Tạ Nghiên Chi/chấp sự/Hứa Tĩnh Xuyên thực tới kho | Không cuộc trình hay lần mở sau tự đã diễn ra; phạm vi nguồn được giữ đúng |
+| Ba bao Phùng Quý Lương nêu | Có hàng thật/phiếu/bản kê/người giữ nhận phần mình; ba bao hàng thô khác hai hòm bến | Chặng trước kho, người giao/cách hàng thành hiện trạng chưa đủ nguồn; không nối toán Trần Dực hoặc hòm dài |
+| Lương Cảnh Thuận | Có tên/việc được giao, lời tự nhận dỡ/mở bao ngoài/giữ riêng và giấy mình ghi | Người vắng mặt chưa được hỏi, không biết toàn mạng hoặc trở thành chủ mưu vì coi kho |
+| Chất lượng | Đã kiểm ngoài/sâu của đúng bao từng mở, phần hiện tại có chỗ ẩm/lẫn đất so với hạng khô sạch | Hai bao chưa mở, chất lượng lúc giao/ai cố ý trộn/đổi chưa kết luận; không dùng kết quả một bao cho cả lô |
+| Vật còn kiểm tiếp | Hai mẫu bọc ghi nguồn/ngày/chỗ lấy do Lương Cảnh Thuận giữ, bao buộc lại; hai bao kia ở kho | Hẹn đủ người mở phần còn lại, không mẫu về viện hoặc lần kiểm tiếp đã xong |
+| Công chỗ/hạn mới | Phùng Quý Lương trả ba đồng ứng giữ tới hết ngày19, có tờ nhận đúng phạm vi | Hạn19 phải được xử lý trong tiếp nối, chưa miễn bảo lãnh/hoàn tiền hoặc nhận lỗi làm hàng hỏng |
+| Lời Trần Dực | Không bị gọi dậy/lấy lời mới; Tạ Nghiên Chi giữ yêu cầu tìm nguồn thật trước kho | Lời người bệnh không thay nguồn giao hàng hoặc giúp một bên ép kết luận |
+| Học nghề | Lâm Uyên hỏi đất có đủ biết cố ý, nghe giới hạn; cuối nhờ khi rảnh được hỏi cách bắt đầu xem hàng | Chưa buổi học mới/kiểm thuốc độc lập, không mẫu vật được mang riêng về làm phần thưởng |
+| Chỗ mẹ con | Người đi xác nhận báo phần ngày18 đã giữ theo điều kiện cũ | Mẹ còn viện, ngày19/chuyển chỗ vẫn chưa xác nhận |
+| Mất mát sau tang | Bản đường giữ khô, đồ thầy viện giữ; cảm xúc đi cùng việc đang chạy | An táng17 không lặp lại, tuổi/quê/thân nhân Mạnh Thanh Tễ chưa tin mới; không hết đau hoặc di nguyện thêm |
+| Nhà trú/HFS/đồ nghề | Không kết quả mới trong69 | Kim/khung, trách nhiệm Bùi Gia, Tô Lạc/miếng đồng/chìa/trang và sinh tử thật Lâm Chinh vẫn theo nguồn cũ |
+
+Mốc mới là bảo quản hàng tới cuối19 và cuộc đối cần bố trí tiếp, không mở thêm bí ẩn cấp thế giới. Có tiến triển kiểm chứng hữu hạn mà chưa vội giải toàn chuỗi, không lặp yêu sách đổi lời như chưa bị thu hồi66.
+
+Nguồn: [[Chương 69]], [[Trạng Thái Truyện Sau Chương 69]], [[Chương 66]], [[Chương 68]].

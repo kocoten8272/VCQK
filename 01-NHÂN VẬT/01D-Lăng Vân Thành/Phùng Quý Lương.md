@@ -5,7 +5,7 @@ importance-tier: C
 vai-tro: nhan-vat-phu
 status: da-xuat-hien
 created: 2026-10-19
-updated: 2026-10-19
+updated: 2026-10-22
 tags:
   - nhan-vat
   - thuong-nhan
@@ -29,7 +29,7 @@ tags:
 | Vai nghề đã thể hiện | Đứng bảo lãnh khoản hàng dược liệu thô; tên/nghĩa vụ trên khế được trình, tự nhận cấp tiền và nhờ mua thuốc qua ba hiệu |
 | Nghề thiết kế | Thương nhân độc lập làm việc nhận hàng/bảo lãnh theo từng khoản; không là gia chủ, quan lại hoặc người đại diện một thế lực mới |
 | Lần đầu trực tiếp | Sáng ngày thứ mười sáu, gian sát bàn nhận giấy Hòa Sinh; được Cố Hoài An gọi sau khi bà trở về chiều trước |
-| Nơi cuối trực tiếp | Hòa Sinh với Tạ Nghiên Chi/chấp sự; nhận sẽ theo trình tiếp tại Tông Sảnh, chưa có cảnh đến nơi |
+| Nơi cuối trực tiếp | Kho bên nhận thuê sáng ngày mười tám, sau trả ba đồng ứng chỗ và hỏi lần mở tiếp; không có cảnh ông tới viện hoặc được hoàn/xóa nghĩa vụ |
 | Gia đình / huyết thống / nhà riêng | UNKNOWN, chưa thiết kế thêm người thân hoặc địa chỉ |
 | Tu vi / linh căn / công pháp / chiến lực | UNKNOWN; có nghề buôn không chứng minh là phàm nhân hoặc người tu hành |
 | Tài sản / nghĩa vụ | Có khoản cấp tiền mua thuốc và nghĩa vụ bảo lãnh được nhận; tổng tài sản, số tiền, nguồn vốn riêng/vay và khả năng thanh toán chưa nêu |
@@ -100,3 +100,14 @@ Thông tin trên trang, lời tự nhận và thiết kế tương lai được 
 - Nguồn cảnh: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]].
 - Tiền cảnh: [[Chương 46]], [[Chương 58]], [[Chương 65]], [[Dược Phường Hòa Sinh]].
 - Thiết kế và tra cứu: [[11_AUTONOMOUS_STORY_DESIGN]], [[02-SỔ CÁI NHÂN VẬT]], [[00-DANH MỤC NHÂN VẬT]], [[03-SỔ THEO DÕI LẦN XUẤT HIỆN]], [[05-MA TRẬN TRI THỨC]], [[Nhân Vật Chưa Rõ Tên — Sổ Theo Dõi]].
+
+## Trạng thái mới theo bản thảo Chương 69
+
+- Sáng ngày mười tám chờ tại mái trước kho bên nhận thuê; mang bản sao khế, đối số lượt/dấu/phần ba bao với phiếu và bản kê Lương Cảnh Thuận giữ. Mốc giấy đã giao Tông Sảnh chiều mười sáu nay được Tạ Nghiên Chi kể xác nhận; không đứng mãi tại Hòa Sinh ở mốc hiện hành.
+- Hỏi vì sao phiếu cân có dòng nhận đủ, được chỉ phần yêu cầu giữ riêng và giới hạn đủ cân chưa là đủ sạch/khô. Tận mắt một bao từng mở được mở lại; mẫu ngoài/sâu còn ẩm/lẫn đất. Hai bao khác chưa mở, không có kết luận hàng từng bị thay hoặc ai gây hại.
+- Muốn kết quả hiện tại thành dòng bên giao đưa hàng khác, nhưng Hứa Tĩnh Xuyên chỉ nhận phần đã xem không đạt yêu cầu khế, chưa thấy lúc đóng. Khi nhắc người dẫn đường phía bắc, Tạ Nghiên Chi giữ đúng thiếu nguồn nối với toán Trần Dực; không được lấy lời bệnh nhân.
+- Trước áp lực chỗ chỉ giữ tới chiều nay theo phần cũ, tự đếm ba đồng ứng công chỗ để giữ tiếp tới hết ngày mười chín. Y yêu cầu ghi ứng chỗ, không nhận bao do mình làm hỏng; Lương Cảnh Thuận đọc/ghi đúng phần, giao tờ nhận rồi y cất.
+- Khoản bảo lãnh vẫn còn, chưa được trả tiền/miễn nợ, chưa hứa hoàn ba đồng hoặc tự chấp nhận mọi lỗi của bên giao/nhận. Một khoản y chịu thêm không xóa việc đã thuận ép lời ở các chương trước hoặc thành hối lỗi hoàn chỉnh.
+- Hai mẫu được Lương Cảnh Thuận giữ riêng tại kho, y không mang đi. Cuối cảnh còn cạnh bàn hỏi có thể dự lần mở tiếp; chấp sự yêu cầu đối bên nhận để thu xếp và đem đúng phần cần trình. Chưa có lần mở sau hoặc lịch được bảo đảm, không theo Tạ Nghiên Chi tới viện.
+
+Nguồn: [[Chương 69]], [[Trạng Thái Truyện Sau Chương 69]], [[Lương Cảnh Thuận]], [[Hứa Tĩnh Xuyên]].

@@ -214,3 +214,13 @@ Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Đào Th
 - Về trước tối trong lượt được nhận, không có hồi phục/tăng tu vi mới. Dược Khế bốn tháng, kiếm bảo chứng, quản thúc/hộ tống và các tuyến điều tra còn mở giữ nguyên.
 
 Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Vệ Thu Nghi]], [[Thủ Danh Phường]].
+
+## Trạng thái mới theo bản thảo Chương 69
+
+- Ngày mười tám ở Tế Sinh Viện, dùng tay trái dời bản chỉ đường khỏi chỗ đặt khay; cuối buổi hỏi rồi giúp Lâm Uyên cất giấy đúng chỗ khô. Tay phải còn thương, không có chuyến đi kho hoặc hồi phục mới; bản chỉ đường không là quyền tự ra ngoài hay di sản.
+- Nghe Tạ Nghiên Chi nói lịch phần giấy đã trình chiều mười sáu/lời mời ngày mười bảy; nhờ chỉ báo đúng kết quả được kiểm, không đem mọi lời ngoài kho về người bệnh. Không trực tiếp dự mở bao/nhận mẫu hoặc có quyền với hồ sơ ngoài phạm vi được báo.
+- Sau bữa trưa cùng nghe báo Lương Cảnh Thuận giữ ba bao hàng thô, một bao đã kiểm có phần ẩm/lẫn tạp, hai bao chưa kiểm, Phùng Quý Lương ứng ba đồng giữ tới cuối mười chín; chưa kết luận thay hàng/người gây hại hoặc nối Trần Dực/hai hòm thuốc.
+- Khi Lâm Uyên ngừng lời, dời chén tới chỗ người trực giúp được, không ép hắn giải thích nỗi buồn. Không có vật người thầy trao thêm hoặc tin thân nhân Mạnh Thanh Tễ đã tới.
+- Dược Khế bốn tháng, kiếm bảo chứng, quản thúc/hộ tống và giới hạn thương tích giữ nguyên. Các hồ sơ chìa/trang mất, niêm/mẫu vón, nhà trú và Tả tiên sinh/Hắc Nha chưa có lời giải mới.
+
+Nguồn: [[Chương 69]], [[Trạng Thái Truyện Sau Chương 69]], [[Lương Cảnh Thuận]].

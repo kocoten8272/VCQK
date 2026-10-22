@@ -318,3 +318,21 @@ Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]], [[Đào Th
 Viện chủ (CHAR-047) tiếp đúng chức danh chưa tên/giới tính/tuổi. Viện thu xếp an táng thực và giữ đồ/tiếp báo tin; tuổi/quê Mạnh Thanh Tễ, thân nhân/nguồn hồi đáp còn UNKNOWN. Vệ Thu Nghi có một hồ sơ mới, bãi chôn chỉ là nơi được ghi/chỉ đường trong cảnh, không tự thêm lore node hoặc nhân vật quyền lực. Lâm Uyên chỉ nhận bản chỉ đường qua Tô Thanh Ly giữ giúp, không là sổ nghề, di sản hoặc quyền ra ngoài.
 
 Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Vệ Thu Nghi]], [[Thủ Danh Phường]].
+
+## Vai trò được đối và phân biệt ở Chương 69
+
+| Vai | Điều mới theo cảnh/nguồn | Giới hạn |
+| --- | --- | --- |
+| Người coi kho được bên nhận giao đối ba bao | Lương Cảnh Thuận, CHAR-069, trực tiếp lần đầu sáng mười tám; có giấy bên nhận, nhận phần kê/ghi/giữ, mở đúng bao từng mở, ký giữ hai mẫu riêng và nhận ba đồng tới cuối mười chín | Dẫn về hồ sơ chính [[Lương Cảnh Thuận]]. Không gộp người cân/giữ sổ Hòa Sinh, người coi hàng bến hoặc người báo đường trước Chương 66; chưa là chủ kho/toàn lô. |
+| Bên nhận hàng / người gửi hồi đáp | Qua Tạ Nghiên Chi: được mời ngày mười bảy, sáng mười tám cho người đáp nhận mở đúng phần trước người chứng; có giấy giao Lương Cảnh Thuận | Chưa tên cá nhân/cơ sở, chưa nhận diện mọi người là cùng một người. Không coi đã thừa nhận thay hàng hoặc mọi lời bảo quản. |
+| Người từng có mặt khi dỡ / ghi dòng nhận | Lương Cảnh Thuận tự nhận phần mình viết và nêu người cần hỏi; dòng đủ cân khác nhận đạt hạng | Người vắng mặt chưa được xác nhận đã đồng ý hết lời. Không lấy giấy hiện tại chứng minh họ thấy việc đóng bao ở chặng trước. |
+| Người phụ giúp lấy mẫu / mang khay, dụng cụ | Đi cùng Hứa Tĩnh Xuyên, lấy riêng phần ngoài/sâu theo lời, dọn khay; không tự giao mẫu cho người bệnh | Có thể nhiều vai, chưa tên/tuổi/tu vi, không gộp mọi người phụ viện hoặc Lương Cảnh Thuận. Hai gói mẫu ở kho. |
+| Người dỡ hàng / gọi ngoài sân | Kéo tấm kê, có hàng mới chờ, cần lối để tiếp công việc | Vai nền nghề có nhu cầu riêng, không gộp nhân chứng dỡ ba bao cũ nếu chưa có nhận diện. |
+| Người thay bàn thuốc tại viện | Viện thu xếp cho Hứa Tĩnh Xuyên đi, ông giao xong bàn trước khi ra xe; khi về nhận lại việc | Chưa tên/ca, không đồng nhất y sư xem tay/viện chủ hoặc tự trao quyền hành nghề cho Lâm Uyên. |
+| Chấp sự / người hộ tống giữ giấy | Cùng Tạ Nghiên Chi đối giấy giao/phạm vi, nhận việc mở đúng phần, không lấy danh Tông Sảnh buộc giữ vô hạn | Không gộp mọi chấp sự tuyến chìa/tang/thuốc. Chưa có phán quyết bảo lãnh hoặc lệnh bắt mới. |
+| Người đối giữ chỗ mẹ con Khương Tố Nương | Về báo sáng mười tám bên nhận giữ phần hôm nay theo điều kiện cũ, người trực nhận báo tới gian bệnh | Không có chuyển mẹ con/xuất viện hoặc miễn đối sáng sau, chưa tên và không gộp bên nhận hàng ở kho. |
+| Y sư xem băng / người trực hỗ trợ | Hỏi tình trạng, dặn Lâm Uyên nghỉ tại viện, giúp băng/khay và nhận lời nhờ báo giám dược khi rảnh | Không có hồi phục mới, người học tự kê/cầm mẫu hoặc một buổi học mới được thực hiện. Không gộp mọi ca với Hứa Tĩnh Xuyên. |
+
+Lương Cảnh Thuận là một hồ sơ mới đúng vai trong chương, không đổi tên các vai vô danh trước đây. Hứa Tĩnh Xuyên/Tạ Nghiên Chi về viện thực, Phùng Quý Lương cuối trực tiếp còn kho; cuối chương Tạ Nghiên Chi đã rời viện về Tông Sảnh nhưng chưa có cảnh tới nơi. Lâm Uyên/Tô Thanh Ly chỉ biết phần báo được phép. Ba bao thô không là hai hòm Xích Tủy Tán đã về viện hoặc hòm dài dưới núi; mẫu trong kho không giải niêm/mẫu vón hay xác nhận người làm sai.
+
+Nguồn: [[Chương 69]], [[Trạng Thái Truyện Sau Chương 69]], [[Lương Cảnh Thuận]], [[Phùng Quý Lương]], [[Hứa Tĩnh Xuyên]].
