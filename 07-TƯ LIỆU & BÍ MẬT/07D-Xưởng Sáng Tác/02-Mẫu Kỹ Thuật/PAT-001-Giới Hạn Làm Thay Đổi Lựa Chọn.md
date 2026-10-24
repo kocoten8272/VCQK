@@ -26,8 +26,9 @@ used_in_chapters:
   - 67
   - 68
   - 69
+  - 70
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-24
 tags:
   - nhan-qua
   - cai-gia
@@ -37,7 +38,7 @@ tags:
 
 # PAT-001-Giới Hạn Làm Thay Đổi Lựa Chọn
 
-> Mẫu kỹ thuật do người viết thiết kế cho VCQK từ [[REF-001-Nguồn Về Sinh Tồn Và Giới Hạn]]. `ready` nghĩa là dùng được để lập cảnh; đã áp dụng có phạm vi ở bản thảo Chương 55–69.
+> Mẫu kỹ thuật do người viết thiết kế cho VCQK từ [[REF-001-Nguồn Về Sinh Tồn Và Giới Hạn]]. `ready` nghĩa là dùng được để lập cảnh; đã áp dụng có phạm vi ở bản thảo Chương 55–70.
 
 ## Vấn đề cần xử lý
 
@@ -179,3 +180,9 @@ Tra [[LOG-015-Áp Dụng Kỹ Thuật Trong Chương 68]]/[[REF-010-Nguồn Về
 Lâm Uyên ở viện nghỉ và nghe phần kết quả được phép báo, không dùng chuyến tang hôm trước để tự nhận lượt ra kho. Người có nghề thực sự xem phần lấy từ một bao, không nhận thay lịch sử hàng hoặc hai bao chưa mở. Người giữ kho có mục tiêu sinh kế riêng, buộc Phùng Quý Lương chọn ứng ba đồng giữ tới hết 19 dù chưa biết sẽ đòi ai. Tông Sảnh không buộc kho giữ vô hạn; mẫu ở lại kho, lời người bệnh không thay cho đối hàng thật. Tiến triển làm phát sinh chi phí và phạm vi cần kiểm tiếp, không chỉ kéo thêm một hẹn hỏi sổ.
 
 Tra [[LOG-016-Áp Dụng Kỹ Thuật Trong Chương 69]]/[[REF-011-Nguồn Về Mục Tiêu Và Phản Ứng Trong Cảnh]]. SEED-001/002 vẫn chưa dùng và giữ `canonical: false`; nhật ký chưa có phản hồi độc giả hoặc bằng chứng nỗi buồn của Lâm Uyên đã kết thúc.
+
+## Lần áp dụng tại bản thảo Chương 70
+
+Lâm Uyên được nhìn một mẫu quế có nguồn tại viện mà chưa thể nhận cả hộp hay tự phát thuốc. Trong lượt hỏi có quyền dừng, hắn chuyển câu hỏi sang điều Trần Dực thực thấy và chấp nhận người dẫn không nhận chuyến mới. Giới hạn ấy tạo lựa chọn gửi phần mốc ngoài cho người khảo sát, giữ sơ đồ giếng và nguồn lời riêng, không nối thành đường đã thông hoặc buộc người bệnh trở lại núi. Bản sao/tờ mốc đã được giao người nhận chuyển; khảo sát vẫn chưa xảy ra. Buổi kiểm kho sáng 19 còn cần giờ và phần bàn của giám dược, không xóa giới hạn bằng lịch đã đáp.
+
+Tra [[LOG-017-Áp Dụng Kỹ Thuật Trong Chương 70]]/[[REF-012-Nguồn Về Đối Thoại Và Mục Đích Riêng]]. SEED-001/002 vẫn chưa dùng và giữ `canonical: false`; chưa có phản hồi độc giả, tăng tu vi hoặc kết luận nỗi buồn đã hết.

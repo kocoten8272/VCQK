@@ -233,3 +233,17 @@ Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Thủ Da
 Kho được thể hiện qua phạm vi người bên nhận thuê và giao coi, không lập thế lực/lore mới chỉ vì có một nơi đối hàng. Không chuyển trách nhiệm tranh hàng sang bệnh nhân hoặc nhập nhà trú/HFS vào vụ này khi chưa có nguồn.
 
 Nguồn: [[Chương 69]], [[Trạng Thái Truyện Sau Chương 69]], [[Chương 66]], [[Chương 68]].
+
+## Phạm vi nghề nghiệp và quyền hạn Chương 70
+
+- **Tế Sinh Viện/Hứa Tĩnh Xuyên:** Người thay nhận lượt để giám dược có buổi chỉ mẫu quế ngắn, y sư cho người học ngồi khi giữ hai tay nghỉ. Mẫu từ hộp viện được cất lại; hai gói mẫu vụ kho không vào viện hoặc thành thuốc dùng.
+- **Tông Sảnh/Tạ Nghiên Chi/chấp sự:** Phần ghi69 đã được nộp, có phần nhận đối riêng đường HFS rồi Tạ trở lại viện chiều18. Người có quyền giữ việc hỏi theo lượt, bản lời HFS gốc tách vụ hàng; không dùng buổi này mở lại điều kiện đổi thuốc lấy lời.
+- **Y sư/Trần Dực:** Lượt ngắn được xem sức mới, có quyền dừng; Trần nhận người dự và từ chối một chuyến dẫn mới vào phế tích. Lời khai không phát sinh quyền buộc người bệnh đi thực địa hoặc làm thợ dẫn riêng.
+- **Bộ phận khảo sát/người chuyển:** Chấp sự thực giao bản sao phần lời liên quan và sơ đồ mốc ngoài theo Trần cho người nhận lượt chuyển tới đầu mối đường ngoài. Chưa có khảo sát hoàn tất, lệnh vào khe/vượt cọc hoặc đổi quyền ngoại tuần của Tô Trạch.
+- **Sơ đồ và phần cứu người:** Bản lưu giếng của Tô Tín/tên Tô Lạc, điểm thử ngoài cọc và đoạn chưa chịu chống vẫn ở nguồn cũ. Khe theo Trần là đường cần đối riêng; không làm an toàn đường cũ hoặc xác định thi thể/miếng đồng đã chuyển nơi nào.
+- **Các bên kho:** Đã đáp phần thu xếp kiểm hai bao sáng19, Phùng Quý Lương được báo. Hứa Tĩnh Xuyên còn cần được viện bố trí bàn và báo giờ; không coi đã nhận xong mọi điều kiện hoặc cho main theo chuyến. Ba bao/hai mẫu do Lương Cảnh Thuận giữ, ba đồng công chỗ tới hết19 không đổi.
+- **Các nghĩa vụ giữ nguyên:** Main/Tô Thanh Ly ở viện, Dược Khế7–4tháng/quản thúc/kiếm bảo chứng/thương tay giữ; Trần trái chưa vận động, Tín chân phải gãy/nạng/tay còn thương. Chỗ mẹ con chỉ có báo18 cũ; không khép việc nhà trú/kim/khung hoặc tang/thân nhân.
+
+Không có thế lực, nhân vật ID hoặc lore node mới trong70. Người nhận chuyển là vai theo việc, không tự là người đã khảo sát mọi mốc hoặc nhân sự có tên của một hội mới. Lời người che mặt hỏi tiếng sau vách không chứng minh Tả tiên sinh/nhóm áo đen/mạng thuốc cùng phe.
+
+Nguồn: [[Chương 70]], [[Trạng Thái Truyện Sau Chương 70]], [[Chương 65]], [[Chương 69]].

@@ -334,3 +334,19 @@ Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Chương
 Cố Hoài An/Tề Duy Cẩn không có cảnh mới trong69. Đào Thành Nghiệp, Bùi Ninh Viễn, Bùi Khánh Vân, Hồ Nhuận Chi, Vệ Thu Nghi và Tô Tín không có cảnh trực tiếp mới; không tự cập nhật việc làm/sức khỏe/vị trí của họ. Người thay ca, phụ giúp, hộ tống, chấp sự và nhân viên kho chưa tên phân theo đúng việc, không nhập vào nhân vật đã có.
 
 Nguồn: [[Chương 69]], [[Trạng Thái Truyện Sau Chương 69]], [[Chương 66]], [[Chương 68]].
+
+## Mốc mới theo bản thảo Chương 70
+
+| ID | Nhân vật | Kiểu/mốc | Nơi cuối/giới hạn |
+| --- | --- | --- | --- |
+| CHAR-005 | Lâm Uyên | Trực tiếp chiều18 tại viện | Nghe bài ngắn về mẫu quế của viện rồi dự lượt hỏi Trần Dực được y sư cho; hỏi điều đã thấy và điểm dừng việc dẫn, xin kiểm mốc ngoài. Về chỗ nghỉ, không đi núi/kho, cầm bút hoặc nhận thuốc độc lập |
+| CHAR-006 | Tô Thanh Ly | Trực tiếp tại viện, dự đúng phần Trần Dực nhận | Nhờ thu xếp nước/chỗ ngồi, hỏi qua người ghi về chỗ hai lối gặp nhau, giữ phạm vi kiểm ngoài rồi đi cùng Lâm Uyên về nghỉ; tay phải còn thương, không chuyến ra ngoài mới |
+| CHAR-064 | Hứa Tĩnh Xuyên | Trực tiếp ở bàn mẫu viện | Có người thay lượt và y sư nhận cho main ngồi ngắn; dùng mẫu quế có thẻ của viện chỉ giới hạn phần đã nhìn, cất đúng ngăn rồi về công việc. Không mẫu kho đem về, buổi phối/khám độc lập hoặc tự nhận ca kiểm kho19 đã xong |
+| CHAR-046 | Tạ Nghiên Chi | Trực tiếp trở lại viện sau nộp phần ghi69 tại Tông Sảnh | Có phần cho đối riêng đường HFS, lấy lời mới theo lượt/đọc lại; vẽ sơ đồ ngoại vi theo lời Trần, giữ ống lời HFS gốc riêng. Cuối rời viện với chấp sự, chưa có cảnh tới Tông Sảnh sau lượt hỏi |
+| CHAR-044 | Trần Dực | Trực tiếp tại giường, có lượt nghe hỏi mới | Nhận người dự, nói về người che mặt/tiếng sau vách và đoạn ngoài đã nhận dẫn; tay phải chỉ theo tờ Tạ vẽ, trái yên trên chăn. Từ chối nhận chuyến dẫn mới vào phế tích; sửa/nhận lời rồi nghỉ, không hồi phục hay nhớ lại thần kỳ |
+| CHAR-019 | Tô Tín | Trực tiếp ở viện, được nhận dự phần liên quan hôm nay | Ngồi với chân phải kê/nạng cạnh, nhờ mang bản lưu; giữ sơ đồ giếng/tên Tô Lạc và yêu cầu cả phản hồi không làm được. Không vẽ thêm đường, đi núi hoặc biết trọn lượt riêng65 từ trước |
+| CHAR-037 | Mạnh Thanh Tễ | Nhắc/nhớ ở cuối cảnh | Lâm Uyên nhớ chỗ thầy từng nghe người tới xin thuốc; không hành động sống, lời dạy/di vật mới hoặc kết quả liên hệ thân nhân |
+
+Lương Cảnh Thuận và Phùng Quý Lương chỉ được nhắc qua phần thu xếp kiểm hai bao sáng19; không có cảnh kho mới70. Ba bao/hai mẫu vẫn kho, tiền giữ đến hết19 giữ nguyên. Người chuyển phần mốc ngoại vi có mặt nhận bản sao lời liên quan cùng sơ đồ mới; đây là vai chưa tên, không gộp mọi người đưa tin cũ hoặc ghi như người đã khảo sát.
+
+Nguồn: [[Chương 70]], [[Trạng Thái Truyện Sau Chương 70]], [[Chương 65]], [[Chương 69]].

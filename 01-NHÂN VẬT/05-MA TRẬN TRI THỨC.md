@@ -315,3 +315,22 @@ Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Chương
 Tuổi44 của Lương Cảnh Thuận thuộc thiết kế tác giả; trên trang chỉ ngoài40. Tri thức tại kho được tách khỏi phần báo về viện. Nguồn HFS/Tô Lạc/miếng đồng, nhà trú/kim, mạng áo đen/Tả tiên sinh và sinh tử thật Lâm Chinh không có kết quả mới.
 
 Nguồn: [[Chương 69]], [[Trạng Thái Truyện Sau Chương 69]], [[Chương 66]], [[Chương 68]].
+
+## Tri thức theo bản thảo Chương 70
+
+| Người | Biết/nghe | Giới hạn |
+| --- | --- | --- |
+| Lâm Uyên ← Hứa Tĩnh Xuyên | K/R: nhận tên mẫu quế của viện đã gặp, nhìn phần trên khay và nghe phải biết chỗ lấy/phần còn cần xem | Một mẫu không đại diện mọi phần trong hộp; chưa tự chọn/phát/cân/phối thuốc, không đang giữ mẫu từ kho bên nhận |
+| Tạ Nghiên Chi/chấp sự | K/R: phần ghi69 đã nộp Tông Sảnh, được nhận đối riêng đường HFS; các bên kho đáp phần thu xếp sáng19 | Không có phán quyết vụ hàng hoặc lần kiểm hai bao đã xảy ra; y sư và Trần còn quyết lượt hỏi hiện tại |
+| Lâm Uyên/Tô Thanh Ly/người dự ← Trần Dực | R: người che mặt dừng cạnh vách ở phòng đèn xám, hỏi có nghe người bên kia không; Trần không nghe tiếng người ấy, từng tưởng hắn nghe người đi trước | Lời Trần về điều từng thấy/nghe/đoán; chưa chứng người che mặt biết đường, có người sau vách thật hoặc chính là Tả tiên sinh |
+| Người dự ← phần lời cũ và câu trả lời mới | R: toán thuê vào khe phía bắc khác đường đội Tô Gia; Trần nói không tới bằng cửa đá đối trọng nơi nhóm đưa ra | Hai nguồn chỉ lối cần đối riêng, chưa đo vị trí ngoài thực địa hay biết chỗ nối phía trong |
+| Tạ Nghiên Chi/người dự ← Trần Dực | R: vệt đá trắng chạy xéo và cây ngả ngoài khe là mốc tới đoạn hắn nhận công; sau cây mới bị bắt men xuống | Mốc theo hồi ức/lời hiện tại, chưa biết sau mưa còn thế nào; không khoảng cách đo, đường an toàn hoặc tọa độ mới được xác lập |
+| Tô Tín | K/R hôm nay: được nghe phần liên quan sau Trần nhận người dự; so sơ đồ giếng đã lưu với tờ riêng Tạ vẽ | Không tự biết toàn buổi riêng65, nhận đường qua khe hoặc vị trí Tô Lạc sau sập; bản cũ/tên người không bị dời |
+| Trần Dực/Lâm Uyên/Tạ Nghiên Chi/chấp sự | K: Trần nhận đối đoạn ngoài trong lượt này, từ chối chuyến dẫn mới vào phế tích; main nói không thuê hắn trở vào, phần từ chối được ghi | Không hứa nhớ mọi đường, tham gia thực địa, hồi phục tay trái hoặc nhận nghĩa vụ dẫn do được cứu |
+| Chấp sự/người nhận chuyển/Lâm Uyên tại hiên | K: bản sao phần lời liên quan và sơ đồ mốc ngoài đã có người nhận chuyển tới đầu mối khảo sát, kèm lời nhờ cả kết quả không tìm được | Chưa có người khảo sát tìm được khe, nhận đường trong hay lệnh vượt cọc; ống lời HFS gốc riêng Tạ, bản giếng gốc còn viện |
+| Người nghe phần thu xếp kho | R: bên nhận/người bên giao đáp kiểm hai bao sáng19, Phùng Quý Lương được báo; ba bao và hai mẫu vẫn Lương Cảnh Thuận giữ đến hạn hết19 | Hứa còn cần bố trí bàn/giờ, main chưa có quyền đi; không kết luận hai bao hoặc ba đồng được hoàn |
+| Lâm Uyên/Tô Thanh Ly | K: quay về phần nghỉ sau lượt ngắn, người trong giường được để nghỉ | Không đi núi/kho, khỏi thương, nhận di sản/lời thầy mới hoặc hết đau buồn |
+
+Phần lời về người che mặt, khe vào và chỗ cây được giữ ở lớp CHARACTER REPORT70; hành động lấy lời/vẽ theo lời/bàn giao có mặt trong DRAFT TEXT70. Chúng không tự xác nhận quan hệ với mạng thuốc, Hắc Nha, Di Kỷ Tộc hoặc sinh tử thật Lâm Chinh. Chỗ mẹ con Khương Tố Nương vẫn mới có báo ngày18 từ69, không tự chuyển sang ngày19.
+
+Nguồn: [[Chương 70]], [[Trạng Thái Truyện Sau Chương 70]], [[Chương 40]], [[Chương 41]], [[Chương 43]], [[Chương 65]], [[Chương 69]].

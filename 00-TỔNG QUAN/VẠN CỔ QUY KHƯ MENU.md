@@ -8,10 +8,10 @@
 
 - **Tên truyện:** Vạn Cổ Quy Khư
 - **Nhân vật chính:** [[Lâm Uyên]]
-- **Địa điểm ở cuối Chương 69:** Tế Sinh Viện, sau bữa trưa ngày18; Lâm Uyên/Tô Thanh Ly ở viện nghe kết quả kiểm một bao hàng thô, chưa có kết luận thay hàng; Hứa Tĩnh Xuyên trở lại bàn thuốc, Tạ Nghiên Chi đã rời viện để về Tông Sảnh
+- **Địa điểm ở cuối Chương 70:** Tế Sinh Viện, cuối chiều ngày18; buổi hỏi Trần Dực đã kết thúc, sơ đồ mốc ngoài và bản sao phần lời liên quan đã giao người chuyển tới đầu mối khảo sát; chưa khảo sát hoặc mở đường vào
 - **Thế lực gắn với arc hiện tại:** [[Tô Gia]]
-- **Chương mới nhất trên main:** [[Chương 69]] (nháp)
-- **Chương tiếp theo:** Chương 70 (dự kiến)
+- **Chương mới nhất trên main:** [[Chương 70]] (nháp)
+- **Chương tiếp theo:** Chương 71 (dự kiến)
 - **Trạng thái:** Đang sáng tác
 
 ---
@@ -58,6 +58,7 @@
 - [[REF-009-Nguồn Về Vật Dụng Và Quan Hệ]] · [[LOG-014-Áp Dụng Kỹ Thuật Trong Chương 67]] — trả vật đã mượn, hành động nghề và khoản công cụ thể
 - [[REF-010-Nguồn Về Tang Chế Và Việc Người Sống]] · [[LOG-015-Áp Dụng Kỹ Thuật Trong Chương 68]] — việc an táng hoàn tất, nỗi mất mát tiếp tục và phần việc của người sống
 - [[REF-011-Nguồn Về Mục Tiêu Và Phản Ứng Trong Cảnh]] · [[LOG-016-Áp Dụng Kỹ Thuật Trong Chương 69]] — lợi ích đối lập, kiểm hàng thực và khoản giữ kho có hạn
+- [[REF-012-Nguồn Về Đối Thoại Và Mục Đích Riêng]] · [[LOG-017-Áp Dụng Kỹ Thuật Trong Chương 70]] — câu hỏi có phạm vi, quyền từ chối và sơ đồ cần kiểm ngoài
 
 ## NHÂN VẬT
 
@@ -208,13 +209,14 @@
 - [[Chương 66]] — Người Đặt Câu Hỏi; nháp
 - [[Chương 67]] — Chiều Trả Dao; nháp
 - [[Chương 68]] — Nơi Người Đến Sau Còn Tìm Được; nháp
-- [[Chương 69]] — Phần Hàng Còn Trong Kho; nháp mới
+- [[Chương 69]] — Phần Hàng Còn Trong Kho; nháp
+- [[Chương 70]] — Nơi Đường Dẫn Dừng Lại; nháp mới
 
 ### Chuẩn bị
 
-- Chương 70 — hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 69]].
+- Chương 71 — hướng tiếp nối từ [[Trạng Thái Truyện Sau Chương 70]].
 - [[Kết Chương]] — trạng thái từng chương, bao gồm các bản nháp và chương chưa có frontmatter.
-- [[Trạng Thái Truyện Sau Chương 69]] — trạng thái continuity hiện hành; các bản sau chương trước đó là lưu vết lịch sử.
+- [[Trạng Thái Truyện Sau Chương 70]] — trạng thái continuity hiện hành; các bản sau chương trước đó là lưu vết lịch sử.
 
 ---
 

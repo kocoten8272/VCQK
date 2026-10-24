@@ -10,7 +10,7 @@ tags:
 
 # Trần Dực
 
-> Người được nhóm Lâm Uyên gặp trong phế tích ở Chương 40; đến Chương 64 vẫn chữa trị tại Tế Sinh Viện. Hồ sơ tách lời khai khỏi sự thật đã quan sát.
+> Người được nhóm Lâm Uyên gặp trong phế tích ở Chương 40; đến Chương 70 vẫn chữa trị tại Tế Sinh Viện. Hồ sơ tách lời khai khỏi sự thật đã quan sát.
 
 ## Điều đã biết và lời khai
 
@@ -71,3 +71,15 @@ Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].
 - Người Hòa Sinh chờ ngoài trong lượt hỏi, không được giao bản lời riêng. Không có cảnh Trần Dực nghe phần đối công/Tề Duy Cẩn khai ở gian ngoài, nhận tiền, giao lời đổi thuốc hoặc trở thành nhân chứng biết nguồn mua.
 
 Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]].
+
+## Trạng thái mới theo bản thảo Chương 70
+
+- Chiều ngày mười tám tại giường viện, được y sư cho lượt hỏi ngắn và tự nhận những người dự/phần được nghe. Nhận để Lâm Uyên/Tô Thanh Ly đối câu còn lại, Tô Tín nghe phần sơ đồ liên quan; không lấy việc được cứu làm nghĩa vụ nhận hết phần người khác muốn.
+- **Lời mới theo câu hỏi chưa được hỏi:** Ở phòng đèn xám, người che mặt dừng cạnh vách, quay lại hỏi có nghe người phía bên kia; hắn không nghe tiếng người mà người ấy nói, không thấy người sau vách hoặc người ấy mở lối. Chỉ tưởng người ấy nghe người đi trước, chưa chứng minh quen đường; không có tên thật hoặc xác nhận người che mặt là Tả tiên sinh.
+- Đối lại lời Chương 40: vào qua khe phía bắc khác đường đội Tô Gia; xác nhận không tới bằng cửa đá/dây đối trọng đã được đội đưa ra. Không nhận được chỗ hai lối gặp nhau bên trong hoặc vị trí Tô Lạc sau sàn khép.
+- Chỉ mốc ngoài bằng lời/ngón phải để Tạ Nghiên Chi vẽ riêng: vệt đá trắng chạy xéo trước cây ngả ngang vách ngoài khe, tới đó từng nói phần nhận dẫn đã xong rồi bị bắt đi tiếp. Đây là lời nhân chứng, chưa xác minh mốc sau mưa/cự ly hoặc đường an toàn; tờ không kéo xuống giếng.
+- Nhận đối đoạn ngoài trong lượt hôm nay nhưng **từ chối một chuyến dẫn mới vào phế tích**; đề nghị ghi rõ. Lâm Uyên nhận không thuê hắn trở vào, chấp sự không dùng tên hắn làm người đi cùng yêu cầu kiểm hiện trường.
+- Dùng tay phải đặt/uống nước và chỉ giấy trong tầm nhìn; tay trái yên trên chăn, vẫn cần người sửa nếp chăn. Không có cảm giác/vận động trái mới, thuốc/phép thử hoặc mốc hồi phục; khi gần hết lượt nhận phần được đọc lại rồi nghỉ.
+- Sơ đồ giếng Tô Tín giữ nguồn cũ; tờ mốc ngoài cùng bản sao phần lời liên quan được giao người chuyển, chưa khảo sát hoặc thu người/vật. Lời đề nghị nhận phản hồi cả cho hắn do Lâm Uyên nhờ cuối chương, không biến hắn thành người đã nhận dẫn về sau.
+
+Nguồn: [[Chương 70]], [[Trạng Thái Truyện Sau Chương 70]], [[Chương 40]], [[Chương 41]], [[Chương 43]], [[Tô Tín]], [[Tạ Nghiên Chi]].

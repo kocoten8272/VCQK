@@ -262,3 +262,21 @@ Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Chương
 Thời gian hiện tại cuối69 vẫn sau bữa trưa18, chưa tới ngày19. Mạnh Thanh Tễ mất đêm13/tưởng niệm15/an táng17, không lặp tang hay chuyển di vật. Mốc chỗ ở18 có tin mới, mốc giữ hàng tới hết19 là việc cần đối tiếp; hai hòm bến đã về viện47–48 không được thu lần nữa. Các nghĩa vụ Dược Khế7–4tháng/quản thúc/kiếm bảo chứng, nhà trú/HFS/kim/khung và Lâm Chinh UNKNOWN chưa kết quả mới.
 
 Nguồn: [[Chương 69]], [[Trạng Thái Truyện Sau Chương 69]], [[Chương 66]], [[Chương 68]].
+
+## Chiều ngày thứ mười tám — Chương 70
+
+| Thời điểm | Sự kiện đã viết | Giới hạn |
+| --- | --- | --- |
+| Đầu lượt chiều18 tại viện | Hứa Tĩnh Xuyên có người thay, y sư cho main ngồi ngắn giữ hai tay nghỉ; lấy mẫu quế viện chỉ phạm vi phần thấy/chỗ lấy rồi cất | Không mẫu vụ kho về viện, quyền chọn/phát thuốc hoặc hồi phục tay |
+| Trước Tạ trở lại | Phần ghi kho69 đã nộp Tông Sảnh; bên nhận/người bên giao đáp thu xếp đối hai bao sáng19, Phùng Quý Lương được báo | Đây là bước mới được70 nêu, chưa mở hai bao hoặc xóa nghĩa vụ; Hứa còn cần bố trí bàn/giờ |
+| Tạ Nghiên Chi tới viện | Mang phần nhận đối riêng câu đường HFS đã giữ65; chờ y sư xem sức/Trần nhận lượt và người dự | Không dùng lượt hỏi cũ, áp người ngoài vào nghe hoặc mang bản kho làm lời Trần |
+| Lượt hỏi chiều18 | Trần nhận cho main/Tô Thanh Ly và phần Tô Tín cần nghe; kể người che mặt hỏi tiếng sau vách, không thấy hỏi đường/mở lối | Nguồn lời Trần, không chứng biết đường, có người sau vách hay nhận danh tính Tả |
+| Trong lượt | Đối khe phía bắc/cửa đá đối trọng, Tạ vẽ tờ riêng theo mốc đá trắng/cây ngả ngoài khe; Trần phải chỉ, trái yên | Chưa khảo sát/đo khoảng cách/mốc sau mưa hoặc đường trong thông; không vẽ đè sơ đồ giếng |
+| Cùng lượt | Tô Tín nhờ mang bản lưu, giữ tên Tô Lạc/việc thử cũ; Trần từ chối chuyến dẫn mới, main nhận không thuê trở vào | Tín chân phải kê/nạng/tay thương, không đi núi; không nhận thi thể đã chuyển chỗ |
+| Cuối lượt | Tạ đọc lại, Trần sửa cây ở ngoài khe rồi nhận/nghỉ; main được giúp khi đứng, không hỏi kéo dài | Không nhớ lại thần kỳ/hồi phục, ý muốn có đường về không thành lời Trần đã hứa |
+| Trước đoàn rời viện | Chấp sự thực giao bản sao lời liên quan và sơ đồ ngoại vi cho người nhận chuyển tới đầu mối khảo sát, kèm nhờ cả phản hồi không tìm được | Chỉ việc nhận chuyển đã diễn ra; chưa thực địa/lệnh vượt cọc; sơ đồ Tín về lưu viện, ống lời HFS gốc riêng Tạ |
+| Cuối70, chiều18 | Tạ rời viện cùng chấp sự, Hứa tiếp bàn thuốc; main/Tô Thanh Ly về nghỉ, Trần được nghỉ/Tín giữ sơ đồ; main nhờ hồi đáp báo cả hai người | Chưa Tạ tới Tông Sảnh sau buổi hoặc hồi đáp khảo sát tới viện; chưa ngày19/kiểm hai bao |
+
+Ba bao/hai mẫu vụ hàng vẫn do Lương Cảnh Thuận giữ, khoản ba đồng đã ứng tới hết19 giữ nguyên. Hai hòm thuốc bến đã ở viện47–48 là nguồn khác; chỗ mẹ con mới có báo18 từ69, chưa chốt19. Mạnh Thanh Tễ mất13/tưởng niệm15/an táng17, đồ riêng/thân nhân chưa có kết quả mới; Tô Lạc/miếng đồng/kim/khung/chìa/trang và sinh tử thật Lâm Chinh chưa được giải.
+
+Nguồn: [[Chương 70]], [[Trạng Thái Truyện Sau Chương 70]], [[Chương 40]], [[Chương 43]], [[Chương 65]], [[Chương 69]].

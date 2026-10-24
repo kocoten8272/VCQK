@@ -336,3 +336,19 @@ Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Vệ Thu
 Lương Cảnh Thuận là một hồ sơ mới đúng vai trong chương, không đổi tên các vai vô danh trước đây. Hứa Tĩnh Xuyên/Tạ Nghiên Chi về viện thực, Phùng Quý Lương cuối trực tiếp còn kho; cuối chương Tạ Nghiên Chi đã rời viện về Tông Sảnh nhưng chưa có cảnh tới nơi. Lâm Uyên/Tô Thanh Ly chỉ biết phần báo được phép. Ba bao thô không là hai hòm Xích Tủy Tán đã về viện hoặc hòm dài dưới núi; mẫu trong kho không giải niêm/mẫu vón hay xác nhận người làm sai.
 
 Nguồn: [[Chương 69]], [[Trạng Thái Truyện Sau Chương 69]], [[Lương Cảnh Thuận]], [[Phùng Quý Lương]], [[Hứa Tĩnh Xuyên]].
+
+## Vai trò được đối và phân biệt ở Chương 70
+
+| Vai | Điều mới theo cảnh/nguồn | Giới hạn |
+| --- | --- | --- |
+| Người thay bàn thuốc / người trực bàn học | Nhận lượt cho Hứa Tĩnh Xuyên chỉ mẫu ngắn, gọi lại khi có phần cần đối; kê ghế khỏi lối khay | Chưa tên/ca, không gộp viện chủ hoặc mọi người phụ trước đó; mẫu quế là của viện, không mẫu kho về cho người học. |
+| Y sư xem sức / người trực gian Trần Dực | Cho bài nghe ngắn khi tay nghỉ, xem sức/cho lượt hỏi tại giường và nhắc hết lượt; giúp chén/chăn/tay áo | Không tự gộp mọi ca, không kết quả hồi phục mới hoặc quyền phát thuốc độc lập của Lâm Uyên. |
+| Người phụ trách Tông Sảnh | Qua lời Tạ Nghiên Chi đã nhận hồ sơ kho và cho đối riêng câu đường trong núi | Chưa tên/cảnh trực tiếp hoặc phán quyết tranh hàng; không gộp mọi người phụ trách thành một người. |
+| Chấp sự buổi đối Hắc Phong Sơn | Giữ quyền/phạm vi người dự, nhận phần mốc ngoài kèm bản sao lời liên quan và không ghi Trần Dực sẽ dẫn chuyến mới; giao phần được gửi cho người chuyển | Chưa đủ nhận diện gộp chấp sự tuyến kho/chìa/tang hoặc trao quyền tự vào núi. |
+| Người nhận chuyển lên đầu mối khảo sát | Trực tiếp tới viện trước lúc đoàn rời, đối đủ tờ mốc/bản sao lời liên quan, nhận lượt cùng lời xin phản hồi chỗ không tìm được, mang phần giấy đi | Đã nhận chuyển, chưa có cảnh tới người phụ trách/khảo sát hoặc kết quả lối mới. Không là thợ đã thử nền hay người trực tiếp biết nơi Tô Lạc sau sập. |
+| Bên nhận / người bên giao hàng | Qua Tạ Nghiên Chi: đã đáp thu xếp đối hai bao sáng mười chín; Phùng Quý Lương được báo | Chưa trực tiếp xuất hiện/tên mới trong70, chưa mở bao hoặc bảo đảm chuyên môn/giờ Hứa Tĩnh Xuyên đã xong. |
+| Người mang/lưu sơ đồ Tô Tín | Giúp đưa bản lưu vào tầm nhìn, mang về chỗ cũ sau lượt; tên Tô Lạc và giới hạn thử cũ giữ nguyên | Chưa tên; không Tô Tín tự đứng lấy/vẽ kéo dài, không chuyển sơ đồ thành bản mới đã khảo sát. |
+
+Không có CHAR mới hoặc vai cũ được tự đổi tên trong Chương 70. Trần Dực/Tô Tín dùng hồ sơ chính, giữ quyền chọn và thương tích; người che mặt chỉ có lời quan sát hữu hạn, không nhập với danh xưng Tả tiên sinh. Tờ mốc ngoài theo lời là nguồn riêng, không bản đồ giếng cũ hoặc quyền đi an toàn. Ba bao/hai mẫu vẫn kho; sơ đồ được chuyển không giải nguyên nhân hàng/niêm hoặc bí ẩn cấp thế giới.
+
+Nguồn: [[Chương 70]], [[Trạng Thái Truyện Sau Chương 70]], [[Trần Dực]], [[Tô Tín]], [[Tạ Nghiên Chi]], [[Hứa Tĩnh Xuyên]].

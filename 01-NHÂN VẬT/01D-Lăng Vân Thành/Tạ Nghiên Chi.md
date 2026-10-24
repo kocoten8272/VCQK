@@ -163,3 +163,16 @@ Nguồn: [[Chương 66]], [[Trạng Thái Truyện Sau Chương 66]], [[Phùng Q
 - Cuối chương rời viện cùng chấp sự/phần ghi để trở lại Tông Sảnh; chưa có cảnh đã tới hoặc giao xong phần mới. Hồ sơ chìa/trang mất tiếp riêng, không có lời mới hay kết luận toàn chuyến.
 
 Nguồn: [[Chương 69]], [[Trạng Thái Truyện Sau Chương 69]], [[Lương Cảnh Thuận]], [[Phùng Quý Lương]], [[Hứa Tĩnh Xuyên]].
+
+## Trạng thái mới theo bản thảo Chương 70
+
+- Sau phần rời viện ở Chương 69, nay đã nộp ghi buổi kho tại Tông Sảnh; chiều mười tám trở lại với quyền đối riêng câu đường trong núi Lâm Uyên để lại. Phần lời Hắc Phong Sơn trong ống riêng, không ghép kết quả một bao hàng thô vào hồ sơ này hoặc đem mẫu kho tới viện.
+- Báo bên nhận/người bên giao đã đáp việc đối hai bao còn lại sáng mười chín, Phùng Quý Lương được báo dự. Hứa Tĩnh Xuyên còn cần viện bố trí bàn/giờ, chấp sự nhận báo giờ trước chuyến; chưa có mở bao thực tế hoặc quyền cho người bệnh cùng đi.
+- Nêu người dự/phần việc và chờ y sư lẫn Trần Dực nhận lượt mới. Tô Tín chỉ được nhận phần đối sơ đồ liên quan hôm nay, không hồi tố đã dự phần riêng Chương 65; người nghe không nối hộ phần người bệnh chưa thấy.
+- Ghi/đối lời mới về người che mặt dừng cạnh vách phòng đèn xám và hỏi tiếng sau vách. Trần Dực chưa thấy người sau vách/người ấy mở lối; nàng giữ riêng danh xưng Tả tiên sinh và phần lời người đâm, không đồng nhất các vai chưa đối.
+- Vẽ tờ riêng theo lời/chỗ Trần Dực dùng phải chỉ: vệt đá trắng xéo, cây ngả ngoài khe là mốc tới chỗ hắn dừng phần nhận công, không là đường trong phế tích. Đọc lại để sửa cây ở ngoài khe, không sau cửa; chưa có cự ly đo, tìm lại mốc sau mưa hoặc biết hai lối nối ở đâu.
+- Giữ sơ đồ giếng của Tô Tín nguyên nguồn, tên Tô Lạc và các giới hạn thử nền. Ghi Trần Dực nhận đối đoạn ngoài trong lượt này, từ chối chuyến dẫn mới; chấp sự nhận phần kiểm không ghi hắn sẽ đi cùng.
+- Cuối lượt cất bản lời Hắc Phong Sơn trong ống riêng. Tờ mốc ngoài cùng bản sao phần lời liên quan được chấp sự giao người nhận chuyển lên đầu mối khảo sát trước lúc đoàn rời viện; chưa có cảnh đã tới người phụ trách, khảo sát hoặc cho qua cọc.
+- Cuối chương chào rồi rời viện cùng chấp sự, giữ ống riêng, chưa có cảnh tới/nộp lại Tông Sảnh sau buổi hỏi này. Chìa/trang mất, nguồn niêm/mẫu vón, thi thể Tô Lạc và miếng đồng chưa có kết quả mới.
+
+Nguồn: [[Chương 70]], [[Trạng Thái Truyện Sau Chương 70]], [[Trần Dực]], [[Tô Tín]], [[Chương 40]], [[Chương 41]], [[Chương 43]].

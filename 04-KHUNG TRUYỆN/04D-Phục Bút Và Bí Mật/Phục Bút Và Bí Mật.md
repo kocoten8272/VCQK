@@ -322,3 +322,22 @@ Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Chương
 Mốc mới là bảo quản hàng tới cuối19 và cuộc đối cần bố trí tiếp, không mở thêm bí ẩn cấp thế giới. Có tiến triển kiểm chứng hữu hạn mà chưa vội giải toàn chuỗi, không lặp yêu sách đổi lời như chưa bị thu hồi66.
 
 Nguồn: [[Chương 69]], [[Trạng Thái Truyện Sau Chương 69]], [[Chương 66]], [[Chương 68]].
+
+## Tiến triển theo bản thảo Chương 70
+
+| Hẹn/đầu mối | Trả trong70 | Còn giữ |
+| --- | --- | --- |
+| Lời nhờ học cuối69 | Hứa Tĩnh Xuyên có lượt chỉ mẫu quế của viện, main nhận giới hạn phần thấy/chỗ lấy | Chưa học xong nghề hoặc tự chọn/phát thuốc; mẫu kho vẫn kho |
+| Câu hỏi giữ từ65 | Trần được hỏi trong lượt mới, kể người che mặt dừng/nghe tiếng bên vách chứ không hỏi đường hắn | Chưa tên thật/biết đường/nhận Tả tiên sinh là người che mặt hoặc bản chất tiếng gọi |
+| Khe vào phía bắc | Trần nhận đoạn ngoài/mốc đá trắng/cây ngả và nơi phần dẫn nhận công dừng; Tạ vẽ riêng | Chưa tọa độ/cự ly thật, tình trạng sau mưa, chỗ thông tới cửa thoát hoặc giếng |
+| Quyền lựa chọn người dẫn | Trần nhận đối lời đoạn ngoài, từ chối chuyến dẫn mới; main/chấp sự giữ phần từ chối trong ghi | Không tự buộc người bệnh đi khảo sát, nhớ mọi phần hoặc chữa lành tay |
+| Yêu cầu khảo sát | Bản sao lời liên quan + sơ đồ ngoại vi có người nhận chuyển, lời nhờ cả phần không tìm được đi kèm | Chưa thực địa tìm thấy khe/lệnh vượt cọc hoặc đường an toàn; phải có phản hồi về sau |
+| Sơ đồ Tô Tín/Tô Lạc | Giữ bản gốc giếng/điểm thử cũ/tên người, Tín tiếp yêu cầu cả phần chưa làm được | Thi thể/miếng đồng chưa thu, vị trí sau sập chưa rõ; không dời sang khe mới |
+| Kiểm hai bao | Các bên đáp thu xếp sáng19, Phùng Quý Lương được báo | Còn bố trí bàn Hứa/giờ; hai bao chưa mở, ba bao/hai mẫu còn kho, hạn công chỗ hết19 |
+| Dòng tin lại người kể | Main nhờ khi hồi đáp báo cả Tô Tín và Trần Dực | Chưa hồi đáp đã tới hoặc mọi người đều biết kết quả khảo sát |
+| Mất mát/đồ riêng | Main nhớ cách Mạnh Thanh Tễ từng nghe người tới, vẫn về nghỉ | Đã an táng17, không di nguyện/di sản/thân nhân mới hay hết buồn |
+| Nhà trú/chỗ mẹ con/các mạng | Không kết quả mới ngoài nguồn trước | Kim/khung/trách nhiệm còn mở; chỗ chỉ18, không19; chìa/trang và quan hệ HFS/thuốc chưa nhập chung |
+
+Buổi hỏi trả câu đã giữ và tạo một phần đường ngoài cần kiểm có người nhận chuyển, không thêm bí ẩn cấp thế giới hoặc mở lại điều kiện đổi thuốc lấy lời. Cửa cũ/khe theo Trần là hai nguồn cần giữ riêng cho tới khi có đối thực địa.
+
+Nguồn: [[Chương 70]], [[Trạng Thái Truyện Sau Chương 70]], [[Chương 40]], [[Chương 43]], [[Chương 65]], [[Chương 69]].

@@ -224,3 +224,13 @@ Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Vệ Thu
 - Dược Khế bốn tháng, kiếm bảo chứng, quản thúc/hộ tống và giới hạn thương tích giữ nguyên. Các hồ sơ chìa/trang mất, niêm/mẫu vón, nhà trú và Tả tiên sinh/Hắc Nha chưa có lời giải mới.
 
 Nguồn: [[Chương 69]], [[Trạng Thái Truyện Sau Chương 69]], [[Lương Cảnh Thuận]].
+
+## Trạng thái mới theo bản thảo Chương 70
+
+- Chiều ngày mười tám ở viện, đi cạnh Lâm Uyên tới bài nhìn mẫu quế ngắn; nhờ người trực kê ghế khỏi lối khay. Hai người chưa rời viện hoặc có bài tự chọn/cân/phối thuốc; tay phải nàng còn thương theo trạng thái cũ.
+- Chờ lượt hỏi Trần Dực mới được y sư và người bệnh nhận, không dùng lần dự Chương 65 làm sự đồng ý cho hôm nay. Có mặt phần đối đường/người che mặt, không đưa lời hàng thô hoặc yêu cầu Phùng Quý Lương vào miệng người bệnh.
+- Hỏi qua người ghi liệu Trần Dực nhận được nơi hai lối gặp nhau phía trong không; hắn không nhận. Đề nghị chỉ tìm mốc khe từ ngoài, tới đâu chưa được phép ghi tới đó, không xem một sơ đồ theo lời là đường an toàn tới Tô Lạc.
+- Nghe phần riêng về Trần Dực từ chối dẫn chuyến mới và Tô Tín giữ nguyên sơ đồ giếng/lời chờ kết quả cửa cũ. Không hợp nhất người che mặt với Tả tiên sinh hoặc chuyển vị trí thi thể sang khe mới kể.
+- Cuối lượt cùng Lâm Uyên về chỗ nghỉ, đặt chén ở phía người trực giúp được. Kiếm bảo chứng, quản thúc/hộ tống và Dược Khế bốn tháng giữ nguyên; hẹn kiểm hai bao sáng mười chín chưa là giấy cho hai người theo đoàn.
+
+Nguồn: [[Chương 70]], [[Trạng Thái Truyện Sau Chương 70]], [[Trần Dực]], [[Tô Tín]], [[Tạ Nghiên Chi]].

@@ -302,3 +302,22 @@ Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Thủ Da
 Tuổi/quê Mạnh Thanh Tễ, sinh tử thật Lâm Chinh và các mối nối cấp thế giới không có nguồn mới. Một kho thuê, giấy lấy mẫu/công chỗ và hàng thô chưa có tên riêng không tự tạo node lore mới. Nguồn biên tập/nghiên cứu ngoài truyện không trở thành tri thức của nhân vật.
 
 Nguồn: [[Chương 69]], [[Trạng Thái Truyện Sau Chương 69]], [[Chương 66]], [[Chương 68]].
+
+## Đối chiếu có phạm vi sau Chương 70 — 2026-10-24
+
+| Mệnh đề | Nguồn/lớp | Giới hạn |
+| --- | --- | --- |
+| Bài ngắn tại viện | DRAFT TEXT70: Hứa Tĩnh Xuyên có người thay, lấy mẫu quế có thẻ và hỏi phạm vi phần đã nhìn/chỗ lấy, cất lại | Không mẫu kho về viện hoặc main tự chọn/phát/cân/phối thuốc |
+| Nộp hồ sơ và quyền hỏi | DRAFT TEXT70: phần ghi69 đã nộp Tông Sảnh, Tạ trở lại với phần nhận đối riêng HFS; y sư/Trần nhận lượt/người dự hôm nay | Không hồ sơ kho ghép vào lời riêng hoặc người dự tự có quyền từ65 |
+| Người che mặt | CHARACTER REPORT70: Trần thấy dừng cạnh vách phòng đèn xám, nghe hỏi có người bên kia không; bản thân không nghe, từng tưởng có người đi trước | Chưa chứng người bên kia tồn tại, người che mặt biết đường hoặc chính là Tả tiên sinh; không ký ức siêu nhiên mới |
+| Lối vào/lối ra | CHARACTER REPORT70 cùng nguồn40/43: khe vào phía bắc theo Trần khác cửa đá đối trọng nhóm đưa hắn thoát | Hai nguồn lời/quan sát cần đối vị trí ngoài, chưa tìm được chỗ nối phía trong hoặc đường an toàn |
+| Mốc ngoài/phần công | CHARACTER REPORT70: vệt đá trắng/cây ngả ngoài khe, tới đó phần dẫn đã nhận kết thúc rồi bị ép đi tiếp | Tạ vẽ theo lời, không tọa độ/cự ly đo hoặc mốc sau mưa đã được xác minh |
+| Lựa chọn Trần Dực | DRAFT TEXT70: nhận đối đoạn ngoài trong lượt, từ chối chuyến dẫn mới; main nhận không thuê trở vào, chấp sự nhận giới hạn | Không ghi người bệnh sẽ tham gia khảo sát hoặc mắc nợ dẫn đường do được cứu |
+| Sơ đồ Tô Tín | DRAFT TEXT70: bản lưu giếng/tên Tô Lạc/giới hạn thử cũ được mang giúp, giữ nguyên rồi về chỗ lưu viện | Chưa xác định vị trí thi thể sau sập, dời tên sang khe hoặc bỏ việc thử cũ |
+| Bàn giao ngoại vi | DRAFT TEXT70: bản sao phần lời liên quan cùng sơ đồ mới được chấp sự giao người nhận chuyển, ghi kèm nhờ cả phản hồi không tìm được | Chỉ lượt chuyển đã nhận, chưa thực địa/đường thông/lệnh vào; ống HFS gốc riêng Tạ không theo người chuyển |
+| Hẹn kho19 | CHARACTER REPORT70 của phần thu xếp: bên nhận/người bên giao đáp sáng19, Phùng Quý Lương được báo; Hứa còn phải bố trí bàn/giờ | Hai bao chưa mở; ba bao/hai mẫu vẫn Lương Cảnh Thuận giữ, công chỗ hết19; chưa phép main đi |
+| Cuối cảnh | DRAFT TEXT70: Tạ rời viện cùng chấp sự; main/Tô Thanh Ly về nghỉ, Trần nghỉ và Tín giữ bản lưu | Chưa Tạ tới Tông Sảnh lần sau, người khảo sát trả tin hoặc mốc thương tích hồi phục |
+
+Không thêm node địa lý chỉ từ hai mốc thường theo lời kể, không ghi một tờ theo lời thành bản đồ đo đạc. Tổng nhân vật/lore giữ nguồn hiện hành; sự thật Lâm Chinh, nguồn gốc Quy Khư, quan hệ các mạng, tuổi/quê/thân nhân Mạnh Thanh Tễ không có nguồn mới từ buổi hỏi này.
+
+Nguồn: [[Chương 70]], [[Trạng Thái Truyện Sau Chương 70]], [[Chương 40]], [[Chương 41]], [[Chương 43]], [[Chương 65]], [[Chương 69]].

@@ -5,7 +5,7 @@ importance-tier: C
 vai-tro: nhan-vat-phu
 status: da-xuat-hien
 created: 2026-10-19
-updated: 2026-10-22
+updated: 2026-10-24
 tags:
   - nhan-vat
   - te-sinh-vien
@@ -27,7 +27,7 @@ tags:
 | Giới tính / tuổi trên trang | Nam, ngoài bốn mươi theo Chương 64 |
 | Tuổi thiết kế | 44, tự thiết kế ngày 2026-10-19 theo [[11_AUTONOMOUS_STORY_DESIGN]]; chưa nêu tuổi chính xác trong chương |
 | Lần đầu nhận diện | Vai giám dược hẹn học tối Chương 63; tên và nhận diện rõ ở Chương 64 |
-| Nơi / tình trạng mới nhất | Còn sống, đã trở về Tế Sinh Viện sau bữa trưa ngày mười tám sau lượt kiểm hàng tại kho; cuối cảnh quay về bàn thuốc |
+| Nơi / tình trạng mới nhất | Còn sống, tại gian thuốc Tế Sinh Viện cuối chiều ngày mười tám; đã có bài quan sát ngắn rồi trở lại lượt làm |
 | Gia đình / nơi ở riêng / tiền công | UNKNOWN; không tự tạo vợ con, thân tộc, nguồn lương hoặc quá khứ nghèo khổ |
 | Tu vi / công pháp / pháp khí | UNKNOWN; nghề giám dược không chứng minh tu hành |
 
@@ -119,3 +119,13 @@ Nguồn: [[Chương 67]], [[Trạng Thái Truyện Sau Chương 67]].
 - Lời nhờ cuối chương của Lâm Uyên là muốn nghe khi ông rảnh cách bắt đầu xem món chưa rõ; chưa có bài học tiếp được thực hiện/lịch chắc. Nghề kiểm hàng cụ thể không tự xác nhận quyền trị mọi bệnh, tu vi, gia đình hoặc quan hệ thầy trò thay thế Mạnh Thanh Tễ.
 
 Nguồn: [[Chương 69]], [[Trạng Thái Truyện Sau Chương 69]], [[Lương Cảnh Thuận]], [[Phùng Quý Lương]].
+
+## Bài quan sát có phạm vi theo bản thảo Chương 70
+
+- Chiều ngày mười tám tại bàn trống gần gian thuốc, đã giao lượt cho người thay một lúc; y sư cho Lâm Uyên nghe ngắn khi hai tay nghỉ. Dùng hộp mẫu của viện và mảnh quế có thẻ, không mang hai gói mẫu ở kho về làm đồ học.
+- Hỏi từ một mảnh trên khay có thể nhận gì về phần còn trong hộp. Lâm Uyên tự giữ câu trả lời ở phần đã thấy; ông nhắc phải xem tiếp và nói nguồn/chỗ lấy nếu muốn nhận phần còn lại. Dùng dụng cụ lật mặt vỏ cho nhìn, không giao người học cầm hoặc chọn phần phát thuốc.
+- Bài dừng khi người thay bàn gọi lượt cần đối; cất đúng ngăn và trở về việc. Đây là buổi chỉ quan sát/nguồn/phạm vi thực sự đã diễn ra, không tự trao quyền dược kiểm độc lập, chẩn trị hoặc thành sư phụ thay Mạnh Thanh Tễ.
+- Buổi đối hai bao còn lại đã được bên nhận/người bên giao đáp thu xếp sáng mười chín, nhưng phần bàn và giờ đi của ông còn phải được viện bố trí/xác nhận. Chưa có chuyến đi hoặc kết quả mở tiếp trong Chương 70.
+- Cuối chương vẫn làm việc gian thuốc. Không dự buổi hỏi Trần Dực hoặc khảo sát núi, không biết toàn bộ lời riêng chỉ vì cùng ở viện; mẫu kho/ba bao vẫn do Lương Cảnh Thuận giữ.
+
+Nguồn: [[Chương 70]], [[Trạng Thái Truyện Sau Chương 70]], [[Lâm Uyên]], [[Tạ Nghiên Chi]].

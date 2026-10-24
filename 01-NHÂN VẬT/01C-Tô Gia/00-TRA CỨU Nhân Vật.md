@@ -20,7 +20,7 @@ Nhân vật có quan hệ chính với gia tộc Tô: người đã xuất hiệ
 - [Tô Nguyên Chấn](T%C3%B4%20Nguy%C3%AAn%20Ch%E1%BA%A5n.md) — `da-xuat-hien` — Đại trưởng lão Tô Gia; được gọi tên trong các cuộc xử lý hậu quả Hắc Phong Sơn.
 - [Tô Thanh Dương](T%C3%B4%20Thanh%20D%C6%B0%C6%A1ng.md) — `da-xuat-hien` — Thiếu niên dòng chính Tô Gia, xuất hiện lần đầu ở **Chương 6**.
 - [Tô Trạch](T%C3%B4%20Tr%E1%BA%A1ch.md) — `dang-phat-trien` — Trưởng lão Chấp pháp Tô Gia, chỉ huy trong chuyến Hắc Phong Sơn. Hồ sơ đồng bộ theo Chương 40, 43 và 50; các ghi chú từ bố cục chương cũ không được dùng làm sự kiện hiện tại.
-- [Tô Tín](T%C3%B4%20T%C3%ADn.md) — `da-xuat-hien` — Đệ tử Chấp pháp của Tô Gia, được cứu khỏi sàn giếng ở Chương 43.
+- [Tô Tín](T%C3%B4%20T%C3%ADn.md) — `da-xuat-hien` — Đệ tử Chấp pháp được cứu Chương 43; Chương 70 ở viện dự phần đối sơ đồ, giữ nguồn giếng/tên Tô Lạc và chờ phản hồi cả cửa cũ lẫn mốc khe ngoài. Chân phải/tay còn thương, không tự khảo sát.
 - [Vương Phúc](V%C6%B0%C6%A1ng%20Ph%C3%BAc.md) — `da-xuat-hien` — Quản sự ngoại viện Tô Gia trong các chương đầu; tình trạng hiện tại chưa được truyện cập nhật.
 
 ### Chưa xuất hiện
@@ -29,6 +29,12 @@ Nhân vật có quan hệ chính với gia tộc Tô: người đã xuất hiệ
 - [Tô Mặc](T%C3%B4%20M%E1%BA%B7c.md) — `chua-xuat-hien` — Nhân vật dự kiến thuộc Chấp Pháp Đường; tên này chưa được gọi trong Chương 1–52.
 - [Tô Nguyệt Dao](T%C3%B4%20Nguy%E1%BB%87t%20Dao.md) — `chua-xuat-hien` — Nhân vật dự kiến thuộc dòng nhánh Tô Gia. Những cảnh gán cho nàng ở Chương 43 trước đây không có trong bản thảo hiện hành.
 - [Tần Hạo](T%E1%BA%A7n%20H%E1%BA%A1o.md) — `chua-xuat-hien` — Nhân vật dự kiến thuộc ngoại viện Tô Gia; chưa xuất hiện trong bản thảo Chương 1–52.
+
+## Mốc Tô Tín theo Chương 70
+
+Chiều ngày mười tám, Tô Tín chỉ dự phần sơ đồ sau khi Trần Dực chấp nhận; không được ghi như đã dự toàn lời riêng Chương 65. Nhờ người mang/mở bản lưu, giữ tên Tô Lạc và giới hạn điểm thử ngoài cọc. Tờ mốc khe theo Trần Dực được vẽ riêng, không chuyển vị trí thi thể sang đó hoặc thành lối vào an toàn. Hắn xin gửi cả lời còn chờ kết quả cửa cũ và phản hồi chỗ không tìm được; phần giấy mới được giao người chuyển lên đầu mối, chưa có khảo sát hoặc thu hồi. Cuối chương ở viện, chân phải kê đỡ/nạng còn cần, tay chưa có mốc hồi phục.
+
+Nguồn: [[Chương 70]], [[Trạng Thái Truyện Sau Chương 70]], [[Tô Tín]], [[Trần Dực]].
 
 ## Quy ước của thư mục
 

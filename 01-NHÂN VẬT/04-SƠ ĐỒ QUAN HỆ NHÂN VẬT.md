@@ -297,3 +297,20 @@ Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Chương
 Mạnh Thanh Tễ đã an táng chiều17; vật riêng/thân nhân chưa có chuyển giao hay hồi đáp mới. Phùng Quý Lương không được nối với Lương Cảnh Thuận thành đồng minh lâu năm, họ hàng hoặc cùng âm mưu chỉ qua cuộc đối nghề.
 
 Nguồn: [[Chương 69]], [[Trạng Thái Truyện Sau Chương 69]], [[Chương 66]], [[Chương 68]].
+
+## Quan hệ theo bản thảo Chương 70
+
+| Người | Liên hệ/chuyển biến | Giới hạn |
+| --- | --- | --- |
+| Hứa Tĩnh Xuyên → Lâm Uyên | Nhận lời nhờ bằng buổi quan sát ngắn từ mẫu quế có thẻ của viện, hỏi phạm vi điều đã nhìn | Không giao mẫu kho, quyền phát thuốc hoặc nhận đồ đệ thay Mạnh Thanh Tễ; việc bàn nhận còn phải tiếp |
+| Y sư/Trần Dực → người dự | Y sư cho lượt ngắn mới; Trần nhận tên/phần người dự, gồm phần Tô Tín cần nghe về sơ đồ | Sự có mặt hôm nay có nguồn riêng, không hồi tố Tín đã dự trọn65 hoặc trao quyền hỏi vô hạn |
+| Lâm Uyên → Trần Dực | Đổi câu cần biết thành hành động từng thấy, nghe giới hạn rồi nhận không thuê hắn dẫn thêm vào phế tích | Được cứu/cho thuốc không thành món nợ phải hứa đường về; lời kể không tự nhận an toàn đường trong |
+| Trần Dực → Tạ Nghiên Chi/chấp sự | Nhận đối đoạn ngoài, chỉ bằng phải cho Tạ vẽ, sửa mốc cây ở ngoài khe và từ chối chuyến dẫn mới | Tờ theo lời khác đo đạc thực địa; bản gốc lời HFS vẫn giữ riêng, phần gửi khảo sát chỉ sao liên quan |
+| Tô Tín ↔ Trần Dực/nhóm dự | Hỏi khả năng dùng khe để tìm Tô Lạc, nhận câu chưa biết; yêu cầu giữ việc cửa cũ và kết quả cả phần không làm được | Không đổi vị trí thi thể, chuyển tên Tô Lạc sang khe hoặc nhận Trần làm người dẫn riêng |
+| Lâm Uyên/Tô Thanh Ly → đầu mối khảo sát | Xin đối mốc ngoại vi trước, giữ cửa đội thoát và khe theo lời Trần thành hai nguồn riêng | Không cấp phép vượt cọc/vào khe ngay tối18 hoặc nhận hai lối thông nhau ở trong |
+| Chấp sự → người nhận chuyển | Thực giao bản sao phần lời liên quan cùng sơ đồ mới và lời nhờ phản hồi | Chỉ lượt chuyển đã nhận, chưa giao tận nơi phụ trách/khảo sát có kết quả; sơ đồ giếng gốc của Tín ở viện |
+| Tạ Nghiên Chi/chấp sự → các bên kho | Báo bên nhận/bên giao đã đáp thu xếp sáng19, Phùng Quý Lương được báo dự | Giờ cụ thể và phần bàn Hứa còn phải thu xếp, không triệu main đi hoặc coi hai bao đã kiểm |
+
+Lâm Uyên cuối chương nhờ khi có hồi đáp báo cả Tô Tín và Trần Dực, giữ người cung cấp phần đường trong dòng tin trở lại; chưa có phản hồi ấy thực tới. Nỗi đau sau tang không bị thay bằng việc hỏi xong một câu; không có quan hệ thầy trò, đồng minh hoặc thân hữu lâu năm mới được suy từ buổi này.
+
+Nguồn: [[Chương 70]], [[Trạng Thái Truyện Sau Chương 70]], [[Chương 65]], [[Chương 69]].

@@ -120,3 +120,14 @@ Nguồn: [[Chương 64]], [[Trạng Thái Truyện Sau Chương 64]].
 - Chân/tay chưa có mốc hồi phục mới, không tới nhà trú/núi. Không có tin thử nền, lệnh vào hầm hoặc thu hồi Tô Lạc/miếng đồng mới; vị trí thi thể sau sập vẫn chưa xác minh.
 
 Nguồn: [[Chương 65]], [[Trạng Thái Truyện Sau Chương 65]].
+
+## Trạng thái mới theo bản thảo Chương 70
+
+- Chiều ngày mười tám đang ngồi gian bên tại viện, chân phải kê đỡ và nạng sát chỗ người trực chỉ. Được Trần Dực nhận cho nghe phần đối sơ đồ liên quan; Tạ Nghiên Chi nói rõ hôm trước hắn không dự phần hỏi riêng. Không hồi tố biết toàn lời Chương 65 hoặc toàn cuộc đối kho.
+- Nhờ người mang/mở bản lưu sơ đồ cũ, không tự đứng lấy, vẽ thêm hay mang đồ. Tên Tô Lạc, điểm thử ngoài cọc/đoạn chưa chịu chống và chỗ ngắt giữ nguyên; không có mốc hồi phục chân/tay hoặc phép lên núi.
+- Hỏi liệu khe Trần Dực đã đi có giúp tìm tới Tô Lạc, nghe người bệnh chưa biết còn thông hoặc nơi hai lối gặp nhau. Không dời vị trí thi thể sang khe mới kể, không coi lời về sàn bảo trì là lối cứu an toàn.
+- Giữ việc thử bên cửa cũ song song phần mốc khe được gửi; nhờ gửi cả lời còn chờ kết quả chỗ đã thử. Khi người nhận chuyển có mặt, nhắc phản hồi cả chỗ không tìm được, không chỉ báo lúc có đường.
+- Tờ mốc Trần Dực là nguồn riêng, đã giao người nhận chuyển lên đầu mối khảo sát chứ chưa có khảo sát/kết quả. Sơ đồ trí nhớ giếng được mang về chỗ lưu cũ; cuối chương nhờ đưa gần tầm nhìn, không yêu cầu vẽ thêm.
+- Tô Lạc/miếng đồng chưa được thu hồi, vị trí thi thể sau sập vẫn chưa xác minh. Hắn không xin mang nạng ra núi, xóa giới hạn thử nền cũ hoặc ép Trần Dực nhận dẫn chuyến mới.
+
+Nguồn: [[Chương 70]], [[Trạng Thái Truyện Sau Chương 70]], [[Trần Dực]], [[Tạ Nghiên Chi]], [[Chương 43]], [[Chương 56]].

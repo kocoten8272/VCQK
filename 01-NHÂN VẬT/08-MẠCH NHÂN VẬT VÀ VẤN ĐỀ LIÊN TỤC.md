@@ -262,3 +262,20 @@ Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Chương
 Cuối69 là sau bữa trưa18, chưa tới ngày19 hoặc buổi mở hai bao tiếp. Không mở70 như đoàn vẫn sắp đi kho lần đầu, thuốc mới được cứu về viện, tang chưa an táng hoặc mốc giữ19 đã trả xong.
 
 Nguồn: [[Chương 69]], [[Trạng Thái Truyện Sau Chương 69]], [[Chương 66]], [[Chương 67]], [[Chương 68]].
+
+## Tiến triển theo bản thảo Chương 70
+
+- **Thời gian vẫn chiều18:** Main/Tô Thanh Ly chỉ di chuyển trong viện, có người giúp/chỗ ngồi và lượt y sư cho; không tự dùng lại lượt đi tang17 hoặc khỏi tay để lên núi.
+- **Lời nhờ học đã có một phần được làm:** Hứa Tĩnh Xuyên lấy mẫu quế có thẻ của viện, cho main nhìn/nghe giới hạn mẫu và chỗ lấy rồi cất lại khi phải tiếp việc. Không thêm vị thuốc, giao mẫu kho, quyền tự chọn/phát/phối hoặc buổi dạy toàn nghề.
+- **Câu hỏi giữ từ65 đã được hỏi:** Tạ có phần cho đối HFS sau nộp ghi69, y sư nhận lượt mới và Trần đồng ý người dự. Người che mặt hỏi tiếng sau vách theo lời Trần, không có kết luận hắn biết đường hay đồng nhất Tả tiên sinh.
+- **Nguồn chỉ đường được tách:** Trần nhận lối vào khe phía bắc khác cửa đá đối trọng nhóm thoát. Tạ vẽ mốc ngoài theo lời, gồm vệt đá trắng/cây ngả ở điểm dừng công; không nối tới giếng, thêm cự ly đoán hoặc nhận mốc sau mưa vẫn còn.
+- **Trần có lựa chọn được giữ bằng việc ghi:** Nhận đối đoạn ngoài trong lượt này nhưng từ chối chuyến dẫn mới vào phế tích; Lâm Uyên nhận không thuê trở vào. Tay trái yên, phải chỉ và giữ chén trong giới hạn; không hồi phục/nhớ lại thần kỳ hoặc nhận nghĩa vụ đi núi.
+- **Tô Tín có phần chủ động hôm nay:** Được nghe phần liên quan sau nhận dự, nhờ mang sơ đồ cũ, hỏi khả năng tìm Tô Lạc rồi giữ tên/vị trí trước sập và việc thử cửa cũ. Không tự đứng vẽ, dời tên sang khe, nhận đã rõ thi thể hoặc bỏ phần khảo sát cũ.
+- **Có bàn giao thực:** Chấp sự giao bản sao lời liên quan cùng sơ đồ mới cho người nhận chuyển tới đầu mối khảo sát đường ngoài. Ống lời HFS gốc riêng Tạ, sơ đồ giếng gốc về chỗ lưu viện. Lời nhờ phản hồi cả phần không tìm được được ghi kèm; chưa có kết quả thực địa/lệnh vượt cọc hoặc vào khe tối nay.
+- **Mốc kho đã thu xếp thêm:** Bên nhận/người bên giao đáp buổi sáng19, Phùng Quý Lương được báo; phần bàn Hứa và giờ còn phải bố trí. Hai bao chưa mở, ba bao/hai mẫu vẫn kho tới hạn công chỗ hết19. Việc hẹn không là kiểm đã xong hay phép main đi theo.
+- **Dòng tin còn người cần nhận:** Cuối chương main xin khi có hồi đáp báo cả Tô Tín/Trần Dực; chưa hồi đáp thực tới. Mất mát Mạnh Thanh Tễ vẫn trong chỗ nghỉ/thói quen, không có di vật/di ngôn hoặc hết buồn vì hỏi được một câu.
+- **Những việc giữ nguồn cũ:** Nhà trú/trách nhiệm Bùi Gia/kim Hồ Nhuận Chi/khung Đào Thành Nghiệp chưa kết quả mới; mẹ con Khương Tố Nương mới có chỗ18, chưa19. Hai hòm thuốc bến khác ba bao, Tô Lạc/miếng đồng chưa thu, chìa/trang mất/quan hệ các mạng và sinh tử thật Lâm Chinh chưa được giải.
+
+Cuối70 chưa sang19 hoặc có người thực địa tìm được mốc. Không mở71 như Trần chưa được hỏi câu còn lại, lời nhờ học chưa hề được đáp, tờ ngoại vi còn trên bàn bệnh nhân hoặc Trần đã nhận dẫn thêm chuyến.
+
+Nguồn: [[Chương 70]], [[Trạng Thái Truyện Sau Chương 70]], [[Chương 40]], [[Chương 43]], [[Chương 65]], [[Chương 69]].

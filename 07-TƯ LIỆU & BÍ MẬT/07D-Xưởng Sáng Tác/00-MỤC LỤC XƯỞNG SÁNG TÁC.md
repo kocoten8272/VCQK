@@ -1,7 +1,7 @@
 ---
 type: muc-luc-xuong-sang-tac
 status: hoan-thien
-updated: 2026-10-22
+updated: 2026-10-24
 tags:
   - thu-vien
   - tra-cuu
@@ -26,6 +26,7 @@ tags:
 | REF-009 | [[REF-009-Nguồn Về Vật Dụng Và Quan Hệ]] | Nguồn tham khảo | verified | Matt Bird; ba trích đoạn duyệt, một trang mở giới hạn 14.000 ký tự ngày 20/10/2026, vật được trao và hành động quan hệ |
 | REF-010 | [[REF-010-Nguồn Về Tang Chế Và Việc Người Sống]] | Nguồn tham khảo | verified | Onyi Nwabineli; ba trích đoạn duyệt, một bài đọc đầy đủ ngày 21/10/2026, tang chế qua trách nhiệm và việc người sống |
 | REF-011 | [[REF-011-Nguồn Về Mục Tiêu Và Phản Ứng Trong Cảnh]] | Nguồn tham khảo | verified | Dale H. Emery; ba trích đoạn duyệt, một bài đọc đầy đủ ngày 22/10/2026, mục tiêu đối nghịch và lựa chọn tạo việc tiếp |
+| REF-012 | [[REF-012-Nguồn Về Đối Thoại Và Mục Đích Riêng]] | Nguồn tham khảo | verified | Anne Mini's Blog/byline Admin147; ba trích đoạn duyệt, một bài đọc hết ngày 24/10/2026, người hỏi và người trả lời có mục đích riêng |
 | PAT-001 | [[PAT-001-Giới Hạn Làm Thay Đổi Lựa Chọn]] | Mẫu kỹ thuật | ready | Cảnh có giải pháp quá dễ, cái giá chưa ảnh hưởng hoặc chuẩn bị thêm hệ thống |
 | SEED-001 | [[SEED-001-Ngày Công Bị Bỏ Trống]] | Chất liệu VCQK | seed | Hệ quả công việc của việc trình lời; phẩm giá người làm nghề |
 | SEED-002 | [[SEED-002-Một Thanh Chống Hai Lời Hứa]] | Chất liệu VCQK | seed | Chuẩn bị vật tư Hắc Phong Sơn; năng lực hữu hạn và trách nhiệm với người sống |
@@ -45,6 +46,7 @@ tags:
 | LOG-014 | [[LOG-014-Áp Dụng Kỹ Thuật Trong Chương 67]] | Phản hồi/áp dụng | recorded | Trả xong dao mượn, công sửa quai đã nhận, giới hạn khung/dao cũ và buổi xem mẫu quế |
 | LOG-015 | [[LOG-015-Áp Dụng Kỹ Thuật Trong Chương 68]] | Phản hồi/áp dụng | recorded | An táng đã diễn ra, giữ đường tìm thân nhân và đồ riêng, việc sống còn tiếp theo giới hạn |
 | LOG-016 | [[LOG-016-Áp Dụng Kỹ Thuật Trong Chương 69]] | Phản hồi/áp dụng | recorded | Đối một bao hàng thật, ba đồng giữ kho tới cuối 19 và giới hạn kết luận chất lượng/người đổi hàng |
+| LOG-017 | [[LOG-017-Áp Dụng Kỹ Thuật Trong Chương 70]] | Phản hồi/áp dụng | recorded | Lượt hỏi đường núi có giới hạn, quyền từ chối dẫn tiếp và phần sao/tờ mốc đã giao người chuyển |
 
 Các seed chưa được dùng trong chương. Không lấy chúng làm căn cứ xác nhận tiền công, hợp đồng hoặc tiến độ chống vách.
 
@@ -136,3 +138,7 @@ Tra [[REF-010-Nguồn Về Tang Chế Và Việc Người Sống]]/[[LOG-015-Áp
 ## Áp dụng ở Chương 69
 
 Tra [[REF-011-Nguồn Về Mục Tiêu Và Phản Ứng Trong Cảnh]]/[[LOG-016-Áp Dụng Kỹ Thuật Trong Chương 69]] cho nguồn Emery, phạm vi đã đọc và việc đối hàng ngày 18. PAT-001 dùng với sức, quyền, nghề và chi phí giữ hàng; SEED-001/002 vẫn chưa dùng, giữ `canonical: false`. Lương Cảnh Thuận có hồ sơ chính trong mục nhân vật, trạng thái tiếp nối ở 04E sau 69. Đã mở một bao và ứng ba đồng giữ tới cuối ngày 19 khác với đã chứng minh tráo hàng hoặc kiểm cả ba bao; Xưởng không nhân bản hồ sơ/lore. Nguồn cũ giữ ngày truy cập; đây chưa phải phản hồi độc giả hoặc việc huấn luyện mô hình.
+
+## Áp dụng ở Chương 70
+
+Tra [[REF-012-Nguồn Về Đối Thoại Và Mục Đích Riêng]]/[[LOG-017-Áp Dụng Kỹ Thuật Trong Chương 70]] cho phạm vi nguồn và lượt hỏi chiều 18. PAT-001 dùng với thương tích, tri thức và quyền không nhận chuyến dẫn mới; SEED-001/002 vẫn chưa dùng, giữ `canonical: false`. Lời Trần Dực và phần đường ngoài được tách sơ đồ giếng cũ, bản sao/tờ mốc đã giao người nhận chuyển nhưng khảo sát chưa diễn ra. Mẫu quế thuộc viện chỉ dùng bài nhìn có giới hạn; hai mẫu kho vẫn nơi giữ, lịch mở hai bao sáng 19 chưa là kết quả. Hồ sơ/trạng thái ở nơi chính, Xưởng không nhân bản lore. Nguồn cũ giữ ngày truy cập, chưa có phản hồi độc giả hoặc huấn luyện mô hình.

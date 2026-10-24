@@ -283,3 +283,15 @@ Nguồn: [[Chương 68]], [[Trạng Thái Truyện Sau Chương 68]], [[Vệ Thu
 - Dược Khế bảy tháng, quản thúc/hộ tống và tình trạng thật UNKNOWN của Lâm Chinh giữ nguyên. Mẫu vón/niêm, chìa/trang mất, gói kim, Tô Lạc/miếng đồng và nhà trú không có kết quả mới.
 
 Nguồn: [[Chương 69]], [[Trạng Thái Truyện Sau Chương 69]], [[Lương Cảnh Thuận]], [[Hứa Tĩnh Xuyên]].
+
+## Trạng thái mới theo bản thảo Chương 70
+
+- Chiều ngày mười tám vẫn tại Tế Sinh Viện. Y sư cho ngồi nghe ngắn, hai tay được nghỉ; quan sát mẫu quế của viện khi Hứa Tĩnh Xuyên có người thay bàn. Nhận tên/mặt vỏ đã gặp, tự dừng câu nhận cả hộp vì mới thấy mảnh trên khay; bài chỉ về nguồn và phạm vi điều quan sát, chưa tự lấy/chọn/phát hoặc kiểm thuốc độc lập.
+- Nghe Tạ Nghiên Chi báo đã nộp phần ghi kho tại Tông Sảnh và có quyền đối riêng câu còn để lại về đường trong núi. Hỏi Trần Dực có nhận lượt trước; dự sau y sư xem sức và chính người bệnh chấp nhận người nghe, không lấy chuyến tang hoặc lượt cũ làm quyền đi mới.
+- Đổi cách hỏi từ người che mặt có biết đường sang điều Trần Dực thật thấy người ấy làm. Nhận lời về dừng cạnh vách phòng đèn xám/hỏi tiếng sau vách; chưa có người sau vách được thấy, lối được mở hoặc tên thật. Không gộp người che mặt với danh xưng Tả tiên sinh.
+- Chủ động đối cửa đá/dây đối trọng đội đã thoát với khe phía bắc Trần Dực nói từng đi vào. Xin giữ hai nguồn riêng, gửi mốc ngoài cho người phụ trách tìm lại trước; không nối thành lối xuống giếng hoặc tự xin vào núi. Tạ Nghiên Chi vẽ theo lời, hắn không viết/nâng sơ đồ.
+- Nghe Trần Dực từ chối nhận chuyến dẫn mới vào phế tích, nhận lời không thuê hắn trở vào; không biến ơn cứu/thuốc thành nghĩa vụ phải dẫn tiếp. Chấp sự nhận để yêu cầu kiểm không lấy người bệnh làm người đi cùng.
+- Chứng kiến phần giấy được giao người nhận chuyển lên đầu mối khảo sát; chưa có cảnh tới nơi, khảo sát hoặc kết quả lối mới. Trước nghỉ nhờ khi có phản hồi báo cả Tô Tín và Trần Dực, không chỉ riêng mình.
+- Cuối chiều về chỗ nghỉ với Tô Thanh Ly/người trực giúp tay áo. Nỗi nhớ Mạnh Thanh Tễ vẫn trong khoảng hiên quen; không di sản mới, khỏi thương, tăng tu vi hoặc đổi Dược Khế bảy tháng/quản thúc. Ba bao và hai mẫu vẫn kho, buổi sáng mười chín chưa cho hắn quyền theo đoàn; tình trạng thật Lâm Chinh vẫn UNKNOWN.
+
+Nguồn: [[Chương 70]], [[Trạng Thái Truyện Sau Chương 70]], [[Trần Dực]], [[Tô Tín]], [[Hứa Tĩnh Xuyên]], [[Tạ Nghiên Chi]].
