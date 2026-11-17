@@ -12,7 +12,7 @@ tags:
 
 Sáng ngày thứ mười tám, Lâm Uyên phải nhờ Tô Thanh Ly dời bản chỉ đường khỏi chỗ người trực định đặt khay.
 
-Nàng dùng tay trái kéo tờ giấy về phía khô, chặn nhẹ một góc rồi mới để người ấy kê bát xuống. Hắn nhìn theo tới khi thấy mép giấy không còn nằm dưới bóng khay. Trước hôm qua, hắn chưa từng nghĩ một nơi chôn người có thể được giữ bên mình bằng thứ mỏng như vậy.
+Tô Thanh Ly dùng tay trái kéo tờ giấy về phía khô, chặn nhẹ một góc rồi để người trực kê bát xuống. Lâm Uyên nhìn theo, chờ mép giấy nằm yên mới cúi ăn. Từ tối qua hắn đã xem đường trên đó mấy lần; sáng nay, khi khay đưa tới, hắn vẫn giật mình như người ta sắp đặt bát lên một thứ không thể chép lại.
 
 Tay phải còn đau sau lượt thay băng. Vai đã bớt mỏi qua đêm, nhưng khi y sư hỏi, hắn vẫn nhận có lúc trở mình phải tỉnh dậy. Người xem băng dặn hôm nay ở viện nghỉ, không vì đã chịu được chuyến hôm qua mà nhận thêm một chuyến dài.
 
@@ -24,13 +24,15 @@ Nàng không mang bản lời của Trần Dực. Phần giấy lấy ở Hòa S
 
 “Ba bao dược liệu thô được giữ riêng. Phải tới xem mới biết phần người ta báo.”
 
-Phần việc của nàng buổi này cần người biết xem dược liệu. Viện chủ đã nhận lời phối hợp, thu xếp người thay bàn để Hứa Tĩnh Xuyên đi cùng chấp sự. Nàng ghé viện để đón ông, cũng báo cho hai người biết phần yêu cầu lấy lời đã được dừng ở những lượt còn dở. Không có lời gọi Lâm Uyên rời viện tới nhận một lô hàng hắn chưa từng thấy.
+Phần việc của nàng buổi này cần người biết xem dược liệu. Viện chủ đã nhận lời phối hợp, thu xếp người thay bàn để Hứa Tĩnh Xuyên đi cùng chấp sự. Nàng ghé viện để đón ông, cũng báo cho hai người biết phần yêu cầu lấy lời đã được dừng ở những lượt còn dở. Lâm Uyên chờ nghe nhắc phần việc của mình. Tạ Nghiên Chi đã quay sang dặn người đi cùng về giờ đón Hứa Tĩnh Xuyên.
 
 Hắn hỏi mình có cần nhận mặt người nào không.
 
 “Chưa có người nào ở đây cần ngươi nhận.”
 
-Tạ Nghiên Chi đáp rồi chờ hắn nói tiếp. Hắn nhìn tay áo đang được người trực sửa cho khỏi cọ băng, cuối cùng gật đầu. Tô Thanh Ly cũng ở lại; nàng nhờ khi có kết quả thì báo đúng phần đã kiểm, không phải mang mọi lời ngoài kho về cho người bệnh nghe.
+Tạ Nghiên Chi đáp rồi chờ. Hắn nhìn tay áo đang được người trực sửa cho khỏi cọ băng. Từ hôm đi Hòa Sinh về, hắn đã muốn tới được chỗ hàng thật; nay nơi ấy có người nhận mở, còn hắn phải ở lại.
+
+“Về nói cho ta biết,” hắn bảo. Tô Thanh Ly cũng ở lại; nàng nhờ khi có kết quả thì báo đúng phần đã kiểm, không phải mang mọi lời ngoài kho về cho người bệnh nghe.
 
 Người đi xác nhận chỗ mẹ con Khương Tố Nương trở về trước lúc đoàn rời sân. Bên nhận đã giữ phần ngày hôm nay cho cả hai theo điều kiện cũ, người trực nhận lời để báo tới gian bệnh. Chân người mẹ còn cần xem, chưa có việc đưa bà đi trong buổi sáng này.
 
@@ -38,7 +40,7 @@ Hứa Tĩnh Xuyên ra sau khi giao xong bàn thuốc. Người cùng đi mang m�
 
 “Ta về rồi nói phần đã thấy,” Hứa Tĩnh Xuyên bảo.
 
-Hắn nhận lời, không xin một mẫu thuốc đem về cho mình.
+Hắn gật. Hứa Tĩnh Xuyên xốc lại vạt áo trước khi xuống bậc; động tác quen của người đi làm khiến Lâm Uyên đưa mắt theo tới cổng, rồi nhìn xuống bát đã nguội.
 
 Tạ Nghiên Chi chờ người hộ tống nhận đủ phần giấy, lên xe sau cùng. Bánh lăn khỏi sân, để lại vệt đất khô vừa bong ở mặt lối. Trong gian ngoài, người bệnh tới lượt bắt đầu kể mình đau từ khi nào. Lâm Uyên quay về phía giọng nói ấy, để người trực buộc xong tay áo.
 
@@ -52,9 +54,9 @@ Người coi phần kho ấy tên Lương Cảnh Thuận, ngoài bốn mươi, m
 
 “Các vị xem chỗ này,” ông chỉ phía sau cột. “Lô bên kia đang chờ xuất, không thể dọn cả kho cho cuộc đối.”
 
-Chấp sự nhận phạm vi ấy. Tạ Nghiên Chi đặt tập giấy lên chiếc bàn Lương Cảnh Thuận vừa lau, không mở các ngăn sổ khác. Phùng Quý Lương lấy phần sao khế mình giữ; số lượt, dấu nhận và phần ghi ba bao được đối với phiếu của người coi kho. Lương Cảnh Thuận tự lấy bản kê đã dùng khi nhận, giữ ngón tay ở đúng dòng cho người chứng kiến nhìn rồi mới đọc.
+Chấp sự nhận phạm vi ấy. Tạ Nghiên Chi đặt tập giấy lên chiếc bàn Lương Cảnh Thuận vừa lau. Một góc bàn còn ướt, nàng kéo giấy vào giữa; người coi kho chờ nàng đặt xong mới lấy phiếu. Phùng Quý Lương lấy phần sao khế mình giữ; số lượt, dấu nhận và phần ghi ba bao được đối với phiếu của người coi kho. Lương Cảnh Thuận tự lấy bản kê đã dùng khi nhận, giữ ngón tay ở đúng dòng cho người chứng kiến nhìn rồi mới đọc.
 
-Ba bao vẫn ở gian trong, kê trên gỗ cách nền. Hai miệng bao còn đường khâu; bao ngoài cùng đã mở rồi buộc lại bằng dây. Một vệt sẫm chạy dọc nếp vải dưới nút, nhưng không ai lấy nó làm mốc nói hàng đã đổi vào lúc nào.
+Ba bao vẫn ở gian trong, kê trên gỗ cách nền. Hai miệng bao còn đường khâu; bao ngoài cùng đã mở rồi buộc lại bằng dây. Dưới nút buộc, một vệt sẫm ăn dọc nếp vải. Phùng Quý Lương dừng mắt ở đó, bước tới nửa bước rồi lại nhìn người coi kho.
 
 Lương Cảnh Thuận nhận mình có mặt khi dỡ. Theo lời ông, lúc ấy đã mở bao ngoài cùng để xem, thấy phần hàng khác yêu cầu nên cho để riêng, báo bên nhận và chờ đối người giao. Ông chưa cho ba bao đi vào phần hàng được nhận dùng; từ đó chỗ kê vẫn phải giữ cho chúng.
 
@@ -62,11 +64,15 @@ Phùng Quý Lương hỏi vì sao trong phiếu cân vẫn có phần nhận đ�
 
 “Đủ phần cân lúc dỡ,” ông đáp. “Tôi không ký nhận đã là hàng sạch để đưa lên bàn thuốc.”
 
-Ông lật phần ghi dưới dòng số, cho thấy câu yêu cầu giữ riêng. Tạ Nghiên Chi đọc cả chỗ ấy, hỏi ông ai viết và ai có mặt. Ông nhận phần mình ghi, nêu những người cần được hỏi; người vắng mặt chưa được ghi là đã đồng ý hết lời ông.
+Ông lật phần ghi dưới dòng số, cho thấy câu yêu cầu giữ riêng. Tạ Nghiên Chi đọc cả chỗ ấy, hỏi ông ai viết và ai có mặt. Ông nhận phần mình ghi, nêu người có mặt khi dỡ. Tạ Nghiên Chi đánh dấu những người còn phải hỏi rồi xoay phiếu lại.
 
-Phùng Quý Lương thôi giữ mép phiếu.
+Phùng Quý Lương rút ngón tay khỏi dòng cân đủ. Khi y cầm lại bản khế, mép giấy bị đẩy lệch, để lộ cả câu giữ riêng phía dưới.
 
-Hứa Tĩnh Xuyên nhìn phần khế được mở. Trong đó bên nhận mua rễ dược đã phơi khô, làm sạch theo hạng ghi; ông hỏi họ đã cho ai xem phần hàng trước đây chưa. Lương Cảnh Thuận nói đã báo người nhận, nhưng hôm nay ông chỉ nhận được việc chính mình làm, không đứng thay người khác nói đã kiểm tới đâu.
+Hứa Tĩnh Xuyên nhìn phần khế được mở. Trong đó bên nhận mua rễ dược đã phơi khô, làm sạch theo hạng ghi; ông hỏi họ đã cho ai xem phần hàng trước đây chưa. Lương Cảnh Thuận nói đã báo bên nhận.
+
+“Người xem trước không có ở đây. Tôi thấy họ mở tới đâu thì kể được tới đó.”
+
+Hứa Tĩnh Xuyên cúi nhìn nút dây của bao ngoài cùng.
 
 “Vậy mở đúng bao từng mở,” Hứa Tĩnh Xuyên nói. “Để tôi xem phần còn ở đây.”
 
@@ -78,7 +84,7 @@ Chấp sự cho lập phần lấy xem tại chỗ, có người giữ kho cùng
 
 Mùi ẩm thoát ra trước khi miệng vải được kéo rộng.
 
-Ở lớp trên là những mẩu rễ ngắn, màu sẫm không đều. Người phụ giúp lấy một ít ra khay theo lời Hứa Tĩnh Xuyên. Một mảng bám vào nhau không rời, khi được tách bằng dụng cụ thì vụn đất rơi xuống giữa những thớ rễ. Ông cho lấy thêm phần ở sâu hơn, để riêng, không trộn với chỗ vừa xem.
+Ở lớp trên là những mẩu rễ ngắn, màu sẫm không đều. Người phụ giúp lấy một ít ra khay theo lời Hứa Tĩnh Xuyên. Một mảng bám vào nhau không rời. Hứa Tĩnh Xuyên giữ khay, để người phụ giúp tách chậm bằng dụng cụ. Vụn đất rơi xuống, một thớ rễ kéo theo rồi đứt, để lộ phần bên trong sẫm ẩm. Ông cho lấy thêm phần ở sâu hơn, để riêng, không trộn với chỗ vừa xem.
 
 Phùng Quý Lương cúi gần.
 
@@ -94,7 +100,7 @@ Hứa Tĩnh Xuyên đặt dụng cụ xuống.
 
 Ông nói rõ phần trong và ngoài đã lấy đều có chỗ phải giữ lại xem tiếp. Hai bao chưa mở vẫn chưa được ông nhận chất lượng; muốn biết cả lô, phải thu xếp đối đủ phần còn lại với những người liên quan. Ông cũng không biết trước lượt tới kho chúng đã qua tay ai.
 
-Tạ Nghiên Chi ghi đúng lời nghề rồi đọc lại cho ông sửa. Trên khay, đất đã rời khỏi một mẩu rễ thành hạt nhỏ. Một con kiến bò tới gần, vòng qua mép gỗ rồi đi khuất bên dưới.
+Tạ Nghiên Chi ghi lời Hứa Tĩnh Xuyên, đọc lại tên phần lấy ngoài và phần lấy sâu. Ông chỉ một chỗ cần nói rõ, đợi nàng sửa xong mới nhận. Phùng Quý Lương cúi qua vai người chứng kiến, mắt đi theo đầu bút; tới chữ cuối, y đặt bản khế cạnh khay.
 
 Phùng Quý Lương nhìn phần vừa ghi.
 
@@ -102,7 +108,11 @@ Phùng Quý Lương nhìn phần vừa ghi.
 
 “Có thể ghi phần đã xem không đạt yêu cầu ấy,” Hứa Tĩnh Xuyên đáp. “Tôi chưa xem lúc họ đóng bao.”
 
-Y quay sang Tạ Nghiên Chi, nhắc tới người dẫn đường từ phía bắc. Nàng giữ tay trên dòng đang đọc.
+Phùng Quý Lương nhìn hai bao còn khâu kín, rồi quay lại Tạ Nghiên Chi.
+
+“Người dẫn đường từ phía bắc thì sao? Lời hắn có chỗ nào đối được chuyến này?”
+
+Nàng giữ tay trên dòng đang đọc.
 
 “Ba bao ở đây được nhận theo lượt này. Ngươi chưa đưa nguồn nối chúng với toán Trần Dực dẫn.”
 
@@ -118,15 +128,15 @@ Phùng Quý Lương nói khi chưa rõ bên nào phải chịu, không thể b�
 
 “Ngươi có thể chưa nhận lỗi,” Lương Cảnh Thuận nói. “Nhưng ta phải biết hôm nay ai trả phần chỗ để ta còn giữ.”
 
-Tạ Nghiên Chi chờ, không ghi sẵn tiền vào tên y. Chấp sự cũng không nhận lấy danh Tông Sảnh buộc kho giữ vô hạn. Bên nhận đồng ý mở hai bao còn lại khi thu xếp được người dự, phần ấy cần hẹn lại; nếu bây giờ chuyển hàng đi, nơi giữ và người giao tiếp sẽ phải được đối từ đầu.
+Tạ Nghiên Chi đặt bút ngang tập giấy. Phùng Quý Lương nhìn chấp sự, nhưng người ấy hỏi Lương Cảnh Thuận muốn giữ thêm phải thu xếp với ai và bao lâu, chưa nhận thay khoản công. Bên nhận đồng ý mở hai bao còn lại khi thu xếp được người dự, phần ấy cần hẹn lại; nếu bây giờ chuyển hàng đi, nơi giữ và người giao tiếp sẽ phải được đối từ đầu.
 
-Phùng Quý Lương cúi nhìn ba bao. Y đã tìm một lời trong miệng người bị thương để đòi lại khoản mình sợ mất; tới lúc được thấy hàng, trước mặt lại là một việc cần bỏ tiền trước khi biết sẽ đòi ai.
+Phùng Quý Lương cúi nhìn ba bao. Ngoài sân, một đầu tấm kê mới vừa đưa tới đã bị người khuân gọi dừng vì không đủ lối. Lương Cảnh Thuận nghiêng người nhìn ra, bàn tay vẫn giữ mép bao chưa buộc.
 
-Y lấy túi tiền, đếm ba đồng.
+Y hỏi lại công chỗ. Nghe xong, y mở túi tiền, lựa ba đồng ra lòng bàn tay, đếm thêm một lượt mới đặt lên bàn.
 
 “Giữ tới hết ngày mai. Ghi ta ứng phần chỗ, không phải nhận bao này do ta làm hỏng.”
 
-Lương Cảnh Thuận nhắc lại mốc cuối ngày mười chín, nhận tiền trước mặt người chứng kiến rồi ghi đúng phần ấy. Tờ nhận được đọc cho Phùng Quý Lương nghe trước khi y cất. Khoản bảo lãnh trong khế vẫn còn nguyên, chưa ai hứa ba đồng sẽ được hoàn lại.
+Lương Cảnh Thuận nhắc lại mốc cuối ngày mười chín, nhận tiền trước mặt người chứng kiến rồi ghi đúng phần ấy. Tờ nhận được đọc cho Phùng Quý Lương nghe trước khi y cất. Phùng Quý Lương đối từng chữ ở dòng ứng công rồi gấp tờ nhận kẹp vào bản khế. Dây túi tiền được kéo lại; lần này y cất nó trước khi nhìn sang hai bao chưa mở.
 
 Hứa Tĩnh Xuyên chọn giữ riêng hai phần đã lấy ngoài và sâu trong bao, bọc có ghi nguồn, ngày cùng chỗ lấy. Lương Cảnh Thuận nhận giữ chúng trong hộp riêng tại kho, ký phần mình giữ; không trút trở lại bao hoặc đưa vào hàng dùng. Bao từng mở được buộc lại, có phần ghi lượt mở hôm nay cùng những người dự. Hai bao kia ở nguyên chỗ kê, chưa được gọi là đã kiểm.
 
@@ -136,7 +146,7 @@ Khi người phụ giúp dọn khay, Phùng Quý Lương còn đứng cạnh bà
 
 Y nhận lời. Lương Cảnh Thuận gọi người ra sân chuyển tấm kê khác vào lối, không đợi cuộc tranh tiền được xử xong mới tiếp công việc.
 
-Tạ Nghiên Chi cất phần có nhận của người giữ hàng. Hôm nay nàng đã đứng trước thứ Phùng Quý Lương nói tới, đã biết ai đang giữ và phần nào chưa thể nhận theo khế. Chặng trước khi dỡ ở kho vẫn còn người phải hỏi, nhưng không còn phải đi tìm lời người bệnh để thay cho một bao hàng đang nằm ngay đây.
+Tạ Nghiên Chi cất phần có nhận của người giữ hàng. Nàng lật lại phần ghi, hỏi Lương Cảnh Thuận một lần nữa tên những người có mặt lúc dỡ. Ông đọc chậm để nàng đối. Phùng Quý Lương đứng nghe, thỉnh thoảng nhìn về ba bao đã được giữ thêm một ngày. Khi Tạ Nghiên Chi khép tập giấy, ngoài sân đã có lối cho người khuân đi qua.
 
 ---
 
@@ -150,26 +160,32 @@ Lâm Uyên nghe hết rồi mới hỏi có phải lô Xích Tủy Tán ở bế
 
 “Không. Hàng thô trong ba bao khác hai hòm đã đưa về viện.”
 
-Nàng cũng chưa có căn cứ nối chúng với hòm gỗ dài Trần Dực từng thấy. Khi nói tới người dẫn đường, nàng không lấy bản lời ra hoặc gọi người trực đánh thức hắn. Buổi này không có hẹn hỏi mới.
+Lâm Uyên nhìn về cửa gian bệnh của Trần Dực, rồi hỏi còn hòm gỗ dài dưới núi. Tạ Nghiên Chi đáp chưa có gì nối được với ba bao ấy. Hắn ngồi im một lát, để nàng nói hết phần buổi kho; cửa gian bệnh vẫn khép.
 
 Hứa Tĩnh Xuyên ghé lại sau khi giao xong lượt nhận, hỏi Lâm Uyên có muốn nghe rõ phần vừa nói không. Hắn hỏi đất trong rễ có phải đã đủ biết người bán cố ý trộn.
 
 “Ta thấy phần lấy ra lẫn đất,” ông đáp. “Muốn biết ai làm, phải tìm lúc còn có người trông thấy việc ấy. Nghề của ta không cho ta nhìn ngược một chuyến hàng.”
 
-Lâm Uyên nhìn chén nước gần tay trái. Hắn nhớ Phùng Quý Lương đã giữ mép khế thế nào, nhớ câu mình từng nói ở Hòa Sinh. Người ấy đã dùng chỗ chưa ai biết để mong có một câu giúp mình; bây giờ có phần hàng thật để xem, việc cần làm lại không thể chỉ gói vào một câu nhận.
+Lâm Uyên nhìn chén nước gần tay trái. Hôm ở Hòa Sinh, hắn đã chặn Phùng Quý Lương khi người ấy muốn đổi điều Trần Dực chưa thấy thành một lời có lợi cho mình. Vậy mà vừa nghe có đất lẫn trong rễ, chính hắn đã muốn biết ngay kẻ trộn là ai.
 
-“Vậy phải giữ cả chỗ chưa biết,” hắn nói.
+“Con lại hỏi quá sang một việc khác rồi.”
 
-“Và nói rõ chỗ đã biết.”
+“Câu ấy vẫn cần hỏi,” Hứa Tĩnh Xuyên nói. “Nhưng phải hỏi người biết chặng ấy. Còn phần thuốc, ta nhận lời mình vừa nói.”
 
 Hứa Tĩnh Xuyên phải quay về bàn. Ông chỉ kịp nhờ người trực giữ hai tay hắn nghỉ, không mở hộp mẫu hoặc nhận một buổi học mới ngay lúc ấy.
 
-Tạ Nghiên Chi cũng trở lại Tông Sảnh cùng chấp sự và phần ghi. Tô Thanh Ly giúp Lâm Uyên cất phần giấy của hắn sau khi hỏi, để bản chỉ đường vẫn ở đúng chỗ khô. Không có vật của thầy được trao thêm, cũng không có tin người nhà đã tới.
+Tạ Nghiên Chi cũng trở lại Tông Sảnh cùng chấp sự và phần ghi. Tô Thanh Ly hỏi rồi giúp Lâm Uyên xếp lại phần giấy trên bàn. Bản chỉ đường tới mộ nằm ở trên cùng. Hắn nhìn nàng đặt nó về chỗ khô, chợt nhớ từ lúc xe đi kho trở về, mình chưa nhìn lại lần nào.
 
 Gió đưa mùi lá từ gian thuốc qua hiên. Trong một thoáng hắn thấy nhẹ hơn vì một việc đã có đường kiểm, rồi chợt khó chịu với chính sự nhẹ đi ấy. Hôm qua hắn vừa nhìn đất lấp xuống; hôm nay đã có lúc để tâm trọn vào mấy bao hàng của một người khác.
 
-Tô Thanh Ly thấy hắn ngừng lời, chỉ dời chén tới chỗ người trực có thể giúp, không hỏi vì sao.
+“Đã nhìn được hàng thì tốt,” hắn nói, rồi ngừng.
 
-Một lát sau Lâm Uyên nhờ báo Hứa Tĩnh Xuyên khi nào rảnh, hắn muốn được nghe cách người làm nghề bắt đầu xem một món hàng chưa biết rõ. Chưa phải để tự nhận thuốc; hắn muốn biết câu đầu tiên mình nên hỏi.
+Tô Thanh Ly dời chén tới chỗ người trực có thể giúp. Nàng đợi hắn, nhưng lần này hắn không kể thêm. Ngoài cửa có người bệnh đang kể dở triệu chứng; hắn ngồi nghe tới khi người trực đáp lời.
+
+Một lát sau, hắn nhờ người trực chuyển lời tới Hứa Tĩnh Xuyên: khi nào rảnh, ông có thể chỉ hắn cách bắt đầu xem một món thuốc chưa biết rõ được không?
+
+Người trực hỏi muốn nhắn việc gì cụ thể. Hắn nghĩ tới khay rễ chưa từng được thấy, rồi nhớ hộp quế hôm trước.
+
+“Bắt đầu từ một mẫu nhỏ như lần trước cũng được. Ta muốn biết phải nhìn gì trước.”
 
 Người trực nhận lời nhắn rồi quay về gian ngoài. Hắn ngồi đợi qua tiếng một người bệnh gọi tới lượt, không gọi giám dược bỏ người đang cần thuốc để tới chỗ mình.
