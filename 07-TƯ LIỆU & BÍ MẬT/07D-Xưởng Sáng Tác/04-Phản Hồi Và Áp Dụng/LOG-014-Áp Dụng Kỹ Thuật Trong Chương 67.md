@@ -55,3 +55,14 @@ RewriteLy `diagnose_text` được gọi một lần với toàn bản thảo tr
 Dao riêng của Bùi Ninh Viễn đã về người cho mượn; không tiếp tục ghi đang chờ trả. Đào Thành Nghiệp có hai đồng công sửa quai, dao cũ dùng hạn chế, khung chưa sửa và chưa có đơn đặt giỏ mới. Sáng mai người giữ đồ chỉ nhận cho xem phần cần sửa lúc rảnh; giá và việc có nhận chưa được thỏa thuận. Chỗ chờ ở viện không tự thành chỗ trú mới. Lâm Uyên biết mẫu quế đầu tiên nhưng chưa có năng lực dược lý độc lập. Tuyến Phùng Quý Lương, thân nhân Mạnh Thanh Tễ, việc giữ chỗ mẹ con và các vật còn thiếu theo node/trạng thái chính; chương này không tự giải thay.
 
 [[Chương 67]] · [[Trạng Thái Truyện Sau Chương 67]] · [[Đào Thành Nghiệp]] · [[Bùi Ninh Viễn]] · [[REF-009-Nguồn Về Vật Dụng Và Quan Hệ]] · [[PAT-001-Giới Hạn Làm Thay Đổi Lựa Chọn]] · [[00-MỤC LỤC XƯỞNG SÁNG TÁC]]
+
+
+## Biên tập theo yêu cầu tác giả — 2026-11-18
+
+Tác giả yêu cầu tiếp tục Chương 67 sau đợt rà mạch. Vì bản nháp đã tồn tại và Chương 68–70 đã tiếp nối các kết quả của nó, lượt này biên tập trực tiếp Chương 67, giữ tên và chuỗi sự kiện: trả dao chiều16, Đào Thành Nghiệp sửa quai nhận hai đồng, khung còn gãy, dao cũ dùng hạn chế, Lâm Uyên nhận biết mẫu quế, hẹn xem giỏ sáng17 chưa thành nhận công.
+
+Đã giảm lời kể giải thích hộ, phát triển động tác trả dao/giữ tiền và cuộc học ngắn. Phản ứng chờ câu hỏi của người thầy đã mất được đặt trong điểm nhìn Lâm Uyên; giấc ngủ mở chương là trải nghiệm chủ quan, không ký ức đời thứ chín hay điềm báo. Không có công năng, nghề nghiệp hoặc tiến triển điều tra mới cần thêm node. Trạng thái sau67 giữ nguyên các kết quả sự kiện.
+
+Đọc lại trang Matt Bird ngày 2026-11-18 qua Exa, giới hạn 2.500 ký tự: http://www.secretsofstory.com/2023/03/the-expanded-ultimate-story-checklist_0858069315.html . Áp dụng nguyên lý vật trao tay thể hiện thay đổi quan hệ vào hai con dao và tiền công vốn có của VCQK; không lấy tình tiết minh họa của nguồn. Ngày truy cập cũ trong REF-009 và phần nhật ký gốc được giữ nguyên.
+
+RewriteLy diagnose_text được thử với phần đầu bản nháp; công cụ trả yêu cầu xác thực, chưa có chẩn đoán sử dụng được. Biên tập và đối chiếu liên tục thực hiện trực tiếp với bản nháp67, trạng thái66–70 đã đọc. Không chạy bộ kiểm cấu trúc chapters/ của Novelist vì kho dùng cấu trúc Việt riêng; kiểm theo định dạng và trạng thái gốc. Chưa có phản hồi độc giả hoặc đo hiệu quả cảm xúc.
