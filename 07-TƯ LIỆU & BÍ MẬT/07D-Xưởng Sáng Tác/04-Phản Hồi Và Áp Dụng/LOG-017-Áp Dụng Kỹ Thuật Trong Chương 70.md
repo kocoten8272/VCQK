@@ -60,3 +60,14 @@ RewriteLy `diagnose_text` được gọi đúng một lần trong lượt này, 
 Lượt hỏi phần đường đã diễn ra, Trần Dực không nhận dẫn trở vào; đừng mở tiếp như main còn chưa hỏi câu từ Chương 65. Mốc ngoài là lời kể được gửi để đối, chưa là tuyến đã thông, vị trí mới của Tô Lạc hoặc quyền vào phế tích. Người nhận chuyển đã mang phần sao/tờ riêng đi; phần gốc Hắc Phong Sơn và sơ đồ Tô Tín không đi cùng. Hẹn mở hai bao sáng 19 còn cần giờ/người theo phần đã đáp; mẫu vẫn kho, hạn giữ hết 19. Lâm Uyên, Tô Thanh Ly, Trần Dực và Tô Tín vẫn ở viện chiều 18; Tạ Nghiên Chi/chấp sự đã rời viện. Không có lượt xuất viện hoặc năng lực nghề/tu vi mới.
 
 [[Chương 70]] · [[Trạng Thái Truyện Sau Chương 70]] · [[Lâm Uyên]] · [[Trần Dực]] · [[Tô Tín]] · [[REF-012-Nguồn Về Đối Thoại Và Mục Đích Riêng]] · [[PAT-001-Giới Hạn Làm Thay Đổi Lựa Chọn]] · [[00-MỤC LỤC XƯỞNG SÁNG TÁC]]
+
+
+## Biên tập tiếp nối Chương 69 — 2026-11-18
+
+Theo yêu cầu tiếp tục Chương 70, biên tập bản nháp hiện có sau khi hoàn thiện Chương 69. Phát triển bài nhìn hai mặt mẫu quế, cuộc đối thoại về hành động người che mặt, hy vọng của Tô Tín và lời Trần Dực từ chối dẫn tiếp. Giảm lời giải thích chứng cứ lặp, thể hiện khoảng cách hai nguồn qua hai sơ đồ đặt riêng; Lâm Uyên chọn gửi kiểm ngoại vi thay vì yêu cầu người bệnh trở vào. Kết bằng việc muốn hồi đáp tới cả người cung cấp mốc, kể cả kết quả không tìm được.
+
+Giữ ngày18, vị trí viện, thương tích, mẫu thuộc hộp viện, hai mẫu hàng ở kho, quyền hạn người dự, danh tính người che mặt chưa xác nhận, mốc vệt đá trắng/cây ngả trước khe chưa khảo sát, Tô Lạc/miếng đồng chưa thu hồi. Buổi kiểm hai bao sáng19 còn chờ bố trí giờ/người; lời gửi không thành khảo sát hoặc phép vào khe đã diễn ra. Trạng thái70 giữ nguyên kết quả, không thêm node hoặc năng lực mới.
+
+Ngày 2026-11-18 mở lại nguồn https://www.annemini.com/2007/04/23/blurting-out-those-deep-dark-secrets/art-of-revision/ qua Exa, đọc tối đa3.500 ký tự đầu tới phần tác giả nêu rủi ro nhân vật bật mí dễ dàng. Không nhận đọc lại toàn bài hoặc đổi ngày truy cập gốc của REF-012. Dùng ý đối thoại phải thuộc về người có mục đích riêng để sửa cảnh, không dùng lời văn/tình tiết ví dụ của nguồn.
+
+RewriteLy diagnose_text gọi một lần với đoạn giữa bản nháp, trả lỗi nội bộ -32603, không có chẩn đoán sử dụng được. Biên tập trực tiếp và kiểm ngữ cảnh thực hiện riêng. Đối chiếu có phạm vi với trạng thái70 và phần nối69 đã đọc: giữ riêng người kể/người nghe, nguồn sơ đồ, quyền từ chối, vật đang giữ và điều chưa diễn ra. Kiểm theo bố cục Việt của kho, không chạy bộ kiểm chapters/ của mẫu Novelist. Chưa có phản hồi độc giả hay đo hiệu quả.
