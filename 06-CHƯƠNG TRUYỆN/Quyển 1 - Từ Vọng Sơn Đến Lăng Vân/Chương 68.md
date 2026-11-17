@@ -16,11 +16,13 @@ Lâm Uyên ngồi dưới hiên, vừa để người trực sửa lại tay áo
 
 “Chỉ vá phía trên thì mang đồ vẫn có thể rơi,” ông nói.
 
-Người giữ đồ hỏi có nhận sửa cả không. Đào Thành Nghiệp xem thêm, lắc đầu; với dụng cụ hiện có, ông chưa nhận làm lại phần ấy. Hai bên thôi ở mức xem món cần, không định công rồi để một chiếc giỏ không dùng được quay về gian thuốc. Ông nhặt đoạn nan vừa rời đặt lại trong giỏ, quét chỗ mình ngồi và mang bao sang phía sân đã được chỉ.
+Người giữ đồ hỏi có nhận sửa cả không. Đào Thành Nghiệp đặt bàn tay dưới đáy giỏ, nhấc lên thử rồi hạ xuống.
 
-Lâm Uyên nhìn theo, chưa kịp hỏi thì người trực trở lại báo phần giữ chỗ hôm nay của mẹ con Khương Tố Nương đã được bên nhận xác nhận theo điều kiện cũ. Người mẹ còn ở viện xem chân; việc giữ phần không phải một lời gọi bà đứng dậy để đi ngay. Hắn nhận tin, nhờ báo tới bà rồi quay về chỗ đang có người đợi mình.
+“Phải làm lại phần này. Đồ của tôi bây giờ chưa đủ.”
 
-Viện chủ đứng ở lối gian yên.
+Ông nhặt đoạn nan vừa rời đặt vào trong. Người giữ đồ nhận lại chiếc giỏ, chưa nói giá công. Đào Thành Nghiệp quét sạch chỗ ngồi, khoác bao đi về phía sân; thanh khung gãy vẫn nhô bên hông, đụng vào khuỷu tay mỗi khi ông bước.
+
+Lâm Uyên nhìn theo, chưa kịp hỏi thì người trực trở lại báo phần giữ chỗ hôm nay của mẹ con Khương Tố Nương đã được bên nhận xác nhận theo điều kiện cũ. Khương Tố Nương vẫn phải ở lại xem chân. Hắn nhờ báo tới bà, vừa quay về đã thấy viện chủ đứng chờ ở lối gian yên.
 
 “Chiều nay viện thu xếp đưa Mạnh Thanh Tễ đi an táng.”
 
@@ -34,9 +36,15 @@ Tối qua còn nghe tiếng dao vót ở sân, sáng nay còn thấy bệnh nhâ
 
 “Có thể để…” Hắn dừng, nhìn viện chủ. “Nếu ngày mai mới có người tới?”
 
-“Người ấy sẽ được chỉ đúng nơi. Ta không ghi việc chưa ai tới thành không còn người nhà.”
+“Viện sẽ chỉ chỗ cho họ. Cả phường cũng giữ một bản.”
 
-Viện chủ không giục hắn nói cho xong. Người nhận tang sự đang chờ ở gian ngoài, phần chăm bệnh đã được giao tiếp; tới chiều những người có sức sẽ đưa quan tài ra xe. Không có lời nào yêu cầu hắn thay người nhà quyết mọi việc.
+“Còn đồ của thầy?”
+
+“Vẫn giữ ở đây. Khi có người tới, phải đối lại.”
+
+Viện chủ đợi hắn. Ngoài gian thuốc có tiếng gọi lấy khay, rồi tiếng chân đi vội qua sân. Lâm Uyên nhìn vào gian yên; nắng chưa tới chiếc ghế cạnh giường, chỗ hắn thường ngồi vẫn còn tối.
+
+Hắn đã ngồi ở đó suốt mấy hôm mà chưa từng hỏi thầy muốn được đưa về đâu.
 
 “Con muốn đi cùng,” Lâm Uyên nói sau một lúc.
 
@@ -54,19 +62,21 @@ Nàng đọc lại đúng tên ấy, ghi bên cạnh phần giám dược Tế S
 
 “Con chưa hỏi.”
 
-“Phần nào chưa rõ thì để trống,” Vệ Thu Nghi nói, quay lại đối với người giữ hồ sơ. “Khi có nguồn sẽ bổ sung.”
+Vệ Thu Nghi dừng bút, chừa hai chỗ ấy rồi quay sang người giữ hồ sơ hỏi tiếp. Lâm Uyên nhìn khoảng giấy trắng, muốn nhớ xem từng có lúc nào thầy nhắc tới quê mình. Hắn chỉ nhớ người ta thường gọi thầy giám dược, còn hắn thì luôn có một điều khác cần hỏi.
 
-Không ai lấy tuổi trên một khuôn mặt đã yên để điền giúp.
+“Có thể điền sau được không?”
+
+“Được. Khi tìm được người biết, cứ tới báo lại.”
+
+Hắn gật. Ngòi bút lại chạy trên giấy, qua hai chỗ còn trống.
 
 Nàng nhận phần thông tin về người cần báo từ viện, nói công tìm người phải tiếp từng nơi có căn cứ. Phường giữ tên, nơi chôn và người đang giữ đồ để thân nhân có đường hỏi; không hứa chỉ bằng mấy dòng ấy là tìm được họ. Viện nhận phần công đã thu xếp cho lượt mai táng này, còn việc liên hệ tiếp được giữ riêng.
 
-Hắn nghe tới đồ riêng mới nhìn xuống bọc giấy.
-
-Vệ Thu Nghi đang ghi chỗ viện giữ sổ nghề và túi thuốc, chưa yêu cầu đưa chúng theo quan tài. Viện chủ nhận giữ như trước. Không có người đặt chiếc túi lên tay hắn hoặc gọi những vật ấy là phần của người học việc.
+Vệ Thu Nghi hỏi tới sổ nghề và túi thuốc. Lâm Uyên nhìn xuống bọc giấy khi viện chủ nói chúng vẫn ở phần viện giữ. Hắn biết chiếc túi ấy, biết sợi buộc đã sờn chỗ nào. Nếu bây giờ được đặt trước mặt, hắn vẫn nhận ra ngay; chỉ là hắn chưa từng biết ngoài việc thuốc ở đây, trong đời thầy còn có những ai đang đợi.
 
 Tô Thanh Ly tới sau khi đã báo với chấp sự trực. Nàng hỏi viện chủ nơi cần đi và phần người đưa sẽ làm, rồi đứng cạnh Lâm Uyên khi y sư xem lại sức. Hắn đã nghỉ qua buổi chiều hôm trước, nhưng cả hai tay vẫn phải giữ giới hạn; y sư chỉ cho đi bằng xe, có chỗ ngồi, không khiêng hoặc cầm giữ lâu. Nếu đau mỏi phải báo người cùng đi và về theo lượt, không ở ngoài tới tối.
 
-Phần đi lần này được chấp sự nhận riêng cho buổi đưa tang, có người hộ tống. Tô Thanh Ly cũng giữ tay phải đang thương, nhờ người lành tay mang những gì cần. Không ai lấy giấy lượt sáng hôm qua dùng lại cho một đường đi khác.
+Chấp sự nhận riêng lượt đi đưa tang, thu xếp người hộ tống và giờ trở về. Tô Thanh Ly nhờ người lành tay mang đồ cần dùng, rồi trở lại đứng cạnh hắn. Từ lúc nghe nói tới buổi chiều, Lâm Uyên cứ nhìn ra sân như đang đợi một người tới ngăn mọi việc lại.
 
 Gần trưa, Vệ Thu Nghi cùng người của phường đi trước xem lại chỗ đã thu xếp ngoài thành. Phần vị trí được đối với người giữ bãi chôn, có người của viện đi cùng; nàng hẹn trở lại trước giờ chuyển quan tài. Lâm Uyên ở lại viện chờ, ăn được một ít theo lời người trực rồi xin vào gian yên.
 
@@ -82,21 +92,23 @@ Lâm Uyên đã thấy nó những buổi thầy cúi xem thuốc. Khi đứng g
 
 Người trực hỏi có cần sửa lại mép vải không.
 
-Hắn nhận lời, nhưng lúc định đưa tay phải đã phải dừng. Tô Thanh Ly gọi người đang đứng cạnh giúp giữ phần ngoài; hắn chỉ dùng trái sửa nhẹ một góc được cho phép, rồi lùi tay về. Phần nặng đã có người nhận. Hắn không giữ mép quan tài để tự buộc mình đứng lâu hơn.
+Hắn nhận lời, nhưng lúc định đưa tay phải đã phải dừng. Tô Thanh Ly gọi người đang đứng cạnh giúp giữ phần ngoài; hắn chỉ dùng trái sửa nhẹ một góc được cho phép, rồi lùi tay về. Góc vải nằm yên. Hắn rút tay trái về, hai ngón còn cong như vẫn giữ một nếp áo rất mỏng.
 
 “Con ra ngoài một lúc chăng?” người trực hỏi.
 
 Lâm Uyên lắc đầu.
 
-Hắn không muốn khoảnh khắc ấy xảy ra khi mình đã quay mặt đi, dù ở lại cũng không khiến nó nhẹ hơn. Tô Thanh Ly đứng cách một bước, không nói thêm lời để hắn phải gật theo. Khi người làm việc hỏi đã có thể đặt nắp chưa, viện chủ nhận phần thu xếp, còn Lâm Uyên tự lùi khỏi chỗ cần tới.
+Hắn nhìn mép gỗ dựng bên cửa. Nếu ra ngoài, lát nữa trở vào mọi việc có thể đã xong, còn hắn sẽ cứ nghĩ mình đã bỏ lỡ một lần nhìn cuối. Tô Thanh Ly đứng cách một bước, không nói thêm lời để hắn phải gật theo. Khi người làm việc hỏi đã có thể đặt nắp chưa, viện chủ nhận phần thu xếp, còn Lâm Uyên tự lùi khỏi chỗ cần tới.
 
 Người có sức nâng nắp.
 
-Trong khoảng cuối cùng trước khi mặt gỗ hạ xuống, hắn nhìn phần tay áo đã được phủ gọn. Hắn đã muốn nói một câu, nhưng không câu nào tới kịp. Nắp đặt vào chỗ, người làm chỉnh mép, rồi bắt đầu phần việc của họ.
+Trong khoảng cuối cùng trước khi mặt gỗ hạ xuống, hắn nhìn phần tay áo đã được phủ gọn.
 
-Tiếng động đầu tiên khiến hắn co vai.
+“Thầy…”
 
-Hắn không bước lên giữ lại.
+Tiếng gọi nhỏ tới mức người đứng cạnh phải nghiêng đầu. Hắn không nói tiếp được. Nắp đã nằm vào chỗ; người làm cúi chỉnh mép, rồi tiếng đóng đầu tiên vang lên khiến hắn co vai.
+
+Tô Thanh Ly dịch gần nửa bước. Hắn cúi đầu, để tiếng thứ hai đi qua, bàn tay trái nắm lỏng một mép áo mình.
 
 Ngoài cửa có người tới muộn, hỏi còn kịp thắp hương không. Người trực dẫn tới phần đã dành, bảo chừa lối cho người chuyển. Bệnh nhân ở gian trong vẫn có người chăm; một người trong viện nhận hương giúp đồng nghiệp phải quay lại làm. Lượt tưởng niệm buổi sáng ngày mười lăm đã qua, hôm nay quan tài thật sự được đưa rời gian yên.
 
@@ -106,7 +118,7 @@ Xe chuyển bánh.
 
 Qua cổng viện, một người đang gánh nước phải dừng nhường lối. Đòn gánh nghiêng, ông giữ lại cho hai thùng khỏi va rồi chờ đoàn qua mới bước tiếp. Ở quãng phố phía trước, người bán đang kéo mành tránh nắng, tiếng gọi người mua đứt một lúc khi xe đi gần, sau lại nối.
 
-Lâm Uyên nghe tất cả. Hắn đã đi qua những con phố ấy khi cùng thầy tới xem thuốc, đã từng muốn xe nhanh hơn vì Trần Dực còn nằm chờ ở viện. Hôm nay không có nơi nào phía trước mà tới sớm hơn sẽ đổi được người nằm trong quan tài.
+Lâm Uyên nghe tất cả. Hắn đã đi qua những con phố ấy khi cùng thầy tới xem thuốc, đã từng muốn xe nhanh hơn vì Trần Dực còn nằm chờ ở viện. Hôm nay bánh xe vẫn lăn trên những rãnh ấy. Tới gần chỗ rẽ, hắn thoáng mong đường tắc, mong người phía trước phải dừng lại một lúc; rồi xấu hổ với ý nghĩ ấy, cúi nhìn bàn tay đang đặt trên gối.
 
 Bánh xe chạm rãnh, hắn theo thói quen nghiêng người giữ thăng bằng. Người hộ tống đỡ chỗ cần, nhắc ngồi tựa lại. Tô Thanh Ly nhìn hắn, đưa chiếc khăn được người trực chuẩn bị bằng tay trái; hắn nhận một lúc rồi nhờ nàng giữ khi bàn tay bắt đầu mỏi.
 
@@ -130,9 +142,9 @@ Nàng đọc đủ cho người viện nghe.
 
 Mạnh Thanh Tễ, giám dược Tế Sinh Viện.
 
-Lâm Uyên nhìn tên ấy. Không có tuổi hay quê được đoán thêm, cũng không có một dòng nói người nằm đây không còn ai. Người chưa tới vẫn có thể tới; chỉ có chỗ để gặp đã đổi.
+Lâm Uyên đọc theo trong lòng. Những nét chữ còn mới nằm trên nền sẫm, khác với thẻ thuốc hắn từng chờ thầy xem lại. Hắn muốn nhớ cả chỗ dấu tên đứng so với lối xe, nhưng vừa dời mắt đi đã sợ mình nhớ sai.
 
-Vệ Thu Nghi giao viện một bản chỉ nơi chôn, giữ phần của phường cùng nguồn nhận biết và đầu mối cần tìm tiếp. Nàng cho Lâm Uyên một bản chỉ đường riêng khi hắn xin, nói nếu cần tới lại thì hỏi đúng người giữ bãi được ghi ở đó, không nhận hắn từ nay có thể tự đi ra ngoài.
+Vệ Thu Nghi giao viện một bản chỉ nơi chôn, giữ phần của phường cùng nguồn nhận biết và đầu mối cần tìm tiếp. Khi hắn hỏi xin một bản riêng, nàng chép lại đường tới bãi và chỗ hỏi người coi. Hắn nghe nàng chỉ từng đoạn, chưa tới câu cuối đã phải nhờ nhắc lại đoạn từ cổng thành.
 
 Hắn nhìn tờ nhỏ, nhờ Tô Thanh Ly cất giúp cho tới khi về viện.
 
@@ -140,7 +152,7 @@ Hắn nhìn tờ nhỏ, nhờ Tô Thanh Ly cất giúp cho tới khi về viện
 
 “Tế Sinh Viện hoặc chỗ nhận việc của phường. Chúng tôi giữ nguồn để chỉ về đây.”
 
-Nàng chỉ phần ghi trên bản của viện rồi để viện chủ nhận lại. Không ai xóa việc tiếp tục báo tin vì một ngôi mộ đã đắp xong.
+Nàng chỉ phần ghi trên bản của viện rồi để viện chủ nhận lại. Hắn nhìn tờ giấy trong tay Tô Thanh Ly, lần đầu thấy mình có thể đem về một thứ giúp người khác tìm tới thầy.
 
 ---
 
@@ -154,15 +166,19 @@ Chiếc ghế hắn hay ngồi đã được kéo khỏi chỗ quen để ngư�
 
 Lâm Uyên dừng ở bậc.
 
-Tô Thanh Ly lấy bản chỉ đường ra, hỏi để ở chỗ giấy của hắn được chăng. Hắn gật, để nàng giữ thêm cho tới chỗ nghỉ; không kéo sổ nghề hoặc túi thuốc của thầy về cạnh mình. Những vật ấy vẫn ở phần viện giữ, có người nhận việc liên hệ và đối người tới sau.
+Tô Thanh Ly lấy bản chỉ đường ra, hỏi để ở chỗ giấy của hắn được chăng. Hắn gật, nhờ nàng giữ thêm cho tới chỗ nghỉ. Hắn chỉ mang về bản đường ấy. Sổ nghề và túi thuốc vẫn ở phần viện giữ, nơi người tới sau còn có thể hỏi.
 
-Ngoài sân, Đào Thành Nghiệp đang buộc lại bao. Người giữ đồ đem chiếc giỏ không nhận vá ban sáng tới chỗ để riêng, dặn đừng mang trả vào gian thuốc như đồ dùng được. Ông chào khi thấy họ, không hỏi một câu bắt Lâm Uyên phải kể lại buổi chiều.
+Ngoài sân, Đào Thành Nghiệp đang buộc lại bao. Người giữ đồ đem chiếc giỏ không nhận vá ban sáng tới chỗ để riêng, dặn đừng mang trả vào gian thuốc như đồ dùng được. Thấy họ, ông đứng lên một chút rồi chào khẽ. Lâm Uyên gật đáp. Đào Thành Nghiệp nhìn chiếc khăn còn trong tay hắn, kéo bao vào gần chân để chừa lối qua.
 
 Người đi xác nhận chỗ mẹ con Khương Tố Nương đã xong phần hôm nay, còn nhờ người trực nhận lời cho buổi sáng sau. Tiếng gọi người bệnh tới lượt vang từ gian ngoài; viện chủ đã trở lại phần cần mình, người đi cùng cũng lần lượt giao việc rồi về chỗ làm.
 
 Lâm Uyên nhìn vào gian trống lần nữa.
 
-Hắn vẫn muốn quay lại hỏi thầy một điều. Chỉ là bây giờ hắn biết không có ai nằm sau cánh cửa ấy để mình ngồi chờ thêm. Hắn nhờ người trực mang chiếc ghế đang chắn nửa lối vào sát tường, rồi theo tới chỗ được kê cho nghỉ, không tự cúi nâng.
+Hắn nhìn chỗ chân ghế in trên nền, đã định nhờ đưa ghế về như cũ. Người trực đứng chờ, còn chiếc khăn lau sàn vắt bên miệng chậu.
+
+“Để sát tường giúp ta,” cuối cùng hắn nói.
+
+Người ấy dời ghế khỏi lối. Lâm Uyên đứng nhìn tới khi tiếng chân ghế dừng, rồi theo về chỗ nghỉ. Hắn vẫn còn câu muốn hỏi thầy; từ chiều nay, muốn tới chỗ thầy, hắn phải đi hết con đường trên tờ giấy kia.
 
 Tô Thanh Ly đặt bản chỉ đường về đúng phần giấy của hắn, sửa góc cho khỏi bị bát nước làm ẩm.
 
