@@ -59,3 +59,14 @@ RewriteLy `diagnose_text` được gọi đúng một lần trong lượt này, 
 Đã có kết quả đối hàng và người giữ cụ thể; không lặp lại như chưa tìm thấy kho hoặc chưa mở bao nào. Công giữ đã ứng tới hết ngày 19, hai bao chưa mở và chặng trước khi dỡ còn cần đối; không tự kết luận hàng bị tráo hoặc nối chúng với hòm dài. Mẫu ở kho, không ở viện. Lâm Uyên mới nhờ nhắn điều muốn học khi giám dược rảnh, chưa có giờ hẹn hay bài học đã diễn ra. Đồ riêng Mạnh Thanh Tễ, thân nhân, những vật chưa lấy lại và việc Hắc Phong Sơn tiếp tục theo trạng thái chính.
 
 [[Chương 69]] · [[Trạng Thái Truyện Sau Chương 69]] · [[Phùng Quý Lương]] · [[Lương Cảnh Thuận]] · [[Hứa Tĩnh Xuyên]] · [[REF-011-Nguồn Về Mục Tiêu Và Phản Ứng Trong Cảnh]] · [[PAT-001-Giới Hạn Làm Thay Đổi Lựa Chọn]] · [[00-MỤC LỤC XƯỞNG SÁNG TÁC]]
+
+
+## Biên tập tiếp nối Chương 68 — 2026-11-18
+
+Theo yêu cầu tiếp tục sáng tác Chương 69, biên tập bản nháp đang có, giữ các kết quả đã được Chương 70 nối tiếp. Phát triển sức ép giữa nhu cầu đòi tiền của Phùng Quý Lương, công chỗ/lối làm việc của Lương Cảnh Thuận và giới hạn chuyên môn Hứa Tĩnh Xuyên. Giảm lời kể giải thích chứng cứ khi hành động và đối thoại đã thể hiện. Phát triển phản ứng Lâm Uyên khi phải ở lại, nhận ra mình cũng suy quá điều đã biết và xin học nhìn mẫu nhỏ. Giữ vai trò Tô Thanh Ly, bản chỉ đường sau tang và cảm xúc nhẹ đi rồi khó chịu vì vừa mất thầy.
+
+Không đổi ngày18, ba bao/hai bao chưa mở, hai mẫu ngoài-sâu do Lương giữ tại kho, ba đồng giữ tới hết19, giới hạn tay/quản thúc, chỗ mẹ con theo ngày hoặc quan hệ giữa các mạng. Lời xin học cuối chương chưa thành bài học đã diễn ra. Không thêm node hoặc sự kiện cần đổi trạng thái69.
+
+Ngày 2026-11-18 mở lại bài Dale H. Emery qua Exa: https://dhemery.com/posts/2008/05/scenes-and-beats/ , đọc tối đa3.500 ký tự tới phần đầu Further reading. Dùng nguyên lý hành động-phản ứng và quyết định sau trở ngại để chỉnh cảnh kho; không ép cảnh thành tai họa hoặc sao chép tình tiết nguồn. Giữ lịch sử ngày truy cập cũ trong REF-011.
+
+RewriteLy diagnose_text gọi một lần với đoạn giữa bản nháp, trả lỗi nội bộ -32603, không có chẩn đoán dùng được. Biên tập và kiểm liên tục thực hiện trực tiếp với bản69, nguồn68 và phần nối70 đã đọc. Kiểm sự phân biệt hiểu biết Lâm Uyên nghe báo với cảnh kho Tạ Nghiên Chi chứng kiến; không cấp main quyền dự kho hoặc y thuật mới. Kiểm theo định dạng Việt đang dùng, không chạy bộ kiểm chapters/ của mẫu Novelist. Chưa có phản hồi độc giả hay phép đo hiệu quả.
