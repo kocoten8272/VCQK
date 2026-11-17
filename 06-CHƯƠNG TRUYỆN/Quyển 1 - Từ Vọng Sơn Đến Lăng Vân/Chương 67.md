@@ -10,9 +10,9 @@ tags:
 
 ## Chương 67: Chiều Trả Dao
 
-Sau bữa trưa, Lâm Uyên ngủ thiếp trên ghế kê sát hiên.
+Sau bữa trưa, Lâm Uyên ngủ thiếp trên ghế kê sát hiên. Hắn mơ hồ nghe tiếng kéo cân chạm vào nhau, đã định hỏi phần thuốc vừa cân dành cho ai, rồi tiếng động xa dần.
 
-Hắn tỉnh khi người trực kéo tấm che để nắng khỏi rọi xuống đầu gối. Tay trái còn đặt bên bát đã ăn hết, tay phải được chừa một khoảng, không để vạt áo đè lên băng. Ngoài sân có tiếng người hỏi đường tới bàn nhận việc Bùi Gia. Người làm giỏ đang đứng dưới bóng cột, chiếc bao xẹp buộc lại ngang hông; bên trong lộ đầu cán dao đã được bọc kỹ.
+Khi hắn mở mắt, người trực đang kéo tấm che để nắng khỏi rọi xuống đầu gối. Tay trái còn đặt bên bát đã ăn hết, tay phải được chừa một khoảng, không để vạt áo đè lên băng. Ngoài sân có tiếng người hỏi đường tới bàn nhận việc Bùi Gia. Người làm giỏ đang đứng dưới bóng cột, chiếc bao xẹp buộc lại ngang hông; bên trong lộ đầu cán dao đã được bọc kỹ.
 
 Lâm Uyên chống chân ngồi thẳng hơn, chờ người trực giúp dời bát rồi mới gọi.
 
@@ -22,7 +22,9 @@ Lâm Uyên chống chân ngồi thẳng hơn, chờ người trực giúp dời 
 
 Ông nói đã hỏi đường, chỉ mang phần dao và một thanh khung gãy để nhờ xem nơi có thể thay. Khung còn lại để ở chỗ khô người trực đã chỉ. Dao cũ sứt được bọc riêng, không để lẫn với món phải trả. Lúc sắp buộc miệng bao, ông mở ra lần nữa, nhìn hai đầu cán rồi mới kéo nút.
 
-Lâm Uyên đã muốn hỏi mình có đi cùng được không. Mỏi ở vai còn từ chuyến sáng; hắn nhìn phần giấy hộ tống đã được người trực cất, thôi không gọi chấp sự. Ông biết phải nói tên người cho mượn, biết chỗ bàn đã được báo để nhận, không cần hắn có mặt mới trả được một con dao.
+Lâm Uyên nhích người về mép ghế, đã định xin đi cùng. Vai nhói lên từ chỗ còn mỏi sau chuyến sáng. Hắn dừng lại, nhìn ông buộc xong miệng bao, kéo thử một lần rồi khoác lên người. Đường đã hỏi, tên người cho mượn cũng nhớ rõ; ông chỉ còn chờ hắn nói hết câu.
+
+Hắn ngồi lại.
 
 “Về tới thì cho ta biết,” hắn nói.
 
@@ -38,9 +40,21 @@ Hứa Tĩnh Xuyên hỏi hắn đã đứng chỗ nào trong viện, rồi đưa
 
 “Quế. Nồi ở gian ngoài có dùng vị này. Bên Hòa Sinh đun gì thì ta không ở đó.”
 
-Lâm Uyên nhìn mảnh vỏ cuộn, không sờ vào. Hắn hỏi có phải chỉ nghe mùi ấy là tìm đúng ngăn rồi không. Hứa Tĩnh Xuyên chỉ thẻ tên, bảo khi lấy phải đối vật và phần đã được người có nghề giao, không tự chọn theo mùi từ xa. Ông cho hắn nhìn mặt ngoài, mặt trong của mảnh mẫu, đọc lại tên một lần rồi cất hộp.
+Lâm Uyên cúi nhìn mảnh vỏ cuộn, mặt ngoài sẫm hơn phía trong. Mùi quen vừa có tên khiến hắn muốn hỏi liền mấy điều.
 
-Bài hôm nay ngắn tới mức hắn còn chưa nghĩ ra câu kế. Người giám dược đã phải trở lại gian thuốc; hắn nhận lời tiếp tục nghỉ, không xin giữ mẫu ở chỗ ăn.
+“Vậy lần sau ngửi thấy, con tìm ngăn quế là được?”
+
+Hứa Tĩnh Xuyên đặt ngón tay cạnh chiếc thẻ.
+
+“Ngửi để nhớ. Lấy thuốc thì nhìn cả vật lẫn thẻ, rồi đối phần người phụ trách đã giao.”
+
+Ông xoay mảnh mẫu cho hắn xem mặt trong. Lâm Uyên đọc tên thêm một lần, chậm hơn, nhìn kỹ chỗ mép vỏ cong vào. Khi nắp hộp khép lại, hắn mới nhận ra mình đã quen chờ một câu hỏi nữa, như những lần đứng cạnh bàn cân trước kia.
+
+Từ gian thuốc có người gọi Hứa Tĩnh Xuyên. Ông đáp, cầm hộp đứng dậy; Lâm Uyên ngẩng lên theo rồi cúi mắt, nhường lối qua chiếc ghế.
+
+“Con cảm ơn.”
+
+Hứa Tĩnh Xuyên dặn hắn nghỉ tay rồi trở vào. Hắn còn một câu chưa hỏi, nhưng lần này biết người để hỏi vẫn ở ngay gian bên.
 
 Tô Thanh Ly tới hiên, thấy hắn còn nhìn khoảng hộp vừa đặt thì ngồi xuống chiếc ghế bên cạnh. Nàng để người trực mang chén tới cho cả hai, tay phải vẫn thu yên cạnh áo.
 
@@ -48,7 +62,7 @@ Tô Thanh Ly tới hiên, thấy hắn còn nhìn khoảng hộp vừa đặt th
 
 “Quế.”
 
-Nàng gật, nhìn bóng người qua lại ở cổng. Không ai nói từ nay hắn đã biết thuốc. Nhưng khi mùi ấy lùa ra lần nữa, Lâm Uyên nhớ được hình mảnh vỏ trong hộp, cùng nét chữ trên thẻ.
+Nàng gật, nhìn bóng người qua lại ở cổng. Hắn định kể thêm mặt vỏ và cái thẻ, rồi ngừng, tự thấy chẳng có gì nhiều để kể. Tô Thanh Ly vẫn ngồi cạnh. Khi mùi thuốc lại lùa ra, hắn nhớ được mảnh vỏ cong trong hộp; lần này, cái tên đến cùng với nó.
 
 ---
 
@@ -66,7 +80,13 @@ Tên được nhắc lại cho đúng. Người trực nhận có lời dặn, g
 
 Bùi Ninh Viễn trở ra, túi dây căng còn đeo bên hông. Anh nhận đúng người, tự mở lớp vải bọc dao.
 
-Đào Thành Nghiệp nói mình đã dùng để vót phần thô, lau và bọc lại; nếu có chỗ cần đối thì xem ngay. Bùi Ninh Viễn nhìn mép, giữ cán thử trên một mảnh gỗ của bàn việc rồi cất về túi riêng. Anh nói đã nhận lại dao, nhờ người trực chốt phần nhận được báo từ trước. Con dao rời tay ông trong buổi chiều đúng hẹn.
+“Tôi dùng vót phần thô, đã lau rồi. Anh xem lại giúp.”
+
+Bùi Ninh Viễn nghiêng lưỡi dao ra ánh sáng, thử cán trên một mảnh gỗ ở bàn rồi gấp vải bọc lại.
+
+“Nhận đủ. Phiền ghi giúp ta đã lấy lại dao.”
+
+Người trực chốt phần đã được báo. Đào Thành Nghiệp nhìn con dao vào túi người cho mượn, bàn tay đang giữ miếng vải còn lại chậm rãi thả lỏng.
 
 “Khung dùng lại được chưa?” anh hỏi.
 
@@ -94,7 +114,9 @@ Người thợ dẫn ông tới góc có chỗ ngồi và đá mài, hỏi ngư�
 
 “Hai đồng, ông có sẵn phần mây. Tôi làm xong, ông thử rồi trả.”
 
-Người thuê nhận giá, để giỏ lại. Đào Thành Nghiệp không quay sang hỏi Bùi Ninh Viễn có chịu phần tiền ấy không. Ông xắn tay áo, nhúng đá, bắt đầu mài con dao của mình.
+“Được. Hai đồng.”
+
+Người thợ để giỏ lại, thu gọn dụng cụ sang bên. Đào Thành Nghiệp xắn tay áo, nhúng đá, kê con dao cũ lên mặt mài. Tiếng thép cọ đá lúc đầu ngắt quãng; ông nghiêng lưỡi, tìm lại góc tay đã quen qua bao năm làm nghề.
 
 Bùi Khánh Vân đi qua chỗ bàn khi tiếng mài vừa đều. Bà mang bọc bảng công, dừng hỏi người thợ về lượt đang làm rồi nhìn Đào Thành Nghiệp.
 
@@ -124,13 +146,15 @@ Người thuê trở lại, cúi xem một lượt rồi mang đúng những d�
 
 Người thợ nhận lời, lấy hai đồng đã hẹn đặt vào tay ông.
 
-Đào Thành Nghiệp đếm đủ rồi cất. Ông vuốt tay lên đùi áo trước khi thu dao; những vụn mây khô bám nơi ngón tay bật ra, rơi xuống cạnh ghế. Lần đầu từ lúc mái nhà đổ, ông nhận tiền vì một thứ đã làm xong, không phải đứng nhìn đồ mình còn thiếu được ghi thêm.
+Đào Thành Nghiệp đếm, ngón cái đẩy hai đồng tiền sát nhau. Ông định cất vào bao cùng dao, lại lấy ra, buộc riêng trong góc vải rồi mới bỏ xuống đáy. Đứng lên, ông còn ngoái nhìn chiếc quai người thợ đang xách, tới khi giỏ được đặt yên mới cúi thu những đầu mây thừa.
+
+Hai đồng. Ông nhẩm lại giá công đã nói lúc bắt đầu, thấy cổ họng mình bớt khô.
 
 Bùi Ninh Viễn hỏi ngày mai có thể tìm ông ở đâu nếu có người cần sửa giỏ. Đào Thành Nghiệp nói ban ngày mình còn tới chỗ chờ nhận đồ ở viện, nhưng giỏ mới chưa nhận làm được, chỉ việc sửa nào xem được mới nhận.
 
 “Ta sẽ nói đúng phần đó,” anh đáp.
 
-Đào Thành Nghiệp gói dao cũ vào lớp vải của mình. Ông cảm ơn chỗ mài, nhặt hết đầu mây còn dùng, quét phần vụn về nơi người giữ sân chỉ. Thanh khung gãy vẫn đi cùng bao lúc ra cửa. Không ai giữ nó lại để gọi là đã sửa, ông cũng không bỏ nó ở đây thay một lời đòi hỏi về căn nhà cũ.
+Đào Thành Nghiệp gói dao cũ vào lớp vải của mình. Ông cảm ơn chỗ mài, nhặt hết đầu mây còn dùng, quét phần vụn về nơi người giữ sân chỉ. Thanh khung gãy vẫn cấn bên hông khi ông ra cửa. Ông dừng dưới mái, đổi chiều đặt nó trong bao, giữ đầu gãy khỏi chọc rách lớp vải.
 
 Người thợ thuê quai xách giỏ đi phía trước. Qua bậc, ông ta đổi tay một lần, quai mới vẫn nằm yên ở chỗ đã buộc.
 
@@ -144,23 +168,29 @@ Lâm Uyên nhận ra người làm giỏ trở lại khi nắng chỉ còn ở m
 
 “Vá được một quai giỏ,” ông nói. “Chưa làm được giỏ mới.”
 
-Hai đồng tiền được lấy ra, sau cất ngay lại. Ông kể ngắn chuyện người thợ thuê, chỗ mài và phần mây được đưa; tới đoạn Bùi Ninh Viễn giữ đầu giỏ, ông dùng tay chỉ chỗ ấy trên khoảng trống trước mặt. Lâm Uyên không nhìn thấy buổi làm, chỉ nghe rõ phần đã được nhận công. Người trực xin ông ngồi đợi để dời khung khỏi chỗ chuẩn bị đặt cáng, ông tự chọn mang sang góc khô cũ.
+Ông mở góc vải, cho hắn nhìn hai đồng rồi cất lại. Chuyện kể đến chỗ Bùi Ninh Viễn giữ đầu giỏ, ông khum tay trước bụng, chỉ nơi phải tì cho vành khỏi méo.
 
-Tô Thanh Ly hỏi nơi ông chờ có đủ sáng để sửa những món nhỏ không. Ông nói ban ngày còn được, tối chưa muốn nhận vì dễ hỏng cả nan người ta đem. Nàng nhờ người trực giữ giúp phần chỉ đường tới nơi thay cạnh khung, không nhận viện sẽ trả khoản ấy hoặc đã có người thuê việc tiếp.
+“Cậu ấy giữ yên được. Không kéo mạnh.”
+
+Lâm Uyên nhìn hai bàn tay chai đang giữ một chiếc giỏ vô hình. Suốt mấy hôm ở viện, hắn quen thấy chúng ôm khung gãy hoặc buộc lại miệng bao; chiều nay chúng chỉ cho hắn cách làm một món đồ dùng được. Người trực xin ông ngồi đợi để dời khung khỏi chỗ chuẩn bị đặt cáng, ông tự chọn mang sang góc khô cũ.
+
+Tô Thanh Ly hỏi nơi ông chờ có đủ sáng để sửa những món nhỏ không. Ông nói ban ngày còn được, tối chưa muốn nhận vì dễ hỏng cả nan người ta đem. Nàng nhờ người trực giữ giúp phần chỉ đường tới nơi thay cạnh khung, để lúc cần ông còn hỏi được.
 
 “Tiền này đủ thay khung không?” Lâm Uyên hỏi.
 
 “Chưa hỏi giá. Ta phải mang đúng khung tới cho người làm xem.”
 
-Ông buộc phần tiền vào một túi nhỏ trong bao, chừa riêng con dao. Hắn nhìn động tác ấy, nhớ chiếc bao đã từng được giũ trước mặt mọi người ở nhà trú. Hôm nay nó vẫn có phần gỗ gãy, vẫn chưa đủ một nghề trở lại như trước; bàn tay giữ miệng bao đã có thể buộc thêm một món ông tự kiếm được.
+Ông buộc phần tiền vào một túi nhỏ trong bao, chừa riêng con dao. Hắn nhìn động tác ấy, nhớ chiếc bao đã từng được giũ trước mặt mọi người ở nhà trú. Thanh khung vẫn nhô khỏi miệng bao. Bên dưới nó, góc vải đựng tiền đã được buộc chặt; ông sờ qua nút ấy một lần trước khi quay sang hỏi người giữ đồ.
 
 Đào Thành Nghiệp hỏi nếu ngày mai có người ở viện cần sửa giỏ thì phải tìm ai để nhận đúng việc. Tô Thanh Ly chỉ người đang giữ đồ, bảo hỏi chính người ấy trước, không đem mọi món thấy hỏng ở sân ra làm rồi chờ viện trả. Ông nhận, chào người giữ đồ và hỏi lúc nào có thể xem. Người ấy bảo đã hết lượt chuyển hôm nay, sáng mai lúc rảnh sẽ cho nhìn phần cần xem, giá và việc có nhận hay không còn phải nói sau.
 
-Lâm Uyên không hứa thay.
+Lâm Uyên nghe ông nhắc lại giờ sáng mai, nhớ chiều nay mình cũng vừa chờ một người có nghề rảnh tay. Hắn kéo chân ghế vào để người mang khay qua.
 
 Qua cửa gian bệnh có tiếng Hồ Nhuận Chi hỏi ai đã về. Người trực tới đáp người làm giỏ đã trả dao, có một món sửa được nhận công. Bà nhờ khi dời đồ cứ để giỏ áo của mình ở chỗ đã biết, rồi hỏi gói kim có tin gì chưa. Người trực nói phần nhờ tìm vẫn còn, chưa có món ấy được đưa về.
 
-Ông đứng ngoài cửa chào, không vào sát giường để kể hết ngày mình. Bà hỏi có lấy lại khung chưa, nghe phần gãy rồi im một lúc, sau mới bảo giữ thanh còn dùng cho khô. Đào Thành Nghiệp đáp đã giữ. Hai người chưa có một lời nào đủ làm căn nhà đổ bớt nặng; họ vẫn hỏi tới đúng món của nhau.
+Ông đứng ngoài cửa chào, không vào sát giường để kể hết ngày mình. Bà hỏi có lấy lại khung chưa, nghe phần gãy rồi im một lúc, sau mới bảo giữ thanh còn dùng cho khô. “Tôi kê lên rồi,” Đào Thành Nghiệp đáp. “Không để sát chỗ nước.”
+
+Từ trong giường, Hồ Nhuận Chi ừ khẽ. Ông đứng thêm một lát, sau nhường cửa cho người trực mang nước vào.
 
 Người trực trở lại dặn Lâm Uyên nghỉ tay. Hắn nhận chén bằng trái, uống rồi để xuống ngay, không giữ cho tới lúc mỏi. Ở gian thuốc, Hứa Tĩnh Xuyên còn đang đối lượt cuối; hắn không gọi. Mảnh vỏ quế đã ở lại hộp của người có nghề, cái tên ở lại trong trí nhớ hắn.
 
